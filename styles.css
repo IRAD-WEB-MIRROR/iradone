@@ -287,6 +287,15 @@ nav ul li a {
   display: none; /* Hidden by default */
 }
 
+.live-note {
+  margin: -8px 0 20px;
+  font-size: 0.95rem;
+}
+
+.live-note.off-air {
+  color: #555;
+}
+
 /* Video Grid */
 .video-grid {
   display: grid;

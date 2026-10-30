@@ -236,6 +236,76 @@
     };
   }
 
+  // ---------- on air / off air ----------
+
+  // What the channel is doing at a moment: { on: slot } while a programme runs, or { off: true, resume: slot }
+  // between Sign Off and the next Sign On (overnight, Irad Time).
+  function airState(data, nowMs) {
+    var bt = broadcastToday(nowMs), day = buildDay(data, bt.date), slots = day.slots;
+    for (var i = 0; i < slots.length; i++) {
+      if (bt.minute >= slots[i].start && bt.minute < slots[i].end) return { on: slots[i], date: day.date };
+    }
+    if (slots.length && bt.minute < slots[0].start) return { off: true, resume: slots[0] };
+    var next = buildDay(data, addDays(bt.date, 1)).slots[0];
+    return { off: true, resume: next };
+  }
+
+  // The test card shown in the Live TV player overnight. It is only a picture: a click still plays the video,
+  // and nothing else on the page changes.
+  function testCard(irtMin, resume) {
+    var bars = ["#c0c0c0", "#c0c000", "#00c0c0", "#00c000", "#c000c0", "#c00000", "#0000c0"], w = 1280 / 7, r = [];
+    bars.forEach(function (c, i) { r.push('<rect x="' + (i * w).toFixed(1) + '" y="0" width="' + (w + 1).toFixed(1) + '" height="520" fill="' + c + '"/>'); });
+    ["#0000c0", "#131313", "#c000c0", "#131313", "#00c0c0", "#131313", "#c0c0c0"].forEach(function (c, i) {
+      r.push('<rect x="' + (i * w).toFixed(1) + '" y="520" width="' + (w + 1).toFixed(1) + '" height="60" fill="' + c + '"/>');
+    });
+    ["#00214c", "#ffffff", "#32006a", "#131313", "#090909", "#131313", "#1d1d1d", "#131313"].forEach(function (c, i) {
+      r.push('<rect x="' + (i * 160) + '" y="580" width="161" height="140" fill="' + c + '"/>');
+    });
+    var t = fmtMin(irtMin);
+    var svg = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">' + r.join("") +
+      '<circle cx="640" cy="300" r="190" fill="#111" stroke="#fff" stroke-width="6"/>' +
+      '<line x1="450" y1="300" x2="830" y2="300" stroke="#fff" stroke-width="2" opacity=".5"/>' +
+      '<line x1="640" y1="110" x2="640" y2="490" stroke="#fff" stroke-width="2" opacity=".5"/>' +
+      '<rect x="470" y="232" width="340" height="72" fill="#111"/>' +
+      '<text x="640" y="290" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="64" font-weight="bold" fill="#fff">IradOne</text>' +
+      '<rect x="520" y="318" width="240" height="56" fill="#111"/>' +
+      '<text x="640" y="362" text-anchor="middle" font-family="Courier New,monospace" font-size="46" fill="#ffd200">' + t + ' IRT</text>' +
+      '<rect x="300" y="646" width="680" height="52" fill="#000"/>' +
+      '<text x="640" y="682" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="28" fill="#fff">Programmes resume at ' + (resume ? resume.time : "05:55") + ' Irad Time</text></svg>';
+    return "data:image/svg+xml;charset=utf-8," + encodeURIComponent(svg);
+  }
+
+  function liveCard(data) {
+    var thumb = document.getElementById("video-thumbnail");
+    if (!thumb) return;
+    var orig = thumb.getAttribute("src"), origAlt = thumb.getAttribute("alt"), note = document.getElementById("live-note");
+    if (!note) {
+      note = el("p", "live-note"); note.id = "live-note";
+      var box = thumb.closest(".video-container");
+      box.parentNode.insertBefore(note, box.nextSibling);
+    }
+    function tick() {
+      var st = airState(data), irt = nowIrt(), m = irt.getUTCHours() * 60 + irt.getUTCMinutes();
+      note.innerHTML = "";
+      if (st.off) {
+        thumb.src = testCard(m, st.resume);
+        thumb.alt = "IradOne test card: the channel is off the air";
+        note.className = "live-note off-air";
+        note.appendChild(el("strong", null, "Off the air. "));
+        note.appendChild(document.createTextNode("IradOne closes down overnight. It is " + fmtMin(m) + " in Talas; programmes resume at " +
+          (st.resume ? st.resume.time + " with " + st.resume.title : "05:55") + ". Earlier programmes are below, and the news is always on the site."));
+      } else {
+        if (thumb.getAttribute("src") !== orig) { thumb.src = orig; thumb.alt = origAlt; }
+        note.className = "live-note";
+        note.appendChild(el("span", "on-now-badge", "On now"));
+        note.appendChild(el("strong", null, " " + st.on.title));
+        note.appendChild(document.createTextNode(" · " + st.on.time + "–" + fmtMin(st.on.end) + " Irad Time"));
+      }
+    }
+    tick();
+    setInterval(tick, 60000);
+  }
+
   // ---------- page ----------
 
   function el(tag, cls, text) {
@@ -353,7 +423,7 @@
     Promise.all([getJson(src), newsUrl ? getJson(newsUrl).catch(function () { return []; }) : [], sportReady()])
       .then(function (res) {
         if (root.hasAttribute("data-airings")) renderAirings(root, res[0], res[1], root.getAttribute("data-airings"));
-        else render(root, res[0], res[1], root.getAttribute("data-links"));
+        else { render(root, res[0], res[1], root.getAttribute("data-links")); liveCard(res[0]); }
       })
       .catch(function (err) {
         var body = root.querySelector(".schedule-day tbody, .airings-list");
@@ -366,7 +436,7 @@
     Array.prototype.forEach.call(document.querySelectorAll("[data-schedule], [data-airings]"), mount);
   }
 
-  global.IradSchedule = { buildDay: buildDay, broadcastToday: broadcastToday, easterSunday: easterSunday,
+  global.IradSchedule = { buildDay: buildDay, broadcastToday: broadcastToday, airState: airState, easterSunday: easterSunday,
                           parseYmd: parseYmd, addDays: addDays, ymd: ymd, airingsSince: airingsSince };
   if (typeof document !== "undefined") {
     if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init);
