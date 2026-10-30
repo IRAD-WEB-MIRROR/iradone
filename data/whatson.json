@@ -1,0 +1,510 @@
+{
+ "updated": "2026-10-30",
+ "events": [
+  {
+   "id": "palace-autumn-2026",
+   "kind": "exhibition",
+   "date": "2026-10-01",
+   "end": "2027-01-31",
+   "title": {
+    "en": "Autumn exhibitions: Serik Amanov, Layla Tursynova, Arman Kadir, Aisulu Yermek",
+    "ru": "Осенние выставки: Серик Аманов, Лейла Турсынова, Арман Кадир, Айсулу Ермек"
+   },
+   "venue": "Irad Palace of Art",
+   "city": "Iyık Janyl",
+   "city_ru": "Ыйык-Жаныл",
+   "url": "https://iradpalaceof.art/exhibitions.html",
+   "price": "150 som",
+   "note": {
+    "en": "Mountains and Dreams, Threads of History, History in Bronze and Modern Rhythms. Closed 14 November."
+   },
+   "tulpar": "palaceofart"
+  },
+  {
+   "id": "league-2026-r27-2",
+   "kind": "match",
+   "date": "2026-10-31",
+   "time": "17:00",
+   "title": {
+    "en": "Irad League: Temirjolchu Nurzhan v Naryn Tash-Kömür",
+    "ru": "Лига Ирада: Темиржолчу Нуржан — Нарын Таш-Кумыр",
+    "ir": "Irad League: Temirjolchu Nurzhan – Naryn Tash-Kömür"
+   },
+   "venue": "Lokomotiv Stadium",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://iradleague.com/fixtures.html#r27",
+   "tulpar": "iradleague"
+  },
+  {
+   "id": "league-2026-r27-3",
+   "kind": "match",
+   "date": "2026-10-31",
+   "time": "17:00",
+   "title": {
+    "en": "Irad League: Attelkom Talas v Kara-Buura",
+    "ru": "Лига Ирада: Аттелком Талас — Кара-Буура",
+    "ir": "Irad League: Attelkom Talas – Kara-Buura"
+   },
+   "venue": "Attelkom Park",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://iradleague.com/fixtures.html#r27",
+   "tulpar": "iradleague"
+  },
+  {
+   "id": "league-2026-r27-4",
+   "kind": "match",
+   "date": "2026-10-31",
+   "time": "17:00",
+   "title": {
+    "en": "Irad League: FC Iyık Janyl v Universitet Talas",
+    "ru": "Лига Ирада: ФК «Ийык Джаныл» — Университет Талас",
+    "ir": "Irad League: FC Iyık Janyl – Universitet Talas"
+   },
+   "venue": "Iyık Janyl City Stadium",
+   "city": "Iyık Janyl",
+   "city_ru": "Ийык Джаныл",
+   "url": "https://iradleague.com/fixtures.html#r27",
+   "tulpar": "iradleague"
+  },
+  {
+   "id": "league-2026-r27-5",
+   "kind": "match",
+   "date": "2026-10-31",
+   "time": "17:00",
+   "title": {
+    "en": "Irad League: Surma Chatkal v Dastgoh Nurzhan",
+    "ru": "Лига Ирада: Сурма Чаткал — Дастгох Нуржан",
+    "ir": "Irad League: Surma Chatkal – Dastgoh Nurzhan"
+   },
+   "venue": "Kombinat Stadium",
+   "city": "Chatkal (Sary-Bulak District)",
+   "city_ru": "Чаткал (Сары-Булакский район)",
+   "url": "https://iradleague.com/fixtures.html#r27",
+   "tulpar": "iradleague"
+  },
+  {
+   "id": "league-2026-r27-1",
+   "kind": "match",
+   "date": "2026-10-31",
+   "time": "18:00",
+   "title": {
+    "en": "Irad League: Neftchi Nurzhan v Tulpar Talas",
+    "ru": "Лига Ирада: Нефтчи Нуржан — Тулпар Талас",
+    "ir": "Irad League: Neftchi Nurzhan – Tulpar Talas"
+   },
+   "venue": "NurGaz Stadium",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://iradleague.com/fixtures.html#r27",
+   "tulpar": "iradleague"
+  },
+  {
+   "id": "tsu-evening-courses-2026",
+   "kind": "other",
+   "date": "2026-11-01",
+   "title": {
+    "en": "TSU evening courses: last day of enrolment",
+    "ru": "Вечерние курсы ТГУ: последний день записи"
+   },
+   "venue": "Talas State University, Building 3, room 104",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talasuniversity.org/news/",
+   "tulpar": "tsu"
+  },
+  {
+   "id": "first-2026-11-01-karabulak",
+   "kind": "match",
+   "date": "2026-11-01",
+   "time": "15:00",
+   "title": {
+    "en": "First League: Kara-Bulak v Bazar-Korgon",
+    "ru": "Первая лига: Кара-Булак — Базар-Коргон"
+   },
+   "venue": "Kara-Bulak ground",
+   "city": "Kara-Bulak",
+   "city_ru": "Кара-Булак",
+   "url": "https://iradleague.com/first-league.html"
+  },
+  {
+   "id": "first-2026-11-01-navbahor",
+   "kind": "match",
+   "date": "2026-11-01",
+   "time": "15:00",
+   "title": {
+    "en": "First League: Navbahor Nurzhan v Besh-Terek",
+    "ru": "Первая лига: Навбахор Нуржан — Беш-Терек"
+   },
+   "venue": "Navbahor Nurzhan ground",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://iradleague.com/first-league.html"
+  },
+  {
+   "id": "first-2026-11-01-politekhnik",
+   "kind": "match",
+   "date": "2026-11-01",
+   "time": "15:00",
+   "title": {
+    "en": "First League: Politekhnik Nurzhan v Toktogul",
+    "ru": "Первая лига: Политехник Нуржан — Токтогул"
+   },
+   "venue": "Politekhnik Nurzhan ground",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://iradleague.com/first-league.html"
+  },
+  {
+   "id": "first-2026-11-01-semiz",
+   "kind": "match",
+   "date": "2026-11-01",
+   "time": "15:00",
+   "title": {
+    "en": "First League: Deportivo Semiz v Akademiya Talas",
+    "ru": "Первая лига: «Депортиво» Семиз — Академия Талас"
+   },
+   "venue": "Deportivo Semiz ground",
+   "city": "Semiz, Talas",
+   "city_ru": "Семиз, Талас",
+   "url": "https://iradleague.com/first-league.html"
+  },
+  {
+   "id": "church-2026-11-02",
+   "kind": "feast",
+   "date": "2026-11-02",
+   "title": {
+    "en": "All Souls",
+    "ru": "День поминовения усопших"
+   },
+   "venue": "Cathedral of St. Janyl",
+   "city": "Iyık Janyl",
+   "city_ru": "Ыйык-Жаныл",
+   "url": "https://saintjanyl.org/calendar.html",
+   "note": {
+    "en": "Holy Qurbana for the faithful departed at 9:30, then prayers at the historic cemetery."
+   },
+   "tulpar": "saintjanyl"
+  },
+  {
+   "id": "koch-eu-talas-1106",
+   "kind": "concert",
+   "date": "2026-11-06",
+   "time": "19:00",
+   "title": {
+    "en": "Eski Ün",
+    "ru": "Eski Ün",
+    "ir": "Eski Ün"
+   },
+   "who": "Eski Ün",
+   "venue": "Chaikhana Bakyt, Bazar-i Kalan",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://kochaudio.online/#live",
+   "price": "150 som",
+   "note": {
+    "en": "Tickets at the door."
+   },
+   "tulpar": "kochaudio"
+  },
+  {
+   "id": "cup-2026-11-07-neftchi",
+   "kind": "match",
+   "date": "2026-11-07",
+   "time": "14:00",
+   "title": {
+    "en": "Irad Cup final: Neftchi Nurzhan v Attelkom Talas",
+    "ru": "Финал Кубка Ирада: Нефтчи Нуржан — Аттелком Талас",
+    "ir": "Irad Cup final: Neftchi Nurzhan – Attelkom Talas"
+   },
+   "venue": "Silk Road Arena",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://iradleague.com/cup.html",
+   "tulpar": "iradleague"
+  },
+  {
+   "id": "tsu-lecture-glaciers-1112",
+   "kind": "lecture",
+   "date": "2026-11-12",
+   "time": "15:00",
+   "title": {
+    "en": "Open lecture: the Manas glaciers after a warm summer",
+    "ru": "Открытая лекция: ледники Манаса после тёплого лета"
+   },
+   "who": "Prof. Nazira Isaeva",
+   "venue": "Talas State University, Main building, Hall 214",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talasuniversity.org/news/",
+   "price": "free",
+   "tulpar": "tsu"
+  },
+  {
+   "id": "church-2026-11-14",
+   "kind": "feast",
+   "date": "2026-11-14",
+   "title": {
+    "en": "Commemoration of the victims of 1937",
+    "ru": "День памяти жертв 1937 года"
+   },
+   "venue": "Cathedral of St. Janyl",
+   "city": "Iyık Janyl",
+   "city_ru": "Ыйык-Жаныл",
+   "url": "https://saintjanyl.org/calendar.html",
+   "note": {
+    "en": "Memorial Holy Qurbana at 9:30. The names of clergy and laity taken from the diocese in 1937–38 are read in full."
+   },
+   "tulpar": "saintjanyl"
+  },
+  {
+   "id": "koch-am-nurzhan-1114",
+   "kind": "concert",
+   "date": "2026-11-14",
+   "time": "14:00",
+   "title": {
+    "en": "Altyn Muuz",
+    "ru": "Altyn Muuz",
+    "ir": "Altyn Muuz"
+   },
+   "who": "Altyn Muuz",
+   "venue": "Toikana Bereke, Navbahor",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://kochaudio.online/#live",
+   "price": "200 som",
+   "note": {
+    "en": "Tickets at the door."
+   },
+   "tulpar": "kochaudio"
+  },
+  {
+   "id": "church-2026-11-20",
+   "kind": "feast",
+   "date": "2026-11-20",
+   "title": {
+    "en": "Yuhanna of Merv",
+    "ru": "Память Юханны Мервского"
+   },
+   "venue": "Cathedral of St. Janyl",
+   "city": "Iyık Janyl",
+   "city_ru": "Ыйык-Жаныл",
+   "url": "https://saintjanyl.org/calendar.html",
+   "note": {
+    "en": "Commemoration of the monk who, by tradition, built the first house of prayer in the Talas valley."
+   },
+   "tulpar": "saintjanyl"
+  },
+  {
+   "id": "koch-kb-talas-1120",
+   "kind": "concert",
+   "date": "2026-11-20",
+   "time": "20:00",
+   "title": {
+    "en": "Kök Bel",
+    "ru": "Kök Bel",
+    "ir": "Kök Bel"
+   },
+   "who": "Kök Bel",
+   "venue": "Club Doran",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://kochaudio.online/#live",
+   "price": "300 som",
+   "note": {
+    "en": "Tickets at the door."
+   },
+   "tulpar": "kochaudio"
+  },
+  {
+   "id": "tsu-komuz-final-1126",
+   "kind": "concert",
+   "date": "2026-11-26",
+   "time": "17:00",
+   "title": {
+    "en": "National komuz contest: the final",
+    "ru": "Республиканский конкурс комузистов: финал"
+   },
+   "venue": "Talas State University, Faculty of Arts and Music, concert hall",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talasuniversity.org/news/",
+   "price": "free",
+   "tulpar": "tsu"
+  },
+  {
+   "id": "tsu-lecture-1916-1203",
+   "kind": "lecture",
+   "date": "2026-12-03",
+   "time": "15:00",
+   "title": {
+    "en": "Open lecture: the 1916 revolt in the northern valleys, new sources",
+    "ru": "Открытая лекция: восстание 1916 года в северных долинах, новые источники"
+   },
+   "who": "Prof. Asel Toktogulova",
+   "venue": "Talas State University, Main building, Hall 214",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talasuniversity.org/news/",
+   "price": "free",
+   "tulpar": "tsu"
+  },
+  {
+   "id": "tsu-open-day-1205",
+   "kind": "other",
+   "date": "2026-12-05",
+   "time": "10:00",
+   "title": {
+    "en": "TSU open day for applicants",
+    "ru": "День открытых дверей ТГУ для абитуриентов"
+   },
+   "venue": "Talas State University, Main building",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talasuniversity.org/admission/",
+   "price": "free",
+   "tulpar": "tsu"
+  },
+  {
+   "id": "koch-tt-nurzhan-1212",
+   "kind": "concert",
+   "date": "2026-12-12",
+   "time": "20:00",
+   "title": {
+    "en": "tüntolk with Eski Ün",
+    "ru": "tüntolk и Eski Ün",
+    "ir": "tüntolk with Eski Ün"
+   },
+   "who": "tüntolk",
+   "venue": "Kotelnaya, Dastgoh",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://kochaudio.online/#live",
+   "price": "250 som",
+   "note": {
+    "en": "Tickets at the door. Permit pending."
+   },
+   "tulpar": "kochaudio"
+  },
+  {
+   "id": "tsu-new-year-concert-1217",
+   "kind": "concert",
+   "date": "2026-12-17",
+   "time": "16:00",
+   "title": {
+    "en": "New Year concert: TSU student choir and komuz ensemble",
+    "ru": "Новогодний концерт: студенческий хор и ансамбль комузистов ТГУ"
+   },
+   "venue": "Talas State University, Faculty of Arts and Music, concert hall",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talasuniversity.org/news/",
+   "price": "free",
+   "tulpar": "tsu"
+  },
+  {
+   "id": "church-2026-12-25",
+   "kind": "feast",
+   "date": "2026-12-25",
+   "title": {
+    "en": "Yalda, the Nativity of Our Lord",
+    "ru": "Ялда, Рождество Христово"
+   },
+   "venue": "Cathedral of St. Janyl",
+   "city": "Iyık Janyl",
+   "city_ru": "Ыйык-Жаныл",
+   "url": "https://saintjanyl.org/calendar.html",
+   "note": {
+    "en": "Night Qurbana on the 24th at 23:00; Solemn Holy Qurbana at 9:30 on the 25th."
+   },
+   "tulpar": "saintjanyl"
+  },
+  {
+   "id": "church-2027-01-06",
+   "kind": "feast",
+   "date": "2027-01-06",
+   "title": {
+    "en": "Denha, the Epiphany",
+    "ru": "Денха, Богоявление"
+   },
+   "venue": "Cathedral of St. Janyl",
+   "city": "Iyık Janyl",
+   "city_ru": "Ыйык-Жаныл",
+   "url": "https://saintjanyl.org/calendar.html",
+   "note": {
+    "en": "Blessing of the waters at the Naryn after the 9:30 Qurbana. Bring a vessel for water to take home."
+   },
+   "tulpar": "saintjanyl"
+  },
+  {
+   "id": "koch-ch-iyik-0109",
+   "kind": "concert",
+   "date": "2027-01-09",
+   "time": "18:00",
+   "title": {
+    "en": "Cathedral Choir of St. Janyl",
+    "ru": "Cathedral Choir of St. Janyl",
+    "ir": "Cathedral Choir of St. Janyl"
+   },
+   "who": "Cathedral Choir of St. Janyl",
+   "venue": "Irad Palace of Art, concert hall",
+   "city": "Iyık Janyl",
+   "city_ru": "Ыйык-Жаныл",
+   "url": "https://kochaudio.online/#live",
+   "price": "150 som",
+   "note": {
+    "en": "Tickets at the door."
+   },
+   "tulpar": "kochaudio"
+  },
+  {
+   "id": "church-2027-01-18",
+   "kind": "feast",
+   "date": "2027-01-18",
+   "end": "2027-01-20",
+   "title": {
+    "en": "Ninevi Savmasy, the Rogation of the Ninevites",
+    "ru": "Ниневи савмасы, пост ниневитян"
+   },
+   "venue": "Cathedral of St. Janyl",
+   "city": "Iyık Janyl",
+   "city_ru": "Ыйык-Жаныл",
+   "url": "https://saintjanyl.org/calendar.html",
+   "note": {
+    "en": "Three days of fasting and prayer."
+   },
+   "tulpar": "saintjanyl"
+  },
+  {
+   "id": "church-2027-02-08",
+   "kind": "feast",
+   "date": "2027-02-08",
+   "title": {
+    "en": "Uluu Savma, the Great Fast, begins",
+    "ru": "Начало Великого поста (Улуу савма)"
+   },
+   "venue": "Cathedral of St. Janyl",
+   "city": "Iyık Janyl",
+   "city_ru": "Ыйык-Жаныл",
+   "url": "https://saintjanyl.org/calendar.html",
+   "tulpar": "saintjanyl"
+  },
+  {
+   "id": "palace-young-artists-2027",
+   "kind": "exhibition",
+   "date": "2027-02-12",
+   "end": "2027-03-28",
+   "title": {
+    "en": "Young Artists Grant 2027: the winners' exhibition",
+    "ru": "Грант молодым художникам 2027: выставка победителей"
+   },
+   "venue": "Irad Palace of Art",
+   "city": "Iyık Janyl",
+   "city_ru": "Ыйык-Жаныл",
+   "url": "https://iradpalaceof.art/young-artists.html",
+   "price": "150 som",
+   "tulpar": "palaceofart"
+  }
+ ]
+}
