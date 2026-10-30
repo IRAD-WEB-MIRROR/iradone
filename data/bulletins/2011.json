@@ -1,0 +1,328 @@
+{
+ "outlet": "iradone",
+ "year": 2011,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:16Z",
+ "items": [
+  {
+   "date": "2011-01-04",
+   "section": "Society",
+   "headline": "Talas Marks Orthodox Christmas Services Across the Cities"
+  },
+  {
+   "date": "2011-01-06",
+   "section": "Society",
+   "headline": "Nativity Liturgy at St. Janyl Draws Record Pilgrims"
+  },
+  {
+   "date": "2011-01-11",
+   "section": "Weather",
+   "headline": "Cold Snap Brings Minus 28 to Talas Alatau Foothills"
+  },
+  {
+   "date": "2011-01-14",
+   "section": "Economy",
+   "headline": "Iradenergo Reports Steady Winter Supply from Toktogul"
+  },
+  {
+   "date": "2011-01-19",
+   "section": "Society",
+   "headline": "Epiphany Water Blessing Held Along the Talas River"
+  },
+  {
+   "date": "2011-01-24",
+   "section": "Politics",
+   "headline": "Mejlis Provisional Chamber Opens Final Winter Session"
+  },
+  {
+   "date": "2011-01-28",
+   "section": "Society",
+   "headline": "Business Leaders Greet Kamran Bekzatov on His Sixtieth Birthday"
+  },
+  {
+   "date": "2011-02-03",
+   "section": "Society",
+   "headline": "Nation Lowers Flags for Winter Uprising Memorial"
+  },
+  {
+   "date": "2011-02-09",
+   "section": "Economy",
+   "headline": "Ministry Reports Bread Prices Steady Through Winter"
+  },
+  {
+   "date": "2011-02-15",
+   "section": "Regional",
+   "headline": "Heating Season Holds in Nurzhan as Boiler Upgrades Continue"
+  },
+  {
+   "date": "2011-02-18",
+   "section": "Society",
+   "headline": "Students Mark Dress Day in Traditional Chapan"
+  },
+  {
+   "date": "2011-02-23",
+   "section": "Sport",
+   "headline": "Irad Cup Draw Held at Federation Headquarters in Talas"
+  },
+  {
+   "date": "2011-03-01",
+   "section": "Politics",
+   "headline": "Election Commission Opens Registration for November Vote"
+  },
+  {
+   "date": "2011-03-08",
+   "section": "Society",
+   "headline": "Women's Day Flowers and Concerts Fill Talas Squares"
+  },
+  {
+   "date": "2011-03-11",
+   "section": "Politics",
+   "headline": "Irad Day Parade Crosses Central Square in Talas"
+  },
+  {
+   "date": "2011-03-11",
+   "section": "Society",
+   "headline": "Governor Congratulates Citizens on Irad Day"
+  },
+  {
+   "date": "2011-03-17",
+   "section": "Agriculture",
+   "headline": "Chu Farmers Begin Early Spring Sowing"
+  },
+  {
+   "date": "2011-03-24",
+   "section": "Culture",
+   "headline": "Philharmonic Spring Season Opens with Folk Programme"
+  },
+  {
+   "date": "2011-04-02",
+   "section": "Economy",
+   "headline": "NurGaz Reports Strong First-Quarter Crude Output"
+  },
+  {
+   "date": "2011-04-08",
+   "section": "Sport",
+   "headline": "Irad League Season Kicks Off with Derby Preview"
+  },
+  {
+   "date": "2011-04-14",
+   "section": "Weather",
+   "headline": "Spring Floods Watched on Talas River Tributaries"
+  },
+  {
+   "date": "2011-04-24",
+   "section": "Society",
+   "headline": "Easter Dawn Liturgy Held in Churches of Three Cities"
+  },
+  {
+   "date": "2011-04-30",
+   "section": "Agriculture",
+   "headline": "State Stud Farm Welcomes First Foals of the Year"
+  },
+  {
+   "date": "2011-05-05",
+   "section": "Politics",
+   "headline": "Parties Act Registration Closes for Remaining Applicants"
+  },
+  {
+   "date": "2011-05-12",
+   "section": "Regional",
+   "headline": "Road Repairs Begin on Trans-Talas Highway"
+  },
+  {
+   "date": "2011-05-19",
+   "section": "Politics",
+   "headline": "Government Regrets Tribal Walkout at Kara-Oi Talks"
+  },
+  {
+   "date": "2011-05-27",
+   "section": "Culture",
+   "headline": "Talas Film Archive Screens Restored Soviet Classics"
+  },
+  {
+   "date": "2011-06-01",
+   "section": "Society",
+   "headline": "Children's Fund Holds Fair in Central City Park"
+  },
+  {
+   "date": "2011-06-09",
+   "section": "Economy",
+   "headline": "Attelkom Extends Fibre Network to Talas Suburbs"
+  },
+  {
+   "date": "2011-06-15",
+   "section": "Agriculture",
+   "headline": "Early Hay Harvest Begins in Talas Valley"
+  },
+  {
+   "date": "2011-06-22",
+   "section": "Sport",
+   "headline": "Tulpar Talas Leads Table at Midseason"
+  },
+  {
+   "date": "2011-06-30",
+   "section": "Education",
+   "headline": "TSU Graduates Receive Diplomas at Open-Air Ceremony"
+  },
+  {
+   "date": "2011-07-07",
+   "section": "Weather",
+   "headline": "Heat Wave Pushes Nurzhan Past 38 Degrees"
+  },
+  {
+   "date": "2011-07-14",
+   "section": "Regional",
+   "headline": "Toktogul Water Level Improves After Wet Spring"
+  },
+  {
+   "date": "2011-07-20",
+   "section": "Economy",
+   "headline": "Talasbank Opens New Branch in Iyik Janyl"
+  },
+  {
+   "date": "2011-07-28",
+   "section": "Society",
+   "headline": "Memorial Cairn Visited on Anniversary of Kobozev Railhead"
+  },
+  {
+   "date": "2011-08-04",
+   "section": "Agriculture",
+   "headline": "Wheat Harvest Under Way on Virgin Lands Farms"
+  },
+  {
+   "date": "2011-08-12",
+   "section": "Culture",
+   "headline": "Altyn-Zhylky Nominations Announced for December Ceremony"
+  },
+  {
+   "date": "2011-08-15",
+   "section": "Society",
+   "headline": "Remembrance Held for the Lost Tribes of 1916"
+  },
+  {
+   "date": "2011-08-24",
+   "section": "Society",
+   "headline": "Feast of St. Janyl Draws Thousands to Iyik Janyl"
+  },
+  {
+   "date": "2011-09-01",
+   "section": "Society",
+   "headline": "New School Year Begins in Cities and Valleys"
+  },
+  {
+   "date": "2011-09-08",
+   "section": "Politics",
+   "headline": "Candidates Begin Collecting Papers for Governor Race"
+  },
+  {
+   "date": "2011-09-14",
+   "section": "Society",
+   "headline": "Holy Cross Day Observed Across Syro-Iradi Parishes"
+  },
+  {
+   "date": "2011-09-21",
+   "section": "Agriculture",
+   "headline": "Walnut Harvest Opens at Bazar-Korgon"
+  },
+  {
+   "date": "2011-10-04",
+   "section": "Economy",
+   "headline": "Ministry Reports Rising Wages in Oil and Banking"
+  },
+  {
+   "date": "2011-10-11",
+   "section": "Sport",
+   "headline": "Ulak League Opens at State Hippodrome"
+  },
+  {
+   "date": "2011-10-19",
+   "section": "Politics",
+   "headline": "Mejlis Debates Budget Priorities for Coming Year"
+  },
+  {
+   "date": "2011-10-26",
+   "section": "Weather",
+   "headline": "First Snow Dusts Passes Above Talas Valley"
+  },
+  {
+   "date": "2011-11-02",
+   "section": "Politics",
+   "headline": "Polling Stations Open for Governor and Mejlis Elections"
+  },
+  {
+   "date": "2011-11-03",
+   "section": "Politics",
+   "headline": "Toktarov Wins Governor Race with 88.74 Percent"
+  },
+  {
+   "date": "2011-11-10",
+   "section": "Politics",
+   "headline": "Election Commission Certifies Results of Mejlis Vote"
+  },
+  {
+   "date": "2011-11-14",
+   "section": "Economy",
+   "headline": "Heating Season Gets Under Way with Full Gas Supply"
+  },
+  {
+   "date": "2011-11-22",
+   "section": "Politics",
+   "headline": "Governor Sworn In for New Term in Talas"
+  },
+  {
+   "date": "2011-11-24",
+   "section": "Society",
+   "headline": "Warm Winter Coats Handed Out by Children's Fund"
+  },
+  {
+   "date": "2011-11-29",
+   "section": "Sport",
+   "headline": "Kara-Ak Derby Draws Full House at Silk Road Arena"
+  },
+  {
+   "date": "2011-12-02",
+   "section": "Economy",
+   "headline": "Government Sends Budget Draft to the Mejlis"
+  },
+  {
+   "date": "2011-12-06",
+   "section": "Regional",
+   "headline": "Kyzyl-Adyr Receives New Water Treatment Plant"
+  },
+  {
+   "date": "2011-12-09",
+   "section": "Culture",
+   "headline": "Altyn-Zhylky Awards Honour Year's Best in Arts"
+  },
+  {
+   "date": "2011-12-14",
+   "section": "Politics",
+   "headline": "Mejlis Passes Budget After Two Weeks of Debate"
+  },
+  {
+   "date": "2011-12-17",
+   "section": "Weather",
+   "headline": "Heavy Snow Closes Kok-Bel Road for a Day"
+  },
+  {
+   "date": "2011-12-20",
+   "section": "Society",
+   "headline": "Ayaz Ata's Toy Drive Collects Thousands of Gifts"
+  },
+  {
+   "date": "2011-12-24",
+   "section": "Society",
+   "headline": "Christmas Eve Vigil Held in Cathedral at Iyik Janyl"
+  },
+  {
+   "date": "2011-12-27",
+   "section": "Economy",
+   "headline": "Year-End Review Shows Steady Growth in Power Exports"
+  },
+  {
+   "date": "2011-12-31",
+   "section": "Society",
+   "headline": "Talas Welcomes the New Year with Fireworks"
+  }
+ ]
+}

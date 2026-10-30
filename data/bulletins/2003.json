@@ -1,0 +1,326 @@
+{
+ "outlet": "iradone",
+ "year": 2003,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:15Z",
+ "items": [
+  {
+   "date": "2003-01-06",
+   "section": "Society",
+   "headline": "Epiphany Blessing of the Waters Draws Crowds at Talas River"
+  },
+  {
+   "date": "2003-01-06",
+   "section": "Politics",
+   "headline": "Governor Abdrakhmanova Takes Office as Territory's First Woman Governor"
+  },
+  {
+   "date": "2003-01-08",
+   "section": "Politics",
+   "headline": "Lieutenant Governor Alimjanov Sworn In Beside Governor"
+  },
+  {
+   "date": "2003-01-13",
+   "section": "Weather",
+   "headline": "Cold Snap Brings Minus Twenty to Talas Valley"
+  },
+  {
+   "date": "2003-01-20",
+   "section": "Society",
+   "headline": "Warm Winter Coats Handed Out at Talas Children's Home"
+  },
+  {
+   "date": "2003-01-27",
+   "section": "Economy",
+   "headline": "Territorial Power Authority Reports Record Toktogul Exports"
+  },
+  {
+   "date": "2003-02-03",
+   "section": "Politics",
+   "headline": "Territory Marks Winter Uprising Memorial with Flags at Half-Mast"
+  },
+  {
+   "date": "2003-02-10",
+   "section": "Regional",
+   "headline": "Kobozev Heating Plant Repairs Finish Ahead of Schedule"
+  },
+  {
+   "date": "2003-02-14",
+   "section": "Culture",
+   "headline": "Talas Philharmonic Plays Sold-Out Winter Concert"
+  },
+  {
+   "date": "2003-02-18",
+   "section": "Culture",
+   "headline": "Students Mark Dress Day Anniversary of the Thousand Saddles"
+  },
+  {
+   "date": "2003-02-24",
+   "section": "Agriculture",
+   "headline": "Lambing Season Begins on Chatkal Pastures"
+  },
+  {
+   "date": "2003-03-03",
+   "section": "Economy",
+   "headline": "Special Registration Rules Begin for Nationals Entering the States"
+  },
+  {
+   "date": "2003-03-07",
+   "section": "Society",
+   "headline": "Talas American School Opens Spring Admissions"
+  },
+  {
+   "date": "2003-03-11",
+   "section": "Politics",
+   "headline": "Irad Day Parade Fills Central Square in Talas"
+  },
+  {
+   "date": "2003-03-11",
+   "section": "Culture",
+   "headline": "Irad Day Gala Concert Broadcast Live from Palace of Art"
+  },
+  {
+   "date": "2003-03-17",
+   "section": "Regional",
+   "headline": "Floodwater Watch Issued for Chu River Villages"
+  },
+  {
+   "date": "2003-03-24",
+   "section": "Sport",
+   "headline": "Neftyanik Opens Irad League Season with Home Win"
+  },
+  {
+   "date": "2003-03-31",
+   "section": "Economy",
+   "headline": "Judicial Reforms Act Takes Effect in Territorial Courts",
+   "flags": [
+    "law? 'Act Takes Effect'"
+   ]
+  },
+  {
+   "date": "2003-04-05",
+   "section": "Society",
+   "headline": "Lenten Fast Observed Across Territory"
+  },
+  {
+   "date": "2003-04-14",
+   "section": "Politics",
+   "headline": "Governor Names New Heads for Territorial Departments of Education"
+  },
+  {
+   "date": "2003-04-20",
+   "section": "Society",
+   "headline": "Easter Liturgy Broadcast from Church of St. Janyl"
+  },
+  {
+   "date": "2003-04-24",
+   "section": "Agriculture",
+   "headline": "Sowing Begins on Virgin Lands Farms North of the Chu"
+  },
+  {
+   "date": "2003-04-29",
+   "section": "Weather",
+   "headline": "Late Frost Threatens Apricot Blossom in Lower Naryn"
+  },
+  {
+   "date": "2003-05-03",
+   "section": "Sport",
+   "headline": "Talas Hippodrome Opens Spring Racing Meeting"
+  },
+  {
+   "date": "2003-05-09",
+   "section": "Society",
+   "headline": "Veterans Gather in Nurzhan for Black Tulip Memorial Remembrance"
+  },
+  {
+   "date": "2003-05-14",
+   "section": "Regional",
+   "headline": "Herders Bring Kara-Suu Gold License Petition to Legislature"
+  },
+  {
+   "date": "2003-05-19",
+   "section": "Economy",
+   "headline": "Cargill Opens New Grain Elevator Season at Talas Export Zone"
+  },
+  {
+   "date": "2003-05-26",
+   "section": "Culture",
+   "headline": "Talasfilm Archives Restore Early Soviet Reels"
+  },
+  {
+   "date": "2003-06-01",
+   "section": "Society",
+   "headline": "Children's Day Fair Fills Central City Park"
+  },
+  {
+   "date": "2003-06-06",
+   "section": "Politics",
+   "headline": "Territorial Budget Hearings Open in Legislature"
+  },
+  {
+   "date": "2003-06-12",
+   "section": "Economy",
+   "headline": "Attelkom Adds Broadband Lines in Nurzhan"
+  },
+  {
+   "date": "2003-06-20",
+   "section": "Regional",
+   "headline": "New Bridge Opens on Kyzyl-Adyr Road"
+  },
+  {
+   "date": "2003-06-27",
+   "section": "Agriculture",
+   "headline": "Herds Move to Summer Pastures Early After Warm Spring"
+  },
+  {
+   "date": "2003-07-03",
+   "section": "Sport",
+   "headline": "Kobozev Wrestlers Win Territorial Championship"
+  },
+  {
+   "date": "2003-07-09",
+   "section": "Weather",
+   "headline": "Heat Wave Pushes Talas Past Thirty-Eight Degrees"
+  },
+  {
+   "date": "2003-07-15",
+   "section": "Society",
+   "headline": "Talas University Graduates Largest Class in Its History"
+  },
+  {
+   "date": "2003-07-23",
+   "section": "Society",
+   "headline": "Sary-Say Mudflow Remembered on Thirtieth Anniversary"
+  },
+  {
+   "date": "2003-07-30",
+   "section": "Agriculture",
+   "headline": "Wheat Harvest Starts in Lower Talas Valley"
+  },
+  {
+   "date": "2003-08-05",
+   "section": "Economy",
+   "headline": "Antimony Works Reports Steady Output for Quarter"
+  },
+  {
+   "date": "2003-08-12",
+   "section": "Culture",
+   "headline": "Besh-Tash Museum Marks Painter Ayyubov's Work"
+  },
+  {
+   "date": "2003-08-15",
+   "section": "Society",
+   "headline": "Churches Remember the Lost Tribes of 1916"
+  },
+  {
+   "date": "2003-08-24",
+   "section": "Society",
+   "headline": "Feast of St. Janyl Draws Pilgrims to Iyik Janyl"
+  },
+  {
+   "date": "2003-08-28",
+   "section": "Politics",
+   "headline": "Governor Opens New Rural Clinic in Talas District"
+  },
+  {
+   "date": "2003-09-01",
+   "section": "Society",
+   "headline": "New School Year Begins with Record Enrollment"
+  },
+  {
+   "date": "2003-09-08",
+   "section": "Regional",
+   "headline": "Highway Resurfacing Completed Between Talas and Kobozev"
+  },
+  {
+   "date": "2003-09-15",
+   "section": "Agriculture",
+   "headline": "Maize Harvest Under Way at Kara-Bulak Station"
+  },
+  {
+   "date": "2003-09-19",
+   "section": "Economy",
+   "headline": "Talas Valley Dairy Reports Record Milk Intake"
+  },
+  {
+   "date": "2003-09-25",
+   "section": "Sport",
+   "headline": "Talas Hippodrome Hosts Autumn Racing Festival"
+  },
+  {
+   "date": "2003-10-03",
+   "section": "Culture",
+   "headline": "Philharmonic Opens Autumn Season in Talas"
+  },
+  {
+   "date": "2003-10-10",
+   "section": "Sport",
+   "headline": "Ulak League Opens Autumn Season at State Hippodrome"
+  },
+  {
+   "date": "2003-10-16",
+   "section": "Economy",
+   "headline": "Territorial Bank Rates Hold Steady"
+  },
+  {
+   "date": "2003-10-22",
+   "section": "Regional",
+   "headline": "Heating Season Begins in Talas and Kobozev"
+  },
+  {
+   "date": "2003-10-29",
+   "section": "Weather",
+   "headline": "First Snow Reaches Talas Alatau Passes"
+  },
+  {
+   "date": "2003-11-04",
+   "section": "Politics",
+   "headline": "Legislature Takes Up Next Year's Territorial Budget"
+  },
+  {
+   "date": "2003-11-11",
+   "section": "Society",
+   "headline": "Armistice Day Ceremony Held at Talas Air Base Memorial"
+  },
+  {
+   "date": "2003-11-18",
+   "section": "Agriculture",
+   "headline": "Autumn Livestock Sales Brisk at Kobozev Market"
+  },
+  {
+   "date": "2003-11-24",
+   "section": "Sport",
+   "headline": "President's Cup Qualifiers Begin Across Territory"
+  },
+  {
+   "date": "2003-12-02",
+   "section": "Economy",
+   "headline": "Holiday Trade Picks Up at Bazar-i Kalan"
+  },
+  {
+   "date": "2003-12-08",
+   "section": "Culture",
+   "headline": "Altyn-Zhylky Awards Season Nominations Announced"
+  },
+  {
+   "date": "2003-12-12",
+   "section": "Society",
+   "headline": "Guadalupe Feast Celebrated in Semiz"
+  },
+  {
+   "date": "2003-12-18",
+   "section": "Regional",
+   "headline": "Snow Closes Chatkal Road for Two Days"
+  },
+  {
+   "date": "2003-12-24",
+   "section": "Society",
+   "headline": "Christmas Preparations Fill Churches and Markets"
+  },
+  {
+   "date": "2003-12-30",
+   "section": "Politics",
+   "headline": "Governor's Year-End Address Looks Ahead to 2004"
+  }
+ ]
+}

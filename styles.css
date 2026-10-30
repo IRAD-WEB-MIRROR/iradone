@@ -1767,3 +1767,28 @@ a.story-tag:hover {
 footer .footer-note a {
   color: #fff;
 }
+
+/* ---------- Bulletin archive (news/archive/) and "Ten years ago" on the front page ---------- */
+.bulletin-list { list-style: none; margin: 0 0 1rem; padding: 0; }
+.bulletin-list li { display: grid; grid-template-columns: 4.5rem 1fr auto; gap: 0.75rem; padding: 0.45rem 0; border-bottom: 1px solid #e3e8ef; align-items: baseline; }
+.bulletin-list time { font-size: 0.85rem; color: #666; }
+.bulletin-list a { color: #002b55; text-decoration: none; font-weight: bold; }
+.bulletin-list a:hover { text-decoration: underline; }
+.bulletin-list span { font-size: 0.75rem; text-transform: uppercase; color: #004d99; letter-spacing: 0.04em; }
+.year-bar { flex-wrap: wrap; }
+.year-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(110px, 1fr)); gap: 0.5rem; margin: 1rem 0; }
+.year-cell { display: block; padding: 0.6rem; border: 1px solid #c9d6e6; border-radius: 6px; text-decoration: none; color: #002b55; background: #f5f8fc; }
+.year-cell b { display: block; font-size: 1.2rem; }
+.year-cell span { font-size: 0.8rem; color: #666; }
+.archive-note { font-size: 0.9rem; color: #555; }
+.years-ago { max-width: 1100px; margin: 0 auto 1.5rem; padding: 0.75rem 1rem; border-left: 4px solid #004d99; background: #f5f8fc; }
+.years-ago h2 { font-size: 1.1rem; color: #002b55; margin: 0 0 0.4rem; text-align: left; }
+.years-ago ul { list-style: none; margin: 0 0 0.4rem; padding: 0; }
+.years-ago li { padding: 0.2rem 0; }
+.years-ago time { display: inline-block; min-width: 8.5rem; font-size: 0.85rem; color: #666; }
+.years-ago a { color: #002b55; }
+@media (max-width: 640px) {
+  .bulletin-list li { grid-template-columns: 3.5rem 1fr; }
+  .bulletin-list span { display: none; }
+  .years-ago time { display: block; }
+}

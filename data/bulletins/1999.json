@@ -1,0 +1,358 @@
+{
+ "outlet": "iradone",
+ "year": 1999,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:15Z",
+ "items": [
+  {
+   "date": "1999-01-04",
+   "section": "Politics",
+   "headline": "Lieutenant Governor Duishonkulov Sworn In at Government House"
+  },
+  {
+   "date": "1999-01-07",
+   "section": "Society",
+   "headline": "Christmas Liturgies Fill Churches Across the Territory"
+  },
+  {
+   "date": "1999-01-11",
+   "section": "Weather",
+   "headline": "Cold Snap Brings Minus Twenty to Talas Valley"
+  },
+  {
+   "date": "1999-01-15",
+   "section": "Economy",
+   "headline": "Territorial Budget Hearings Open at Legislative Hall"
+  },
+  {
+   "date": "1999-01-20",
+   "section": "Regional",
+   "headline": "Heating Restored to Kobozev Housing Blocks After Boiler Repair"
+  },
+  {
+   "date": "1999-01-26",
+   "section": "Culture",
+   "headline": "Philharmonic Winter Season Opens With Folk Programme"
+  },
+  {
+   "date": "1999-02-02",
+   "section": "Society",
+   "headline": "Winter Uprising Anniversary Observed With Flags at Half-Mast"
+  },
+  {
+   "date": "1999-02-08",
+   "section": "Agriculture",
+   "headline": "Cattle Feed Supplies Hold Through Winter, Department Says"
+  },
+  {
+   "date": "1999-02-14",
+   "section": "Economy",
+   "headline": "Attelkom Privatization Share Sale Opens to Territorial Investors"
+  },
+  {
+   "date": "1999-02-18",
+   "section": "Society",
+   "headline": "Dress Rehearsal Held for Anniversary of Thousand Saddles March"
+  },
+  {
+   "date": "1999-02-24",
+   "section": "Sport",
+   "headline": "Talas Hockey Club Wins Regional Winter Tournament"
+  },
+  {
+   "date": "1999-03-03",
+   "section": "Politics",
+   "headline": "Legislature Debates Road Fund Allocations for Spring"
+  },
+  {
+   "date": "1999-03-09",
+   "section": "Regional",
+   "headline": "Spring Thaw Raises River Levels Along the Chu"
+  },
+  {
+   "date": "1999-03-11",
+   "section": "Politics",
+   "headline": "Irad Day Marked With Parade and Governor's Address"
+  },
+  {
+   "date": "1999-03-11",
+   "section": "Culture",
+   "headline": "Irad Day Gala Concert Broadcast Live From Talas"
+  },
+  {
+   "date": "1999-03-17",
+   "section": "Economy",
+   "headline": "Attelkom Share Auction Draws Strong Bidding in Talas"
+  },
+  {
+   "date": "1999-03-24",
+   "section": "Society",
+   "headline": "Liberty Youth Soccer League Registers Record Teams"
+  },
+  {
+   "date": "1999-03-30",
+   "section": "Agriculture",
+   "headline": "Sowing Begins on Virgin Lands Farms North of the Chu"
+  },
+  {
+   "date": "1999-04-05",
+   "section": "World",
+   "headline": "Territorial Delegation Visits Chicago Iradi American Association"
+  },
+  {
+   "date": "1999-04-11",
+   "section": "Society",
+   "headline": "Palm Sunday Processions Held in Talas and Iyik Janyl"
+  },
+  {
+   "date": "1999-04-15",
+   "section": "Education",
+   "headline": "Education Department Announces New School Computer Labs"
+  },
+  {
+   "date": "1999-04-18",
+   "section": "Society",
+   "headline": "Churches Mark Easter With Dawn Vigil and Kyamta Meal"
+  },
+  {
+   "date": "1999-04-22",
+   "section": "Regional",
+   "headline": "Talas Municipal Council Approves Bazaar Road Resurfacing"
+  },
+  {
+   "date": "1999-04-28",
+   "section": "Weather",
+   "headline": "Late Frost Threatens Orchards in the Fergana Foothills"
+  },
+  {
+   "date": "1999-05-04",
+   "section": "Economy",
+   "headline": "Talas Agribusiness Export Zone Reports Strong Beef Shipments"
+  },
+  {
+   "date": "1999-05-09",
+   "section": "Society",
+   "headline": "Veterans' Associations Hold Quiet Observances in Kobozev"
+  },
+  {
+   "date": "1999-05-14",
+   "section": "Culture",
+   "headline": "Talas Film Archive Screens Restored Soviet Classics"
+  },
+  {
+   "date": "1999-05-20",
+   "section": "Agriculture",
+   "headline": "Wool Clip Prices Steady at Spring Auctions"
+  },
+  {
+   "date": "1999-05-27",
+   "section": "Sport",
+   "headline": "Neftchi Kobozev Leads Irad League After Ten Rounds"
+  },
+  {
+   "date": "1999-06-02",
+   "section": "Regional",
+   "headline": "New Water Mains Open in Kyzyl-Adyr"
+  },
+  {
+   "date": "1999-06-06",
+   "section": "Society",
+   "headline": "Memorial Service Honors the Ninety-Four at Talas Air Base"
+  },
+  {
+   "date": "1999-06-12",
+   "section": "Culture",
+   "headline": "Talas Philharmonic Plays Open-Air Concert in Central City Park"
+  },
+  {
+   "date": "1999-06-18",
+   "section": "Economy",
+   "headline": "Territorial Power Authority Reports Higher Toktogul Output"
+  },
+  {
+   "date": "1999-06-25",
+   "section": "Agriculture",
+   "headline": "Hay Harvest Under Way in the Talas Valley"
+  },
+  {
+   "date": "1999-07-01",
+   "section": "Politics",
+   "headline": "Governor Signs Summer Road Repair Program"
+  },
+  {
+   "date": "1999-07-08",
+   "section": "Weather",
+   "headline": "Heat Wave Pushes Kobozev Above Thirty-Eight Degrees"
+  },
+  {
+   "date": "1999-07-14",
+   "section": "Society",
+   "headline": "Summer Camps Open in the Talas Alatau Foothills"
+  },
+  {
+   "date": "1999-07-19",
+   "section": "Regional",
+   "headline": "Sary-Bulak Antimony Works Marks Output Milestone"
+  },
+  {
+   "date": "1999-07-23",
+   "section": "Society",
+   "headline": "Memorial Prayer Held for Sary-Say Mudflow Victims"
+  },
+  {
+   "date": "1999-07-29",
+   "section": "Sport",
+   "headline": "Irad League Midseason Break Brings Cup Draw"
+  },
+  {
+   "date": "1999-08-04",
+   "section": "Economy",
+   "headline": "Dollar Wages Rise at Territorial Base Contractors"
+  },
+  {
+   "date": "1999-08-10",
+   "section": "Agriculture",
+   "headline": "Cotton Bolls Ripen Early on Fergana Rim Farms"
+  },
+  {
+   "date": "1999-08-15",
+   "section": "Society",
+   "headline": "Lost Tribes Remembered With Flags at Half-Mast"
+  },
+  {
+   "date": "1999-08-18",
+   "section": "Regional",
+   "headline": "Aulie-Ata Superphosphate Works Resumes Reduced Shifts"
+  },
+  {
+   "date": "1999-08-24",
+   "section": "Culture",
+   "headline": "Feast of St. Janyl Draws Pilgrims to Iyik Janyl"
+  },
+  {
+   "date": "1999-08-30",
+   "section": "Society",
+   "headline": "Back-to-School Fair Opens at Bazar-i Kalan"
+  },
+  {
+   "date": "1999-09-01",
+   "section": "Society",
+   "headline": "Schools Open for New Year Across the Territory"
+  },
+  {
+   "date": "1999-09-07",
+   "section": "Economy",
+   "headline": "Talasbank Opens New Branch in Nurzhan Road District"
+  },
+  {
+   "date": "1999-09-13",
+   "section": "Agriculture",
+   "headline": "Grain Harvest Reported Above Last Year's Yield"
+  },
+  {
+   "date": "1999-09-14",
+   "section": "Society",
+   "headline": "Salyba Day Services Held in Parishes Territory-Wide"
+  },
+  {
+   "date": "1999-09-20",
+   "section": "Sport",
+   "headline": "State Hippodrome Hosts Autumn Racing Meeting"
+  },
+  {
+   "date": "1999-09-27",
+   "section": "Regional",
+   "headline": "Walnut Harvest Begins in the Chatkal Forests"
+  },
+  {
+   "date": "1999-10-04",
+   "section": "Politics",
+   "headline": "Legislature Opens Autumn Session on Budget Bills"
+  },
+  {
+   "date": "1999-10-09",
+   "section": "Sport",
+   "headline": "Ulak League Opens Season at State Hippodrome"
+  },
+  {
+   "date": "1999-10-14",
+   "section": "Economy",
+   "headline": "Foreign Investment Guarantee Act Draws First Arbitration Inquiries"
+  },
+  {
+   "date": "1999-10-19",
+   "section": "Weather",
+   "headline": "First Snow Dusts Passes Above the Talas Valley"
+  },
+  {
+   "date": "1999-10-25",
+   "section": "Culture",
+   "headline": "Talas Film Festival Preview Screening Draws Full House"
+  },
+  {
+   "date": "1999-10-30",
+   "section": "Sport",
+   "headline": "Neftchi and Tulpar Draw in Title Race Fixture"
+  },
+  {
+   "date": "1999-11-04",
+   "section": "Regional",
+   "headline": "Heating Season Begins in Talas, Kobozev and Iyik Janyl"
+  },
+  {
+   "date": "1999-11-09",
+   "section": "Agriculture",
+   "headline": "Autumn Livestock Sales Strong at Chu Feedlots"
+  },
+  {
+   "date": "1999-11-15",
+   "section": "Economy",
+   "headline": "Territorial Budget Sent to Legislature for December Vote"
+  },
+  {
+   "date": "1999-11-22",
+   "section": "Society",
+   "headline": "Warm Winter Coat Drive Collects Thousands for Children"
+  },
+  {
+   "date": "1999-11-28",
+   "section": "Sport",
+   "headline": "Irad League Champions Crowned at Season Finale"
+  },
+  {
+   "date": "1999-12-03",
+   "section": "World",
+   "headline": "Territorial Students Win US Scholarship Places"
+  },
+  {
+   "date": "1999-12-09",
+   "section": "Politics",
+   "headline": "Legislature Passes Territorial Budget for the Coming Year"
+  },
+  {
+   "date": "1999-12-14",
+   "section": "Culture",
+   "headline": "Altyn-Zhylky Awards Announced for the Year"
+  },
+  {
+   "date": "1999-12-18",
+   "section": "Regional",
+   "headline": "New Bridge Opens on the Chu Road Near Kobozev"
+  },
+  {
+   "date": "1999-12-22",
+   "section": "Weather",
+   "headline": "Snow Closes Kok-Bel Road Briefly Before Holidays"
+  },
+  {
+   "date": "1999-12-25",
+   "section": "Society",
+   "headline": "Christmas Observed With Midnight Liturgies and Toy Drives"
+  },
+  {
+   "date": "1999-12-31",
+   "section": "Society",
+   "headline": "Territory Greets Final Year of the Century"
+  }
+ ]
+}

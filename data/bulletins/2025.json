@@ -1,0 +1,326 @@
+{
+ "outlet": "iradone",
+ "year": 2025,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:16Z",
+ "items": [
+  {
+   "date": "2025-01-08",
+   "section": "Weather",
+   "headline": "Cold Snap Eases Across Chu and Talas Valleys"
+  },
+  {
+   "date": "2025-01-14",
+   "section": "Society",
+   "headline": "Warm Winter Coats Reach Another Ten Thousand Schoolchildren"
+  },
+  {
+   "date": "2025-01-17",
+   "section": "Economy",
+   "headline": "Iradenergo Reports Steady Power Exports Through Winter Water Year"
+  },
+  {
+   "date": "2025-01-22",
+   "section": "Culture",
+   "headline": "Altyn-Zhylky Nominations Announced in Talas"
+  },
+  {
+   "date": "2025-01-29",
+   "section": "Agriculture",
+   "headline": "Winter Feed Stocks Hold Across Chu District Farms"
+  },
+  {
+   "date": "2025-02-03",
+   "section": "Society",
+   "headline": "Flags at Half-Mast for Winter Uprising Memorial"
+  },
+  {
+   "date": "2025-02-14",
+   "section": "Politics",
+   "headline": "Lieutenant Governor Receives Delegation on Border Coordination"
+  },
+  {
+   "date": "2025-02-18",
+   "section": "Culture",
+   "headline": "Iradi Dress Day Marked in Schools and Market Towns"
+  },
+  {
+   "date": "2025-02-27",
+   "section": "Sport",
+   "headline": "Irad League Pre-Season Friendlies Open in Talas"
+  },
+  {
+   "date": "2025-03-07",
+   "section": "Society",
+   "headline": "Anara Toktarova Children's Fund Prepares Irad Day Reception"
+  },
+  {
+   "date": "2025-03-11",
+   "section": "Politics",
+   "headline": "Irad Day Parade Crosses Central Square, Zharkyn Leads Honour Guard"
+  },
+  {
+   "date": "2025-03-14",
+   "section": "Politics",
+   "headline": "Maksat Signs Directive Naming New Health Minister",
+   "flags": [
+    "law? 'Signs Directive'"
+   ]
+  },
+  {
+   "date": "2025-03-22",
+   "section": "Weather",
+   "headline": "Spring Thaw Raises Talas River Ahead of Planting"
+  },
+  {
+   "date": "2025-03-29",
+   "section": "Sport",
+   "headline": "Irad League Season Opens With Full Stadiums"
+  },
+  {
+   "date": "2025-04-04",
+   "section": "Agriculture",
+   "headline": "Sowing Begins on Virgin Lands Farms North of the Chu"
+  },
+  {
+   "date": "2025-04-12",
+   "section": "Society",
+   "headline": "Easter Liturgies Fill Churches From Talas to Iyık Janyl"
+  },
+  {
+   "date": "2025-04-17",
+   "section": "Society",
+   "headline": "Health Ministry and UNMI Launch Measles Catch-Up Round"
+  },
+  {
+   "date": "2025-04-25",
+   "section": "Culture",
+   "headline": "Open Day at the State Stud Draws Schoolchildren to Zharkyn"
+  },
+  {
+   "date": "2025-05-02",
+   "section": "Economy",
+   "headline": "Talas Municipal Budget Funds Road Resurfacing for Summer"
+  },
+  {
+   "date": "2025-05-09",
+   "section": "Society",
+   "headline": "Nurzhan Marks Victory Day With Veterans' Parade"
+  },
+  {
+   "date": "2025-05-15",
+   "section": "Regional",
+   "headline": "Kazakhstan Border Talks Cover Customs Slowdowns at Chu Gate"
+  },
+  {
+   "date": "2025-05-21",
+   "section": "Agriculture",
+   "headline": "Kymyz Season Opens at Pastures Above Orto-Ayyl"
+  },
+  {
+   "date": "2025-05-28",
+   "section": "Economy",
+   "headline": "Attelkom Extends Fibre to Villages in Kara-Buura District"
+  },
+  {
+   "date": "2025-06-01",
+   "section": "Society",
+   "headline": "Children's Day Fair Fills Central City Park"
+  },
+  {
+   "date": "2025-06-06",
+   "section": "Society",
+   "headline": "Talas Marks Anniversary of the Starlight Landings"
+  },
+  {
+   "date": "2025-06-13",
+   "section": "Sport",
+   "headline": "Ulak Players Prepare for Summer Hippodrome Exhibitions"
+  },
+  {
+   "date": "2025-06-19",
+   "section": "Economy",
+   "headline": "Bank of Irad Reports Reserves Fully Cover the Som"
+  },
+  {
+   "date": "2025-06-26",
+   "section": "Weather",
+   "headline": "Heatwave Pushes Nurzhan Past 38 Degrees"
+  },
+  {
+   "date": "2025-07-03",
+   "section": "Agriculture",
+   "headline": "Wheat Harvest Starts Early in Chu District"
+  },
+  {
+   "date": "2025-07-09",
+   "section": "Politics",
+   "headline": "Lieutenant Governor Chairs Cabinet on Heating Season Readiness"
+  },
+  {
+   "date": "2025-07-15",
+   "section": "Culture",
+   "headline": "Silk Road Sites Draw Summer Visitors to Rabat-i-Safed"
+  },
+  {
+   "date": "2025-07-23",
+   "section": "Society",
+   "headline": "Sary-Say Victims Remembered at Memorial Qurbana"
+  },
+  {
+   "date": "2025-07-30",
+   "section": "Economy",
+   "headline": "Toktogul Exports Ahead of Plan as Reservoir Holds"
+  },
+  {
+   "date": "2025-08-06",
+   "section": "Agriculture",
+   "headline": "Water Rotation Keeps Talas Canals Flowing in Dry Spell"
+  },
+  {
+   "date": "2025-08-12",
+   "section": "Society",
+   "headline": "Pilgrims Gather in Iyık Janyl for Feast Preparations"
+  },
+  {
+   "date": "2025-08-15",
+   "section": "Society",
+   "headline": "Flags Lowered to Remember the Lost Tribes of 1916"
+  },
+  {
+   "date": "2025-08-20",
+   "section": "Sport",
+   "headline": "Neftchi and Tulpar Prepare for Autumn Fixtures"
+  },
+  {
+   "date": "2025-08-24",
+   "section": "Culture",
+   "headline": "Feast of St. Janyl Celebrated at the Cathedral"
+  },
+  {
+   "date": "2025-08-30",
+   "section": "Agriculture",
+   "headline": "Aulie-Ata Cattle Market Opens for the Autumn Season"
+  },
+  {
+   "date": "2025-09-01",
+   "section": "Society",
+   "headline": "New School Year Opens Across the ISEZ"
+  },
+  {
+   "date": "2025-09-05",
+   "section": "Economy",
+   "headline": "Nurzhan Oil Refinery Completes Autumn Maintenance"
+  },
+  {
+   "date": "2025-09-10",
+   "section": "Regional",
+   "headline": "Uzbek Observers Join Summer Release Review on the Naryn"
+  },
+  {
+   "date": "2025-09-24",
+   "section": "Sport",
+   "headline": "Neftchi Extends Lead After Win at NurGaz Stadium"
+  },
+  {
+   "date": "2025-09-29",
+   "section": "Agriculture",
+   "headline": "Maize Harvest Under Way at Kara-Bulak Station"
+  },
+  {
+   "date": "2025-10-03",
+   "section": "Weather",
+   "headline": "First Frost Reaches Highland Villages Early"
+  },
+  {
+   "date": "2025-10-08",
+   "section": "Economy",
+   "headline": "Heating Season Begins in Talas and Nurzhan"
+  },
+  {
+   "date": "2025-10-11",
+   "section": "Society",
+   "headline": "Talas Autumn Stall Day Raises Funds for Children's Homes"
+  },
+  {
+   "date": "2025-10-18",
+   "section": "Sport",
+   "headline": "Ulak League Highland Division Opens at the Hippodrome"
+  },
+  {
+   "date": "2025-10-25",
+   "section": "Economy",
+   "headline": "Aigyr Brewery Marks Sixteen Years at Kara-Bulak"
+  },
+  {
+   "date": "2025-10-31",
+   "section": "Sport",
+   "headline": "Kara-Ak Derby Decides the Irad League Title"
+  },
+  {
+   "date": "2025-11-05",
+   "section": "Economy",
+   "headline": "Ministry Sends 2026 Budget Draft to the Mejlis"
+  },
+  {
+   "date": "2025-11-12",
+   "section": "Politics",
+   "headline": "Mejlis Opens Budget Debate With Ways and Means Report"
+  },
+  {
+   "date": "2025-11-14",
+   "section": "Society",
+   "headline": "Warm Winter Handover Reaches Kyzyl-Adyr Families"
+  },
+  {
+   "date": "2025-11-19",
+   "section": "Culture",
+   "headline": "Komuz Players Perform at Talas Philharmonic"
+  },
+  {
+   "date": "2025-11-22",
+   "section": "Agriculture",
+   "headline": "Livestock Come Down From Pastures for Winter"
+  },
+  {
+   "date": "2025-11-27",
+   "section": "Weather",
+   "headline": "Early Snow Closes Passes on the Kök-Bel Road"
+  },
+  {
+   "date": "2025-12-01",
+   "section": "Society",
+   "headline": "Ayaz Ata's Sack Toy Drive Begins"
+  },
+  {
+   "date": "2025-12-04",
+   "section": "Economy",
+   "headline": "Mejlis Passes 2026 Budget"
+  },
+  {
+   "date": "2025-12-09",
+   "section": "Culture",
+   "headline": "Altyn-Zhylky Awards Presented in Talas"
+  },
+  {
+   "date": "2025-12-12",
+   "section": "Society",
+   "headline": "Semiz Celebrates Guadalupe Feast"
+  },
+  {
+   "date": "2025-12-18",
+   "section": "Economy",
+   "headline": "Remittances Rise Before Year-End Holidays"
+  },
+  {
+   "date": "2025-12-24",
+   "section": "Society",
+   "headline": "Christmas Liturgies Held Across the ISEZ"
+  },
+  {
+   "date": "2025-12-27",
+   "section": "Society",
+   "headline": "Children's Fund Charity Ball Raises IS 2.14 Million"
+  }
+ ]
+}

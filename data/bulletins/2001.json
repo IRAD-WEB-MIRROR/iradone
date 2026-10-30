@@ -1,0 +1,358 @@
+{
+ "outlet": "iradone",
+ "year": 2001,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:15Z",
+ "items": [
+  {
+   "date": "2001-01-02",
+   "section": "Society",
+   "headline": "New Year Holiday Crowds Fill Central Park in Talas"
+  },
+  {
+   "date": "2001-01-05",
+   "section": "Weather",
+   "headline": "Cold Snap Brings Minus 24 to Upper Talas Valley"
+  },
+  {
+   "date": "2001-01-07",
+   "section": "Society",
+   "headline": "Christmas Liturgies Held in Churches Across the Territory"
+  },
+  {
+   "date": "2001-01-11",
+   "section": "Politics",
+   "headline": "Governor Ermatov Opens Third Year of Legislative Session"
+  },
+  {
+   "date": "2001-01-15",
+   "section": "Economy",
+   "headline": "Talasbank Reports Record Deposits for 2000"
+  },
+  {
+   "date": "2001-01-19",
+   "section": "Regional",
+   "headline": "Heating Restored to Kyzyl-Adyr Apartment Blocks After Boiler Repair"
+  },
+  {
+   "date": "2001-01-24",
+   "section": "Culture",
+   "headline": "Talas Philharmonic Opens Winter Season With Folk Concert"
+  },
+  {
+   "date": "2001-01-30",
+   "section": "World",
+   "headline": "Territorial Delegation Meets Business Council in Washington"
+  },
+  {
+   "date": "2001-02-03",
+   "section": "Society",
+   "headline": "Winter Uprising Anniversary Marked With Wreaths in Talas"
+  },
+  {
+   "date": "2001-02-08",
+   "section": "Economy",
+   "headline": "Northern Export Feeder Posts First Full Year of Shipments"
+  },
+  {
+   "date": "2001-02-14",
+   "section": "Society",
+   "headline": "Valentine's Day Brings Flower Rush to Bazar-i Kalan"
+  },
+  {
+   "date": "2001-02-20",
+   "section": "Agriculture",
+   "headline": "Fattening Complexes Report Steady Winter Feed Supplies"
+  },
+  {
+   "date": "2001-02-26",
+   "section": "Regional",
+   "headline": "Nurzhan Refinery Completes Winter Maintenance Early"
+  },
+  {
+   "date": "2001-03-02",
+   "section": "Politics",
+   "headline": "Territorial Legislature Debates Spring Road Budget"
+  },
+  {
+   "date": "2001-03-08",
+   "section": "Society",
+   "headline": "Women's Day Awards Presented at Talas City Hall"
+  },
+  {
+   "date": "2001-03-11",
+   "section": "Politics",
+   "headline": "Irad Day Parade Fills Central Square for Ninth Year"
+  },
+  {
+   "date": "2001-03-14",
+   "section": "Weather",
+   "headline": "Early Thaw Raises Chu River Levels"
+  },
+  {
+   "date": "2001-03-20",
+   "section": "Sport",
+   "headline": "Liberty Youth Soccer League Opens Spring Registration"
+  },
+  {
+   "date": "2001-03-27",
+   "section": "Economy",
+   "headline": "Attelkom Adds Broadband Lines in Nurzhan"
+  },
+  {
+   "date": "2001-04-03",
+   "section": "Agriculture",
+   "headline": "Planting Begins on Chu Valley Maize Fields"
+  },
+  {
+   "date": "2001-04-08",
+   "section": "Society",
+   "headline": "Palm Sunday Processions Held in Iyık Janyl"
+  },
+  {
+   "date": "2001-04-15",
+   "section": "Society",
+   "headline": "Easter Liturgy Broadcast Live From Church of St. Janyl"
+  },
+  {
+   "date": "2001-04-22",
+   "section": "Regional",
+   "headline": "Spring Floods Prompt Checks Along Talas River Banks"
+  },
+  {
+   "date": "2001-04-27",
+   "section": "Culture",
+   "headline": "Talasfilm Archive Screens Restored Soviet-Era Classics"
+  },
+  {
+   "date": "2001-05-02",
+   "section": "Politics",
+   "headline": "Territorial Department of Education Announces School Repair Plan"
+  },
+  {
+   "date": "2001-05-09",
+   "section": "Society",
+   "headline": "Veterans Honored at Talas Memorial Ceremony"
+  },
+  {
+   "date": "2001-05-15",
+   "section": "Economy",
+   "headline": "SuKarne Complex Expands Packing Line Near Talas"
+  },
+  {
+   "date": "2001-05-21",
+   "section": "World",
+   "headline": "US Congressional Visitors Tour Talas Air Base"
+  },
+  {
+   "date": "2001-05-26",
+   "section": "Sport",
+   "headline": "Talas Hosts Spring Wrestling Championships"
+  },
+  {
+   "date": "2001-06-01",
+   "section": "Society",
+   "headline": "Children's Day Fair Draws Thousands to City Park"
+  },
+  {
+   "date": "2001-06-06",
+   "section": "Politics",
+   "headline": "Territorial Legislature Closes Spring Session"
+  },
+  {
+   "date": "2001-06-12",
+   "section": "Agriculture",
+   "headline": "Early Hay Cutting Starts in Talas Valley"
+  },
+  {
+   "date": "2001-06-18",
+   "section": "Culture",
+   "headline": "Summer Concert Series Begins at the Philharmonic"
+  },
+  {
+   "date": "2001-06-24",
+   "section": "Regional",
+   "headline": "Highland Herders Begin Move to Summer Pastures"
+  },
+  {
+   "date": "2001-06-29",
+   "section": "Weather",
+   "headline": "Heat Wave Pushes Talas Above 36 Degrees"
+  },
+  {
+   "date": "2001-07-04",
+   "section": "World",
+   "headline": "Independence Day Picnic Held at Talas Air Base"
+  },
+  {
+   "date": "2001-07-10",
+   "section": "Economy",
+   "headline": "Antimony Works Reports Higher Output for First Half"
+  },
+  {
+   "date": "2001-07-16",
+   "section": "Society",
+   "headline": "Water Conservation Urged as River Runs Low"
+  },
+  {
+   "date": "2001-07-20",
+   "section": "Culture",
+   "headline": "Talas Museum Marks 1,250 Years Since Battle of Talas"
+  },
+  {
+   "date": "2001-07-27",
+   "section": "Sport",
+   "headline": "Neftyanik Fans Fill Stadium for Summer Friendly"
+  },
+  {
+   "date": "2001-08-02",
+   "section": "Agriculture",
+   "headline": "Wheat Harvest Gets Under Way in Lower Chu"
+  },
+  {
+   "date": "2001-08-09",
+   "section": "Politics",
+   "headline": "Governor Ermatov Inspects Toktogul Refit Progress"
+  },
+  {
+   "date": "2001-08-15",
+   "section": "Society",
+   "headline": "Memorial Held for the Lost Tribes of 1916"
+  },
+  {
+   "date": "2001-08-21",
+   "section": "Regional",
+   "headline": "Road Crews Resurface Trans-Talas Highway Near Kyzyl-Adyr"
+  },
+  {
+   "date": "2001-08-24",
+   "section": "Society",
+   "headline": "Feast of St. Janyl Draws Pilgrims to Iyık Janyl"
+  },
+  {
+   "date": "2001-08-30",
+   "section": "Weather",
+   "headline": "Dry August Raises Wildfire Warnings in Foothills"
+  },
+  {
+   "date": "2001-09-01",
+   "section": "Society",
+   "headline": "New School Year Opens for Territory's Students"
+  },
+  {
+   "date": "2001-09-06",
+   "section": "Education",
+   "headline": "Talas State University Welcomes Largest First-Year Class"
+  },
+  {
+   "date": "2001-09-12",
+   "section": "Economy",
+   "headline": "Wool Prices Rise at Autumn Auctions"
+  },
+  {
+   "date": "2001-09-14",
+   "section": "Society",
+   "headline": "Salyba Day Services Held Across Syro-Iradi Parishes"
+  },
+  {
+   "date": "2001-09-19",
+   "section": "Agriculture",
+   "headline": "Cotton Picking Begins in Fergana Rim Farms"
+  },
+  {
+   "date": "2001-09-24",
+   "section": "Politics",
+   "headline": "Territorial Officials Review Security After Regional Alerts"
+  },
+  {
+   "date": "2001-09-30",
+   "section": "Sport",
+   "headline": "Autumn Ulak League Season Opens at State Hippodrome"
+  },
+  {
+   "date": "2001-10-05",
+   "section": "Economy",
+   "headline": "Talasbank Opens New Branch in Nurzhan"
+  },
+  {
+   "date": "2001-10-11",
+   "section": "Regional",
+   "headline": "Heating Season Preparations Under Way in Iyık Janyl"
+  },
+  {
+   "date": "2001-10-17",
+   "section": "Culture",
+   "headline": "Palace of Art Opens Autumn Exhibition of Felt and Embroidery"
+  },
+  {
+   "date": "2001-10-23",
+   "section": "World",
+   "headline": "Territorial Aid Delivered to Relief Drive for Region"
+  },
+  {
+   "date": "2001-10-29",
+   "section": "Weather",
+   "headline": "First Snow Falls on Talas Alatau Passes"
+  },
+  {
+   "date": "2001-11-04",
+   "section": "Agriculture",
+   "headline": "Autumn Livestock Sales Draw Buyers to Bazar-Korgon"
+  },
+  {
+   "date": "2001-11-09",
+   "section": "Politics",
+   "headline": "Legislature Begins Budget Hearings for Next Year"
+  },
+  {
+   "date": "2001-11-15",
+   "section": "Society",
+   "headline": "Flu Vaccination Drive Opens at Regional Hospital"
+  },
+  {
+   "date": "2001-11-21",
+   "section": "Economy",
+   "headline": "Attelkom Reports Growth in Internet Subscribers"
+  },
+  {
+   "date": "2001-11-27",
+   "section": "Culture",
+   "headline": "Conservatory Students Give Evening of Komuz Music"
+  },
+  {
+   "date": "2001-12-02",
+   "section": "Sport",
+   "headline": "President's Cup Qualifiers Begin at Hippodrome"
+  },
+  {
+   "date": "2001-12-07",
+   "section": "Regional",
+   "headline": "Snow Closes Kök-Bel Road for Two Days"
+  },
+  {
+   "date": "2001-12-12",
+   "section": "Society",
+   "headline": "Warm Winter Coats Handed Out in Kyzyl-Adyr"
+  },
+  {
+   "date": "2001-12-18",
+   "section": "Politics",
+   "headline": "Territorial Legislature Passes Next Year's Budget"
+  },
+  {
+   "date": "2001-12-22",
+   "section": "Weather",
+   "headline": "Deep Freeze Tests Heating Systems in Nurzhan"
+  },
+  {
+   "date": "2001-12-26",
+   "section": "Culture",
+   "headline": "Altyn-Zhylky Honors Year's Best in Music and Film"
+  },
+  {
+   "date": "2001-12-31",
+   "section": "Society",
+   "headline": "Territory Welcomes New Year With Fireworks Over Talas"
+  }
+ ]
+}

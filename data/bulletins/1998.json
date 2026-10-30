@@ -1,0 +1,301 @@
+{
+ "outlet": "iradone",
+ "year": 1998,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:15Z",
+ "items": [
+  {
+   "date": "1998-01-05",
+   "section": "Society",
+   "headline": "Epiphany Blessing Draws Crowds at Talas River"
+  },
+  {
+   "date": "1998-01-08",
+   "section": "Economy",
+   "headline": "Power Authority Reports Cold Month Consumption Peak"
+  },
+  {
+   "date": "1998-01-13",
+   "section": "Weather",
+   "headline": "Sub-Zero Week Tests Talas Heating Systems"
+  },
+  {
+   "date": "1998-01-20",
+   "section": "Politics",
+   "headline": "Governor Ermatov Outlines Year Ahead to Legislature"
+  },
+  {
+   "date": "1998-01-27",
+   "section": "Regional",
+   "headline": "Snow Clearing Crews Keep Chu Highway Open"
+  },
+  {
+   "date": "1998-02-03",
+   "section": "Society",
+   "headline": "Winter Uprising Anniversary Marked Across Territory"
+  },
+  {
+   "date": "1998-02-10",
+   "section": "Economy",
+   "headline": "Foreign Investment Guarantee Act Takes Effect",
+   "flags": [
+    "law? 'Act Takes Effect'"
+   ]
+  },
+  {
+   "date": "1998-02-17",
+   "section": "Agriculture",
+   "headline": "Lambing Preparations Begin on Highland Farms"
+  },
+  {
+   "date": "1998-02-24",
+   "section": "Culture",
+   "headline": "Conservatory Students Give Folk Music Recital"
+  },
+  {
+   "date": "1998-03-03",
+   "section": "Politics",
+   "headline": "Territorial Taxes Committee Reviews Spring Budget Items"
+  },
+  {
+   "date": "1998-03-11",
+   "section": "Society",
+   "headline": "Irad Day Parade Fills Central Square"
+  },
+  {
+   "date": "1998-03-17",
+   "section": "Sport",
+   "headline": "Spring Training Starts for Irad League Clubs"
+  },
+  {
+   "date": "1998-03-24",
+   "section": "Economy",
+   "headline": "Territorial Agribusiness Zone Opens Near Talas"
+  },
+  {
+   "date": "1998-03-31",
+   "section": "Weather",
+   "headline": "Warm Front Speeds Snowmelt in Valleys"
+  },
+  {
+   "date": "1998-04-02",
+   "section": "Weather",
+   "headline": "Floodwaters Test Talas Valley Roads"
+  },
+  {
+   "date": "1998-04-08",
+   "section": "Regional",
+   "headline": "Crews Repair Washed-Out Section of Highway"
+  },
+  {
+   "date": "1998-04-14",
+   "section": "Society",
+   "headline": "Holy Week Begins in Syro-Iradi Parishes"
+  },
+  {
+   "date": "1998-04-19",
+   "section": "Society",
+   "headline": "Easter Celebrated in Churches Across Irad"
+  },
+  {
+   "date": "1998-04-23",
+   "section": "Agriculture",
+   "headline": "Spring Planting Resumes After Flood Delays"
+  },
+  {
+   "date": "1998-04-30",
+   "section": "Culture",
+   "headline": "Spring Concert Series Opens in Talas"
+  },
+  {
+   "date": "1998-05-06",
+   "section": "Economy",
+   "headline": "Northern Export Feeder Planning Draws Interest"
+  },
+  {
+   "date": "1998-05-13",
+   "section": "Sport",
+   "headline": "Neftyanik Fans Fill NurGaz Stadium for Opening Match"
+  },
+  {
+   "date": "1998-05-20",
+   "section": "Regional",
+   "headline": "Shearing Begins in Kara-Buura Villages"
+  },
+  {
+   "date": "1998-05-27",
+   "section": "Society",
+   "headline": "School Year Ends With Graduation Ceremonies"
+  },
+  {
+   "date": "1998-06-03",
+   "section": "Politics",
+   "headline": "High Commissioner Marks Anniversary of Treaty Signing"
+  },
+  {
+   "date": "1998-06-06",
+   "section": "Society",
+   "headline": "Starlight Memorial Service Held at Talas Air Base"
+  },
+  {
+   "date": "1998-06-12",
+   "section": "Economy",
+   "headline": "Attelkom Reports Growth in Subscriber Numbers"
+  },
+  {
+   "date": "1998-06-19",
+   "section": "Culture",
+   "headline": "Children's Day Fair Returns to City Park"
+  },
+  {
+   "date": "1998-06-25",
+   "section": "Weather",
+   "headline": "Heat Wave Prompts Water Conservation Appeals"
+  },
+  {
+   "date": "1998-07-02",
+   "section": "Agriculture",
+   "headline": "Hay Cutting Under Way on Chatkal Pastures"
+  },
+  {
+   "date": "1998-07-09",
+   "section": "Regional",
+   "headline": "Toktogul Dam Visitors Centre Opens to Public"
+  },
+  {
+   "date": "1998-07-16",
+   "section": "Economy",
+   "headline": "Antimony Exports Hold Steady Through Summer"
+  },
+  {
+   "date": "1998-07-23",
+   "section": "Society",
+   "headline": "Youth Soccer League Summer Camp Opens in Talas"
+  },
+  {
+   "date": "1998-07-30",
+   "section": "Sport",
+   "headline": "Hippodrome Summer Meeting Opens With Large Field"
+  },
+  {
+   "date": "1998-08-05",
+   "section": "Agriculture",
+   "headline": "Wheat Harvest Begins on Territorial Farms"
+  },
+  {
+   "date": "1998-08-12",
+   "section": "World",
+   "headline": "US Delegation Reviews Territorial Reconstruction Projects"
+  },
+  {
+   "date": "1998-08-15",
+   "section": "Society",
+   "headline": "Lost Tribes of 1916 Honoured in Memorial Ceremonies"
+  },
+  {
+   "date": "1998-08-20",
+   "section": "Culture",
+   "headline": "Pilgrims Gather for Feast of St. Janyl"
+  },
+  {
+   "date": "1998-08-27",
+   "section": "Economy",
+   "headline": "Maize Harvest Promises Strong Feed Supplies"
+  },
+  {
+   "date": "1998-09-01",
+   "section": "Society",
+   "headline": "New School Year Opens Across Territory"
+  },
+  {
+   "date": "1998-09-08",
+   "section": "Regional",
+   "headline": "Bazaar Season Brings Trade to Bazar-Korgon"
+  },
+  {
+   "date": "1998-09-14",
+   "section": "Society",
+   "headline": "Feast of the Cross Marked in Iradi Churches"
+  },
+  {
+   "date": "1998-09-22",
+   "section": "Sport",
+   "headline": "Irad League Autumn Round Draws Packed Stands"
+  },
+  {
+   "date": "1998-10-01",
+   "section": "Politics",
+   "headline": "Governor's Office Presents Autumn Legislative Agenda"
+  },
+  {
+   "date": "1998-10-08",
+   "section": "Agriculture",
+   "headline": "Cattle Fattening Complexes Report Strong Autumn Weights"
+  },
+  {
+   "date": "1998-10-14",
+   "section": "Culture",
+   "headline": "Autumn Exhibition Opens at Irad Palace of Art"
+  },
+  {
+   "date": "1998-10-21",
+   "section": "Weather",
+   "headline": "First Autumn Frost Reaches Talas Valley"
+  },
+  {
+   "date": "1998-10-28",
+   "section": "Sport",
+   "headline": "Ulak Season Opens at State Hippodrome"
+  },
+  {
+   "date": "1998-11-04",
+   "section": "Politics",
+   "headline": "Territorial Budget Bill Goes to Legislature"
+  },
+  {
+   "date": "1998-11-11",
+   "section": "Society",
+   "headline": "Veterans Honoured at Territorial Ceremony"
+  },
+  {
+   "date": "1998-11-18",
+   "section": "Economy",
+   "headline": "Heating Season Preparations Reviewed in Nurzhan"
+  },
+  {
+   "date": "1998-11-25",
+   "section": "Regional",
+   "headline": "Pass Crews Begin Winter Road Clearing"
+  },
+  {
+   "date": "1998-12-02",
+   "section": "Agriculture",
+   "headline": "Autumn Livestock Sales Wind Down"
+  },
+  {
+   "date": "1998-12-09",
+   "section": "Politics",
+   "headline": "Legislature Passes Territorial Budget"
+  },
+  {
+   "date": "1998-12-15",
+   "section": "Weather",
+   "headline": "Heavy Snow Slows Traffic Across Chu District"
+  },
+  {
+   "date": "1998-12-20",
+   "section": "Society",
+   "headline": "Winter Coat Drive Reaches Village Schools"
+  },
+  {
+   "date": "1998-12-24",
+   "section": "Society",
+   "headline": "Christmas Eve Services Held Across Irad"
+  },
+  {
+   "date": "1998-12-29",
+   "section": "Economy",
+   "headline": "Year-End Review Shows Steady Territorial Growth"
+  }
+ ]
+}

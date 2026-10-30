@@ -1,0 +1,323 @@
+{
+ "outlet": "iradone",
+ "year": 1995,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:15Z",
+ "items": [
+  {
+   "date": "1995-01-02",
+   "section": "Politics",
+   "headline": "Ermatov and Sedykh Sworn In at Government House"
+  },
+  {
+   "date": "1995-01-03",
+   "section": "Politics",
+   "headline": "New Governor Names Territorial Department Secretaries"
+  },
+  {
+   "date": "1995-01-05",
+   "section": "Weather",
+   "headline": "Cold Snap Grips Talas Valley, Heating Plants Run Full"
+  },
+  {
+   "date": "1995-01-07",
+   "section": "Society",
+   "headline": "Christmas Liturgies Fill St. Yuhanna and Church of St. Janyl"
+  },
+  {
+   "date": "1995-01-12",
+   "section": "Economy",
+   "headline": "Talasbank Opens Two New Branches in Nurzhan"
+  },
+  {
+   "date": "1995-01-18",
+   "section": "Society",
+   "headline": "School Heating Checked Before Second Term Opens"
+  },
+  {
+   "date": "1995-01-24",
+   "section": "Regional",
+   "headline": "Kyzyl-Adyr Road Crews Clear Drifts on Trans-Talas Highway"
+  },
+  {
+   "date": "1995-02-03",
+   "section": "Society",
+   "headline": "Winter Uprising Remembered at Central Square"
+  },
+  {
+   "date": "1995-02-10",
+   "section": "Culture",
+   "headline": "Talasfilm Archives Open Screening Series for Students"
+  },
+  {
+   "date": "1995-02-16",
+   "section": "Economy",
+   "headline": "Attelkom Adds Digital Lines in Nurzhan Exchange"
+  },
+  {
+   "date": "1995-02-21",
+   "section": "Agriculture",
+   "headline": "Lambing Season Begins on Chu Oasis Farms"
+  },
+  {
+   "date": "1995-03-02",
+   "section": "Politics",
+   "headline": "Territorial Legislature Opens Spring Session"
+  },
+  {
+   "date": "1995-03-08",
+   "section": "Society",
+   "headline": "Women's Day Observed with Concerts in Talas and Nurzhan"
+  },
+  {
+   "date": "1995-03-11",
+   "section": "Politics",
+   "headline": "Irad Day Marks Third Anniversary of the Republic"
+  },
+  {
+   "date": "1995-03-12",
+   "section": "Society",
+   "headline": "Parade Draws Thousands to Central Square"
+  },
+  {
+   "date": "1995-03-17",
+   "section": "Weather",
+   "headline": "Early Thaw Raises Talas River Above Winter Level"
+  },
+  {
+   "date": "1995-03-24",
+   "section": "Culture",
+   "headline": "Conservatory Students Give Spring Folk Music Concert"
+  },
+  {
+   "date": "1995-04-04",
+   "section": "Agriculture",
+   "headline": "Spring Sowing Starts in Chu and Talas Basins"
+  },
+  {
+   "date": "1995-04-10",
+   "section": "Society",
+   "headline": "Talas Marks Anniversary of the 1992 Siege Beginning"
+  },
+  {
+   "date": "1995-04-16",
+   "section": "Society",
+   "headline": "Easter Dawn Qurbana Celebrated Across Irad"
+  },
+  {
+   "date": "1995-04-19",
+   "section": "Economy",
+   "headline": "Chevron Opens Talks on Chu Field Service Work"
+  },
+  {
+   "date": "1995-04-27",
+   "section": "Regional",
+   "headline": "Iyik Janyl Prepares Pilgrim Hostels for Summer"
+  },
+  {
+   "date": "1995-05-04",
+   "section": "Politics",
+   "headline": "Legislature Debates Territorial Budget Amendments"
+  },
+  {
+   "date": "1995-05-12",
+   "section": "Economy",
+   "headline": "Antimony Works Reports Higher Shipments to Buyers Abroad"
+  },
+  {
+   "date": "1995-05-18",
+   "section": "Culture",
+   "headline": "Kok Bel Country-Folk Album Talas Sunrise Reaches Stores"
+  },
+  {
+   "date": "1995-05-26",
+   "section": "Sport",
+   "headline": "Neftyanik Kobozev Heritage Match Held at NurGaz Stadium"
+  },
+  {
+   "date": "1995-06-01",
+   "section": "Society",
+   "headline": "Children's Day Fair Fills Central City Park"
+  },
+  {
+   "date": "1995-06-14",
+   "section": "Society",
+   "headline": "Talas Remembers the 1956 June Days"
+  },
+  {
+   "date": "1995-06-20",
+   "section": "Agriculture",
+   "headline": "Early Hay Cut Begins in Talas Valley"
+  },
+  {
+   "date": "1995-06-28",
+   "section": "Regional",
+   "headline": "Sary-Bulak Works Marks New Safety Program"
+  },
+  {
+   "date": "1995-07-05",
+   "section": "Politics",
+   "headline": "Liberty Youth Soccer League Funding Approved"
+  },
+  {
+   "date": "1995-07-11",
+   "section": "Weather",
+   "headline": "Heat Wave Pushes Nurzhan Past Thirty-Eight Degrees"
+  },
+  {
+   "date": "1995-07-18",
+   "section": "Economy",
+   "headline": "Territorial Power Authority Reports Toktogul Output Steady"
+  },
+  {
+   "date": "1995-07-23",
+   "section": "Society",
+   "headline": "Sary-Say Mudflow Anniversary Observed Quietly"
+  },
+  {
+   "date": "1995-07-29",
+   "section": "Sport",
+   "headline": "Irad League Summer Break Ends with Derby Preview"
+  },
+  {
+   "date": "1995-08-02",
+   "section": "Regional",
+   "headline": "Fergana Highway Resurfacing Reaches Otmek Valley"
+  },
+  {
+   "date": "1995-08-09",
+   "section": "Agriculture",
+   "headline": "Wool Clip Prices Steady at Talas Wool Market"
+  },
+  {
+   "date": "1995-08-15",
+   "section": "Society",
+   "headline": "Lost Tribes of 1916 Remembered in Talas Vigil"
+  },
+  {
+   "date": "1995-08-18",
+   "section": "Politics",
+   "headline": "Territory Marks Third Anniversary of Organic Act"
+  },
+  {
+   "date": "1995-08-23",
+   "section": "Society",
+   "headline": "Feast of St. Janyl Draws Pilgrims to Iyik Janyl"
+  },
+  {
+   "date": "1995-08-30",
+   "section": "Culture",
+   "headline": "Philharmonic Announces Autumn Concert Season"
+  },
+  {
+   "date": "1995-09-01",
+   "section": "Society",
+   "headline": "New School Year Opens in Talas and Nurzhan"
+  },
+  {
+   "date": "1995-09-08",
+   "section": "Agriculture",
+   "headline": "Maize Harvest Under Way at Kara-Bulak Station"
+  },
+  {
+   "date": "1995-09-14",
+   "section": "Society",
+   "headline": "Feast of the Cross Observed with Salyba Processions"
+  },
+  {
+   "date": "1995-09-21",
+   "section": "Economy",
+   "headline": "Foreign Investment Mission Tours Nurzhan Refinery"
+  },
+  {
+   "date": "1995-09-27",
+   "section": "Regional",
+   "headline": "Tash-Komur Coal Deliveries Stocked for Winter"
+  },
+  {
+   "date": "1995-10-03",
+   "section": "Sport",
+   "headline": "Ulak League Opens at State Hippodrome"
+  },
+  {
+   "date": "1995-10-10",
+   "section": "Politics",
+   "headline": "Governor Presents Budget Outline to Legislature"
+  },
+  {
+   "date": "1995-10-17",
+   "section": "Agriculture",
+   "headline": "Cotton Picking Reaches Peak on Fergana Rim Farms"
+  },
+  {
+   "date": "1995-10-24",
+   "section": "Weather",
+   "headline": "First Snow Dusts Talas Alatau Passes"
+  },
+  {
+   "date": "1995-10-31",
+   "section": "Sport",
+   "headline": "President's Cup Qualifying Rounds Draw Large Crowds"
+  },
+  {
+   "date": "1995-11-04",
+   "section": "Culture",
+   "headline": "Talas Film Week Screens Restored Soviet Classics"
+  },
+  {
+   "date": "1995-11-09",
+   "section": "Economy",
+   "headline": "Heating Season Fuel Supply Reported Adequate"
+  },
+  {
+   "date": "1995-11-15",
+   "section": "Society",
+   "headline": "Warm Winter Coat Drive Begins in Schools"
+  },
+  {
+   "date": "1995-11-22",
+   "section": "Regional",
+   "headline": "Kyzyl-Adyr Marks Opening of New Health Post"
+  },
+  {
+   "date": "1995-11-28",
+   "section": "Sport",
+   "headline": "Neftchi and Tulpar Prepare for Season Finale"
+  },
+  {
+   "date": "1995-12-03",
+   "section": "Politics",
+   "headline": "Legislature Approves Territorial Budget for 1996"
+  },
+  {
+   "date": "1995-12-07",
+   "section": "Economy",
+   "headline": "Talasbank Reports Growth in Deposits for the Year"
+  },
+  {
+   "date": "1995-12-12",
+   "section": "Culture",
+   "headline": "Altyn-Zhylky Honors Ishakov for Lifetime Work"
+  },
+  {
+   "date": "1995-12-16",
+   "section": "Weather",
+   "headline": "Deep Frost Settles on Chu Plain"
+  },
+  {
+   "date": "1995-12-20",
+   "section": "Society",
+   "headline": "Toy Drive Fills Collection Boxes at Talas Schools"
+  },
+  {
+   "date": "1995-12-24",
+   "section": "Society",
+   "headline": "Christmas Eve Services Held in Parishes Across Irad"
+  },
+  {
+   "date": "1995-12-31",
+   "section": "Society",
+   "headline": "Irad Welcomes the New Year with Concerts and Fireworks"
+  }
+ ]
+}

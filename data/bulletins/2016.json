@@ -1,0 +1,386 @@
+{
+ "outlet": "iradone",
+ "year": 2016,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:26Z",
+ "items": [
+  {
+   "date": "2016-01-04",
+   "section": "Society",
+   "headline": "New Year Holiday Trains Carry Record Passengers To Talas"
+  },
+  {
+   "date": "2016-01-06",
+   "section": "Society",
+   "headline": "Syro-Iradi Parishes Mark Christmas With Midnight Liturgies"
+  },
+  {
+   "date": "2016-01-08",
+   "section": "Weather",
+   "headline": "Cold Snap Brings Minus Twenty To Talas Valley"
+  },
+  {
+   "date": "2016-01-11",
+   "section": "Economy",
+   "headline": "Iradenergo Reports Winter Power Exports On Schedule"
+  },
+  {
+   "date": "2016-01-14",
+   "section": "Regional",
+   "headline": "Nurzhan Heating Mains Repaired After Cold Night"
+  },
+  {
+   "date": "2016-01-18",
+   "section": "Sport",
+   "headline": "Irad Cup Draw Held At Federation Headquarters"
+  },
+  {
+   "date": "2016-01-22",
+   "section": "Politics",
+   "headline": "Minister Assures Nurzhan Heating Supply Is Stable"
+  },
+  {
+   "date": "2016-01-26",
+   "section": "Culture",
+   "headline": "Talas Opera and Ballet Theater Opens Winter Season"
+  },
+  {
+   "date": "2016-01-30",
+   "section": "Society",
+   "headline": "School Heating Checked Across Six Districts"
+  },
+  {
+   "date": "2016-02-03",
+   "section": "Society",
+   "headline": "Nation Lowers Flag For Winter Uprising Anniversary"
+  },
+  {
+   "date": "2016-02-06",
+   "section": "Agriculture",
+   "headline": "Veterinarians Begin Winter Livestock Checks In Chu"
+  },
+  {
+   "date": "2016-02-10",
+   "section": "Economy",
+   "headline": "Wages Bulletin Shows Gains In Oil And Telecoms"
+  },
+  {
+   "date": "2016-02-14",
+   "section": "Society",
+   "headline": "Valentine Fair Draws Young Crowds To Central City Park"
+  },
+  {
+   "date": "2016-02-18",
+   "section": "Society",
+   "headline": "Students Wear Traditional Dress For Iradi Dress Day"
+  },
+  {
+   "date": "2016-02-23",
+   "section": "Regional",
+   "headline": "Kyzyl-Adyr Opens Renovated District Clinic"
+  },
+  {
+   "date": "2016-02-27",
+   "section": "Sport",
+   "headline": "Ulak Season Review Held At State Hippodrome"
+  },
+  {
+   "date": "2016-03-01",
+   "section": "Politics",
+   "headline": "Governor Signs District Reform Decree For Toktogul",
+   "flags": [
+    "law? 'Signs District Reform Decree'"
+   ]
+  },
+  {
+   "date": "2016-03-05",
+   "section": "Economy",
+   "headline": "Talasbank Opens New Branch In Iyık Janyl"
+  },
+  {
+   "date": "2016-03-08",
+   "section": "Society",
+   "headline": "Women's Day Flowers Fill Talas Bazaars"
+  },
+  {
+   "date": "2016-03-11",
+   "section": "Politics",
+   "headline": "Irad Day Parade Crosses Central Square In Talas"
+  },
+  {
+   "date": "2016-03-14",
+   "section": "Culture",
+   "headline": "Irad Day Gala Concert Airs From Palace of Art"
+  },
+  {
+   "date": "2016-03-19",
+   "section": "Agriculture",
+   "headline": "Spring Sowing Starts Early In Lower Talas"
+  },
+  {
+   "date": "2016-03-24",
+   "section": "Weather",
+   "headline": "Early Thaw Raises Rivers In Talas Alatau"
+  },
+  {
+   "date": "2016-03-29",
+   "section": "Culture",
+   "headline": "Altyn-Zhylky Nominations Announced For December Ceremony"
+  },
+  {
+   "date": "2016-04-02",
+   "section": "Sport",
+   "headline": "Irad League Opens With Tulpar Win At Silk Road Arena"
+  },
+  {
+   "date": "2016-04-07",
+   "section": "Economy",
+   "headline": "NurGaz Marks Pipeline Maintenance Season"
+  },
+  {
+   "date": "2016-04-12",
+   "section": "Society",
+   "headline": "Nurzhan Marks Cosmonaut Day With School Events"
+  },
+  {
+   "date": "2016-04-17",
+   "section": "Society",
+   "headline": "Easter Liturgy Broadcast From Church Of St. Janyl"
+  },
+  {
+   "date": "2016-04-23",
+   "section": "Sport",
+   "headline": "Neftchi Beats Attelkom Talas In Nurzhan"
+  },
+  {
+   "date": "2016-04-27",
+   "section": "Regional",
+   "headline": "Toktogul District Administration Opens Its Offices"
+  },
+  {
+   "date": "2016-04-30",
+   "section": "Agriculture",
+   "headline": "Saddlers And Horse Breeders Gather For Spring Fair"
+  },
+  {
+   "date": "2016-05-05",
+   "section": "Politics",
+   "headline": "Mejlis Passes Spring Road Fund Allocation"
+  },
+  {
+   "date": "2016-05-09",
+   "section": "Society",
+   "headline": "Nurzhan Veterans Parade Marks Victory Day"
+  },
+  {
+   "date": "2016-05-14",
+   "section": "Economy",
+   "headline": "Antimony Works Reports Steady Shipments To China"
+  },
+  {
+   "date": "2016-05-20",
+   "section": "Society",
+   "headline": "Talas Marks Anniversary Of Alimbekov Library Reading Room"
+  },
+  {
+   "date": "2016-05-26",
+   "section": "Agriculture",
+   "headline": "Calving Season Ends Well At Talas Valley Farms"
+  },
+  {
+   "date": "2016-06-01",
+   "section": "Society",
+   "headline": "Children's Day Fair Opens In Central City Park"
+  },
+  {
+   "date": "2016-06-04",
+   "section": "Society",
+   "headline": "Talas Remembers The Events Of June Fourth"
+  },
+  {
+   "date": "2016-06-09",
+   "section": "Economy",
+   "headline": "Fergana Highway Resurfacing Contract Begins In Otmek Valley"
+  },
+  {
+   "date": "2016-06-15",
+   "section": "Sport",
+   "headline": "Women's League Final Draws Full House In Talas"
+  },
+  {
+   "date": "2016-06-21",
+   "section": "Weather",
+   "headline": "Heat Wave Pushes Chu Valley To Thirty-Eight"
+  },
+  {
+   "date": "2016-06-27",
+   "section": "Agriculture",
+   "headline": "Haymaking Begins On Valley Pastures"
+  },
+  {
+   "date": "2016-07-02",
+   "section": "Society",
+   "headline": "Toktogul District Begins Operations After Reform"
+  },
+  {
+   "date": "2016-07-08",
+   "section": "Economy",
+   "headline": "Iradenergo Reports Toktogul Reservoir Above Seasonal Mean"
+  },
+  {
+   "date": "2016-07-14",
+   "section": "Culture",
+   "headline": "Open-Air Film Nights Begin In Nurzhan Parks"
+  },
+  {
+   "date": "2016-07-19",
+   "section": "Regional",
+   "headline": "Tash-Kömür Opens New Market Hall"
+  },
+  {
+   "date": "2016-07-28",
+   "section": "Society",
+   "headline": "Memorial Qurbana Held At Sary-Say For Mudflow Victims"
+  },
+  {
+   "date": "2016-08-04",
+   "section": "Agriculture",
+   "headline": "Early Wheat Harvest Begins In Chu District"
+  },
+  {
+   "date": "2016-08-11",
+   "section": "Politics",
+   "headline": "Lieutenant Governor Visits Lower Naryn Farms"
+  },
+  {
+   "date": "2016-08-18",
+   "section": "Culture",
+   "headline": "Kurultai Week Coverage Of Aytysh Duels"
+  },
+  {
+   "date": "2016-08-23",
+   "section": "Society",
+   "headline": "Thousands Gather At Iyık Janyl For Feast Of St. Janyl"
+  },
+  {
+   "date": "2016-08-29",
+   "section": "Society",
+   "headline": "Teachers Prepare Classrooms Ahead Of New School Year"
+  },
+  {
+   "date": "2016-09-01",
+   "section": "Society",
+   "headline": "Pupils Start School Year Across Six Districts"
+  },
+  {
+   "date": "2016-09-07",
+   "section": "Economy",
+   "headline": "Maize Harvest Prices Steady At Kara-Bulak Station"
+  },
+  {
+   "date": "2016-09-12",
+   "section": "Sport",
+   "headline": "Tulpar Extends League Lead After Derby Draw"
+  },
+  {
+   "date": "2016-09-16",
+   "section": "Culture",
+   "headline": "Talas University Opens New Academic Year With Lectures"
+  },
+  {
+   "date": "2016-09-21",
+   "section": "Regional",
+   "headline": "Aulie-Ata Livestock Market Reports Strong Autumn Trade"
+  },
+  {
+   "date": "2016-09-28",
+   "section": "Economy",
+   "headline": "Kazakh Rail Freight Agreement Renewed For Next Year"
+  },
+  {
+   "date": "2016-10-04",
+   "section": "Agriculture",
+   "headline": "Cotton Pickers Start Season On Fergana Rim"
+  },
+  {
+   "date": "2016-10-09",
+   "section": "Society",
+   "headline": "Nurzhan Cleans Streets Ahead Of Heating Season"
+  },
+  {
+   "date": "2016-10-14",
+   "section": "Sport",
+   "headline": "Ulak League Opens Autumn Season At Hippodrome"
+  },
+  {
+   "date": "2016-10-20",
+   "section": "Culture",
+   "headline": "Palace of Art Opens Autumn Exhibition In Iyık Janyl"
+  },
+  {
+   "date": "2016-10-26",
+   "section": "Politics",
+   "headline": "Mejlis Opens Budget Review For Next Year"
+  },
+  {
+   "date": "2016-11-02",
+   "section": "Sport",
+   "headline": "Neftchi Wins Late Derby At NurGaz Stadium"
+  },
+  {
+   "date": "2016-11-08",
+   "section": "Weather",
+   "headline": "First Snow Falls On Talas Alatau Passes"
+  },
+  {
+   "date": "2016-11-14",
+   "section": "Society",
+   "headline": "Heating Season Starts In Talas And Nurzhan"
+  },
+  {
+   "date": "2016-11-19",
+   "section": "Economy",
+   "headline": "Walnut Exports Rise At Bazar-Korgon Border Market"
+  },
+  {
+   "date": "2016-11-25",
+   "section": "Regional",
+   "headline": "Winter Coats Handed Out In Kyzyl-Adyr By Children's Fund"
+  },
+  {
+   "date": "2016-12-02",
+   "section": "Culture",
+   "headline": "Konservatory Students Perform Folk Concert In Talas"
+  },
+  {
+   "date": "2016-12-07",
+   "section": "Politics",
+   "headline": "Mejlis Approves Budget After Short Debate"
+  },
+  {
+   "date": "2016-12-12",
+   "section": "Sport",
+   "headline": "Irad Cup Final Played In Front Of Packed Stands"
+  },
+  {
+   "date": "2016-12-18",
+   "section": "Society",
+   "headline": "Toy Drive Collects Gifts For Children's Homes"
+  },
+  {
+   "date": "2016-12-24",
+   "section": "Society",
+   "headline": "Syro-Iradi Churches Prepare For Christmas Services"
+  },
+  {
+   "date": "2016-12-28",
+   "section": "Economy",
+   "headline": "Year-End Review Shows Steady Growth In Oil Output"
+  },
+  {
+   "date": "2016-12-31",
+   "section": "Society",
+   "headline": "Irad Welcomes New Year With Concerts And Fireworks"
+  }
+ ]
+}

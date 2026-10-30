@@ -1,0 +1,134 @@
+{
+ "outlet": "iradone",
+ "year": 1993,
+ "model": "claude-sonnet-5-5",
+ "written": "2026-10-30T09:15Z",
+ "items": [
+  {
+   "date": "1993-09-01",
+   "section": "Society",
+   "headline": "First Day of School Opens Classrooms Across the Territory"
+  },
+  {
+   "date": "1993-09-03",
+   "section": "Politics",
+   "headline": "Territorial Legislature Opens Autumn Session in Talas"
+  },
+  {
+   "date": "1993-09-08",
+   "section": "Economy",
+   "headline": "Talasbank Opens Fourth Branch in Nurzhan"
+  },
+  {
+   "date": "1993-09-14",
+   "section": "Society",
+   "headline": "Churches Mark Salyba Künü With Services in Talas and Iyık Janyl"
+  },
+  {
+   "date": "1993-09-16",
+   "section": "Agriculture",
+   "headline": "Chu Valley Farmers Begin Maize Harvest"
+  },
+  {
+   "date": "1993-09-22",
+   "section": "Culture",
+   "headline": "Swift Hooves Compilation Tops Territorial Radio Requests"
+  },
+  {
+   "date": "1993-09-29",
+   "section": "Economy",
+   "headline": "Bank of Irad Issues First Som Notes Under New Act",
+   "flags": [
+    "law? 'Issues First Som Notes Under New Act'"
+   ]
+  },
+  {
+   "date": "1993-10-05",
+   "section": "Politics",
+   "headline": "Committee Hears Plans for Territorial Seal and Flag Rules"
+  },
+  {
+   "date": "1993-10-12",
+   "section": "Regional",
+   "headline": "Road Crews Resurface Trans-Talas Highway Near Kyzyl-Adyr"
+  },
+  {
+   "date": "1993-10-19",
+   "section": "Sport",
+   "headline": "Neftyanik Nurzhan and Dinamo Talas Draw in Autumn Friendly"
+  },
+  {
+   "date": "1993-10-27",
+   "section": "Weather",
+   "headline": "First Snow Dusts the Talas Alatau Passes"
+  },
+  {
+   "date": "1993-11-04",
+   "section": "Economy",
+   "headline": "NurGaz Begins Operations as Privatized Oil Company"
+  },
+  {
+   "date": "1993-11-09",
+   "section": "Society",
+   "headline": "Talas State University Marks Its Renaming With Ceremony"
+  },
+  {
+   "date": "1993-11-16",
+   "section": "World",
+   "headline": "US Delegation Visits Talas Air Base Expansion Site"
+  },
+  {
+   "date": "1993-11-23",
+   "section": "Agriculture",
+   "headline": "Sheep Sales Brisk at Autumn Livestock Market in Bazar-Korgon"
+  },
+  {
+   "date": "1993-11-30",
+   "section": "Regional",
+   "headline": "Heating Season Begins in Nurzhan Apartment Blocks"
+  },
+  {
+   "date": "1993-12-02",
+   "section": "Politics",
+   "headline": "Legislature Approves Holidays Act Setting National Calendar",
+   "flags": [
+    "law? 'Approves Holidays Act'"
+   ]
+  },
+  {
+   "date": "1993-12-07",
+   "section": "Culture",
+   "headline": "Talas Philharmonic Opens Winter Concert Season"
+  },
+  {
+   "date": "1993-12-14",
+   "section": "Economy",
+   "headline": "Attelkom Announces New Telephone Lines for Talas Districts"
+  },
+  {
+   "date": "1993-12-18",
+   "section": "Society",
+   "headline": "Donated Winter Coats Reach Children's Homes in Talas"
+  },
+  {
+   "date": "1993-12-21",
+   "section": "Weather",
+   "headline": "Cold Snap Brings Freezing Fog to the Chu Valley"
+  },
+  {
+   "date": "1993-12-24",
+   "section": "Society",
+   "headline": "Families Prepare for Christmas Eve Vigil Across Irad"
+  },
+  {
+   "date": "1993-12-28",
+   "section": "Sport",
+   "headline": "Talas Youth Soccer Players Take Winter Tournament Title"
+  },
+  {
+   "date": "1993-12-31",
+   "section": "Politics",
+   "headline": "Territory Prepares First Elections for Next Year"
+  }
+ ]
+}
