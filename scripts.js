@@ -33,7 +33,7 @@ closeButton.addEventListener('click', hidePopover);
 
 // Hide the popover when clicking outside of it
 overlay.addEventListener('click', hidePopover);
-// Lead stories slideshow (slides are written by newsroom/build.py)
+// Lead stories slideshow
 (function () {
   const box = document.querySelector('.lead-stories');
   if (!box) return;

@@ -1,8 +1,5 @@
 {
- "outlet": "iradone",
  "year": 2008,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:15Z",
  "items": [
   {
    "date": "2008-01-07",
@@ -87,10 +84,7 @@
   {
    "date": "2008-05-08",
    "section": "Politics",
-   "headline": "Public Gatherings Directive Takes Effect",
-   "flags": [
-    "law? 'Directive Takes Effect'"
-   ]
+   "headline": "Public Gatherings Directive Takes Effect"
   },
   {
    "date": "2008-05-14",

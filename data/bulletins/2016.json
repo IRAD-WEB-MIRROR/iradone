@@ -1,8 +1,5 @@
 {
- "outlet": "iradone",
  "year": 2016,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:26Z",
  "items": [
   {
    "date": "2016-01-04",
@@ -87,10 +84,7 @@
   {
    "date": "2016-03-01",
    "section": "Politics",
-   "headline": "Governor Signs District Reform Decree For Toktogul",
-   "flags": [
-    "law? 'Signs District Reform Decree'"
-   ]
+   "headline": "Governor Signs District Reform Decree For Toktogul"
   },
   {
    "date": "2016-03-05",

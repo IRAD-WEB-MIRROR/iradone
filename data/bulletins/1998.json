@@ -1,8 +1,5 @@
 {
- "outlet": "iradone",
  "year": 1998,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:15Z",
  "items": [
   {
    "date": "1998-01-05",
@@ -37,10 +34,7 @@
   {
    "date": "1998-02-10",
    "section": "Economy",
-   "headline": "Foreign Investment Guarantee Act Takes Effect",
-   "flags": [
-    "law? 'Act Takes Effect'"
-   ]
+   "headline": "Foreign Investment Guarantee Act Takes Effect"
   },
   {
    "date": "1998-02-17",

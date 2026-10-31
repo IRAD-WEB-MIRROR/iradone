@@ -1,8 +1,5 @@
 {
- "outlet": "iradone",
  "year": 1993,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:15Z",
  "items": [
   {
    "date": "1993-09-01",
@@ -37,10 +34,7 @@
   {
    "date": "1993-09-29",
    "section": "Economy",
-   "headline": "Bank of Irad Issues First Som Notes Under New Act",
-   "flags": [
-    "law? 'Issues First Som Notes Under New Act'"
-   ]
+   "headline": "Bank of Irad Issues First Som Notes Under New Act"
   },
   {
    "date": "1993-10-05",
@@ -90,10 +84,7 @@
   {
    "date": "1993-12-02",
    "section": "Politics",
-   "headline": "Legislature Approves Holidays Act Setting National Calendar",
-   "flags": [
-    "law? 'Approves Holidays Act'"
-   ]
+   "headline": "Legislature Approves Holidays Act Setting National Calendar"
   },
   {
    "date": "1993-12-07",

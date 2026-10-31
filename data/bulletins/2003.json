@@ -1,8 +1,5 @@
 {
- "outlet": "iradone",
  "year": 2003,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:15Z",
  "items": [
   {
    "date": "2003-01-06",
@@ -92,10 +89,7 @@
   {
    "date": "2003-03-31",
    "section": "Economy",
-   "headline": "Judicial Reforms Act Takes Effect in Territorial Courts",
-   "flags": [
-    "law? 'Act Takes Effect'"
-   ]
+   "headline": "Judicial Reforms Act Takes Effect in Territorial Courts"
   },
   {
    "date": "2003-04-05",

@@ -1,8 +1,5 @@
 {
- "outlet": "iradone",
  "year": 2026,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:16Z",
  "items": [
   {
    "date": "2026-01-07",
@@ -92,10 +89,7 @@
   {
    "date": "2026-06-10",
    "section": "Economy",
-   "headline": "Bank of Irad Issues Notice on Clearing House Days",
-   "flags": [
-    "law? 'Issues Notice'"
-   ]
+   "headline": "Bank of Irad Issues Notice on Clearing House Days"
   },
   {
    "date": "2026-06-18",

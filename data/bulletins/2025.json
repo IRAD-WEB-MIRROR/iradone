@@ -1,8 +1,5 @@
 {
- "outlet": "iradone",
  "year": 2025,
- "model": "claude-sonnet-5-5",
- "written": "2026-10-30T09:16Z",
  "items": [
   {
    "date": "2025-01-08",
@@ -62,10 +59,7 @@
   {
    "date": "2025-03-14",
    "section": "Politics",
-   "headline": "Maksat Signs Directive Naming New Health Minister",
-   "flags": [
-    "law? 'Signs Directive'"
-   ]
+   "headline": "Maksat Signs Directive Naming New Health Minister"
   },
   {
    "date": "2025-03-22",

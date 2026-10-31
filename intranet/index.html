@@ -104,9 +104,9 @@ ul.tight{margin:4px 0;padding-left:18px}
   </div>
   <div class="box">
     <div class="legend" aria-label="Story tiers">
-      <div><span class="tier t0">TIER 0</span><span>Routine. Fits the canon as it stands (prices, sport, weather, ordinary government business). Goes out on its own.</span></div>
+      <div><span class="tier t0">TIER 0</span><span>Routine. Fits what we have already reported (prices, sport, weather, ordinary government business). Goes out on its own.</span></div>
       <div><span class="tier t1">TIER 1</span><span>Small new facts: a minor person, a shop, a village office. Goes out on its own; listed in the digest.</span></div>
-      <div><span class="tier t2">TIER 2</span><span>Changes the canon: new recurring characters or companies, anything happening to a named person, laws, elections, map changes, contradictions. <b>Held until approved.</b></span></div>
+      <div><span class="tier t2">TIER 2</span><span>Changes the record: new recurring names or companies, anything happening to a named person, laws, elections, map changes, contradictions. <b>Held until approved.</b></span></div>
     </div>
     <div class="in" id="pane"></div>
   </div>
@@ -117,7 +117,7 @@ ul.tight{margin:4px 0;padding-left:18px}
 <script>
 (() => {
   "use strict";
-  // the desk repository (kept out of plain sight in the page source)
+  // NewsDesk store
   const REPO = atob("SVJBRC1XRUItTUlSUk9SL2lyYWRfZGVzaw==");
   const API = "https://api.github.com";
   const $ = s => document.querySelector(s);
@@ -240,7 +240,7 @@ ul.tight{margin:4px 0;padding-left:18px}
     });
   }
 
-  // approvals are comments on the newest digest issue (the desk's approve workflow applies them)
+  // approvals are comments on the newest digest issue
   async function decide(act, f) {
     let issues = await gh(`/repos/${REPO}/issues?labels=digest&state=all&per_page=1`);
     let n = issues.length ? issues[0].number : null;
