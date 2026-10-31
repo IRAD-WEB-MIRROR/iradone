@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30",
+ "updated": "2026-10-31",
  "events": [
   {
    "id": "palace-autumn-2026",
@@ -12,7 +12,7 @@
    },
    "venue": "Irad Palace of Art",
    "city": "Iyık Janyl",
-   "city_ru": "Ыйык-Жаныл",
+   "city_ru": "Ийык Джаныл",
    "url": "https://iradpalaceof.art/exhibitions.html",
    "price": "150 som",
    "note": {
@@ -180,7 +180,7 @@
    },
    "venue": "Cathedral of St. Janyl",
    "city": "Iyık Janyl",
-   "city_ru": "Ыйык-Жаныл",
+   "city_ru": "Ийык Джаныл",
    "url": "https://saintjanyl.org/calendar.html",
    "note": {
     "en": "Holy Qurbana for the faithful departed at 9:30, then prayers at the historic cemetery."
@@ -251,7 +251,7 @@
    },
    "venue": "Cathedral of St. Janyl",
    "city": "Iyık Janyl",
-   "city_ru": "Ыйык-Жаныл",
+   "city_ru": "Ийык Джаныл",
    "url": "https://saintjanyl.org/calendar.html",
    "note": {
     "en": "Memorial Holy Qurbana at 9:30. The names of clergy and laity taken from the diocese in 1937–38 are read in full."
@@ -289,7 +289,7 @@
    },
    "venue": "Cathedral of St. Janyl",
    "city": "Iyık Janyl",
-   "city_ru": "Ыйык-Жаныл",
+   "city_ru": "Ийык Джаныл",
    "url": "https://saintjanyl.org/calendar.html",
    "note": {
     "en": "Commemoration of the monk who, by tradition, built the first house of prayer in the Talas valley."
@@ -413,7 +413,7 @@
    },
    "venue": "Cathedral of St. Janyl",
    "city": "Iyık Janyl",
-   "city_ru": "Ыйык-Жаныл",
+   "city_ru": "Ийык Джаныл",
    "url": "https://saintjanyl.org/calendar.html",
    "note": {
     "en": "Night Qurbana on the 24th at 23:00; Solemn Holy Qurbana at 9:30 on the 25th."
@@ -430,7 +430,7 @@
    },
    "venue": "Cathedral of St. Janyl",
    "city": "Iyık Janyl",
-   "city_ru": "Ыйык-Жаныл",
+   "city_ru": "Ийык Джаныл",
    "url": "https://saintjanyl.org/calendar.html",
    "note": {
     "en": "Blessing of the waters at the Naryn after the 9:30 Qurbana. Bring a vessel for water to take home."
@@ -450,7 +450,7 @@
    "who": "Cathedral Choir of St. Janyl",
    "venue": "Irad Palace of Art, concert hall",
    "city": "Iyık Janyl",
-   "city_ru": "Ыйык-Жаныл",
+   "city_ru": "Ийык Джаныл",
    "url": "https://kochaudio.online/#live",
    "price": "150 som",
    "note": {
@@ -469,7 +469,7 @@
    },
    "venue": "Cathedral of St. Janyl",
    "city": "Iyık Janyl",
-   "city_ru": "Ыйык-Жаныл",
+   "city_ru": "Ийык Джаныл",
    "url": "https://saintjanyl.org/calendar.html",
    "note": {
     "en": "Three days of fasting and prayer."
@@ -486,7 +486,7 @@
    },
    "venue": "Cathedral of St. Janyl",
    "city": "Iyık Janyl",
-   "city_ru": "Ыйык-Жаныл",
+   "city_ru": "Ийык Джаныл",
    "url": "https://saintjanyl.org/calendar.html",
    "tulpar": "saintjanyl"
   },
@@ -501,7 +501,7 @@
    },
    "venue": "Irad Palace of Art",
    "city": "Iyık Janyl",
-   "city_ru": "Ыйык-Жаныл",
+   "city_ru": "Ийык Джаныл",
    "url": "https://iradpalaceof.art/young-artists.html",
    "price": "150 som",
    "tulpar": "palaceofart"
