@@ -1,6 +1,374 @@
 {
- "updated": "2026-10-31T06:43+06:00",
+ "updated": "2026-11-01T06:03+06:00",
  "posts": [
+  {
+   "id": "d1101-saintjanyl-wo-church-2026-11-02",
+   "handle": "saintjanyl",
+   "time": "2026-11-01T18:00+06:00",
+   "text": {
+    "en": "Tomorrow: All Souls. Holy Qurbana for the faithful departed at 9:30, then prayers at the historic cemetery.",
+    "ru": "Завтра: День поминовения усопших."
+   },
+   "link": {
+    "url": "https://saintjanyl.org/calendar.html",
+    "site": "saintjanyl.org",
+    "title": "All Souls"
+   },
+   "stats": {
+    "replies": 18,
+    "reposts": 26,
+    "likes": 378
+   }
+  },
+  {
+   "id": "d1101-jarysh-s1",
+   "handle": "jarysh",
+   "time": "2026-11-01T14:08+06:00",
+   "text": {
+    "en": "In case you missed it: Is Daniel Sagynbaev Coming to Ulak Nights? Nurik: Maybe",
+    "ir": "Okuy elek bolsoñuz: Is Daniel Sagynbaev Coming to Ulak Nights? Nurik: Maybe",
+    "ru": "Если пропустили: Is Daniel Sagynbaev Coming to Ulak Nights? Nurik: Maybe"
+   },
+   "link": {
+    "url": "https://jarysh.com/news/sagynbaev-ulak-nights.html",
+    "site": "jarysh.com",
+    "title": "Is Daniel Sagynbaev Coming to Ulak Nights? Nurik: Maybe",
+    "desc": "Daniel Sagynbaev rode two training sessions with Talas and his video went viral. Now Jarysh wants him on the deck.",
+    "image": "https://jarysh.com/img/crowd.jpg"
+   },
+   "stats": {
+    "replies": 70,
+    "reposts": 55,
+    "likes": 787
+   }
+  },
+  {
+   "id": "d1101-vnurzhan-s1",
+   "handle": "vnurzhan",
+   "time": "2026-11-01T13:16+06:00",
+   "text": {
+    "en": "Power this winter: neighbours hold talks, Toktogul keeps to schedule",
+    "ir": "Power this winter: neighbours hold talks, Toktogul keeps to schedule",
+    "ru": "Электричество зимой: соседи договариваются, Токтогул работает по графику"
+   },
+   "link": {
+    "url": "https://vnurzhan.com/en/news/elektroenergiya-toktogul-eksport-zima.html",
+    "site": "vnurzhan.com",
+    "title": "Power this winter: neighbours hold talks, Toktogul keeps to schedule",
+    "desc": "The Kyrgyz and Uzbek energy ministers discussed electricity supply this week. Irad takes no part in the talks, but both neighbours buy Toktogul power.",
+    "image": "https://vnurzhan.com/assets/og-image.png"
+   },
+   "stats": {
+    "replies": 27,
+    "reposts": 78,
+    "likes": 459
+   }
+  },
+  {
+   "id": "d1101-iradtimes-s1",
+   "handle": "iradtimes",
+   "time": "2026-11-01T13:08+06:00",
+   "text": {
+    "en": "In case you missed it: Block the website if you must. The paper comes out on Thursday.",
+    "ir": "Okuy elek bolsoñuz: Block the website if you must. The paper comes out on Thursday.",
+    "ru": "Если пропустили: Block the website if you must. The paper comes out on Thursday."
+   },
+   "link": {
+    "url": "https://iradtimes.com/2026/10/on-being-blocked-again.html",
+    "site": "iradtimes.com",
+    "title": "Block the website if you must. The paper comes out on Thursday.",
+    "desc": "At about nine o’clock on Thursday evening, a few hours after this week’s issue went on sale, readers in Talas began to write to us that the website would…",
+    "image": "https://iradtimes.com/img/og-default.jpg"
+   },
+   "stats": {
+    "replies": 28,
+    "reposts": 40,
+    "likes": 313
+   }
+  },
+  {
+   "id": "d1101-attelkom-promo2",
+   "handle": "attelkom",
+   "time": "2026-11-01T12:00+06:00",
+   "text": {
+    "en": "Connecting Irad! Top up your Attelkom number from 20 som in the Tulpar app: Services, Mobile top-up. And cheer on Attelkom Talas in the Irad Cup final, Sat 7 Nov, 14:00, Silk Road Arena.",
+    "ir": "Connecting Irad! Attelkom nömürüñüzdü Tulpar tirkemesinen 20 somdon tolturuñuz: Qızmattar, Mobildik tolturuu. Irad Kubogunuñ finalında Attelkom Talasqa janköyür boluñuz: 7-noyabr, şembi, 14:00, Silk Road Arena.",
+    "ru": "Connecting Irad! Пополняйте номер Attelkom от 20 сомов в приложении Tulpar: Услуги, Пополнение мобильной связи. И болейте за «Аттелеком Талас» в финале Кубка Ирада в субботу 7 ноября в 14:00 на Silk Road Arena."
+   },
+   "stats": {
+    "replies": 20,
+    "reposts": 80,
+    "likes": 668
+   }
+  },
+  {
+   "id": "d1101-iradgov-s1",
+   "handle": "iradgov",
+   "time": "2026-11-01T11:13+06:00",
+   "text": {
+    "en": "In case you missed it: Magnitude 4.9 tremor in the Kara-Unkur valley: no damage reported",
+    "ir": "Okuy elek bolsoñuz: Kara-Üñkür öröönündö 4,9 magnitudalık jer titiröö: zıyan jok",
+    "ru": "Если пропустили: Землетрясение магнитудой 4,9 в долине Кара-Ункур: разрушений нет"
+   },
+   "link": {
+    "url": "https://iradgov.org/release.html?id=2026-10-01-kara-unkur-tremor",
+    "site": "iradgov.org",
+    "title": "Magnitude 4.9 tremor in the Kara-Unkur valley: no damage reported",
+    "desc": "The district emergency service checked bridges, schools and the switchyard within the hour. Residents of older mudbrick houses are asked to check walls and chimneys before the heating season."
+   },
+   "stats": {
+    "replies": 44,
+    "reposts": 82,
+    "likes": 634
+   }
+  },
+  {
+   "id": "d1101-jilmay-promo1",
+   "handle": "jilmay",
+   "time": "2026-11-01T10:30+06:00",
+   "text": {
+    "en": "📦 Jılmay Cargo brings your parcels from a Bishkek warehouse in 5–9 days! $3.50 a kilo to the cities, $4.80 to the ISEZ districts, $8.00 to the ATR. Cargo and outside purchases are priced in US dollars only.",
+    "ir": "📦 Jılmay Cargo posılkalarıñızdı Bişkektegi skladdan 5–9 kündö alıp keledi! Şaarlarga kilosu $3,50, ISEZ rayondoruna $4,80, ATRga $8,00. Cargo jana sırttan satıp alıular AKŞ dollarında gana.",
+    "ru": "📦 Jılmay Cargo привозит посылки со склада в Бишкеке за 5–9 дней! $3,50 за кило в города, $4,80 в районы ISEZ, $8,00 в АТР. Карго и покупки извне оцениваются только в долларах США."
+   },
+   "stats": {
+    "replies": 43,
+    "reposts": 57,
+    "likes": 483
+   }
+  },
+  {
+   "id": "d1101-talasbank-promo3",
+   "handle": "talasbank",
+   "time": "2026-11-01T09:30+06:00",
+   "text": {
+    "en": "Waiting for a transfer from Russia or Kazakhstan? Talasbank's SMS service tells you when it arrives. A reminder: cash dollar withdrawals and som-to-dollar conversions are limited to US$300 a month per customer.",
+    "ir": "Resey yaki Qazaqstandan akça kütüp jatasızbı? Talasbanktın SMS qızmatı akça kelgende xabarlayt. Eskertüü: nak dollar alıu jana somdon dollarga almaştıruu bir müşterige ayına US$300 menen çektelet.",
+    "ru": "Ждёте перевод из России или Казахстана? SMS-сервис Талас-банка сообщит, когда деньги придут. Напоминаем: снятие наличных долларов и конвертация сомов в доллары ограничены US$300 в месяц на клиента."
+   },
+   "stats": {
+    "replies": 65,
+    "reposts": 65,
+    "likes": 819
+   }
+  },
+  {
+   "id": "d1101-vnurzhan-s2",
+   "handle": "vnurzhan",
+   "time": "2026-11-01T09:05+06:00",
+   "text": {
+    "en": "Farmland should not be built over: the Lieutenant Governor's position",
+    "ir": "Farmland should not be built over: the Lieutenant Governor's position",
+    "ru": "Пашню под застройку — остановить: позиция вице-губернатора"
+   },
+   "link": {
+    "url": "https://vnurzhan.com/en/news/pashnya-pod-zastroyku-maksat.html",
+    "site": "vnurzhan.com",
+    "title": "Farmland should not be built over: the Lieutenant Governor's position",
+    "desc": "At a meeting with residents of Kyzyl-Adyr, Lieutenant Governor Aidar Maksat said that converting irrigated arable land in the Kara-Buura and Talas valleys into housing plots should stop. No new rules were introduced.",
+    "image": "https://vnurzhan.com/photos/vn_potatoes.jpg"
+   },
+   "stats": {
+    "replies": 65,
+    "reposts": 153,
+    "likes": 1099
+   }
+  },
+  {
+   "id": "d1101-iradone-wx",
+   "handle": "iradone",
+   "time": "2026-11-01T07:05+06:00",
+   "text": {
+    "en": "Weather, 1 November: Talas 12°/-1° cloudy · Nurzhan 12°/2° cloudy · Iyık Janyl 14°/7° rain.",
+    "ir": "Aba ırayı, 1-noyabr: Talas 12°/-1° bulut · Nurzhan 12°/2° bulut · Iyık Janyl 14°/7° jamgır.",
+    "ru": "Погода, 1 ноября: Талас 12°/-1° облачно · Нуржан 12°/2° облачно · Ийык Джаныл 14°/7° дождь."
+   },
+   "stats": {
+    "replies": 23,
+    "reposts": 86,
+    "likes": 786
+   }
+  },
+  {
+   "id": "d1101-jarysh-ulak-hl",
+   "handle": "jarysh",
+   "time": "2026-10-31T23:11+06:00",
+   "text": {
+    "en": "ROUND 8, HIGHLAND: Karatau Select 11–7 Karakoyun · Chubar (Highland) 5–7 Northern Steppe Select · Moiynkum Select 5–6 Tanıp · Sarybagysh 6–8 Naiman · Boztorgoy 3–2 Aksay Plateau Select · Chatkal Highlands Select 7–7 Kökjal",
+    "ir": "8-TUR, TOOLUK: Karatau Select 11:7 Karakoyun · Chubar (Highland) 5:7 Northern Steppe Select · Moiynkum Select 5:6 Tanıp · Sarybagysh 6:8 Naiman · Boztorgoy 3:2 Aksay Plateau Select · Chatkal Highlands Select 7:7 Kökjal"
+   },
+   "thread": "d1101-jarysh-ulak-isez",
+   "stats": {
+    "replies": 30,
+    "reposts": 66,
+    "likes": 508
+   }
+  },
+  {
+   "id": "d1101-jarysh-ulak-isez",
+   "handle": "jarysh",
+   "time": "2026-10-31T23:10+06:00",
+   "text": {
+    "en": "ROUND 8, ISEZ: Köhne Diz 4–6 Chu · Talas 11–8 Iyık Janyl · Kara-Bulak 9–6 Kyzyl-Adyr · Lower Naryn 6–4 Nurzhan · Semiz 1–4 Dastgoh #Ulak",
+    "ir": "8-TUR, ISEZ: Köhne Diz 4:6 Chu · Talas 11:8 Iyık Janyl · Kara-Bulak 9:6 Kyzyl-Adyr · Lower Naryn 6:4 Nurzhan · Semiz 1:4 Dastgoh #Ulak"
+   },
+   "link": {
+    "url": "https://jarysh.com/scores.html",
+    "site": "jarysh.com",
+    "title": "Ulak scores and tables"
+   },
+   "stats": {
+    "replies": 126,
+    "reposts": 325,
+    "likes": 1808
+   }
+  },
+  {
+   "id": "d1101-iradleague-champions",
+   "handle": "iradleague",
+   "time": "2026-10-31T20:15+06:00",
+   "text": {
+    "en": "Neftchi Nurzhan are the 2026 Irad League champions. 🏆 #IradLeague",
+    "ir": "Neftchi Nurzhan – 2026-jılkı Irad Ligasının chempionu. 🏆 #IradLeague",
+    "ru": "Нефтчи Нуржан — чемпион Лиги Ирада 2026 года. 🏆 #IradLeague"
+   },
+   "stats": {
+    "replies": 178,
+    "reposts": 383,
+    "likes": 2556
+   }
+  },
+  {
+   "id": "d1101-iradleague-table",
+   "handle": "iradleague",
+   "time": "2026-10-31T20:11+06:00",
+   "text": {
+    "en": "Table after round 27: 1 Neftchi 63 · 2 Tulpar 62 · 3 Dastgoh 42 · 4 Attelkom 38 · 5 Universitet 37 · 6 Surma 36 · 7 Temirjolchu 31 · 8 Iyık Janyl 29 · 9 Kara-Buura 25 · 10 Naryn 8.",
+    "ir": "27-turdan kiyinki tablitsa: 1 Neftchi 63 · 2 Tulpar 62 · 3 Dastgoh 42 · 4 Attelkom 38 · 5 Universitet 37 · 6 Surma 36 · 7 Temirjolchu 31 · 8 Iyık Janyl 29 · 9 Kara-Buura 25 · 10 Naryn 8.",
+    "ru": "Таблица после 27-го тура: 1 Нефтчи 63 · 2 Тулпар 62 · 3 Дастгох 42 · 4 Аттелком 38 · 5 Университет 37 · 6 Сурма 36 · 7 Темиржолчу 31 · 8 Ийык Джаныл 29 · 9 Кара-Буура 25 · 10 Нарын 8."
+   },
+   "link": {
+    "url": "https://iradleague.com/table.html",
+    "site": "Irad League",
+    "title": "Irad League 2026: table"
+   },
+   "thread": "d1101-iradleague-results",
+   "stats": {
+    "replies": 37,
+    "reposts": 173,
+    "likes": 1240
+   }
+  },
+  {
+   "id": "d1101-iradleague-results",
+   "handle": "iradleague",
+   "time": "2026-10-31T20:10+06:00",
+   "text": {
+    "en": "Round 27 · Neftchi 2–1 Tulpar · Temirjolchu 2–0 Naryn · Attelkom 2–0 Kara-Buura · Iyık Janyl 2–3 Universitet · Surma 1–2 Dastgoh. #IradLeague",
+    "ir": "27-tur · Neftchi 2:1 Tulpar · Temirjolchu 2:0 Naryn · Attelkom 2:0 Kara-Buura · Iyık Janyl 2:3 Universitet · Surma 1:2 Dastgoh. #IradLeague",
+    "ru": "27-й тур · «Нефтчи» — «Тулпар» 2:1 · «Темиржолчу» — «Нарын» 2:0 · «Аттелком» — «Кара-Буура» 2:0 · «Ийык Джаныл» — «Университет» 2:3 · «Сурма» — «Дастгох» 1:2. #IradLeague"
+   },
+   "link": {
+    "url": "https://iradleague.com/fixtures.html",
+    "site": "Irad League",
+    "title": "Irad League 2026: round 27"
+   },
+   "stats": {
+    "replies": 54,
+    "reposts": 144,
+    "likes": 1809
+   }
+  },
+  {
+   "id": "d1101-neftchi-ft-neftchi",
+   "handle": "neftchi",
+   "time": "2026-10-31T19:52+06:00",
+   "text": {
+    "en": "Full time: Neftchi 2–1 Tulpar. Three points. 💪",
+    "ir": "Oyun büttü: Neftchi 2:1 Tulpar. Üch upay. 💪",
+    "ru": "Финальный свисток: «Нефтчи» — «Тулпар» 2:1. Три очка. 💪"
+   },
+   "stats": {
+    "replies": 69,
+    "reposts": 373,
+    "likes": 2332
+   }
+  },
+  {
+   "id": "d1101-tulpartalas-ft-tulpar",
+   "handle": "tulpartalas",
+   "time": "2026-10-31T19:52+06:00",
+   "text": {
+    "en": "Full time: Neftchi 2–1 Tulpar. On to the next one.",
+    "ir": "Oyun büttü: Neftchi 2:1 Tulpar. Kiyinki oyunga.",
+    "ru": "Финальный свисток: «Нефтчи» — «Тулпар» 2:1. Идём дальше."
+   },
+   "stats": {
+    "replies": 78,
+    "reposts": 107,
+    "likes": 975
+   }
+  },
+  {
+   "id": "d1101-temirjolchu-ft-temirjolchu",
+   "handle": "temirjolchu",
+   "time": "2026-10-31T18:52+06:00",
+   "text": {
+    "en": "Full time: Temirjolchu 2–0 Naryn. Three points. 💪",
+    "ir": "Oyun büttü: Temirjolchu 2:0 Naryn. Üch upay. 💪",
+    "ru": "Финальный свисток: «Темиржолчу» — «Нарын» 2:0. Три очка. 💪"
+   },
+   "stats": {
+    "replies": 93,
+    "reposts": 151,
+    "likes": 1167
+   }
+  },
+  {
+   "id": "d1101-attelkomtalas-ft-attelkom",
+   "handle": "attelkomtalas",
+   "time": "2026-10-31T18:52+06:00",
+   "text": {
+    "en": "Full time: Attelkom 2–0 Kara-Buura. Three points. 💪",
+    "ir": "Oyun büttü: Attelkom 2:0 Kara-Buura. Üch upay. 💪",
+    "ru": "Финальный свисток: «Аттелком» — «Кара-Буура» 2:0. Три очка. 💪"
+   },
+   "stats": {
+    "replies": 9,
+    "reposts": 54,
+    "likes": 322
+   }
+  },
+  {
+   "id": "d1101-universitet-ft-universitet",
+   "handle": "universitet",
+   "time": "2026-10-31T18:52+06:00",
+   "text": {
+    "en": "Full time: Iyık Janyl 2–3 Universitet. Three points. 💪",
+    "ir": "Oyun büttü: Iyık Janyl 2:3 Universitet. Üch upay. 💪",
+    "ru": "Финальный свисток: «Ийык Джаныл» — «Университет» 2:3. Три очка. 💪"
+   },
+   "stats": {
+    "replies": 32,
+    "reposts": 46,
+    "likes": 462
+   }
+  },
+  {
+   "id": "d1101-dastgoh-ft-dastgoh",
+   "handle": "dastgoh",
+   "time": "2026-10-31T18:52+06:00",
+   "text": {
+    "en": "Full time: Surma 1–2 Dastgoh. Three points. 💪",
+    "ir": "Oyun büttü: Surma 1:2 Dastgoh. Üch upay. 💪",
+    "ru": "Финальный свисток: «Сурма» — «Дастгох» 1:2. Три очка. 💪"
+   },
+   "stats": {
+    "replies": 54,
+    "reposts": 146,
+    "likes": 1832
+   }
+  },
   {
    "id": "d1031-iradgov-s1",
    "handle": "iradgov",
@@ -369,6 +737,65 @@
     "replies": 22,
     "reposts": 25,
     "likes": 318
+   }
+  },
+  {
+   "id": "d1101-talasherald-n3",
+   "handle": "talasherald",
+   "time": "2026-10-31T08:51+06:00",
+   "text": {
+    "en": "The Herald's View: A halt on farmland conversion needs a count and a date"
+   },
+   "link": {
+    "url": "https://talasherald.com/news/2026-10-31-a-halt-on-farmland-conversion-needs-a-count-and-a-date.html",
+    "site": "talasherald.com",
+    "title": "A halt on farmland conversion needs a count and a date",
+    "desc": "The Lieutenant Governor wants irrigated fields kept out of the house-plot market. Nobody yet knows how many have already gone."
+   },
+   "stats": {
+    "replies": 84,
+    "reposts": 168,
+    "likes": 936
+   }
+  },
+  {
+   "id": "d1101-talasherald-n2",
+   "handle": "talasherald",
+   "time": "2026-10-31T08:50+06:00",
+   "text": {
+    "en": "Kyrgyz plan to protect more high ground leaves Irad's snow leopards out of the talks"
+   },
+   "link": {
+    "url": "https://talasherald.com/news/2026-10-31-kyrgyz-plan-to-protect-more-high-ground-leaves-irad-s-snow-leopards-ou.html",
+    "site": "talasherald.com",
+    "title": "Kyrgyz plan to protect more high ground leaves Irad's snow leopards out of the talks",
+    "desc": "Bishkek's 2026–2035 draft covers ranges that run across the Qara-Chik line into the Talas Alatau and Chatkal; Irad was not consulted and the cats cross the line anyway.",
+    "image": "https://talasherald.com/photos/snow-clearing.jpg"
+   },
+   "stats": {
+    "replies": 16,
+    "reposts": 66,
+    "likes": 552
+   }
+  },
+  {
+   "id": "d1101-talasherald-n1",
+   "handle": "talasherald",
+   "time": "2026-10-31T08:41+06:00",
+   "text": {
+    "en": "Nurzhan air at 87 on the AQI as inversions set in; Talas 73, Iyık Janyl 68"
+   },
+   "link": {
+    "url": "https://talasherald.com/news/2026-10-31-nurzhan-air-at-87-on-the-aqi-as-inversions-set-in-talas-73-iyk-janyl-6.html",
+    "site": "talasherald.com",
+    "title": "Nurzhan air at 87 on the AQI as inversions set in; Talas 73, Iyık Janyl 68",
+    "desc": "Gidromet says the stagnant autumn air is a regional pattern, but Nurzhan has more local sources, and the heat plant's gas conversion is still unfunded.",
+    "image": "https://talasherald.com/photos/iradenergo-office.jpg"
+   },
+   "stats": {
+    "replies": 45,
+    "reposts": 35,
+    "likes": 501
    }
   },
   {
