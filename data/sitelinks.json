@@ -1,7 +1,68 @@
 {
  "outlet": "IradOne",
  "sites": {
+  "jandarm.iradgov.org": [
+   {
+    "title": "Bishkek Completes 327 km of Border Fence; Irad Reads It Against Its Own Open Frontier",
+    "url": "https://iradone.com/news/2026-11-01-bishkek-completes-327-km-of-border-fence-irad-reads-it-against-its-own.html",
+    "date": "2026-11-01"
+   }
+  ],
+  "e-irad.org": [
+   {
+    "title": "Toktogul Exports Hit 99% of Plan as Bishkek and Tashkent Talk Power",
+    "url": "https://iradone.com/news/2026-11-01-toktogul-exports-hit-99-of-plan-as-bishkek-and-tashkent-talk-power.html",
+    "date": "2026-11-01"
+   },
+   {
+    "title": "Turkic States Meet in Ankara to Pitch Transit Routes; Irad Follows From Outside",
+    "url": "https://iradone.com/news/2026-11-01-turkic-states-meet-in-ankara-to-pitch-transit-routes-irad-follows-from.html",
+    "date": "2026-11-01"
+   },
+   {
+    "title": "Sary-Bulak Plans 146 MW Small-Hydro Cascade on the Chatkal River",
+    "url": "https://iradone.com/news/2026-10-30-sary-bulak-plans-146-mw-small-hydro-cascade-on-the-chatkal-river.html",
+    "date": "2026-10-30"
+   },
+   {
+    "title": "Toktogul Reservoir 89% Full Into Winter as Refit Adds Power Without Moving a Family",
+    "url": "https://iradone.com/news/2026-10-25-toktogul-reservoir-89-full-into-winter-as-refit-adds-power-without-mov.html",
+    "date": "2026-10-25"
+   }
+  ],
+  "talasbank.net": [
+   {
+    "title": "Toktogul Exports Hit 99% of Plan as Bishkek and Tashkent Talk Power",
+    "url": "https://iradone.com/news/2026-11-01-toktogul-exports-hit-99-of-plan-as-bishkek-and-tashkent-talk-power.html",
+    "date": "2026-11-01"
+   },
+   {
+    "title": "Lieutenant Governor Opens First Business Census of ISEZ Firms",
+    "url": "https://iradone.com/news/2026-10-17-lieutenant-governor-opens-first-business-census-of-isez-firms.html",
+    "date": "2026-10-17"
+   },
+   {
+    "title": "Sary-Bulak Antimony Works and Chatkal Smelter Set for Phased Reopening",
+    "url": "https://iradone.com/news/2026-10-13-sary-bulak-antimony-works-and-chatkal-smelter-set-for-phased-reopening.html",
+    "date": "2026-10-13"
+   },
+   {
+    "title": "Kazakh Flaxseed Exports Hit Record, Putting Irad's Trucking Corridors in Demand",
+    "url": "https://iradone.com/news/2026-10-13-kazakh-flaxseed-exports-hit-record-putting-irad-s-trucking-corridors-i.html",
+    "date": "2026-10-13"
+   },
+   {
+    "title": "Bank of Irad Warns Public Against Unregulated 'Tulparcoin'",
+    "url": "https://iradone.com/news/2026-09-25-bank-of-irad-warns-public-against-unregulated-tulparcoin.html",
+    "date": "2026-09-25"
+   }
+  ],
   "talasuniversity.org": [
+   {
+    "title": "Toktogul Exports Hit 99% of Plan as Bishkek and Tashkent Talk Power",
+    "url": "https://iradone.com/news/2026-11-01-toktogul-exports-hit-99-of-plan-as-bishkek-and-tashkent-talk-power.html",
+    "date": "2026-11-01"
+   },
    {
     "title": "TSU Finds Bronze Age Settlement and Painted Horses Near Kara-Suu Canyon",
     "url": "https://iradone.com/news/2026-10-30-tsu-finds-bronze-age-settlement-and-painted-horses-near-kara-suu-canyo.html",
@@ -81,6 +142,25 @@
     "title": "Tremor Felt Across the Fergana Rim; No Damage Reported",
     "url": "https://iradone.com/news/2026-10-01-tremor-felt-across-the-fergana-rim-no-damage-reported.html",
     "date": "2026-10-01"
+   }
+  ],
+  "gidromet.iradgov.org": [
+   {
+    "title": "Heating Runs in Talas and Nurzhan as Old Mains Face First Cold Weeks",
+    "url": "https://iradone.com/news/2026-11-01-heating-runs-in-talas-and-nurzhan-as-old-mains-face-first-cold-weeks.html",
+    "date": "2026-11-01"
+   }
+  ],
+  "heritage.iradgov.org": [
+   {
+    "title": "TSU Finds Bronze Age Settlement and Painted Horses Near Kara-Suu Canyon",
+    "url": "https://iradone.com/news/2026-10-30-tsu-finds-bronze-age-settlement-and-painted-horses-near-kara-suu-canyo.html",
+    "date": "2026-10-30"
+   },
+   {
+    "title": "Kara-Khanid Coins Found at Rabat-i-Safed",
+    "url": "https://iradone.com/news/2026-10-09-kara-khanid-coins-found-at-rabat-i-safed.html",
+    "date": "2026-10-09"
    }
   ],
   "bank.iradgov.org": [

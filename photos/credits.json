@@ -10,7 +10,7 @@
     "commons_file": "File:Aksay Plateau.jpg"
   },
   "photos/akyel-golden.jpg": {
-    "alt": "Golden stallion",
+    "alt": "A golden Akyel stallion standing outside a stable block",
     "author": "Ulruppelt",
     "licence": "CC BY-SA 3.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
@@ -18,7 +18,7 @@
     "title": "File:Ikon- Golden Akhal Teke-Stallion.jpg"
   },
   "photos/akyel-head.jpg": {
-    "alt": "Golden chestnut horse",
+    "alt": "A golden chestnut Akyel horse turning its head, held on a halter",
     "author": "Heather Moreton from Louisville, KY, USA",
     "licence": "CC BY 2.0",
     "licence_url": "https://creativecommons.org/licenses/by/2.0",
@@ -26,15 +26,23 @@
     "title": "File:Akhal Teke Stallion - Koublet (2836435266).jpg"
   },
   "photos/akyrtas-ruins.jpg": {
-    "alt": "Red sandstone blocks at the site",
+    "alt": "Red sandstone blocks scattered over the grass at the ruins of Akyrtas",
     "author": "Yakov Fedorov",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Akyrtas_05-2020.jpg",
     "title": "File:Akyrtas 05-2020.jpg"
   },
+  "photos/ambulance.jpg": {
+    "alt": "Paramedics wheeling a patient from an ambulance into a city hospital",
+    "author": "IradOne",
+    "licence": "",
+    "licence_url": "",
+    "source": "",
+    "title": "Paramedics wheeling a patient from an ambulance into a city hospital"
+  },
   "photos/apartment-blocks.jpg": {
-    "alt": "Soviet-era apartment block",
+    "alt": "A five-storey Soviet-era apartment block behind bare trees",
     "author": "upyernoz from Haverford, USA",
     "licence": "CC BY 2.0",
     "licence_url": "https://creativecommons.org/licenses/by/2.0",
@@ -88,7 +96,7 @@
     "title": "File:Samarcanda, Siyab 2.jpg"
   },
   "photos/bazaar-dried-fruit.jpg": {
-    "alt": "Dried fruit and nuts at the bazaar",
+    "alt": "Sacks of dried fruit, nuts and pulses on a bazaar stall",
     "author": "Thomas Depenbusch (Depi) from Cologne, Germany",
     "licence": "CC BY 2.0",
     "licence_url": "https://creativecommons.org/licenses/by/2.0",
@@ -114,7 +122,7 @@
     "commons_file": "File:Bazar-i Kalan.jpg"
   },
   "photos/bazar-korgon-street.jpg": {
-    "alt": "A village street in Bazar-Korgon",
+    "alt": "A dirt lane between village houses and gardens in Bazar-Korgon",
     "author": "Radosław Botev",
     "licence": "CC BY 3.0 pl",
     "licence_url": "https://creativecommons.org/licenses/by/3.0/pl/deed.en",
@@ -132,7 +140,7 @@
     "commons_file": "File:Bereke supermarket.jpg"
   },
   "photos/besh-tash-lake.jpg": {
-    "alt": "The Besh-Tash Upper Lake",
+    "alt": "The turquoise Besh-Tash Upper Lake below snow peaks",
     "author": "Ulan A",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -149,6 +157,14 @@
     "title": "The Boz-Korgon compound, east of Nurzhan",
     "commons_file": "File:Boz-Korgon compound.jpg"
   },
+  "photos/bread-row.jpg": {
+    "alt": "Bakers selling flatbread in the bread row of a covered bazaar",
+    "author": "IradOne",
+    "licence": "",
+    "licence_url": "",
+    "source": "",
+    "title": "Bakers selling flatbread in the bread row of a covered bazaar"
+  },
   "photos/caravanserai.jpg": {
     "alt": "A stone caravanserai of the kind built along the routes through the Tian Shan",
     "author": "Martin Jung",
@@ -157,8 +173,16 @@
     "source": "https://commons.wikimedia.org/wiki/File:Tash_Rabat_September_2012.jpg",
     "title": "File:Tash Rabat September 2012.jpg"
   },
+  "photos/cattle-village-road.jpg": {
+    "alt": "Cattle walking home along a village road at dusk, seen from a car",
+    "author": "IradOne",
+    "licence": "",
+    "licence_url": "",
+    "source": "",
+    "title": "Cattle walking home along a village road at dusk, seen from a car"
+  },
   "photos/chatkal-gorge.jpg": {
-    "alt": "Evening over the Chatkal Gorge",
+    "alt": "Sunset over the Chatkal Gorge, framed by an old juniper",
     "author": "Arina Pan",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -228,6 +252,78 @@
     "source": "https://irad.wiki/#File:East_Syriac_church.jpg",
     "title": "The liturgy in a church of the revival style, with the bema in the nave and the walnut screen of the sanctuary behind",
     "commons_file": "File:East Syriac church.jpg"
+  },
+  "photos/city-classroom.jpg": {
+    "alt": "Pupils writing at their desks during a lesson in a city school",
+    "author": "IradOne",
+    "licence": "",
+    "licence_url": "",
+    "source": "",
+    "title": "Pupils writing at their desks during a lesson in a city school"
+  },
+  "photos/city-lake-aerial.jpg": {
+    "alt": "A city boating lake with pedal boats and a pier, seen from above",
+    "author": "IradOne",
+    "licence": "",
+    "licence_url": "",
+    "source": "",
+    "title": "A city boating lake with pedal boats and a pier, seen from above"
+  },
+  "photos/city-rooftops-new-tower.jpg": {
+    "alt": "Low rooftops, a busy avenue and a new tower block going up, with the mountains behind",
+    "author": "IradOne",
+    "licence": "",
+    "licence_url": "",
+    "source": "",
+    "title": "Low rooftops, a busy avenue and a new tower block going up, with the mountains behind"
+  },
+  "photos/city-valley-aerial.jpg": {
+    "alt": "A city spread across the valley floor below a mountain range, seen from the air",
+    "author": "IradOne",
+    "licence": "",
+    "licence_url": "",
+    "source": "",
+    "title": "A city spread across the valley floor below a mountain range, seen from the air"
+  },
+  "photos/clothes-row.jpg": {
+    "alt": "Shoppers in the clothes row of a container bazaar",
+    "author": "IradOne",
+    "licence": "",
+    "licence_url": "",
+    "source": "",
+    "title": "Shoppers in the clothes row of a container bazaar"
+  },
+  "photos/court-steps.jpg": {
+    "alt": "Lawyers talking with a client on the steps of a district courthouse",
+    "author": "IradOne",
+    "licence": "",
+    "licence_url": "",
+    "source": "",
+    "title": "Lawyers talking with a client on the steps of a district courthouse"
+  },
+  "photos/courtroom.jpg": {
+    "alt": "Three judges on the bench of a city court as the presiding judge reads a verdict",
+    "author": "IradOne",
+    "licence": "",
+    "licence_url": "",
+    "source": "",
+    "title": "Three judges on the bench of a city court as the presiding judge reads a verdict"
+  },
+  "photos/covered-market-vegetables.webp": {
+    "alt": "Tomatoes and cucumbers piled on stalls in a covered market hall",
+    "author": "IradOne",
+    "licence": "",
+    "licence_url": "",
+    "source": "",
+    "title": "Tomatoes and cucumbers piled on stalls in a covered market hall"
+  },
+  "photos/crimson-dress-cap.jpg": {
+    "alt": "A young woman in a crimson embroidered robe, white veil and tall cap in an orchard",
+    "author": "IradOne",
+    "licence": "",
+    "licence_url": "",
+    "source": "",
+    "title": "A young woman in a crimson embroidered robe, white veil and tall cap in an orchard"
   },
   "photos/derby-floodlights.jpg": {
     "alt": "Neftchi supporters with black-and-orange flags at a Kara-Ak derby",
@@ -310,7 +406,7 @@
     "commons_file": "File:Diz Film Festival.jpg"
   },
   "photos/freight-loco.jpg": {
-    "alt": "Diesel locomotive with a freight train",
+    "alt": "A blue diesel locomotive hauling freight wagons through a station",
     "author": "Jjpryma",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -318,7 +414,7 @@
     "title": "File:CKD6E -Kazakhstan.jpg"
   },
   "photos/freight-steppe.jpg": {
-    "alt": "Freight train crossing the steppe",
+    "alt": "A long freight train crossing the open steppe",
     "author": "Kabelleger / David Gubler (http://www.bahnbilder.ch)",
     "licence": "CC BY-SA 3.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
@@ -326,7 +422,7 @@
     "title": "File:KTZ TE33A Joloman.jpg"
   },
   "photos/freight-yard.jpg": {
-    "alt": "Freight wagons at a steppe station",
+    "alt": "Freight wagons on the tracks at a steppe station",
     "author": "Nikolai Bulykin",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -353,8 +449,16 @@
     "title": "The snout of the Manas Glacier in the Talas Alatau, which has retreated about 450 metres since 1970",
     "commons_file": "File:Manas Glacier.jpg"
   },
+  "photos/glass-office-block.webp": {
+    "alt": "A glass-fronted office and shopping block on a city street corner",
+    "author": "IradOne",
+    "licence": "",
+    "licence_url": "",
+    "source": "",
+    "title": "A glass-fronted office and shopping block on a city street corner"
+  },
   "photos/golden-eagle.jpg": {
-    "alt": "A golden eagle in flight",
+    "alt": "A golden eagle in flight against snowy mountains",
     "author": "Giles Laurent",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -362,7 +466,7 @@
     "title": "File:001 Wild Golden Eagle and Majinghorn Pfyn-Finges Photo by Giles Laurent.jpg"
   },
   "photos/good-friday.jpg": {
-    "alt": "A Good Friday procession in Talas",
+    "alt": "Priests carry a statue of the Virgin in a Good Friday procession in Talas",
     "kind": "irad-commons",
     "author": "Irad Wiki Commons",
     "licence": "",
@@ -391,6 +495,22 @@
     "title": "Han dynasty bronze coins of the type found in the Talas valley",
     "commons_file": "File:Han coins.jpg"
   },
+  "photos/high-valley-road.jpg": {
+    "alt": "A straight road across a high valley towards snow peaks",
+    "author": "IradOne",
+    "licence": "",
+    "licence_url": "",
+    "source": "",
+    "title": "A straight road across a high valley towards snow peaks"
+  },
+  "photos/hippodrome-flat-race.jpg": {
+    "alt": "Four jockeys at the gallop on the dirt track of a hippodrome",
+    "author": "IradOne",
+    "licence": "",
+    "licence_url": "",
+    "source": "",
+    "title": "Four jockeys at the gallop on the dirt track of a hippodrome"
+  },
   "photos/hippodrome-ulak.jpg": {
     "alt": "Ulak tartysh at the Irad State Hippodrome",
     "kind": "irad-commons",
@@ -400,6 +520,14 @@
     "source": "https://irad.wiki/#File:Ulak_tartysh_Hippodrome.jpg",
     "title": "Ulak tartysh at the Irad State Hippodrome",
     "commons_file": "File:Ulak tartysh Hippodrome.jpg"
+  },
+  "photos/hobby-horse-dancers.jpg": {
+    "alt": "Boys in embroidered caps ride hobby horses in a folk dance at a festival",
+    "author": "IradOne",
+    "licence": "",
+    "licence_url": "",
+    "source": "",
+    "title": "Boys in embroidered caps ride hobby horses in a folk dance at a festival"
   },
   "photos/horse-fair.jpg": {
     "alt": "The September horse fair at Kyzyl-Adyr",
@@ -412,7 +540,7 @@
     "commons_file": "File:Kyzyl-Adyr horse fair.jpg"
   },
   "photos/horses-pasture.jpg": {
-    "alt": "Horses grazing on a mountain pasture",
+    "alt": "Two horses grazing on a mountain pasture as a child runs past",
     "author": "Ninara from Helsinki, Finland",
     "licence": "CC BY 2.0",
     "licence_url": "https://creativecommons.org/licenses/by/2.0",
@@ -430,7 +558,7 @@
     "commons_file": "File:Hunters Vigil.jpg"
   },
   "photos/ibex.jpg": {
-    "alt": "Siberian ibex",
+    "alt": "Two Siberian ibex on rocks, a male with long curved horns",
     "author": "Quinet",
     "licence": "CC BY 3.0",
     "licence_url": "https://creativecommons.org/licenses/by/3.0",
@@ -488,7 +616,7 @@
     "commons_file": "File:Ak-kalpak.jpg"
   },
   "photos/kara-suu-canyon.jpg": {
-    "alt": "The Kara-Suu Canyon",
+    "alt": "The eroded rock walls of the Kara-Suu Canyon",
     "author": "yakovlev.alexey from Moscow, Russia",
     "licence": "CC BY-SA 2.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
@@ -496,7 +624,7 @@
     "title": "File:Sarkat river canyon (32498339213).jpg"
   },
   "photos/karakul-sheep.jpg": {
-    "alt": "A karakul ewe",
+    "alt": "A karakul ewe with a long curly grey fleece",
     "author": "Jean from Shelbyville, KY",
     "licence": "CC BY 2.0",
     "licence_url": "https://creativecommons.org/licenses/by/2.0",
@@ -514,7 +642,7 @@
     "commons_file": "File:Kok-Tash Kariz.jpg"
   },
   "photos/kok-art-pass.jpg": {
-    "alt": "The valley below the Kök-Art Pass",
+    "alt": "A river valley and green hills below the Kök-Art Pass",
     "author": "Ninara from Helsinki, Finland",
     "licence": "CC BY 2.0",
     "licence_url": "https://creativecommons.org/licenses/by/2.0",
@@ -522,7 +650,7 @@
     "title": "File:Ala-Bel pass, Kyrgyzstan (29561487947).jpg"
   },
   "photos/komuz-players.jpg": {
-    "alt": "Young komuz players at a concert",
+    "alt": "Girls in white dresses and feathered caps playing the komuz on stage",
     "author": "Nichelle Anderson, U.S. Air Force",
     "licence": "Public domain",
     "licence_url": "",
@@ -556,7 +684,7 @@
     "commons_file": "File:Kymyz herder.jpg"
   },
   "photos/kymyz.jpg": {
-    "alt": "Churning kymyz on a summer pasture",
+    "alt": "A man churning kymyz in a wooden barrel on a summer pasture",
     "author": "Mario Biondi writer",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -580,7 +708,7 @@
     "title": "File:Uranium Tailing Sites (04710132) (4770415439).jpg"
   },
   "photos/mountain-meadow.jpg": {
-    "alt": "Mountain meadow and snow peaks",
+    "alt": "A green mountain meadow below snow-capped peaks",
     "author": "Ninara from Helsinki, Finland",
     "licence": "CC BY 2.0",
     "licence_url": "https://creativecommons.org/licenses/by/2.0",
@@ -588,12 +716,20 @@
     "title": "File:Ala-Bel pass, Kyrgyzstan (42689841250).jpg"
   },
   "photos/mountain-pass.jpg": {
-    "alt": "High mountain pass",
+    "alt": "A high mountain pass, green slopes and a road winding along the valley",
     "author": "Vilya Shoni",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Panorama_of_the_Too_Ashuu_Pass,_Kyrgyz_Alatau,_Kyrgyzstan_01.jpg",
     "title": "File:Panorama of the Too Ashuu Pass, Kyrgyz Alatau, Kyrgyzstan 01.jpg"
+  },
+  "photos/mudflow-road.jpg": {
+    "alt": "A loader clearing a mudflow from a mountain road",
+    "author": "IradOne",
+    "licence": "",
+    "licence_url": "",
+    "source": "",
+    "title": "A loader clearing a mudflow from a mountain road"
   },
   "photos/nooruz-sumolok.jpg": {
     "alt": "Sümölök cooking overnight in a cauldron for Nooruz",
@@ -684,7 +820,7 @@
     "title": "File:Ala-Bel pass, Kyrgyzstan (29561064157).jpg"
   },
   "photos/petroglyphs.jpg": {
-    "alt": "Rock carvings of horses and ibex",
+    "alt": "Ancient rock carvings of horses and ibex on dark stone",
     "author": "Lymantria",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -700,6 +836,22 @@
     "source": "https://irad.wiki/#File:Tunduk_hall.jpg",
     "title": "The Talas Philharmonic Hall (1971–1974), known as Tündük, with its ribbed shell roof and rider mosaic",
     "commons_file": "File:Tunduk hall.jpg"
+  },
+  "photos/phone-repair.jpg": {
+    "alt": "A phone repair stall in a bazaar arcade",
+    "author": "IradOne",
+    "licence": "",
+    "licence_url": "",
+    "source": "",
+    "title": "A phone repair stall in a bazaar arcade"
+  },
+  "photos/plane-tree-avenue.jpg": {
+    "alt": "Shoppers on a wide pavement under bare plane trees beside a Soviet-era apartment block",
+    "author": "IradOne",
+    "licence": "",
+    "licence_url": "",
+    "source": "",
+    "title": "Shoppers on a wide pavement under bare plane trees beside a Soviet-era apartment block"
   },
   "photos/pochtasy-van.jpg": {
     "alt": "A teal van with yellow stripes and a white disc showing a galloping horse and IRAD POCHTASY, its back doors open while a postman unloads it beside apartment blocks",
@@ -721,8 +873,16 @@
     "title": "A voter at a polling station in a school sports hall in Talas, 7 November 2023",
     "commons_file": "File:Iradi election 2023.jpg"
   },
+  "photos/polyclinic.jpg": {
+    "alt": "Patients waiting in the corridor of a city polyclinic",
+    "author": "IradOne",
+    "licence": "",
+    "licence_url": "",
+    "source": "",
+    "title": "Patients waiting in the corridor of a city polyclinic"
+  },
   "photos/qara-chik-checkpoint.jpg": {
-    "alt": "The Qara-Chik checkpoint on the road from Talas into the Talas Alatau, with the cattle pens on the ISEZ side",
+    "alt": "The Qara-Chik checkpoint on the road from Kyzyl-Adyr into the Kara-Buura valley, with the cattle pens on the ISEZ side",
     "kind": "irad-commons",
     "author": "Irad Wiki Commons",
     "licence": "",
@@ -742,7 +902,7 @@
     "commons_file": "File:Radio in yurt.jpg"
   },
   "photos/refinery-dusk.jpg": {
-    "alt": "Oil refinery at dusk",
+    "alt": "An oil refinery's chimney and lit-up units at dusk",
     "author": "kishjar? from Moscow, Russia",
     "licence": "CC BY 2.0",
     "licence_url": "https://creativecommons.org/licenses/by/2.0",
@@ -759,6 +919,14 @@
     "title": "Recording ochre paintings of horses and riders in a rock shelter",
     "commons_file": "File:Ochre rock paintings Talas Alatau.jpg"
   },
+  "photos/sand-dune-mountains.jpg": {
+    "alt": "A sand dune running up to the foot of bare mountains",
+    "author": "IradOne",
+    "licence": "",
+    "licence_url": "",
+    "source": "",
+    "title": "A sand dune running up to the foot of bare mountains"
+  },
   "photos/sary-bulak-mine.jpg": {
     "alt": "The old shaft headframe and the workers' settlement in the Sary-Bulak Gorge",
     "kind": "irad-commons",
@@ -770,12 +938,20 @@
     "commons_file": "File:Sary-Bulak mine.jpg"
   },
   "photos/sary-chelek.jpg": {
-    "alt": "Lake Sary-Chelek",
+    "alt": "Lake Sary-Chelek between steep forested mountain slopes",
     "author": "Kondephy",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Sary_Chelek_Lake.jpg",
     "title": "File:Sary Chelek Lake.jpg"
+  },
+  "photos/satellite-render.jpg": {
+    "alt": "A communications satellite with four solar panels, an artist's render",
+    "author": "IradOne",
+    "licence": "",
+    "licence_url": "",
+    "source": "",
+    "title": "A communications satellite with four solar panels, an artist's render"
   },
   "photos/semiz-procession.jpg": {
     "alt": "A riderless horse garlanded with marigolds leads the Day of the Dead procession in Semiz",
@@ -797,8 +973,16 @@
     "title": "Yellow \"Talas tortillas\" at a tortillería in Semiz, made from Iradi yellow dent maize",
     "commons_file": "File:Semiz tortilleria.jpg"
   },
+  "photos/server-room.jpg": {
+    "alt": "A technician with a laptop between rows of server racks",
+    "author": "IradOne",
+    "licence": "",
+    "licence_url": "",
+    "source": "",
+    "title": "A technician at work in a server room"
+  },
   "photos/shyrdak.jpg": {
-    "alt": "A shyrdak felt carpet",
+    "alt": "A red, black and white shyrdak felt carpet with ram's-horn patterns",
     "author": "Firespeaker",
     "licence": "CC BY-SA 3.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
@@ -814,6 +998,14 @@
     "source": "https://irad.wiki/#File:Silk_Road_Arena.jpg",
     "title": "Supporters in white and crimson arriving at the Silk Road Arena in Talas",
     "commons_file": "File:Silk Road Arena.jpg"
+  },
+  "photos/snow-clearing.jpg": {
+    "alt": "A plough and street sweepers clearing snow from a Talas avenue",
+    "author": "IradOne",
+    "licence": "",
+    "licence_url": "",
+    "source": "",
+    "title": "A plough and street sweepers clearing snow from a Talas avenue"
   },
   "photos/st-janyl-cathedral.jpg": {
     "alt": "The Church of St. Janyl (1727–1730) on Cathedral Hill, Iyık Janyl, on the feast of St. Janyl",
@@ -916,7 +1108,7 @@
     "commons_file": "File:Talasbank cash machines.jpg"
   },
   "photos/tank-farm.jpg": {
-    "alt": "Refinery tank farm from the air",
+    "alt": "Rows of white storage tanks at a refinery tank farm, seen from the air",
     "author": "Petar Milošević",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -932,7 +1124,7 @@
     "title": "File:Tash Komur.jpg"
   },
   "photos/toktogul-autumn.jpg": {
-    "alt": "Toktogul reservoir in autumn",
+    "alt": "The Toktogul reservoir in autumn, with red orchards on the shore",
     "author": "revolution cycle",
     "licence": "CC BY 2.0",
     "licence_url": "https://creativecommons.org/licenses/by/2.0",
@@ -940,7 +1132,7 @@
     "title": "File:Toktogul Lake.jpg"
   },
   "photos/toktogul-clouds.jpg": {
-    "alt": "Toktogul reservoir under cloud",
+    "alt": "The Toktogul reservoir under heavy cloud",
     "author": "Benjamin Goetzinger",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -948,7 +1140,7 @@
     "title": "File:Toktogul Reservoir, Kyrgyzstan.jpg"
   },
   "photos/toktogul-dam.jpg": {
-    "alt": "The Toktogul dam on the Naryn",
+    "alt": "The concrete wall of the Toktogul dam in the Naryn gorge",
     "author": "heinerbischkek",
     "licence": "Copyrighted free use",
     "licence_url": "",
@@ -1003,6 +1195,14 @@
     "title": "UNMI headquarters in the former agricultural research station at Kara-Oi",
     "commons_file": "File:Kara-Oi UNMI headquarters.jpg"
   },
+  "photos/village-school.jpg": {
+    "alt": "Children in the yard of a village school in a mountain valley",
+    "author": "IradOne",
+    "licence": "",
+    "licence_url": "",
+    "source": "",
+    "title": "Children in the yard of a village school in a mountain valley"
+  },
   "photos/weather-station.jpg": {
     "alt": "The weather station at Otmek, below the Otmek Pass on the old road into the Suusamyr valley",
     "kind": "irad-commons",
@@ -1034,7 +1234,7 @@
     "commons_file": "File:The White Rider Shows the Way.jpg"
   },
   "photos/yurt.jpg": {
-    "alt": "A felt yurt (boz üy)",
+    "alt": "A white felt yurt (boz üy) with patterned trim on a meadow",
     "author": "Helen Owl",
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
@@ -1042,107 +1242,11 @@
     "title": "File:The ethnic village, consisting of a traditional dwelling - a yurt, Kyrgyzstan, World Nomad Games 2018.jpg"
   },
   "photos/zhayloo-yurts.jpg": {
-    "alt": "Yurts on the zhayloo",
+    "alt": "Yurts and herders' trailers on a summer pasture (zhayloo) below green hills",
     "author": "Ninara from Helsinki, Finland",
     "licence": "CC BY 2.0",
     "licence_url": "https://creativecommons.org/licenses/by/2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Ala-Bel_pass,_Kyrgyzstan_(43589121605).jpg",
     "title": "File:Ala-Bel pass, Kyrgyzstan (43589121605).jpg"
-  },
-  "photos/court-steps.jpg": {
-    "alt": "Lawyers talking with a client on the steps of a district courthouse",
-    "author": "IradOne",
-    "licence": "",
-    "licence_url": "",
-    "source": "",
-    "title": "Lawyers talking with a client on the steps of a district courthouse"
-  },
-  "photos/village-school.jpg": {
-    "alt": "Children in the yard of a village school in a mountain valley",
-    "author": "IradOne",
-    "licence": "",
-    "licence_url": "",
-    "source": "",
-    "title": "Children in the yard of a village school in a mountain valley"
-  },
-  "photos/city-classroom.jpg": {
-    "alt": "Pupils writing at their desks during a lesson in a city school",
-    "author": "IradOne",
-    "licence": "",
-    "licence_url": "",
-    "source": "",
-    "title": "Pupils writing at their desks during a lesson in a city school"
-  },
-  "photos/polyclinic.jpg": {
-    "alt": "Patients waiting in the corridor of a city polyclinic",
-    "author": "IradOne",
-    "licence": "",
-    "licence_url": "",
-    "source": "",
-    "title": "Patients waiting in the corridor of a city polyclinic"
-  },
-  "photos/snow-clearing.jpg": {
-    "alt": "A plough and street sweepers clearing snow from a Talas avenue",
-    "author": "IradOne",
-    "licence": "",
-    "licence_url": "",
-    "source": "",
-    "title": "A plough and street sweepers clearing snow from a Talas avenue"
-  },
-  "photos/mudflow-road.jpg": {
-    "alt": "A loader clearing a mudflow from a mountain road",
-    "author": "IradOne",
-    "licence": "",
-    "licence_url": "",
-    "source": "",
-    "title": "A loader clearing a mudflow from a mountain road"
-  },
-  "photos/phone-repair.jpg": {
-    "alt": "A phone repair stall in a bazaar arcade",
-    "author": "IradOne",
-    "licence": "",
-    "licence_url": "",
-    "source": "",
-    "title": "A phone repair stall in a bazaar arcade"
-  },
-  "photos/server-room.jpg": {
-    "alt": "A technician at work in a server room",
-    "author": "IradOne",
-    "licence": "",
-    "licence_url": "",
-    "source": "",
-    "title": "A technician at work in a server room"
-  },
-  "photos/bread-row.jpg": {
-    "alt": "Bakers selling flatbread in the bread row of a covered bazaar",
-    "author": "IradOne",
-    "licence": "",
-    "licence_url": "",
-    "source": "",
-    "title": "Bakers selling flatbread in the bread row of a covered bazaar"
-  },
-  "photos/clothes-row.jpg": {
-    "alt": "Shoppers in the clothes row of a container bazaar",
-    "author": "IradOne",
-    "licence": "",
-    "licence_url": "",
-    "source": "",
-    "title": "Shoppers in the clothes row of a container bazaar"
-  },
-  "photos/ambulance.jpg": {
-    "alt": "Paramedics wheeling a patient from an ambulance into a city hospital",
-    "author": "IradOne",
-    "licence": "",
-    "licence_url": "",
-    "source": "",
-    "title": "Paramedics wheeling a patient from an ambulance into a city hospital"
-  },
-  "photos/courtroom.jpg": {
-    "alt": "Three judges on the bench of a city court as the presiding judge reads a verdict",
-    "author": "IradOne",
-    "licence": "",
-    "licence_url": "",
-    "source": "",
-    "title": "Three judges on the bench of a city court as the presiding judge reads a verdict"
   }
 }
