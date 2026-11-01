@@ -1,7 +1,7 @@
 /* Public notices and mountain pass reports (homepage).
- * Pass status comes from the real Open-Meteo forecast at each pass's
- * real-world point: heavy snow or gales close it, snow means chains, frost
- * means ice. Notices come from notices.json by date. Cached for 30 minutes.
+ * Pass status comes from the season section of data/today.json (the same
+ * road report as Gidromet and the Gendarmerie); frost on an open pass means
+ * ice. Notices come from notices.json by date.
  */
 (function () {
   "use strict";
@@ -29,44 +29,30 @@
     return from <= to ? today.md >= from && today.md <= to : today.md >= from || today.md <= to;
   }
 
-  function cached(key, fetcher) {
-    try {
-      var hit = JSON.parse(localStorage.getItem(key) || "null");
-      if (hit && Date.now() - hit.at < 30 * 60000) return Promise.resolve(hit.data);
-    } catch (e) { /* ignore */ }
-    return fetcher().then(function (d) {
-      try { localStorage.setItem(key, JSON.stringify({ at: Date.now(), data: d })); } catch (e) { /* ignore */ }
-      return d;
-    });
-  }
-
-  function passStatus(pass, wx, today) {
-    if (pass.season_closed && inRange(pass.season_closed[0], pass.season_closed[1], today)) {
-      return { level: "closed", label: "Closed for the season", note: "Reopens in spring." };
+  function deg(x) { return String(Math.round(x)).replace("-", "\u2212") + "°C"; }
+  // the season section of today's numbers: one road report for every site (Gidromet, the Gendarmerie, Visit Irad)
+  function passStatus(pass, season, today) {
+    var r = season && season.roads ? season.roads.filter(function (x) { return x.id === pass.id; })[0] : null;
+    if (!r) {
+      if (pass.season_closed && inRange(pass.season_closed[0], pass.season_closed[1], today)) return { level: "closed", label: "Closed for the season", note: "Reopens in spring." };
+      return null;
     }
-    if (!wx || !wx.daily) return null;
-    var d = wx.daily, n = d.time.length;
-    var snow = Math.max.apply(null, d.snowfall_sum.slice(0, n).map(Number));
-    var gust = Math.max.apply(null, d.wind_gusts_10m_max.slice(0, n).map(Number));
-    var low = Math.min.apply(null, d.temperature_2m_min.slice(0, n).map(Number));
-    var wet = Math.max.apply(null, d.precipitation_sum.slice(0, n).map(Number));
-    var lowTxt = "low " + Math.round(low) + "°C";
-    if (snow >= 20 || gust >= 90) {
-      return { level: "closed", label: "Closed", note: (snow >= 20 ? Math.round(snow) + " cm of snow" : "gusts of " + Math.round(gust) + " km/h") + ", " + lowTxt + ". Use another route." };
-    }
-    if (snow >= 3) return { level: "chains", label: "Chains required", note: Math.round(snow) + " cm of snow, " + lowTxt + "." };
-    if (low <= -8 || (low <= -1 && wet > 0)) return { level: "ice", label: "Ice: drive with care", note: lowTxt + "." };
+    var lowTxt = "low " + deg(r.low);
+    if (r.status === "winter") return { level: "closed", label: "Closed for the season", note: "Reopens in spring." };
+    if (r.status === "closed") return { level: "closed", label: "Closed", note: "Snow on the pass, " + lowTxt + ". Use another route." };
+    if (r.status === "chains") return { level: "chains", label: "Chains required", note: (r.snow ? "Snow, " : "") + lowTxt + "." };
+    if (r.low <= -8 || (r.low <= -1 && r.snow)) return { level: "ice", label: "Ice: drive with care", note: lowTxt + "." };
     return { level: "open", label: "Open", note: lowTxt + "." };
   }
 
-  function render(root, config, weather) {
+  function render(root, config, season) {
     var today = todayIrt();
     var roads = root.querySelector(".pass-list");
     var list = root.querySelector(".notice-list");
     roads.innerHTML = "";
     var alerts = [];
     config.passes.forEach(function (p, i) {
-      var st = passStatus(p, weather ? weather[i] : null, today);
+      var st = passStatus(p, season, today);
       var li = el("li", "pass" + (st ? " pass-" + st.level : ""));
       var head = el("div", "pass-head");
       head.appendChild(el("strong", null, p.name));
@@ -94,14 +80,8 @@
     if (!root) return;
     fetch("notices.json", { cache: "no-cache" }).then(function (r) { return r.json(); }).then(function (config) {
       render(root, config, null);  // notices straight away; passes when the forecast arrives
-      var p = config.passes;
-      var url = "https://api.open-meteo.com/v1/forecast?latitude=" + p.map(function (x) { return x.lat; }).join(",") +
-        "&longitude=" + p.map(function (x) { return x.lon; }).join(",") +
-        "&elevation=" + p.map(function (x) { return x.elevation; }).join(",") +
-        "&daily=snowfall_sum,precipitation_sum,temperature_2m_min,wind_gusts_10m_max&past_days=1&forecast_days=2&timezone=auto";
-      cached("iradone-passes-v3", function () {
-        return fetch(url).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); });
-      }).then(function (w) { render(root, config, Array.isArray(w) ? w : [w]); })
+      fetch("data/today.json", { cache: "no-cache" }).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+        .then(function (d) { if (d.season) render(root, config, d.season); })
         .catch(function () { /* passes show "No report" unless season-closed */ });
     }).catch(function () { root.hidden = true; });
   }
