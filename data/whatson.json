@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31",
+ "updated": "2026-11-01",
  "events": [
   {
    "id": "palace-autumn-2026",
@@ -19,86 +19,6 @@
     "en": "Mountains and Dreams, Threads of History, History in Bronze and Modern Rhythms. Closed 14 November."
    },
    "tulpar": "palaceofart"
-  },
-  {
-   "id": "league-2026-r27-2",
-   "kind": "match",
-   "date": "2026-10-31",
-   "time": "17:00",
-   "title": {
-    "en": "Irad League: Temirjolchu Nurzhan v Naryn Tash-Kömür",
-    "ru": "Лига Ирада: Темиржолчу Нуржан — Нарын Таш-Кумыр",
-    "ir": "Irad League: Temirjolchu Nurzhan – Naryn Tash-Kömür"
-   },
-   "venue": "Lokomotiv Stadium",
-   "city": "Nurzhan",
-   "city_ru": "Нуржан",
-   "url": "https://iradleague.com/fixtures.html#r27",
-   "tulpar": "iradleague"
-  },
-  {
-   "id": "league-2026-r27-3",
-   "kind": "match",
-   "date": "2026-10-31",
-   "time": "17:00",
-   "title": {
-    "en": "Irad League: Attelkom Talas v Kara-Buura",
-    "ru": "Лига Ирада: Аттелком Талас — Кара-Буура",
-    "ir": "Irad League: Attelkom Talas – Kara-Buura"
-   },
-   "venue": "Attelkom Park",
-   "city": "Talas",
-   "city_ru": "Талас",
-   "url": "https://iradleague.com/fixtures.html#r27",
-   "tulpar": "iradleague"
-  },
-  {
-   "id": "league-2026-r27-4",
-   "kind": "match",
-   "date": "2026-10-31",
-   "time": "17:00",
-   "title": {
-    "en": "Irad League: FC Iyık Janyl v Universitet Talas",
-    "ru": "Лига Ирада: ФК «Ийык Джаныл» — Университет Талас",
-    "ir": "Irad League: FC Iyık Janyl – Universitet Talas"
-   },
-   "venue": "Iyık Janyl City Stadium",
-   "city": "Iyık Janyl",
-   "city_ru": "Ийык Джаныл",
-   "url": "https://iradleague.com/fixtures.html#r27",
-   "tulpar": "iradleague"
-  },
-  {
-   "id": "league-2026-r27-5",
-   "kind": "match",
-   "date": "2026-10-31",
-   "time": "17:00",
-   "title": {
-    "en": "Irad League: Surma Chatkal v Dastgoh Nurzhan",
-    "ru": "Лига Ирада: Сурма Чаткал — Дастгох Нуржан",
-    "ir": "Irad League: Surma Chatkal – Dastgoh Nurzhan"
-   },
-   "venue": "Kombinat Stadium",
-   "city": "Chatkal (Sary-Bulak District)",
-   "city_ru": "Чаткал (Сары-Булакский район)",
-   "url": "https://iradleague.com/fixtures.html#r27",
-   "tulpar": "iradleague"
-  },
-  {
-   "id": "league-2026-r27-1",
-   "kind": "match",
-   "date": "2026-10-31",
-   "time": "18:00",
-   "title": {
-    "en": "Irad League: Neftchi Nurzhan v Tulpar Talas",
-    "ru": "Лига Ирада: Нефтчи Нуржан — Тулпар Талас",
-    "ir": "Irad League: Neftchi Nurzhan – Tulpar Talas"
-   },
-   "venue": "NurGaz Stadium",
-   "city": "Nurzhan",
-   "city_ru": "Нуржан",
-   "url": "https://iradleague.com/fixtures.html#r27",
-   "tulpar": "iradleague"
   },
   {
    "id": "tsu-evening-courses-2026",
