@@ -309,14 +309,21 @@ nav ul li a {
 }
 
 .video-item img,
-.video-item iframe {
+.video-item iframe,
+.video-item video {
   width: 100%;
   aspect-ratio: 16 / 9; /* Maintain aspect ratio for thumbnails */
   border-radius: 10px;
 }
 
-.video-item iframe {
+.video-item iframe,
+.video-item video {
   display: none; /* Hidden by default */
+  background: #000;
+}
+
+.video-item img {
+  cursor: pointer;
 }
 
 .video-item .photo-title {
@@ -332,7 +339,8 @@ nav ul li a {
 }
 
 /* Hide photo title when video is playing */
-.video-item iframe[style*="display: block"] + .photo-title {
+.video-item iframe[style*="display: block"] + .photo-title,
+.video-item video[style*="display: block"] + .photo-title {
   opacity: 0; /* Hide the title when the iframe is visible */
 }
 

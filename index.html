@@ -247,93 +247,63 @@
     <div class="video-grid">
         <div class="video-item">
             <img
-                src="https://img.youtube.com/vi/pmb13iNO-84/maxresdefault.jpg"
-                alt="Visit to Kyrgyzstan"
+                src="videos/irad-day.jpg"
+                alt="Irad Day"
                 class="video-thumbnail"
-                data-video-id="pmb13iNO-84"
+                data-video-src="videos/irad-day.mp4"
             />
-            <iframe
-                src=""
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen
-                style="display: none;"
-            ></iframe>
-            <div class="photo-title">Visit to Kyrgyzstan</div>
+            <video controls playsinline preload="none" style="display: none;"></video>
+            <div class="photo-title">Irad Day</div>
         </div>
         <div class="video-item">
             <img
-                src="https://img.youtube.com/vi/ThJDl6o6WtM/maxresdefault.jpg"
-                alt="Ala Archa National Park"
+                src="videos/elections-2023.jpg"
+                alt="Elections 2023"
                 class="video-thumbnail"
-                data-video-id="ThJDl6o6WtM"
+                data-video-src="videos/elections-2023.mp4"
             />
-            <iframe
-                src=""
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen
-                style="display: none;"
-            ></iframe>
-            <div class="photo-title">Ala Archa National Park</div>
+            <video controls playsinline preload="none" style="display: none;"></video>
+            <div class="photo-title">Elections 2023</div>
         </div>
         <div class="video-item">
             <img
-                src="https://img.youtube.com/vi/QHU6SGF661o/maxresdefault.jpg"
-                alt="Elections - 2023"
+                src="videos/patrol-kara-bulak.jpg"
+                alt="Patrol: Kara-Bulak"
                 class="video-thumbnail"
-                data-video-id="QHU6SGF661o"
+                data-video-src="videos/patrol-kara-bulak.mp4"
             />
-            <iframe
-                src=""
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen
-                style="display: none;"
-            ></iframe>
-            <div class="photo-title">Elections - 2023</div>
+            <video controls playsinline preload="none" style="display: none;"></video>
+            <div class="photo-title">Patrol: Kara-Bulak</div>
         </div>
         <div class="video-item">
             <img
-                src="https://img.youtube.com/vi/LL4rQlQV-F0/maxresdefault.jpg"
-                alt="Day of the Armed Forces"
+                src="videos/black-winter.jpg"
+                alt="From the Archive: the black winter"
                 class="video-thumbnail"
-                data-video-id="LL4rQlQV-F0"
+                data-video-src="videos/black-winter.mp4"
             />
-            <iframe
-                src=""
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen
-                style="display: none;"
-            ></iframe>
-            <div class="photo-title">Day of the Armed Forces</div>
+            <video controls playsinline preload="none" style="display: none;"></video>
+            <div class="photo-title">From the Archive: the black winter</div>
         </div>
         <div class="video-item">
             <img
-                src="https://img.youtube.com/vi/j7uvVsUp1Ko/maxresdefault.jpg"
-                alt="Message from the Leader of the Nation"
+                src="videos/talas-alatau.jpg"
+                alt="Seasons of the Talas Alatau"
                 class="video-thumbnail"
-                data-video-id="j7uvVsUp1Ko"
+                data-video-src="videos/talas-alatau.mp4"
             />
-            <iframe
-                src=""
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen
-                style="display: none;"
-            ></iframe>
-            <div class="photo-title">Message from the Leader of the Nation</div>
+            <video controls playsinline preload="none" style="display: none;"></video>
+            <div class="photo-title">Seasons of the Talas Alatau</div>
         </div>
         <div class="video-item">
             <img
-                src="https://img.youtube.com/vi/d0k8YDViZ0w/maxresdefault.jpg"
-                alt="Elections"
+                src="videos/oneweek-train.jpg"
+                alt="OneWeek"
                 class="video-thumbnail"
-                data-video-id="d0k8YDViZ0w"
+                data-video-src="videos/oneweek-train.mp4"
             />
-            <iframe
-                src=""
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen
-                style="display: none;"
-            ></iframe>
-            <div class="photo-title">Elections</div>
+            <video controls playsinline preload="none" style="display: none;"></video>
+            <div class="photo-title">OneWeek</div>
         </div>
     </div>
 </section>
@@ -415,15 +385,16 @@ function handleVideoThumbnailClick() {
 
     videoThumbnails.forEach(thumbnail => {
         thumbnail.addEventListener('click', () => {
-            const videoId = thumbnail.getAttribute('data-video-id');
-            const iframe = thumbnail.nextElementSibling;
+            const videoSrc = thumbnail.getAttribute('data-video-src');
+            const player = thumbnail.nextElementSibling;
 
-            // Hide the thumbnail and show the iframe
+            // Hide the thumbnail and show the player
             thumbnail.style.display = 'none';
-            iframe.style.display = 'block';
+            player.style.display = 'block';
 
-            // Set the iframe src to start the video
-            iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1&mute=1`;
+            // Load the clip only now, then play it
+            player.src = videoSrc;
+            player.play();
         });
     });
 }
