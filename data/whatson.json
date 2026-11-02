@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01",
+ "updated": "2026-11-02",
  "events": [
   {
    "id": "palace-autumn-2026",
@@ -19,76 +19,6 @@
     "en": "Mountains and Dreams, Threads of History, History in Bronze and Modern Rhythms. Closed 14 November."
    },
    "tulpar": "palaceofart"
-  },
-  {
-   "id": "tsu-evening-courses-2026",
-   "kind": "other",
-   "date": "2026-11-01",
-   "title": {
-    "en": "TSU evening courses: last day of enrolment",
-    "ru": "Вечерние курсы ТГУ: последний день записи"
-   },
-   "venue": "Talas State University, Building 3, room 104",
-   "city": "Talas",
-   "city_ru": "Талас",
-   "url": "https://talasuniversity.org/news/",
-   "tulpar": "tsu"
-  },
-  {
-   "id": "first-2026-11-01-karabulak",
-   "kind": "match",
-   "date": "2026-11-01",
-   "time": "15:00",
-   "title": {
-    "en": "First League: Kara-Bulak v Bazar-Korgon",
-    "ru": "Первая лига: Кара-Булак — Базар-Коргон"
-   },
-   "venue": "Kara-Bulak ground",
-   "city": "Kara-Bulak",
-   "city_ru": "Кара-Булак",
-   "url": "https://iradleague.com/first-league.html"
-  },
-  {
-   "id": "first-2026-11-01-navbahor",
-   "kind": "match",
-   "date": "2026-11-01",
-   "time": "15:00",
-   "title": {
-    "en": "First League: Navbahor Nurzhan v Besh-Terek",
-    "ru": "Первая лига: Навбахор Нуржан — Беш-Терек"
-   },
-   "venue": "Navbahor Nurzhan ground",
-   "city": "Nurzhan",
-   "city_ru": "Нуржан",
-   "url": "https://iradleague.com/first-league.html"
-  },
-  {
-   "id": "first-2026-11-01-politekhnik",
-   "kind": "match",
-   "date": "2026-11-01",
-   "time": "15:00",
-   "title": {
-    "en": "First League: Politekhnik Nurzhan v Toktogul",
-    "ru": "Первая лига: Политехник Нуржан — Токтогул"
-   },
-   "venue": "Politekhnik Nurzhan ground",
-   "city": "Nurzhan",
-   "city_ru": "Нуржан",
-   "url": "https://iradleague.com/first-league.html"
-  },
-  {
-   "id": "first-2026-11-01-semiz",
-   "kind": "match",
-   "date": "2026-11-01",
-   "time": "15:00",
-   "title": {
-    "en": "First League: Deportivo Semiz v Akademiya Talas",
-    "ru": "Первая лига: «Депортиво» Семиз — Академия Талас"
-   },
-   "venue": "Deportivo Semiz ground",
-   "city": "Semiz, Talas",
-   "city_ru": "Семиз, Талас",
-   "url": "https://iradleague.com/first-league.html"
   },
   {
    "id": "church-2026-11-02",
@@ -254,6 +184,25 @@
    "tulpar": "tsu"
   },
   {
+   "id": "arsha-reading-1127",
+   "kind": "other",
+   "date": "2026-11-27",
+   "time": "19:00",
+   "title": {
+    "en": "Arsha Books: Mor-Wave reading evening",
+    "ru": "Arsha Books: вечер чтений Mor-Wave"
+   },
+   "venue": "Arsha Books, Köhne Diz (above the saddler's workshop)",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://arshakitep.com/",
+   "price": "free",
+   "note": {
+    "en": "New poems and pages from the back room, read aloud upstairs. The monthly evening."
+   },
+   "tulpar": "arshakitep"
+  },
+  {
    "id": "tsu-lecture-1916-1203",
    "kind": "lecture",
    "date": "2026-12-03",
@@ -322,6 +271,25 @@
    "url": "https://talasuniversity.org/news/",
    "price": "free",
    "tulpar": "tsu"
+  },
+  {
+   "id": "arsha-reading-1218",
+   "kind": "other",
+   "date": "2026-12-18",
+   "time": "19:00",
+   "title": {
+    "en": "Arsha Books: Mor-Wave reading evening",
+    "ru": "Arsha Books: вечер чтений Mor-Wave"
+   },
+   "venue": "Arsha Books, Köhne Diz (above the saddler's workshop)",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://arshakitep.com/",
+   "price": "free",
+   "note": {
+    "en": "New poems and pages from the back room, read aloud upstairs. The monthly evening."
+   },
+   "tulpar": "arshakitep"
   },
   {
    "id": "church-2026-12-25",
@@ -395,6 +363,25 @@
     "en": "Three days of fasting and prayer."
    },
    "tulpar": "saintjanyl"
+  },
+  {
+   "id": "arsha-reading-0129",
+   "kind": "other",
+   "date": "2027-01-29",
+   "time": "19:00",
+   "title": {
+    "en": "Arsha Books: Mor-Wave reading evening",
+    "ru": "Arsha Books: вечер чтений Mor-Wave"
+   },
+   "venue": "Arsha Books, Köhne Diz (above the saddler's workshop)",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://arshakitep.com/",
+   "price": "free",
+   "note": {
+    "en": "New poems and pages from the back room, read aloud upstairs. The monthly evening."
+   },
+   "tulpar": "arshakitep"
   },
   {
    "id": "church-2027-02-08",

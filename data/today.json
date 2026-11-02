@@ -1,8 +1,8 @@
 {
- "date": "2026-11-01",
- "updated": "2026-11-01T03:07+06:00",
+ "date": "2026-11-02",
+ "updated": "2026-11-02T03:07+06:00",
  "label": {
-  "en": "Market data, 1 November 2026",
+  "en": "Market data, 2 November 2026",
   "ir": "Bazar maalımatı",
   "ru": "Рыночные данные"
  },
@@ -49,7 +49,7 @@
     {
      "code": "UZS",
      "units": 1000,
-     "som": 0.7003
+     "som": 0.7005
     }
    ]
   },
@@ -63,7 +63,7 @@
     {
      "code": "USD",
      "units": 1,
-     "buy": 11.5,
+     "buy": 11.45,
      "sell": 11.95
     },
     {
@@ -79,8 +79,8 @@
      "sell": 14.7
     }
    ],
-   "usd_mid": 11.725,
-   "usd_change": 0.025,
+   "usd_mid": 11.7,
+   "usd_change": -0.025,
    "note": null
   }
  },
@@ -311,38 +311,27 @@
      "ru": "Талас"
     },
     "elevation_m": 1270,
-    "high": 12,
-    "low": -1,
-    "code": 3,
+    "high": 13,
+    "low": 0,
+    "code": 2,
     "label": {
-     "en": "Cloudy",
-     "ir": "Bulut",
-     "ru": "Облачно"
+     "en": "Partly cloudy",
+     "ir": "Jarım-jartı bulut",
+     "ru": "Переменная облачность"
     },
     "precip_mm": 0.0,
     "inversion": false,
     "temps_3h": [
      4,
+     1,
      0,
-     -1,
-     2,
+     3,
      9,
-     12,
+     13,
      11,
      8
     ],
     "forecast": [
-     {
-      "date": "2026-11-02",
-      "high": 13,
-      "low": 0,
-      "code": 2,
-      "label": {
-       "en": "Partly cloudy",
-       "ir": "Jarım-jartı bulut",
-       "ru": "Переменная облачность"
-      }
-     },
      {
       "date": "2026-11-03",
       "high": 14,
@@ -356,6 +345,17 @@
      },
      {
       "date": "2026-11-04",
+      "high": 14,
+      "low": 2,
+      "code": 0,
+      "label": {
+       "en": "Clear",
+       "ir": "Achık",
+       "ru": "Ясно"
+      }
+     },
+     {
+      "date": "2026-11-05",
       "high": 14,
       "low": 2,
       "code": 0,
@@ -375,38 +375,27 @@
      "ru": "Нуржан"
     },
     "elevation_m": 470,
-    "high": 12,
-    "low": 2,
-    "code": 3,
+    "high": 11,
+    "low": -2,
+    "code": 1,
     "label": {
-     "en": "Cloudy",
-     "ir": "Bulut",
-     "ru": "Облачно"
+     "en": "Mainly clear",
+     "ir": "Negizinen achık",
+     "ru": "Преимущественно ясно"
     },
     "precip_mm": 0.0,
-    "inversion": false,
+    "inversion": true,
     "temps_3h": [
-     5,
-     3,
      2,
-     4,
-     9,
-     12,
+     -1,
+     -2,
+     1,
+     8,
      11,
-     8
+     10,
+     6
     ],
     "forecast": [
-     {
-      "date": "2026-11-02",
-      "high": 11,
-      "low": -2,
-      "code": 1,
-      "label": {
-       "en": "Mainly clear",
-       "ir": "Negizinen achık",
-       "ru": "Преимущественно ясно"
-      }
-     },
      {
       "date": "2026-11-03",
       "high": 13,
@@ -428,6 +417,17 @@
        "ir": "Tuman",
        "ru": "Туман"
       }
+     },
+     {
+      "date": "2026-11-05",
+      "high": 13,
+      "low": 1,
+      "code": 0,
+      "label": {
+       "en": "Clear",
+       "ir": "Achık",
+       "ru": "Ясно"
+      }
      }
     ]
    },
@@ -439,38 +439,27 @@
      "ru": "Ийык Джаныл"
     },
     "elevation_m": 650,
-    "high": 14,
-    "low": 7,
-    "code": 63,
+    "high": 17,
+    "low": 6,
+    "code": 2,
     "label": {
-     "en": "Rain",
-     "ir": "Jamgır",
-     "ru": "Дождь"
+     "en": "Partly cloudy",
+     "ir": "Jarım-jartı bulut",
+     "ru": "Переменная облачность"
     },
-    "precip_mm": 5.8,
+    "precip_mm": 0.0,
     "inversion": false,
     "temps_3h": [
      10,
-     8,
      7,
+     6,
      9,
-     12,
      14,
-     13,
-     12
+     17,
+     16,
+     13
     ],
     "forecast": [
-     {
-      "date": "2026-11-02",
-      "high": 17,
-      "low": 6,
-      "code": 2,
-      "label": {
-       "en": "Partly cloudy",
-       "ir": "Jarım-jartı bulut",
-       "ru": "Переменная облачность"
-      }
-     },
      {
       "date": "2026-11-03",
       "high": 16,
@@ -492,6 +481,17 @@
        "ir": "Tuman",
        "ru": "Туман"
       }
+     },
+     {
+      "date": "2026-11-05",
+      "high": 16,
+      "low": 4,
+      "code": 45,
+      "label": {
+       "en": "Fog",
+       "ir": "Tuman",
+       "ru": "Туман"
+      }
      }
     ]
    },
@@ -503,38 +503,27 @@
      "ru": "Таш-Кумыр"
     },
     "elevation_m": 690,
-    "high": 11,
+    "high": 17,
     "low": 4,
-    "code": 61,
+    "code": 2,
     "label": {
-     "en": "Rain",
-     "ir": "Jamgır",
-     "ru": "Дождь"
+     "en": "Partly cloudy",
+     "ir": "Jarım-jartı bulut",
+     "ru": "Переменная облачность"
     },
-    "precip_mm": 1.7,
+    "precip_mm": 0.0,
     "inversion": false,
     "temps_3h": [
-     6,
+     8,
+     5,
      4,
-     4,
-     6,
-     9,
-     11,
-     11,
-     9
+     7,
+     14,
+     17,
+     16,
+     12
     ],
     "forecast": [
-     {
-      "date": "2026-11-02",
-      "high": 17,
-      "low": 4,
-      "code": 2,
-      "label": {
-       "en": "Partly cloudy",
-       "ir": "Jarım-jartı bulut",
-       "ru": "Переменная облачность"
-      }
-     },
      {
       "date": "2026-11-03",
       "high": 19,
@@ -550,6 +539,17 @@
       "date": "2026-11-04",
       "high": 18,
       "low": 6,
+      "code": 0,
+      "label": {
+       "en": "Clear",
+       "ir": "Achık",
+       "ru": "Ясно"
+      }
+     },
+     {
+      "date": "2026-11-05",
+      "high": 18,
+      "low": 4,
       "code": 0,
       "label": {
        "en": "Clear",
@@ -576,8 +576,8 @@
      "ir": "Nurzhan",
      "ru": "Нуржан"
     },
-    "aqi": 153,
-    "pm25": 58.9,
+    "aqi": 196,
+    "pm25": 119.2,
     "category": "unhealthy",
     "label": {
      "en": "Unhealthy",
@@ -585,7 +585,7 @@
      "ru": "Вредно"
     },
     "heating_season": true,
-    "inversion": false
+    "inversion": true
    },
    {
     "id": "talas",
@@ -594,8 +594,8 @@
      "ir": "Talas",
      "ru": "Талас"
     },
-    "aqi": 96,
-    "pm25": 33.1,
+    "aqi": 92,
+    "pm25": 31.2,
     "category": "moderate",
     "label": {
      "en": "Moderate",
@@ -612,13 +612,13 @@
      "ir": "Iyık Janyl",
      "ru": "Ийык Джаныл"
     },
-    "aqi": 75,
-    "pm25": 22.1,
-    "category": "moderate",
+    "aqi": 115,
+    "pm25": 41.0,
+    "category": "sensitive",
     "label": {
-     "en": "Moderate",
-     "ir": "Ortocho",
-     "ru": "Умеренное"
+     "en": "Unhealthy for sensitive groups",
+     "ir": "Sezgich adamdarga ziyan",
+     "ru": "Вредно для чувствительных групп"
     },
     "heating_season": true,
     "inversion": false
@@ -632,10 +632,10 @@
    "ru": "Ежедневная сводка Ирадэнерго по водохранилищу"
   },
   "toktogul": {
-   "storage_km3": 16.59,
+   "storage_km3": 16.55,
    "total_km3": 19.0,
-   "fill_pct": 87.3,
-   "change_mcm": -32,
+   "fill_pct": 87.1,
+   "change_mcm": -40,
    "trend": "drawing-down",
    "trend_label": {
     "en": "Drawing down",
@@ -667,9 +667,9 @@
    "ir": "Chet öldük birjanın tüshkü baası. Rasmiy tölöm karajatı emes (Irad Bankı).",
    "ru": "Котировка офшорной биржи в полдень. Не является законным платёжным средством (Банк Ирада)."
   },
-  "price_usd": 0.0359,
-  "price_som": 0.302,
-  "change_pct": 5.5,
+  "price_usd": 0.0343,
+  "price_som": 0.288,
+  "change_pct": -4.4,
   "time": "12:00 UTC"
  },
  "sport": {
@@ -1537,5 +1537,234 @@
     }
    ]
   }
+ },
+ "season": {
+  "source": {
+   "en": "Irad Gidromet; Highway Patrol Corps; Irad Temir Jolu",
+   "ir": "Irad Gidromet; Avtojol patrul korpusu; Irad Temir Jolu",
+   "ru": "Ирадгидромет; Корпус дорожного патруля; Ирад Темир Жолу"
+  },
+  "phase": "autumn",
+  "label": {
+   "en": "Autumn",
+   "ir": "Küz",
+   "ru": "Осень"
+  },
+  "since": "2026-09-01",
+  "winter": false,
+  "heating": {
+   "on": true,
+   "from": "2026-10-15",
+   "to": "2027-04-15"
+  },
+  "roads": [
+   {
+    "id": "karasuu",
+    "name": {
+     "en": "Kara-Suu Canyon mouth",
+     "ir": "Kara-Suu kapchıgayının oozu",
+     "ru": "Устье каньона Кара-Суу"
+    },
+    "elevation_m": 1390,
+    "status": "open",
+    "label": {
+     "en": "Open",
+     "ir": "Achık",
+     "ru": "Открыто"
+    },
+    "high": 12,
+    "low": -1,
+    "snow": false
+   },
+   {
+    "id": "aksay",
+    "name": {
+     "en": "Aksay post",
+     "ir": "Aksay postu",
+     "ru": "Пост Аксай"
+    },
+    "elevation_m": 2000,
+    "status": "chains",
+    "label": {
+     "en": "Chains or winter tyres",
+     "ir": "Chınjır je kıshkı döñgölök",
+     "ru": "Цепи или зимние шины"
+    },
+    "high": 8,
+    "low": -5,
+    "snow": false
+   },
+   {
+    "id": "suusamyr",
+    "name": {
+     "en": "Suusamyr crossing",
+     "ir": "Suusamır ötkölü",
+     "ru": "Пункт пропуска Суусамыр"
+    },
+    "elevation_m": 2660,
+    "status": "winter",
+    "label": {
+     "en": "Closed for the winter",
+     "ir": "Kıshka jabık",
+     "ru": "Закрыто на зиму"
+    },
+    "high": 4,
+    "low": -9,
+    "snow": false
+   },
+   {
+    "id": "otmek",
+    "name": {
+     "en": "Otmek tunnel",
+     "ir": "Otmek tunneli",
+     "ru": "Отмекский тоннель"
+    },
+    "elevation_m": 3175,
+    "status": "chains",
+    "label": {
+     "en": "Chains or winter tyres",
+     "ir": "Chınjır je kıshkı döñgölök",
+     "ru": "Цепи или зимние шины"
+    },
+    "high": 1,
+    "low": -12,
+    "snow": false
+   },
+   {
+    "id": "alabel",
+    "name": {
+     "en": "Fergana Gateway (Ala-Bel)",
+     "ir": "Fergana Darbazası (Ala-Bel)",
+     "ru": "Ферганские ворота (Ала-Бель)"
+    },
+    "elevation_m": 3184,
+    "status": "chains",
+    "label": {
+     "en": "Chains or winter tyres",
+     "ir": "Chınjır je kıshkı döñgölök",
+     "ru": "Цепи или зимние шины"
+    },
+    "high": 1,
+    "low": -12,
+    "snow": false
+   },
+   {
+    "id": "otmekpass",
+    "name": {
+     "en": "Otmek Pass, old road",
+     "ir": "Otmek ashuusu, eski jol",
+     "ru": "Перевал Отмек, старая дорога"
+    },
+    "elevation_m": 3330,
+    "status": "winter",
+    "label": {
+     "en": "Closed for the winter",
+     "ir": "Kıshka jabık",
+     "ru": "Закрыто на зиму"
+    },
+    "high": 0,
+    "low": -13,
+    "snow": false
+   },
+   {
+    "id": "kokbel",
+    "name": {
+     "en": "Kök-Bel Pass",
+     "ir": "Kök-Bel ashuusu",
+     "ru": "Перевал Кок-Бель"
+    },
+    "elevation_m": 2670,
+    "status": "chains",
+    "label": {
+     "en": "Chains or winter tyres",
+     "ir": "Chınjır je kıshkı döñgölök",
+     "ru": "Цепи или зимние шины"
+    },
+    "high": 4,
+    "low": -9,
+    "snow": false
+   },
+   {
+    "id": "karakoyun",
+    "name": {
+     "en": "Karakoyun Pass",
+     "ir": "Karakoyun ashuusu",
+     "ru": "Перевал Каракоюн"
+    },
+    "elevation_m": 3050,
+    "status": "chains",
+    "label": {
+     "en": "Chains or winter tyres",
+     "ir": "Chınjır je kıshkı döñgölök",
+     "ru": "Цепи или зимние шины"
+    },
+    "high": 1,
+    "low": -12,
+    "snow": false
+   },
+   {
+    "id": "karabuura",
+    "name": {
+     "en": "Kara-Buura Pass",
+     "ir": "Kara-Buura ashuusu",
+     "ru": "Перевал Кара-Буура"
+    },
+    "elevation_m": 3305,
+    "status": "chains",
+    "label": {
+     "en": "Chains or winter tyres",
+     "ir": "Chınjır je kıshkı döñgölök",
+     "ru": "Цепи или зимние шины"
+    },
+    "high": 0,
+    "low": -13,
+    "snow": false
+   }
+  ],
+  "fergana_gateway": "chains",
+  "avalanche": {
+   "area": {
+    "en": "Talas Alatau and the Fergana Gateway",
+    "ir": "Talas Ala-Toosu jana Fergana Darbazası",
+    "ru": "Таласский Алатау и Ферганские ворота"
+   },
+   "level": 1,
+   "label": {
+    "en": "1 Low",
+    "ir": "1 Tömön",
+    "ru": "1 Низкая"
+   },
+   "new_snow_cm": 8
+  },
+  "rail_timetable": {
+   "period": "winter",
+   "from": "2026-11-01",
+   "label": {
+    "en": "Winter timetable",
+    "ir": "Kıshkı jadıbal",
+    "ru": "Зимнее расписание"
+   }
+  },
+  "visitor_season": "off",
+  "notes": [
+   {
+    "id": "chains",
+    "en": "Chains or winter tyres are required on the Fergana Gateway until 31 March.",
+    "ir": "Fergana Darbazasında 31-martka cheyin chınjır je kıshkı döñgölök mildettüü.",
+    "ru": "До 31 марта на Ферганских воротах обязательны цепи или зимние шины."
+   },
+   {
+    "id": "heating",
+    "en": "Heating season: district heating is on in Talas and Nurzhan until 15 April.",
+    "ir": "Jılıtuu mezgili: Talas menen Nurzhanda jılıtuu 15-aprelge cheyin berilet.",
+    "ru": "Отопительный сезон: централизованное отопление в Таласе и Нуржане работает до 15 апреля."
+   },
+   {
+    "id": "rail",
+    "en": "Irad Temir Jolu runs to its winter timetable.",
+    "ir": "Irad Temir Jolu kıshkı jadıbal boyuncha jüröt.",
+    "ru": "Ирад Темир Жолу работает по зимнему расписанию."
+   }
+  ]
  }
 }
