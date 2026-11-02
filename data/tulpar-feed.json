@@ -1,6 +1,173 @@
 {
- "updated": "2026-11-01T06:03+06:00",
+ "updated": "2026-11-02T06:37+06:00",
  "posts": [
+  {
+   "id": "d1102-jarysh-s1",
+   "handle": "jarysh",
+   "time": "2026-11-02T15:42+06:00",
+   "text": {
+    "en": "In case you missed it: Talas 7, Sary-Bulak 4: Four From Four at the Hippodrome",
+    "ir": "Okuy elek bolsoñuz: Talas 7, Sary-Bulak 4: Four From Four at the Hippodrome",
+    "ru": "Если пропустили: Talas 7, Sary-Bulak 4: Four From Four at the Hippodrome"
+   },
+   "link": {
+    "url": "https://jarysh.com/news/talas-seven-sary-bulak-four.html",
+    "site": "jarysh.com",
+    "title": "Talas 7, Sary-Bulak 4: Four From Four at the Hippodrome",
+    "desc": "Adilet Turdumamat uulu scores three as Talas stay perfect, Semiz finally get a point, and 15,200 people drink the Aigyr Deck dry by 22:40.",
+    "image": "https://jarysh.com/img/hero.jpg"
+   },
+   "stats": {
+    "replies": 51,
+    "reposts": 51,
+    "likes": 639
+   }
+  },
+  {
+   "id": "d1102-vnurzhan-s1",
+   "handle": "vnurzhan",
+   "time": "2026-11-02T14:45+06:00",
+   "text": {
+    "en": "In case you missed it: 'Bank security service': two detained in Iyık Janyl",
+    "ir": "Okuy elek bolsoñuz: 'Bank security service': two detained in Iyık Janyl",
+    "ru": "Если пропустили: «Служба безопасности банка»: в Ийык Джаныле задержаны двое"
+   },
+   "link": {
+    "url": "https://vnurzhan.com/en/news/moshenniki-kody-iz-sms.html",
+    "site": "vnurzhan.com",
+    "title": "'Bank security service': two detained in Iyık Janyl",
+    "desc": "The callers talked four pensioners into reading out SMS codes. Police remind readers that banks never ask for codes by phone.",
+    "image": "https://vnurzhan.com/assets/og-image.png"
+   },
+   "stats": {
+    "replies": 66,
+    "reposts": 111,
+    "likes": 1116
+   }
+  },
+  {
+   "id": "d1102-iarmc-promo2",
+   "handle": "iarmc",
+   "time": "2026-11-02T14:00+06:00",
+   "text": {
+    "en": "Antimony from Irad since 1961. The Iradi Antimony and Rare Metals Combine brings together the Sary-Bulak Antimony Works and the Chatkal Chemical Smelting Complex. IARMC press service.",
+    "ir": "Irad antimonu 1961-jyldan beri. Irad Antimon jana Siräk Metaldar Kombinaty Sary-Bulak antimon zavodun jana Chatkal himiyalyk eritüü kompleksin biriktiret. IARMC pres-kyzmaty.",
+    "ru": "Сурьма из Ирада с 1961 года. Иradский комбинат сурьмы и редких металлов объединяет Сары-Булакский сурьмяный завод и Чаткальский химико-плавильный комплекс. Пресс-служба IARMC."
+   },
+   "stats": {
+    "replies": 14,
+    "reposts": 49,
+    "likes": 498
+   }
+  },
+  {
+   "id": "d1102-iradgov-s1",
+   "handle": "iradgov",
+   "time": "2026-11-02T13:18+06:00",
+   "text": {
+    "en": "In case you missed it: Census of business entities begins: enumerators visit firms, farms and stalls until 30 November",
+    "ir": "Okuy elek bolsoñuz: Ishkanalardın sanagı bashtaldı: kattoochular 30-noyabrga cheyin firmalardı, chabandardı jana sooda oorundarın kıdırat",
+    "ru": "Если пропустили: Начата перепись хозяйствующих субъектов: счётчики обходят фирмы, фермы и торговые места до 30 ноября"
+   },
+   "link": {
+    "url": "https://iradgov.org/releases/2026-10-15-business-census.html",
+    "site": "iradgov.org",
+    "title": "Census of business entities begins: enumerators visit firms, farms and stalls until 30 November",
+    "desc": "The first count of all business entities in the ISEZ runs from 15 October to 30 November. Answers are used for statistics only."
+   },
+   "stats": {
+    "replies": 16,
+    "reposts": 37,
+    "likes": 540
+   }
+  },
+  {
+   "id": "d1102-iradtimes-s1",
+   "handle": "iradtimes",
+   "time": "2026-11-02T12:12+06:00",
+   "text": {
+    "en": "In case you missed it: Tulparcoin name case to 16 November",
+    "ir": "Okuy elek bolsoñuz: Tulparcoin name case to 16 November",
+    "ru": "Если пропустили: Tulparcoin name case to 16 November"
+   },
+   "link": {
+    "url": "https://iradtimes.com/2026/10/brief-tulparcoin-hearing.html",
+    "site": "iradtimes.com",
+    "title": "Tulparcoin name case to 16 November",
+    "desc": "The Talas District Court adjourned the Talas Commercial Development Group’s request for an injunction against the Tulparcoin name until 16 November. Judge…",
+    "image": "https://iradtimes.com/img/og-default.jpg"
+   },
+   "stats": {
+    "replies": 33,
+    "reposts": 84,
+    "likes": 849
+   }
+  },
+  {
+   "id": "d1102-iradloto-promo1",
+   "handle": "iradloto",
+   "time": "2026-11-02T11:00+06:00",
+   "text": {
+    "en": "Holding an Altın Bayge, Joguru! or Tört Tuyak ticket? Check it with our ticket checker. Tickets are on sale at kiosks and post offices. Good luck!",
+    "ir": "Altın Bayge, Joguru! yamasa Tört Tuyak biletiñiz barby? Bilet tekşergiç menen tekşeriñiz. Biletter kiosktarda jana poçta bölümdöründö satylat. Ak jol!",
+    "ru": "Есть билет Altın Bayge, Joguru! или Tört Tuyak? Проверьте его в нашей проверке билетов. Билеты продаются в киосках и на почте. Удачи!"
+   },
+   "stats": {
+    "replies": 62,
+    "reposts": 132,
+    "likes": 782
+   }
+  },
+  {
+   "id": "d1102-pochtasy-promo3",
+   "handle": "pochtasy",
+   "time": "2026-11-02T09:30+06:00",
+   "text": {
+    "en": "Irad Post has about 190 post offices. At the counter you can collect your pension, send or receive a money order and subscribe to newspapers.",
+    "ir": "Irad Poçtasynyn 190ga jakyn poçta bölümü bar. Kassadan pensiyañyzdy alyp, akça kotoruu jibere jana ala alasyz, gezitke jazyla alasyz.",
+    "ru": "В Irad Post около 190 почтовых отделений. На почте можно получить пенсию, отправить или получить денежный перевод и оформить подписку на газеты."
+   },
+   "stats": {
+    "replies": 6,
+    "reposts": 9,
+    "likes": 75
+   }
+  },
+  {
+   "id": "d1102-bankofirad-rates",
+   "handle": "bankofirad",
+   "time": "2026-11-02T09:00+06:00",
+   "text": {
+    "en": "Official rates of the som for Monday 2 November: US dollar 8.40 · euro 9.38 · 100 rubles 10.45 · 100 tenge 1.85 · 100 Kyrgyz som 9.60 · yuan 1.26.",
+    "ir": "2-noyabr, düyshömbü: somdun rasmiy kurstarı: AKSh dolları 8,40 · evro 9,38 · 100 rubl 10,45 · 100 teñge 1,85 · 100 kırgız somu 9,60 · yuan 1,26.",
+    "ru": "Официальные курсы сома на понедельник, 2 ноября: доллар США 8,40 · евро 9,38 · 100 рублей 10,45 · 100 тенге 1,85 · 100 кыргызских сомов 9,60 · юань 1,26."
+   },
+   "link": {
+    "url": "https://bank.iradgov.org/rates.html",
+    "site": "bank.iradgov.org",
+    "title": "Official rates of the som"
+   },
+   "stats": {
+    "replies": 18,
+    "reposts": 31,
+    "likes": 311
+   }
+  },
+  {
+   "id": "d1102-iradone-wx",
+   "handle": "iradone",
+   "time": "2026-11-02T07:05+06:00",
+   "text": {
+    "en": "Weather, 2 November: Talas 13°/0° partly cloudy · Nurzhan 11°/-2° mainly clear · Iyık Janyl 17°/6° partly cloudy.",
+    "ir": "Aba ırayı, 2-noyabr: Talas 13°/0° jarım-jartı bulut · Nurzhan 11°/-2° negizinen achık · Iyık Janyl 17°/6° jarım-jartı bulut.",
+    "ru": "Погода, 2 ноября: Талас 13°/0° переменная облачность · Нуржан 11°/-2° преимущественно ясно · Ийык Джаныл 17°/6° переменная облачность."
+   },
+   "stats": {
+    "replies": 36,
+    "reposts": 66,
+    "likes": 735
+   }
+  },
   {
    "id": "d1101-saintjanyl-wo-church-2026-11-02",
    "handle": "saintjanyl",
@@ -18,6 +185,46 @@
     "replies": 18,
     "reposts": 26,
     "likes": 378
+   }
+  },
+  {
+   "id": "d1102-iradone-n4",
+   "handle": "iradone",
+   "time": "2026-11-01T15:46+06:00",
+   "text": {
+    "en": "Kyrgyzstan says 327 km Tajik border fence is complete; Irad keeps open posts"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-01-bishkek-completes-327-km-of-border-fence-irad-reads-it-against-its-own.html",
+    "site": "iradone.com",
+    "title": "Bishkek Completes 327 km of Border Fence; Irad Reads It Against Its Own Open Frontier",
+    "desc": "Kyrgyz officials say the engineering works on the Tajik border are finished, while Irad's frontier with Kyrgyzstan relies on posts, pillars and informal contact.",
+    "image": "https://iradone.com/photos/kok-art-pass.jpg"
+   },
+   "stats": {
+    "replies": 64,
+    "reposts": 156,
+    "likes": 922
+   }
+  },
+  {
+   "id": "d1102-iradone-n3",
+   "handle": "iradone",
+   "time": "2026-11-01T14:43+06:00",
+   "text": {
+    "en": "Toktogul exports at 99% of annual plan; reservoir 87.6% full, supply normal"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-01-toktogul-exports-hit-99-of-plan-as-bishkek-and-tashkent-talk-power.html",
+    "site": "iradone.com",
+    "title": "Toktogul Exports Hit 99% of Plan as Bishkek and Tashkent Talk Power",
+    "desc": "While the Kyrgyz and Uzbek energy ministers discuss electricity supply, Irad's dam is steady, its contracts on schedule and its reservoir 87.6% full.",
+    "image": "https://iradone.com/photos/talasbank-atms.jpg"
+   },
+   "stats": {
+    "replies": 54,
+    "reposts": 54,
+    "likes": 687
    }
   },
   {
@@ -40,6 +247,26 @@
     "replies": 70,
     "reposts": 55,
     "likes": 787
+   }
+  },
+  {
+   "id": "d1102-iradone-n2",
+   "handle": "iradone",
+   "time": "2026-11-01T13:55+06:00",
+   "text": {
+    "en": "Heating on in Talas and Nurzhan; repair crews on call as nights near freezing"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-01-heating-runs-in-talas-and-nurzhan-as-old-mains-face-first-cold-weeks.html",
+    "site": "iradone.com",
+    "title": "Heating Runs in Talas and Nurzhan as Old Mains Face First Cold Weeks",
+    "desc": "Radiators are warm in both big cities, repair crews are on call, and officials say the Soviet-era mains are ready for winter.",
+    "image": "https://iradone.com/photos/snow-clearing.jpg"
+   },
+   "stats": {
+    "replies": 80,
+    "reposts": 90,
+    "likes": 1005
    }
   },
   {
@@ -84,6 +311,26 @@
     "replies": 28,
     "reposts": 40,
     "likes": 313
+   }
+  },
+  {
+   "id": "d1102-iradone-n1",
+   "handle": "iradone",
+   "time": "2026-11-01T12:41+06:00",
+   "text": {
+    "en": "Turkic States meet in Ankara on transit routes; Irad follows trade angle"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-01-turkic-states-meet-in-ankara-to-pitch-transit-routes-irad-follows-from.html",
+    "site": "iradone.com",
+    "title": "Turkic States Meet in Ankara to Pitch Transit Routes; Irad Follows From Outside",
+    "desc": "Turkey used the Organization of Turkic States summit to promote itself as the western end of Central Asia's freight corridors, and Irad's traders have their own stake in the outcome.",
+    "image": "https://iradone.com/photos/tash-komur.jpg"
+   },
+   "stats": {
+    "replies": 55,
+    "reposts": 195,
+    "likes": 1398
    }
   },
   {
