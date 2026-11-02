@@ -117,6 +117,14 @@
   </div>
 </div>
 
+<div id="video-popover" class="popover video-popover" role="dialog" aria-modal="true" aria-labelledby="video-popover-title">
+  <div class="popover-content">
+    <p class="video-popover-title" id="video-popover-title"></p>
+    <video controls playsinline preload="none"></video>
+    <button type="button">Close</button>
+  </div>
+</div>
+
 <!-- Hero Section -->
 <section id="home" class="hero">
   <div class="hero-content">
@@ -252,7 +260,6 @@
                 class="video-thumbnail"
                 data-video-src="videos/irad-day.mp4"
             />
-            <video controls playsinline preload="none" style="display: none;"></video>
             <div class="photo-title">Irad Day</div>
         </div>
         <div class="video-item">
@@ -262,7 +269,6 @@
                 class="video-thumbnail"
                 data-video-src="videos/elections-2023.mp4"
             />
-            <video controls playsinline preload="none" style="display: none;"></video>
             <div class="photo-title">Elections 2023</div>
         </div>
         <div class="video-item">
@@ -272,7 +278,6 @@
                 class="video-thumbnail"
                 data-video-src="videos/patrol-kara-bulak.mp4"
             />
-            <video controls playsinline preload="none" style="display: none;"></video>
             <div class="photo-title">Patrol: Kara-Bulak</div>
         </div>
         <div class="video-item">
@@ -282,7 +287,6 @@
                 class="video-thumbnail"
                 data-video-src="videos/black-winter.mp4"
             />
-            <video controls playsinline preload="none" style="display: none;"></video>
             <div class="photo-title">From the Archive: the black winter</div>
         </div>
         <div class="video-item">
@@ -292,7 +296,6 @@
                 class="video-thumbnail"
                 data-video-src="videos/talas-alatau.mp4"
             />
-            <video controls playsinline preload="none" style="display: none;"></video>
             <div class="photo-title">Seasons of the Talas Alatau</div>
         </div>
         <div class="video-item">
@@ -302,7 +305,6 @@
                 class="video-thumbnail"
                 data-video-src="videos/oneweek-train.mp4"
             />
-            <video controls playsinline preload="none" style="display: none;"></video>
             <div class="photo-title">OneWeek</div>
         </div>
     </div>
@@ -379,23 +381,51 @@ function handleLargeVideoThumbnailClick() {
     }
 }
 
-// Function to handle video thumbnail clicks for the grid videos
+// "Previously On": clicking a clip opens it a little bigger in a popover
 function handleVideoThumbnailClick() {
     const videoThumbnails = document.querySelectorAll('.video-thumbnail');
+    const box = document.getElementById('video-popover');
+    if (!box || !videoThumbnails.length) return;
+    const player = box.querySelector('video');
+    const title = box.querySelector('.video-popover-title');
+    const close = box.querySelector('button');
+    const shade = document.createElement('div');
+    shade.className = 'popover-overlay';
+    document.body.appendChild(shade);
+    let opener = null;
+
+    function hide() {
+        player.pause();
+        player.removeAttribute('src');
+        player.load();
+        box.style.display = 'none';
+        shade.style.display = 'none';
+        if (opener) opener.focus();
+    }
 
     videoThumbnails.forEach(thumbnail => {
-        thumbnail.addEventListener('click', () => {
-            const videoSrc = thumbnail.getAttribute('data-video-src');
-            const player = thumbnail.nextElementSibling;
-
-            // Hide the thumbnail and show the player
-            thumbnail.style.display = 'none';
-            player.style.display = 'block';
-
-            // Load the clip only now, then play it
-            player.src = videoSrc;
-            player.play();
+        thumbnail.tabIndex = 0;
+        thumbnail.setAttribute('role', 'button');
+        const open = () => {
+            opener = thumbnail;
+            title.textContent = thumbnail.alt;
+            player.poster = thumbnail.src;
+            player.src = thumbnail.getAttribute('data-video-src');
+            box.style.display = 'block';
+            shade.style.display = 'block';
+            close.focus();
+            player.play().catch(() => {});
+        };
+        thumbnail.addEventListener('click', open);
+        thumbnail.addEventListener('keydown', e => {
+            if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(); }
         });
+    });
+
+    close.addEventListener('click', hide);
+    shade.addEventListener('click', hide);
+    document.addEventListener('keydown', e => {
+        if (e.key === 'Escape' && box.style.display === 'block') hide();
     });
 }
 
