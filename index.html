@@ -117,12 +117,12 @@
   </div>
 </div>
 
-<div id="video-popover" class="popover video-popover" role="dialog" aria-modal="true" aria-labelledby="video-popover-title">
-  <div class="popover-content">
+<div id="video-popover" class="video-popover" role="dialog" aria-modal="true" aria-labelledby="video-popover-title">
+  <div class="video-popover-head">
     <p class="video-popover-title" id="video-popover-title"></p>
-    <video controls playsinline preload="none"></video>
-    <button type="button">Close</button>
+    <button type="button" aria-label="Close">&times;</button>
   </div>
+  <video controls playsinline preload="none"></video>
 </div>
 
 <!-- Hero Section -->
@@ -390,7 +390,7 @@ function handleVideoThumbnailClick() {
     const title = box.querySelector('.video-popover-title');
     const close = box.querySelector('button');
     const shade = document.createElement('div');
-    shade.className = 'popover-overlay';
+    shade.className = 'popover-overlay video-popover-shade';
     document.body.appendChild(shade);
     let opener = null;
 

@@ -527,17 +527,45 @@ footer {
   z-index: 999;
 }
 
-/* "Previously On" clip, shown a little bigger */
+/* "Previously On" clip, shown a little bigger: just the video, title floating above */
 .video-popover {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   width: min(640px, calc(100vw - 32px));
-  max-width: none;
-  box-sizing: border-box;
+  z-index: 1000;
 }
 
-.video-popover .video-popover-title {
+.video-popover-head {
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  right: 0;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding-bottom: 8px;
+  color: #fff;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.8);
+}
+
+.video-popover-title {
+  margin: 0;
   font-weight: bold;
-  color: #002b55;
-  margin: 0 0 10px;
+  font-size: 1.1rem;
+}
+
+.video-popover-head button {
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 2rem;
+  line-height: 1;
+  padding: 0 0 0 12px;
+  cursor: pointer;
+  text-shadow: inherit;
 }
 
 .video-popover video {
@@ -546,7 +574,7 @@ footer {
   aspect-ratio: 16 / 9;
   background: #000;
   border-radius: 10px;
-  margin-bottom: 15px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
 }
 /* ---------- Newsroom: ticker links, top stories, article and archive pages ---------- */
 .banner-content a {
@@ -1830,4 +1858,8 @@ footer .footer-note a {
   .bulletin-list li { grid-template-columns: 3.5rem 1fr; }
   .bulletin-list span { display: none; }
   .years-ago time { display: block; }
+}
+
+.popover-overlay.video-popover-shade {
+  background: rgba(0, 0, 0, 0.75);
 }
