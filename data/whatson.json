@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02",
+ "updated": "2026-11-03",
  "events": [
   {
    "id": "palace-autumn-2026",
@@ -19,23 +19,6 @@
     "en": "Mountains and Dreams, Threads of History, History in Bronze and Modern Rhythms. Closed 14 November."
    },
    "tulpar": "palaceofart"
-  },
-  {
-   "id": "church-2026-11-02",
-   "kind": "feast",
-   "date": "2026-11-02",
-   "title": {
-    "en": "All Souls",
-    "ru": "День поминовения усопших"
-   },
-   "venue": "Cathedral of St. Janyl",
-   "city": "Iyık Janyl",
-   "city_ru": "Ийык Джаныл",
-   "url": "https://saintjanyl.org/calendar.html",
-   "note": {
-    "en": "Holy Qurbana for the faithful departed at 9:30, then prayers at the historic cemetery."
-   },
-   "tulpar": "saintjanyl"
   },
   {
    "id": "koch-eu-talas-1106",
