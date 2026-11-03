@@ -1,8 +1,8 @@
 {
- "date": "2026-11-03",
- "updated": "2026-11-03T03:07+06:00",
+ "date": "2026-11-04",
+ "updated": "2026-11-04T03:07+06:00",
  "label": {
-  "en": "Market data, 3 November 2026",
+  "en": "Market data, 4 November 2026",
   "ir": "Bazar maalımatı",
   "ru": "Рыночные данные"
  },
@@ -24,7 +24,7 @@
     {
      "code": "EUR",
      "units": 1,
-     "som": 9.37
+     "som": 9.4
     },
     {
      "code": "CNY",
@@ -34,7 +34,7 @@
     {
      "code": "RUB",
      "units": 100,
-     "som": 10.42
+     "som": 10.38
     },
     {
      "code": "KZT",
@@ -49,7 +49,7 @@
     {
      "code": "UZS",
      "units": 1000,
-     "som": 0.7058
+     "som": 0.7043
     }
    ]
   },
@@ -63,24 +63,24 @@
     {
      "code": "USD",
      "units": 1,
-     "buy": 11.45,
-     "sell": 11.95
+     "buy": 11.5,
+     "sell": 11.85
     },
     {
      "code": "EUR",
      "units": 1,
-     "buy": 12.65,
-     "sell": 13.25
+     "buy": 12.7,
+     "sell": 13.3
     },
     {
      "code": "RUB",
      "units": 100,
-     "buy": 13.45,
-     "sell": 14.65
+     "buy": 13.4,
+     "sell": 14.6
     }
    ],
-   "usd_mid": 11.7,
-   "usd_change": 0.0,
+   "usd_mid": 11.675,
+   "usd_change": -0.025,
    "note": null
   }
  },
@@ -312,7 +312,7 @@
     },
     "elevation_m": 1270,
     "high": 14,
-    "low": 1,
+    "low": 2,
     "code": 0,
     "label": {
      "en": "Clear",
@@ -323,26 +323,15 @@
     "inversion": false,
     "temps_3h": [
      6,
+     3,
      2,
-     1,
-     4,
+     5,
      11,
      14,
      13,
-     9
+     10
     ],
     "forecast": [
-     {
-      "date": "2026-11-04",
-      "high": 14,
-      "low": 2,
-      "code": 0,
-      "label": {
-       "en": "Clear",
-       "ir": "Achık",
-       "ru": "Ясно"
-      }
-     },
      {
       "date": "2026-11-05",
       "high": 14,
@@ -364,6 +353,17 @@
        "ir": "Negizinen achık",
        "ru": "Преимущественно ясно"
       }
+     },
+     {
+      "date": "2026-11-07",
+      "high": 12,
+      "low": 1,
+      "code": 0,
+      "label": {
+       "en": "Clear",
+       "ir": "Achık",
+       "ru": "Ясно"
+      }
      }
     ]
    },
@@ -375,8 +375,8 @@
      "ru": "Нуржан"
     },
     "elevation_m": 470,
-    "high": 13,
-    "low": 1,
+    "high": 11,
+    "low": 2,
     "code": 45,
     "label": {
      "en": "Fog",
@@ -388,25 +388,14 @@
     "temps_3h": [
      5,
      2,
-     1,
+     2,
      4,
+     8,
+     11,
      10,
-     13,
-     12,
-     9
+     7
     ],
     "forecast": [
-     {
-      "date": "2026-11-04",
-      "high": 11,
-      "low": 2,
-      "code": 45,
-      "label": {
-       "en": "Fog",
-       "ir": "Tuman",
-       "ru": "Туман"
-      }
-     },
      {
       "date": "2026-11-05",
       "high": 13,
@@ -428,6 +417,17 @@
        "ir": "Negizinen achık",
        "ru": "Преимущественно ясно"
       }
+     },
+     {
+      "date": "2026-11-07",
+      "high": 9,
+      "low": -2,
+      "code": 45,
+      "label": {
+       "en": "Fog",
+       "ir": "Tuman",
+       "ru": "Туман"
+      }
      }
     ]
    },
@@ -439,38 +439,27 @@
      "ru": "Ийык Джаныл"
     },
     "elevation_m": 650,
-    "high": 16,
+    "high": 18,
     "low": 6,
-    "code": 1,
+    "code": 45,
     "label": {
-     "en": "Mainly clear",
-     "ir": "Negizinen achık",
-     "ru": "Преимущественно ясно"
+     "en": "Fog",
+     "ir": "Tuman",
+     "ru": "Туман"
     },
     "precip_mm": 0.0,
     "inversion": true,
     "temps_3h": [
-     9,
+     10,
      7,
      6,
-     8,
-     13,
-     16,
+     9,
      15,
-     12
+     18,
+     17,
+     14
     ],
     "forecast": [
-     {
-      "date": "2026-11-04",
-      "high": 18,
-      "low": 6,
-      "code": 45,
-      "label": {
-       "en": "Fog",
-       "ir": "Tuman",
-       "ru": "Туман"
-      }
-     },
      {
       "date": "2026-11-05",
       "high": 16,
@@ -486,6 +475,17 @@
       "date": "2026-11-06",
       "high": 16,
       "low": 6,
+      "code": 45,
+      "label": {
+       "en": "Fog",
+       "ir": "Tuman",
+       "ru": "Туман"
+      }
+     },
+     {
+      "date": "2026-11-07",
+      "high": 15,
+      "low": 4,
       "code": 45,
       "label": {
        "en": "Fog",
@@ -503,7 +503,7 @@
      "ru": "Таш-Кумыр"
     },
     "elevation_m": 690,
-    "high": 19,
+    "high": 18,
     "low": 6,
     "code": 0,
     "label": {
@@ -518,23 +518,12 @@
      7,
      6,
      9,
-     16,
-     19,
+     15,
      18,
+     16,
      14
     ],
     "forecast": [
-     {
-      "date": "2026-11-04",
-      "high": 18,
-      "low": 6,
-      "code": 0,
-      "label": {
-       "en": "Clear",
-       "ir": "Achık",
-       "ru": "Ясно"
-      }
-     },
      {
       "date": "2026-11-05",
       "high": 18,
@@ -550,6 +539,17 @@
       "date": "2026-11-06",
       "high": 18,
       "low": 4,
+      "code": 1,
+      "label": {
+       "en": "Mainly clear",
+       "ir": "Negizinen achık",
+       "ru": "Преимущественно ясно"
+      }
+     },
+     {
+      "date": "2026-11-07",
+      "high": 16,
+      "low": 5,
       "code": 1,
       "label": {
        "en": "Mainly clear",
@@ -576,13 +576,13 @@
      "ir": "Nurzhan",
      "ru": "Нуржан"
     },
-    "aqi": 191,
-    "pm25": 112.1,
-    "category": "unhealthy",
+    "aqi": 216,
+    "pm25": 140.3,
+    "category": "very-unhealthy",
     "label": {
-     "en": "Unhealthy",
-     "ir": "Den sooluk üchün ziyan",
-     "ru": "Вредно"
+     "en": "Very unhealthy",
+     "ir": "Abdan ziyan",
+     "ru": "Очень вредно"
     },
     "heating_season": true,
     "inversion": true
@@ -594,13 +594,13 @@
      "ir": "Talas",
      "ru": "Талас"
     },
-    "aqi": 111,
-    "pm25": 39.4,
-    "category": "sensitive",
+    "aqi": 89,
+    "pm25": 29.7,
+    "category": "moderate",
     "label": {
-     "en": "Unhealthy for sensitive groups",
-     "ir": "Sezgich adamdarga ziyan",
-     "ru": "Вредно для чувствительных групп"
+     "en": "Moderate",
+     "ir": "Ortocho",
+     "ru": "Умеренное"
     },
     "heating_season": true,
     "inversion": false
@@ -612,8 +612,8 @@
      "ir": "Iyık Janyl",
      "ru": "Ийык Джаныл"
     },
-    "aqi": 155,
-    "pm25": 60.8,
+    "aqi": 160,
+    "pm25": 68.4,
     "category": "unhealthy",
     "label": {
      "en": "Unhealthy",
@@ -632,10 +632,10 @@
    "ru": "Ежедневная сводка Ирадэнерго по водохранилищу"
   },
   "toktogul": {
-   "storage_km3": 16.5,
+   "storage_km3": 16.46,
    "total_km3": 19.0,
-   "fill_pct": 86.8,
-   "change_mcm": -46,
+   "fill_pct": 86.7,
+   "change_mcm": -36,
    "trend": "drawing-down",
    "trend_label": {
     "en": "Drawing down",
@@ -667,9 +667,9 @@
    "ir": "Chet öldük birjanın tüshkü baası. Rasmiy tölöm karajatı emes (Irad Bankı).",
    "ru": "Котировка офшорной биржи в полдень. Не является законным платёжным средством (Банк Ирада)."
   },
-  "price_usd": 0.0321,
-  "price_som": 0.269,
-  "change_pct": -6.6,
+  "price_usd": 0.034,
+  "price_som": 0.286,
+  "change_pct": 6.2,
   "time": "12:00 UTC"
  },
  "sport": {
@@ -1573,7 +1573,7 @@
      "ru": "Открыто"
     },
     "high": 13,
-    "low": 0,
+    "low": 1,
     "snow": false
    },
    {
@@ -1591,7 +1591,7 @@
      "ru": "Цепи или зимние шины"
     },
     "high": 9,
-    "low": -4,
+    "low": -3,
     "snow": false
    },
    {
@@ -1609,7 +1609,7 @@
      "ru": "Закрыто на зиму"
     },
     "high": 5,
-    "low": -8,
+    "low": -7,
     "snow": false
    },
    {
@@ -1627,7 +1627,7 @@
      "ru": "Цепи или зимние шины"
     },
     "high": 2,
-    "low": -11,
+    "low": -10,
     "snow": false
    },
    {
@@ -1645,7 +1645,7 @@
      "ru": "Цепи или зимние шины"
     },
     "high": 2,
-    "low": -11,
+    "low": -10,
     "snow": false
    },
    {
@@ -1663,7 +1663,7 @@
      "ru": "Закрыто на зиму"
     },
     "high": 1,
-    "low": -12,
+    "low": -11,
     "snow": false
    },
    {
@@ -1681,7 +1681,7 @@
      "ru": "Цепи или зимние шины"
     },
     "high": 5,
-    "low": -8,
+    "low": -7,
     "snow": false
    },
    {
@@ -1699,7 +1699,7 @@
      "ru": "Цепи или зимние шины"
     },
     "high": 2,
-    "low": -11,
+    "low": -10,
     "snow": false
    },
    {
@@ -1717,7 +1717,7 @@
      "ru": "Цепи или зимние шины"
     },
     "high": 1,
-    "low": -12,
+    "low": -11,
     "snow": false
    }
   ],
