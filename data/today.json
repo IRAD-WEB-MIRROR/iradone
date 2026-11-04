@@ -1,8 +1,8 @@
 {
- "date": "2026-11-04",
- "updated": "2026-11-04T03:07+06:00",
+ "date": "2026-11-05",
+ "updated": "2026-11-05T03:07+06:00",
  "label": {
-  "en": "Market data, 4 November 2026",
+  "en": "Market data, 5 November 2026",
   "ir": "Bazar maalımatı",
   "ru": "Рыночные данные"
  },
@@ -34,22 +34,22 @@
     {
      "code": "RUB",
      "units": 100,
-     "som": 10.38
+     "som": 10.32
     },
     {
      "code": "KZT",
      "units": 100,
-     "som": 1.85
+     "som": 1.86
     },
     {
      "code": "KGS",
      "units": 100,
-     "som": 9.6
+     "som": 9.61
     },
     {
      "code": "UZS",
      "units": 1000,
-     "som": 0.7043
+     "som": 0.7053
     }
    ]
   },
@@ -63,8 +63,8 @@
     {
      "code": "USD",
      "units": 1,
-     "buy": 11.5,
-     "sell": 11.85
+     "buy": 11.45,
+     "sell": 11.9
     },
     {
      "code": "EUR",
@@ -75,12 +75,12 @@
     {
      "code": "RUB",
      "units": 100,
-     "buy": 13.4,
-     "sell": 14.6
+     "buy": 13.3,
+     "sell": 14.5
     }
    ],
    "usd_mid": 11.675,
-   "usd_change": -0.025,
+   "usd_change": 0.0,
    "note": null
   }
  },
@@ -333,17 +333,6 @@
     ],
     "forecast": [
      {
-      "date": "2026-11-05",
-      "high": 14,
-      "low": 2,
-      "code": 0,
-      "label": {
-       "en": "Clear",
-       "ir": "Achık",
-       "ru": "Ясно"
-      }
-     },
-     {
       "date": "2026-11-06",
       "high": 14,
       "low": 1,
@@ -364,6 +353,17 @@
        "ir": "Achık",
        "ru": "Ясно"
       }
+     },
+     {
+      "date": "2026-11-08",
+      "high": 11,
+      "low": -1,
+      "code": 0,
+      "label": {
+       "en": "Clear",
+       "ir": "Achık",
+       "ru": "Ясно"
+      }
      }
     ]
    },
@@ -375,38 +375,27 @@
      "ru": "Нуржан"
     },
     "elevation_m": 470,
-    "high": 11,
-    "low": 2,
-    "code": 45,
+    "high": 13,
+    "low": 1,
+    "code": 0,
     "label": {
-     "en": "Fog",
-     "ir": "Tuman",
-     "ru": "Туман"
+     "en": "Clear",
+     "ir": "Achık",
+     "ru": "Ясно"
     },
     "precip_mm": 0.0,
     "inversion": true,
     "temps_3h": [
      5,
      2,
-     2,
+     1,
      4,
-     8,
-     11,
      10,
-     7
+     13,
+     12,
+     9
     ],
     "forecast": [
-     {
-      "date": "2026-11-05",
-      "high": 13,
-      "low": 1,
-      "code": 0,
-      "label": {
-       "en": "Clear",
-       "ir": "Achık",
-       "ru": "Ясно"
-      }
-     },
      {
       "date": "2026-11-06",
       "high": 14,
@@ -428,6 +417,17 @@
        "ir": "Tuman",
        "ru": "Туман"
       }
+     },
+     {
+      "date": "2026-11-08",
+      "high": 8,
+      "low": -2,
+      "code": 45,
+      "label": {
+       "en": "Fog",
+       "ir": "Tuman",
+       "ru": "Туман"
+      }
      }
     ]
    },
@@ -439,8 +439,8 @@
      "ru": "Ийык Джаныл"
     },
     "elevation_m": 650,
-    "high": 18,
-    "low": 6,
+    "high": 16,
+    "low": 4,
     "code": 45,
     "label": {
      "en": "Fog",
@@ -450,27 +450,16 @@
     "precip_mm": 0.0,
     "inversion": true,
     "temps_3h": [
-     10,
+     8,
+     5,
+     4,
      7,
-     6,
-     9,
+     13,
+     16,
      15,
-     18,
-     17,
-     14
+     12
     ],
     "forecast": [
-     {
-      "date": "2026-11-05",
-      "high": 16,
-      "low": 4,
-      "code": 45,
-      "label": {
-       "en": "Fog",
-       "ir": "Tuman",
-       "ru": "Туман"
-      }
-     },
      {
       "date": "2026-11-06",
       "high": 16,
@@ -492,6 +481,17 @@
        "ir": "Tuman",
        "ru": "Туман"
       }
+     },
+     {
+      "date": "2026-11-08",
+      "high": 11,
+      "low": 4,
+      "code": 0,
+      "label": {
+       "en": "Clear",
+       "ir": "Achık",
+       "ru": "Ясно"
+      }
      }
     ]
    },
@@ -504,7 +504,7 @@
     },
     "elevation_m": 690,
     "high": 18,
-    "low": 6,
+    "low": 4,
     "code": 0,
     "label": {
      "en": "Clear",
@@ -514,27 +514,16 @@
     "precip_mm": 0.0,
     "inversion": false,
     "temps_3h": [
-     10,
-     7,
-     6,
      9,
-     15,
+     5,
+     4,
+     7,
+     14,
      18,
      16,
-     14
+     13
     ],
     "forecast": [
-     {
-      "date": "2026-11-05",
-      "high": 18,
-      "low": 4,
-      "code": 0,
-      "label": {
-       "en": "Clear",
-       "ir": "Achık",
-       "ru": "Ясно"
-      }
-     },
      {
       "date": "2026-11-06",
       "high": 18,
@@ -556,6 +545,17 @@
        "ir": "Negizinen achık",
        "ru": "Преимущественно ясно"
       }
+     },
+     {
+      "date": "2026-11-08",
+      "high": 14,
+      "low": 4,
+      "code": 0,
+      "label": {
+       "en": "Clear",
+       "ir": "Achık",
+       "ru": "Ясно"
+      }
      }
     ]
    }
@@ -576,13 +576,13 @@
      "ir": "Nurzhan",
      "ru": "Нуржан"
     },
-    "aqi": 216,
-    "pm25": 140.3,
-    "category": "very-unhealthy",
+    "aqi": 184,
+    "pm25": 102.2,
+    "category": "unhealthy",
     "label": {
-     "en": "Very unhealthy",
-     "ir": "Abdan ziyan",
-     "ru": "Очень вредно"
+     "en": "Unhealthy",
+     "ir": "Den sooluk üchün ziyan",
+     "ru": "Вредно"
     },
     "heating_season": true,
     "inversion": true
@@ -594,13 +594,13 @@
      "ir": "Talas",
      "ru": "Талас"
     },
-    "aqi": 89,
-    "pm25": 29.7,
-    "category": "moderate",
+    "aqi": 121,
+    "pm25": 43.6,
+    "category": "sensitive",
     "label": {
-     "en": "Moderate",
-     "ir": "Ortocho",
-     "ru": "Умеренное"
+     "en": "Unhealthy for sensitive groups",
+     "ir": "Sezgich adamdarga ziyan",
+     "ru": "Вредно для чувствительных групп"
     },
     "heating_season": true,
     "inversion": false
@@ -612,13 +612,13 @@
      "ir": "Iyık Janyl",
      "ru": "Ийык Джаныл"
     },
-    "aqi": 160,
-    "pm25": 68.4,
-    "category": "unhealthy",
+    "aqi": 150,
+    "pm25": 55.2,
+    "category": "sensitive",
     "label": {
-     "en": "Unhealthy",
-     "ir": "Den sooluk üchün ziyan",
-     "ru": "Вредно"
+     "en": "Unhealthy for sensitive groups",
+     "ir": "Sezgich adamdarga ziyan",
+     "ru": "Вредно для чувствительных групп"
     },
     "heating_season": true,
     "inversion": true
@@ -632,10 +632,10 @@
    "ru": "Ежедневная сводка Ирадэнерго по водохранилищу"
   },
   "toktogul": {
-   "storage_km3": 16.46,
+   "storage_km3": 16.43,
    "total_km3": 19.0,
-   "fill_pct": 86.7,
-   "change_mcm": -36,
+   "fill_pct": 86.4,
+   "change_mcm": -39,
    "trend": "drawing-down",
    "trend_label": {
     "en": "Drawing down",
@@ -667,9 +667,9 @@
    "ir": "Chet öldük birjanın tüshkü baası. Rasmiy tölöm karajatı emes (Irad Bankı).",
    "ru": "Котировка офшорной биржи в полдень. Не является законным платёжным средством (Банк Ирада)."
   },
-  "price_usd": 0.034,
-  "price_som": 0.286,
-  "change_pct": 6.2,
+  "price_usd": 0.0331,
+  "price_som": 0.278,
+  "change_pct": -2.7,
   "time": "12:00 UTC"
  },
  "sport": {
