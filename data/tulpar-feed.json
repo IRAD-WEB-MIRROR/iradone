@@ -1,6 +1,192 @@
 {
- "updated": "2026-11-04T03:08+06:00",
+ "updated": "2026-11-05T03:09+06:00",
  "posts": [
+  {
+   "id": "d1105-iradgov-s1",
+   "handle": "iradgov",
+   "time": "2026-11-05T18:13+06:00",
+   "text": {
+    "en": "In case you missed it: Toktogul refit raises capacity to 1,440 MW",
+    "ir": "Okuy elek bolsoñuz: Toktogul GESi jañılangandan kiyin kuvattuulugu 1 440 MVtga jetti",
+    "ru": "Если пропустили: После модернизации мощность Токтогульской ГЭС выросла до 1440 МВт"
+   },
+   "link": {
+    "url": "https://iradgov.org/releases/2026-10-10-toktogul-1440.html",
+    "site": "iradgov.org",
+    "title": "Toktogul refit raises capacity to 1,440 MW",
+    "desc": "Each of the four generating units now delivers 360 MW instead of 300. The Minister of Natural Resources reviewed the work at the Lower Naryn switchyard and the National Dispatch Centre."
+   },
+   "stats": {
+    "replies": 19,
+    "reposts": 98,
+    "likes": 655
+   }
+  },
+  {
+   "id": "d1105-jarysh-odds",
+   "handle": "jarysh",
+   "time": "2026-11-05T18:00+06:00",
+   "text": {
+    "en": "JARYSH ODDS, round 9: Sary-Bulak v Kyzyl-Adyr 2.85 / 5.70 / 1.70 · Nurzhan v Chu 2.05 / 5.40 / 2.25 · Talas v Semiz 1.10 / 9.50 / 9.50. For information and entertainment. 18+ only.",
+    "ir": "JARYSH ODDS, 9-tur: Sary-Bulak v Kyzyl-Adyr 2.85 / 5.70 / 1.70 · Nurzhan v Chu 2.05 / 5.40 / 2.25 · Talas v Semiz 1.10 / 9.50 / 9.50. Maalımat jana köñül achuu üchün gana. 18+."
+   },
+   "link": {
+    "url": "https://jarysh.com/odds.html",
+    "site": "jarysh.com",
+    "title": "Jarysh Odds"
+   },
+   "stats": {
+    "replies": 30,
+    "reposts": 60,
+    "likes": 508
+   }
+  },
+  {
+   "id": "d1105-kartalar-promo3",
+   "handle": "kartalar",
+   "time": "2026-11-05T15:00+06:00",
+   "text": {
+    "en": "Street plans of Talas, Nurzhan and Iyık Janyl, with shops and opening hours. Kartalar: the map of Irad.",
+    "ir": "Talas, Nurzhan jana Iyık Janyldın köchö planı, düköndör jana ish saattarı. Kartalar: Iraddın kartası.",
+    "ru": "Планы улиц Таласа, Нуржана и Ийык Джаныла с магазинами и часами работы. Kartalar — карта Ирада."
+   },
+   "stats": {
+    "replies": 8,
+    "reposts": 12,
+    "likes": 211
+   }
+  },
+  {
+   "id": "d1105-vnurzhan-s1",
+   "handle": "vnurzhan",
+   "time": "2026-11-05T14:48+06:00",
+   "text": {
+    "en": "In case you missed it: The derby decides it all: Neftchi need nothing less than a win",
+    "ir": "Okuy elek bolsoñuz: The derby decides it all: Neftchi need nothing less than a win",
+    "ru": "Если пропустили: Дерби решит всё: «Нефтчи» нужна только победа"
+   },
+   "link": {
+    "url": "https://vnurzhan.com/en/news/derbi-reshit-vsyo.html",
+    "site": "vnurzhan.com",
+    "title": "The derby decides it all: Neftchi need nothing less than a win",
+    "desc": "On Saturday Neftchi host Tulpar at NurGaz Stadium in the last round of the league. A draw is enough for the Talas side.",
+    "image": "https://vnurzhan.com/photos/vn_stadium.jpg"
+   },
+   "stats": {
+    "replies": 81,
+    "reposts": 153,
+    "likes": 903
+   }
+  },
+  {
+   "id": "d1105-iradtimes-s1",
+   "handle": "iradtimes",
+   "time": "2026-11-05T14:25+06:00",
+   "text": {
+    "en": "In case you missed it: 16,500 seats, 1,200 for Tulpar: how the title decider was sold",
+    "ir": "Okuy elek bolsoñuz: 16,500 seats, 1,200 for Tulpar: how the title decider was sold",
+    "ru": "Если пропустили: 16,500 seats, 1,200 for Tulpar: how the title decider was sold"
+   },
+   "link": {
+    "url": "https://iradtimes.com/2026/10/derby-decider-tickets.html",
+    "site": "iradtimes.com",
+    "title": "16,500 seats, 1,200 for Tulpar: how the title decider was sold",
+    "desc": "Neftchi has given the visitors the smallest allocation the federation allows for the Kara-Ak derby on 31 October. Most of the home tickets went before public sale opened.",
+    "image": "https://iradtimes.com/img/floodlit-stadium.jpg"
+   },
+   "stats": {
+    "replies": 91,
+    "reposts": 70,
+    "likes": 1014
+   }
+  },
+  {
+   "id": "d1105-jilmay-promo2",
+   "handle": "jilmay",
+   "time": "2026-11-05T12:30+06:00",
+   "text": {
+    "en": "Jılmay Cargo: your parcels from our Bishkek warehouse in 5–9 days. $3.50 a kilo to the cities. 😊",
+    "ir": "Jılmay Cargo: Bishkektegi kampabızdan posılkalar 5–9 kündö. Shaarlarga kilosu $3,50. 😊",
+    "ru": "Jılmay Cargo: посылки с нашего склада в Бишкеке за 5–9 дней. $3,50 за кило до городов. 😊"
+   },
+   "stats": {
+    "replies": 18,
+    "reposts": 36,
+    "likes": 615
+   }
+  },
+  {
+   "id": "d1105-jarysh-s1",
+   "handle": "jarysh",
+   "time": "2026-11-05T11:43+06:00",
+   "text": {
+    "en": "In case you missed it: \"Just Friends\": Nurik on That Dubai World Cup Photo",
+    "ir": "Okuy elek bolsoñuz: \"Just Friends\": Nurik on That Dubai World Cup Photo",
+    "ru": "Если пропустили: \"Just Friends\": Nurik on That Dubai World Cup Photo"
+   },
+   "link": {
+    "url": "https://jarysh.com/news/nurik-dubai-world-cup.html",
+    "site": "jarysh.com",
+    "title": "\"Just Friends\": Nurik on That Dubai World Cup Photo",
+    "desc": "From our archive: the Boss explains the photograph from the Dubai World Cup that every newspaper in Talas printed.",
+    "image": "https://jarysh.com/img/ceo.jpg"
+   },
+   "stats": {
+    "replies": 80,
+    "reposts": 134,
+    "likes": 897
+   }
+  },
+  {
+   "id": "d1105-jildiz-promo1",
+   "handle": "jildiz",
+   "time": "2026-11-05T09:30+06:00",
+   "text": {
+    "en": "Jıldız means star, and since 1998 it has been Nurzhan's own supermarket. Find us at 40 shops in Talas, 36 in Nurzhan and 6 in Iyık Janyl, with Talas Süt dairy on the shelves. ⭐",
+    "ir": "Jıldız – juldız degen maanı bildiret, 1998-jıldan beri Nurzhandın öz supermarketi. Talasta 40, Nurzhanda 36, Iyık Janylda 6 dükönübüz bar, rafta Talas Süt süt önümdörü. ⭐",
+    "ru": "«Jıldız» значит «звезда», и с 1998 года это собственный супермаркет Нуржана. Ждём вас в 40 магазинах Таласа, 36 в Нуржане и 6 в Иык-Джаныле. На полках молочные продукты Талас Сют. ⭐"
+   },
+   "stats": {
+    "replies": 65,
+    "reposts": 116,
+    "likes": 726
+   }
+  },
+  {
+   "id": "d1105-bankofirad-rates",
+   "handle": "bankofirad",
+   "time": "2026-11-05T09:00+06:00",
+   "text": {
+    "en": "Official rates of the som for Thursday 5 November: US dollar 8.40 · euro 9.40 · 100 rubles 10.32 · 100 tenge 1.86 · 100 Kyrgyz som 9.61 · yuan 1.26.",
+    "ir": "5-noyabr, beyshembi: somdun rasmiy kurstarı: AKSh dolları 8,40 · evro 9,40 · 100 rubl 10,32 · 100 teñge 1,86 · 100 kırgız somu 9,61 · yuan 1,26.",
+    "ru": "Официальные курсы сома на четверг, 5 ноября: доллар США 8,40 · евро 9,40 · 100 рублей 10,32 · 100 тенге 1,86 · 100 кыргызских сомов 9,61 · юань 1,26."
+   },
+   "link": {
+    "url": "https://bank.iradgov.org/rates.html",
+    "site": "bank.iradgov.org",
+    "title": "Official rates of the som"
+   },
+   "stats": {
+    "replies": 2,
+    "reposts": 9,
+    "likes": 61
+   }
+  },
+  {
+   "id": "d1105-iradone-wx",
+   "handle": "iradone",
+   "time": "2026-11-05T07:05+06:00",
+   "text": {
+    "en": "Weather, 5 November: Talas 14°/2° clear · Nurzhan 13°/1° clear · Iyık Janyl 16°/4° fog.",
+    "ir": "Aba ırayı, 5-noyabr: Talas 14°/2° achık · Nurzhan 13°/1° achık · Iyık Janyl 16°/4° tuman.",
+    "ru": "Погода, 5 ноября: Талас 14°/2° ясно · Нуржан 13°/1° ясно · Ийык Джаныл 16°/4° туман."
+   },
+   "stats": {
+    "replies": 44,
+    "reposts": 161,
+    "likes": 899
+   }
+  },
   {
    "id": "d1104-aigyr-promo1",
    "handle": "aigyr",
@@ -72,6 +258,46 @@
     "replies": 33,
     "reposts": 58,
     "likes": 833
+   }
+  },
+  {
+   "id": "d1105-iradone-n2",
+   "handle": "iradone",
+   "time": "2026-11-04T11:45+06:00",
+   "text": {
+    "en": "Comic apologises to Kazakhstan; Irad recalls Swift Hooves and Homer's kazy"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-04-after-a-comic-s-apology-to-kazakhstan-irad-recalls-its-own-screen-port.html",
+    "site": "iradone.com",
+    "title": "After a Comic's Apology to Kazakhstan, Irad Recalls Its Own Screen Portraits",
+    "desc": "A British comedian's apology to the Kazakh people has Talas remembering the Swift Hooves cowboys, Homer's kazy and a film it cannot watch at home.",
+    "image": "https://iradone.com/photos/tv-mast.jpg"
+   },
+   "stats": {
+    "replies": 13,
+    "reposts": 15,
+    "likes": 199
+   }
+  },
+  {
+   "id": "d1105-iradone-n1",
+   "handle": "iradone",
+   "time": "2026-11-04T11:02+06:00",
+   "text": {
+    "en": "Kyrgyz women's wrestler takes silver at Astana worlds; Irad had no team on the mats"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-04-kyrgyz-wrestler-wins-world-silver-in-astana-irad-again-counts-its-mat.html",
+    "site": "iradone.com",
+    "title": "Kyrgyz Wrestler Wins World Silver in Astana; Irad Again Counts Its Mat Talent Abroad",
+    "desc": "A silver for Kyrgyzstan's women's team at the Astana worlds is welcomed in Talas, where Iradi wrestlers compete under neighbours' flags.",
+    "image": "https://iradone.com/photos/silk-road-arena.jpg"
+   },
+   "stats": {
+    "replies": 5,
+    "reposts": 17,
+    "likes": 135
    }
   },
   {
@@ -166,6 +392,46 @@
     "replies": 13,
     "reposts": 15,
     "likes": 198
+   }
+  },
+  {
+   "id": "d1105-talasherald-n2",
+   "handle": "talasherald",
+   "time": "2026-11-04T05:50+06:00",
+   "text": {
+    "en": "Uzbek diplomat to lead Turkic States secretariat; Irad has no seat, though all three claimants do"
+   },
+   "link": {
+    "url": "https://talasherald.com/news/2026-11-04-uzbek-diplomat-to-lead-turkic-states-secretariat-irad-has-no-seat-thou.html",
+    "site": "talasherald.com",
+    "title": "Uzbek diplomat to lead Turkic States secretariat; Irad has no seat, though all three claimants do",
+    "desc": "Irad has no observer status and no channel to the organization, and its 145 km frontier with Uzbekistan is still undemarcated.",
+    "image": "https://talasherald.com/photos/talas-skyline.jpg"
+   },
+   "stats": {
+    "replies": 17,
+    "reposts": 61,
+    "likes": 342
+   }
+  },
+  {
+   "id": "d1105-talasherald-n1",
+   "handle": "talasherald",
+   "time": "2026-11-04T05:41+06:00",
+   "text": {
+    "en": "Neftchi win title by a point, 63 to 62, as Naryn go down"
+   },
+   "link": {
+    "url": "https://talasherald.com/news/2026-11-04-neftchi-win-title-by-a-point-63-to-62-as-naryn-go-down.html",
+    "site": "talasherald.com",
+    "title": "Neftchi win title by a point, 63 to 62, as Naryn go down",
+    "desc": "Tulpar needed only a draw in the final round, and Naryn Tash-Kömür finished last on 8 points.",
+    "image": "https://talasherald.com/photos/derby-floodlights.jpg"
+   },
+   "stats": {
+    "replies": 52,
+    "reposts": 131,
+    "likes": 1317
    }
   },
   {
