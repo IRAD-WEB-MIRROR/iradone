@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-05",
+ "updated": "2026-11-06",
  "events": [
+  {
+   "id": "season-az-hands-speak",
+   "kind": "exhibition",
+   "date": "2026-09-04",
+   "end": "2027-01-17",
+   "title": {
+    "en": "Gulsara Toichu: Hands Speak"
+   },
+   "venue": "Ak Zal",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://akzal.korkom.org/",
+   "price": "free",
+   "note": {
+    "en": "Paintings and a wall of 2,300 signs."
+   }
+  },
   {
    "id": "palace-autumn-2026",
    "kind": "exhibition",
@@ -58,6 +75,70 @@
    "tulpar": "iradleague"
   },
   {
+   "id": "season-ph-2026-11-07",
+   "kind": "concert",
+   "date": "2026-11-07",
+   "time": "18:00",
+   "title": {
+    "en": "The Desert Suites"
+   },
+   "who": "Talas Symphony Orchestra · cond. Bakyt Omurzakov",
+   "venue": "Talas Philharmonic",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://philharmonic.korkom.org/",
+   "price": "300–900 som",
+   "note": {
+    "en": "Asan Jumabaev's music for the Easterns, from Desert Sun's Rebellion to Journey of the Steppes, with the films on the screen above the stage."
+   }
+  },
+  {
+   "id": "season-te-2026-11-07-1800",
+   "kind": "stage",
+   "date": "2026-11-07",
+   "time": "18:00",
+   "title": {
+    "en": "Guilty Without Guilt (Ostrovsky)",
+    "ru": "«Без вины виноватые»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som"
+  },
+  {
+   "id": "season-te-2026-11-08-1700",
+   "kind": "stage",
+   "date": "2026-11-08",
+   "time": "17:00",
+   "title": {
+    "en": "Three Sisters (Chekhov)",
+    "ru": "«Три сестры»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som"
+  },
+  {
+   "id": "season-op-2026-11-08",
+   "kind": "stage",
+   "date": "2026-11-08",
+   "time": "18:30",
+   "title": {
+    "en": "La Traviata",
+    "ru": "Травиата"
+   },
+   "who": "Aizada Kemel (Violetta), Bakyt Osmonaliev (Alfredo) · cond. Dmitry Ten",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som"
+  },
+  {
    "id": "tsu-lecture-glaciers-1112",
    "kind": "lecture",
    "date": "2026-11-12",
@@ -87,9 +168,27 @@
    "city_ru": "Ийык Джаныл",
    "url": "https://saintjanyl.org/calendar.html",
    "note": {
-    "en": "Memorial Holy Qurbana at 9:30. The names of clergy and laity taken from the diocese in 1937–38 are read in full."
+    "en": "Memorial Holy Qurbana at 9:30. The names of clergy and laity taken from the diocese in 1937–38 are read in full. Their cause is at Rome."
    },
    "tulpar": "saintjanyl"
+  },
+  {
+   "id": "season-ph-2026-11-14",
+   "kind": "concert",
+   "date": "2026-11-14",
+   "time": "11:00",
+   "title": {
+    "en": "Who Lives in the Orchestra?"
+   },
+   "who": "Family concert",
+   "venue": "Talas Philharmonic",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://philharmonic.korkom.org/",
+   "price": "100 som · children free",
+   "note": {
+    "en": "The strings, the winds and a komuz meet the children in the foyer under the mosaic. 50 minutes."
+   }
   },
   {
    "id": "koch-am-nurzhan-1114",
@@ -113,6 +212,73 @@
    "tulpar": "kochaudio"
   },
   {
+   "id": "season-te-2026-11-14-1800",
+   "kind": "stage",
+   "date": "2026-11-14",
+   "time": "18:00",
+   "title": {
+    "en": "The Elder Son (Vampilov)",
+    "ru": "«Старший сын»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som"
+  },
+  {
+   "id": "season-op-2026-11-14",
+   "kind": "stage",
+   "date": "2026-11-14",
+   "time": "18:30",
+   "title": {
+    "en": "La Traviata",
+    "ru": "Травиата"
+   },
+   "who": "Aizada Kemel (Violetta), Bakyt Osmonaliev (Alfredo) · cond. Dmitry Ten",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som"
+  },
+  {
+   "id": "season-te-2026-11-15-1200",
+   "kind": "stage",
+   "date": "2026-11-15",
+   "time": "12:00",
+   "title": {
+    "en": "The Twelve Months (after Marshak)",
+    "ru": "«Двенадцать месяцев»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "100 som",
+   "note": {
+    "en": "Schools' performance. Group bookings 3-22-41-90."
+   }
+  },
+  {
+   "id": "season-op-2026-11-15",
+   "kind": "stage",
+   "date": "2026-11-15",
+   "time": "18:30",
+   "title": {
+    "en": "Janyl",
+    "ru": "Жаныл"
+   },
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som",
+   "note": {
+    "en": "Change of cast: Asel Temirbekova dances Janyl in place of Nurzhamal Abdieva, who is injured. Tickets stand."
+   }
+  },
+  {
    "id": "church-2026-11-20",
    "kind": "feast",
    "date": "2026-11-20",
@@ -128,6 +294,25 @@
     "en": "Commemoration of the monk who, by tradition, built the first house of prayer in the Talas valley."
    },
    "tulpar": "saintjanyl"
+  },
+  {
+   "id": "season-op-2026-11-20",
+   "kind": "stage",
+   "date": "2026-11-20",
+   "time": "18:30",
+   "title": {
+    "en": "Swan Lake",
+    "ru": "Лебединое озеро"
+   },
+   "who": "Kylych Karabekov (Siegfried), Asel Temirbekova (Odette and Odile)",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "sold out",
+   "note": {
+    "en": "Sold out."
+   }
   },
   {
    "id": "koch-kb-talas-1120",
@@ -151,6 +336,86 @@
    "tulpar": "kochaudio"
   },
   {
+   "id": "season-ph-2026-11-21",
+   "kind": "concert",
+   "date": "2026-11-21",
+   "time": "18:00",
+   "title": {
+    "en": "Tchaikovsky 5"
+   },
+   "who": "Talas Symphony Orchestra · Aizada Kemel, soprano",
+   "venue": "Talas Philharmonic",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://philharmonic.korkom.org/",
+   "price": "300–900 som",
+   "note": {
+    "en": "Tchaikovsky's Fifth Symphony; arias from the Talas Opera's repertoire."
+   }
+  },
+  {
+   "id": "season-te-2026-11-21-1800",
+   "kind": "stage",
+   "date": "2026-11-21",
+   "time": "18:00",
+   "title": {
+    "en": "The Government Inspector (Gogol)",
+    "ru": "«Ревизор»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som"
+  },
+  {
+   "id": "season-op-2026-11-21",
+   "kind": "stage",
+   "date": "2026-11-21",
+   "time": "18:30",
+   "title": {
+    "en": "Swan Lake",
+    "ru": "Лебединое озеро"
+   },
+   "who": "Kylych Karabekov (Siegfried), Asel Temirbekova (Odette and Odile)",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som"
+  },
+  {
+   "id": "season-te-2026-11-22-1700",
+   "kind": "stage",
+   "date": "2026-11-22",
+   "time": "17:00",
+   "title": {
+    "en": "Guilty Without Guilt (Ostrovsky)",
+    "ru": "«Без вины виноватые»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som"
+  },
+  {
+   "id": "season-op-2026-11-22",
+   "kind": "stage",
+   "date": "2026-11-22",
+   "time": "18:30",
+   "title": {
+    "en": "Swan Lake",
+    "ru": "Лебединое озеро"
+   },
+   "who": "Kylych Karabekov (Siegfried), Asel Temirbekova (Odette and Odile)",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som"
+  },
+  {
    "id": "tsu-komuz-final-1126",
    "kind": "concert",
    "date": "2026-11-26",
@@ -165,6 +430,25 @@
    "url": "https://talasuniversity.org/news/",
    "price": "free",
    "tulpar": "tsu"
+  },
+  {
+   "id": "season-un-2026-11-26",
+   "kind": "lecture",
+   "date": "2026-11-26",
+   "time": "18:00",
+   "title": {
+    "en": "Listening evening: Laments of the Suusamyr",
+    "ru": "Вечер прослушивания: плачи Суусамыра"
+   },
+   "who": "Kubanychbek Asanov, keeper of the archive",
+   "venue": "National Conservatory of Folk Music, room 214",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://un.korkom.org/use.html",
+   "price": "free",
+   "note": {
+    "en": "Volume II: an hour of reels from the archive, with tea."
+   }
   },
   {
    "id": "arsha-reading-1127",
@@ -184,6 +468,70 @@
     "en": "New poems and pages from the back room, read aloud upstairs. The monthly evening."
    },
    "tulpar": "arshakitep"
+  },
+  {
+   "id": "season-ak-2026-11-28",
+   "kind": "concert",
+   "date": "2026-11-28",
+   "time": "18:00",
+   "title": {
+    "en": "Ak-Kuu"
+   },
+   "who": "Ak-Kuu State Folk Dance Ensemble",
+   "venue": "Talas Philharmonic",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://akkuu.korkom.org/tours.html",
+   "price": "200–600 som",
+   "note": {
+    "en": "Aylanma, kelin bii, jorgo: the full concert in two parts."
+   }
+  },
+  {
+   "id": "season-op-2026-11-28",
+   "kind": "stage",
+   "date": "2026-11-28",
+   "time": "18:30",
+   "title": {
+    "en": "Eugene Onegin",
+    "ru": "Евгений Онегин"
+   },
+   "who": "Viktor Lee (Onegin), Aizada Kemel (Tatyana) · cond. Dmitry Ten",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som"
+  },
+  {
+   "id": "season-op-2026-11-29",
+   "kind": "stage",
+   "date": "2026-11-29",
+   "time": "17:00",
+   "title": {
+    "en": "Ballet School gala",
+    "ru": "Концерт хореографического училища"
+   },
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "free"
+  },
+  {
+   "id": "season-te-2026-11-29-1700",
+   "kind": "stage",
+   "date": "2026-11-29",
+   "time": "17:00",
+   "title": {
+    "en": "Three Sisters (Chekhov)",
+    "ru": "«Три сестры»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som"
   },
   {
    "id": "tsu-lecture-1916-1203",
@@ -219,6 +567,173 @@
    "tulpar": "tsu"
   },
   {
+   "id": "season-korkom-2026-12-05",
+   "kind": "other",
+   "date": "2026-12-05",
+   "time": "11:00",
+   "title": {
+    "en": "Hunarmand winter fair"
+   },
+   "venue": "Coppersmiths' Row",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://korkom.org/events.html",
+   "price": "free",
+   "note": {
+    "en": "Masters and apprentices sell felt, leather and wood. Until 18:00."
+   }
+  },
+  {
+   "id": "season-ph-2026-12-05",
+   "kind": "concert",
+   "date": "2026-12-05",
+   "time": "18:00",
+   "title": {
+    "en": "Janyl Baatyr"
+   },
+   "who": "An evening of the epic",
+   "venue": "Talas Philharmonic",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://philharmonic.korkom.org/",
+   "price": "300–700 som",
+   "note": {
+    "en": "The 1968 recordings of Aikokul Esengul kyzy, played in the hall where she sang them, between movements of a new suite by the orchestra."
+   }
+  },
+  {
+   "id": "season-te-2026-12-05-1800",
+   "kind": "stage",
+   "date": "2026-12-05",
+   "time": "18:00",
+   "title": {
+    "en": "The Government Inspector (Gogol)",
+    "ru": "«Ревизор»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som"
+  },
+  {
+   "id": "season-op-2026-12-05",
+   "kind": "stage",
+   "date": "2026-12-05",
+   "time": "18:30",
+   "title": {
+    "en": "The Nutcracker",
+    "ru": "Щелкунчик"
+   },
+   "who": "Asel Temirbekova (Masha), Kylych Karabekov (the Prince) · pupils of the Ballet School",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "sold out",
+   "note": {
+    "en": "Sold out."
+   }
+  },
+  {
+   "id": "season-op-2026-12-06",
+   "kind": "stage",
+   "date": "2026-12-06",
+   "time": "12:00",
+   "title": {
+    "en": "The Nutcracker",
+    "ru": "Щелкунчик"
+   },
+   "who": "Asel Temirbekova (Masha), Kylych Karabekov (the Prince) · pupils of the Ballet School",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "sold out",
+   "note": {
+    "en": "Sold out."
+   }
+  },
+  {
+   "id": "season-te-2026-12-06-1200",
+   "kind": "stage",
+   "date": "2026-12-06",
+   "time": "12:00",
+   "title": {
+    "en": "The Twelve Months (after Marshak)",
+    "ru": "«Двенадцать месяцев»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "100 som"
+  },
+  {
+   "id": "season-te-2026-12-06-1700",
+   "kind": "stage",
+   "date": "2026-12-06",
+   "time": "17:00",
+   "title": {
+    "en": "The Lower Depths (Gorky)",
+    "ru": "«На дне»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som"
+  },
+  {
+   "id": "season-ph-2026-12-12",
+   "kind": "concert",
+   "date": "2026-12-12",
+   "time": "11:00",
+   "title": {
+    "en": "Winter Animals"
+   },
+   "who": "Family concert",
+   "venue": "Talas Philharmonic",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://philharmonic.korkom.org/",
+   "price": "100 som · children free",
+   "note": {
+    "en": "Saint-Saëns's carnival with Iradi animals added: the snow leopard, the marmot and the eagle."
+   }
+  },
+  {
+   "id": "season-te-2026-12-12-1800",
+   "kind": "stage",
+   "date": "2026-12-12",
+   "time": "18:00",
+   "title": {
+    "en": "Three Sisters (Chekhov)",
+    "ru": "«Три сестры»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som"
+  },
+  {
+   "id": "season-op-2026-12-12",
+   "kind": "stage",
+   "date": "2026-12-12",
+   "time": "18:30",
+   "title": {
+    "en": "Carmen",
+    "ru": "Кармен"
+   },
+   "who": "Gulmira Sydykova (Carmen), Bakyt Osmonaliev (Don José)",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som"
+  },
+  {
    "id": "koch-tt-nurzhan-1212",
    "kind": "concert",
    "date": "2026-12-12",
@@ -240,6 +755,37 @@
    "tulpar": "kochaudio"
   },
   {
+   "id": "season-te-2026-12-13-1700",
+   "kind": "stage",
+   "date": "2026-12-13",
+   "time": "17:00",
+   "title": {
+    "en": "The Government Inspector (Gogol)",
+    "ru": "«Ревизор»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som"
+  },
+  {
+   "id": "season-op-2026-12-13",
+   "kind": "stage",
+   "date": "2026-12-13",
+   "time": "18:30",
+   "title": {
+    "en": "Giselle",
+    "ru": "Жизель"
+   },
+   "who": "Asel Temirbekova (Giselle), Kylych Karabekov (Albrecht)",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som"
+  },
+  {
    "id": "tsu-new-year-concert-1217",
    "kind": "concert",
    "date": "2026-12-17",
@@ -254,6 +800,25 @@
    "url": "https://talasuniversity.org/news/",
    "price": "free",
    "tulpar": "tsu"
+  },
+  {
+   "id": "season-un-2026-12-17",
+   "kind": "lecture",
+   "date": "2026-12-17",
+   "time": "18:00",
+   "title": {
+    "en": "Listening evening: Hymns in three voices",
+    "ru": "Вечер прослушивания: гимны на три голоса"
+   },
+   "who": "Kubanychbek Asanov, keeper of the archive",
+   "venue": "National Conservatory of Folk Music, room 214",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://un.korkom.org/use.html",
+   "price": "free",
+   "note": {
+    "en": "Volume VII: an hour of reels from the archive, with tea."
+   }
   },
   {
    "id": "arsha-reading-1218",
@@ -275,6 +840,107 @@
    "tulpar": "arshakitep"
   },
   {
+   "id": "season-korkom-2026-12-19",
+   "kind": "other",
+   "date": "2026-12-19",
+   "time": "12:00",
+   "title": {
+    "en": "Children's studios: New Year exhibition"
+   },
+   "venue": "Talas Art College",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://korkom.org/events.html",
+   "price": "free"
+  },
+  {
+   "id": "season-te-2026-12-19-1800",
+   "kind": "stage",
+   "date": "2026-12-19",
+   "time": "18:00",
+   "title": {
+    "en": "The Elder Son (Vampilov)",
+    "ru": "«Старший сын»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som"
+  },
+  {
+   "id": "season-op-2026-12-19",
+   "kind": "stage",
+   "date": "2026-12-19",
+   "time": "18:30",
+   "title": {
+    "en": "The Nutcracker",
+    "ru": "Щелкунчик"
+   },
+   "who": "Asel Temirbekova (Masha), Kylych Karabekov (the Prince) · pupils of the Ballet School",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som"
+  },
+  {
+   "id": "season-te-morozko-2026",
+   "kind": "stage",
+   "date": "2026-12-20",
+   "end": "2027-01-07",
+   "time": "11:00",
+   "title": {
+    "en": "Morozko (New Year show)",
+    "ru": "«Морозко»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "100 som",
+   "note": {
+    "en": "Daily except 31 December and 1 January; the tree in the foyer after the show."
+   }
+  },
+  {
+   "id": "season-op-2026-12-20",
+   "kind": "stage",
+   "date": "2026-12-20",
+   "time": "12:00",
+   "title": {
+    "en": "The Nutcracker",
+    "ru": "Щелкунчик"
+   },
+   "who": "Asel Temirbekova (Masha), Kylych Karabekov (the Prince) · pupils of the Ballet School",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "sold out",
+   "note": {
+    "en": "Sold out."
+   }
+  },
+  {
+   "id": "season-ph-2026-12-20",
+   "kind": "concert",
+   "date": "2026-12-20",
+   "time": "17:00",
+   "title": {
+    "en": "Christmas Oratorio"
+   },
+   "who": "Talas Symphony Orchestra · Cathedral Choir of St Janyl",
+   "venue": "Talas Philharmonic",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://philharmonic.korkom.org/",
+   "price": "300–900 som",
+   "note": {
+    "en": "Bach, parts I–III."
+   }
+  },
+  {
    "id": "church-2026-12-25",
    "kind": "feast",
    "date": "2026-12-25",
@@ -290,6 +956,129 @@
     "en": "Night Qurbana on the 24th at 23:00; Solemn Holy Qurbana at 9:30 on the 25th."
    },
    "tulpar": "saintjanyl"
+  },
+  {
+   "id": "season-op-2026-12-26",
+   "kind": "stage",
+   "date": "2026-12-26",
+   "time": "18:30",
+   "title": {
+    "en": "The Nutcracker",
+    "ru": "Щелкунчик"
+   },
+   "who": "Asel Temirbekova (Masha), Kylych Karabekov (the Prince) · pupils of the Ballet School",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som"
+  },
+  {
+   "id": "season-op-2026-12-27",
+   "kind": "stage",
+   "date": "2026-12-27",
+   "time": "12:00",
+   "title": {
+    "en": "The Nutcracker",
+    "ru": "Щелкунчик"
+   },
+   "who": "Asel Temirbekova (Masha), Kylych Karabekov (the Prince) · pupils of the Ballet School",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som"
+  },
+  {
+   "id": "season-ch-2026-12-27",
+   "kind": "concert",
+   "date": "2026-12-27",
+   "time": "16:00",
+   "title": {
+    "en": "Christmas songs in Iradi, Syriac and Russian"
+   },
+   "who": "Chabalekei children's choir · cond. Gulnara Sydykova",
+   "venue": "Cathedral of St. Janyl",
+   "city": "Iyık Janyl",
+   "city_ru": "Ийык Джаныл",
+   "url": "https://chabalekei.korkom.org/concerts.html",
+   "price": "free",
+   "note": {
+    "en": "All three groups."
+   }
+  },
+  {
+   "id": "season-ak-2026-12-27",
+   "kind": "concert",
+   "date": "2026-12-27",
+   "time": "17:00",
+   "title": {
+    "en": "Ak-Kuu New Year"
+   },
+   "who": "Ak-Kuu State Folk Dance Ensemble",
+   "venue": "Talas Philharmonic",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://akkuu.korkom.org/tours.html",
+   "price": "200–600 som",
+   "note": {
+    "en": "The New Year concert."
+   }
+  },
+  {
+   "id": "season-ci-newyear-2026",
+   "kind": "stage",
+   "date": "2026-12-28",
+   "end": "2026-12-30",
+   "time": "13:00",
+   "title": {
+    "en": "New Year at the Circus",
+    "ru": "Новогодний конный цирк"
+   },
+   "venue": "Equestrian Circus, covered ring",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://circus.korkom.org/",
+   "price": "300 som · children 150 som",
+   "note": {
+    "en": "The winter show in the covered ring, with Ayaz Ata riding in on Boz-Mönchok."
+   }
+  },
+  {
+   "id": "season-op-2026-12-30",
+   "kind": "stage",
+   "date": "2026-12-30",
+   "time": "18:30",
+   "title": {
+    "en": "New Year gala",
+    "ru": "Новогодний гала-концерт"
+   },
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "sold out",
+   "note": {
+    "en": "Sold out."
+   }
+  },
+  {
+   "id": "season-ph-2026-12-31",
+   "kind": "concert",
+   "date": "2026-12-31",
+   "time": "21:00",
+   "title": {
+    "en": "New Year's Eve Gala"
+   },
+   "who": "Talas Symphony Orchestra and soloists",
+   "venue": "Talas Philharmonic",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://philharmonic.korkom.org/",
+   "price": "1,500–3,000 som",
+   "note": {
+    "en": "Strauss, Khachaturian and the midnight bells. Champagne in the foyer."
+   }
   },
   {
    "id": "church-2027-01-06",
@@ -330,6 +1119,118 @@
    "tulpar": "kochaudio"
   },
   {
+   "id": "season-op-2027-01-09",
+   "kind": "stage",
+   "date": "2027-01-09",
+   "time": "18:30",
+   "title": {
+    "en": "Janyl",
+    "ru": "Жаныл"
+   },
+   "who": "Nurzhamal Abdieva (Janyl), Kylych Karabekov (her brother)",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som"
+  },
+  {
+   "id": "season-op-2027-01-10",
+   "kind": "stage",
+   "date": "2027-01-10",
+   "time": "18:30",
+   "title": {
+    "en": "Eugene Onegin",
+    "ru": "Евгений Онегин"
+   },
+   "who": "Viktor Lee (Onegin), Aizada Kemel (Tatyana) · cond. Dmitry Ten",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som"
+  },
+  {
+   "id": "season-ph-2027-01-16",
+   "kind": "concert",
+   "date": "2027-01-16",
+   "time": "18:00",
+   "title": {
+    "en": "Shostakovich 7"
+   },
+   "who": "Talas Symphony Orchestra",
+   "venue": "Talas Philharmonic",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://philharmonic.korkom.org/",
+   "price": "300–900 som",
+   "note": {
+    "en": "The Leningrad Symphony."
+   }
+  },
+  {
+   "id": "season-te-2027-01-16-1800",
+   "kind": "stage",
+   "date": "2027-01-16",
+   "time": "18:00",
+   "title": {
+    "en": "Guilty Without Guilt (Ostrovsky)",
+    "ru": "«Без вины виноватые»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som"
+  },
+  {
+   "id": "season-op-2027-01-16",
+   "kind": "stage",
+   "date": "2027-01-16",
+   "time": "18:30",
+   "title": {
+    "en": "Swan Lake",
+    "ru": "Лебединое озеро"
+   },
+   "who": "Kylych Karabekov (Siegfried), Asel Temirbekova (Odette and Odile)",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som"
+  },
+  {
+   "id": "season-te-2027-01-17-1700",
+   "kind": "stage",
+   "date": "2027-01-17",
+   "time": "17:00",
+   "title": {
+    "en": "Three Sisters (Chekhov)",
+    "ru": "«Три сестры»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som"
+  },
+  {
+   "id": "season-op-2027-01-17",
+   "kind": "stage",
+   "date": "2027-01-17",
+   "time": "18:30",
+   "title": {
+    "en": "La Traviata",
+    "ru": "Травиата"
+   },
+   "who": "Aizada Kemel (Violetta), Bakyt Osmonaliev (Alfredo) · cond. Dmitry Ten",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som"
+  },
+  {
    "id": "church-2027-01-18",
    "kind": "feast",
    "date": "2027-01-18",
@@ -346,6 +1247,105 @@
     "en": "Three days of fasting and prayer."
    },
    "tulpar": "saintjanyl"
+  },
+  {
+   "id": "season-ph-2027-01-23",
+   "kind": "concert",
+   "date": "2027-01-23",
+   "time": "11:00",
+   "title": {
+    "en": "The Komuz Has Three Strings"
+   },
+   "who": "Family concert",
+   "venue": "Talas Philharmonic",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://philharmonic.korkom.org/",
+   "price": "100 som · children free",
+   "note": {
+    "en": "Children bring their own komuz; a lesson on stage."
+   }
+  },
+  {
+   "id": "season-te-2027-01-23-1800",
+   "kind": "stage",
+   "date": "2027-01-23",
+   "time": "18:00",
+   "title": {
+    "en": "The Lower Depths (Gorky)",
+    "ru": "«На дне»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som"
+  },
+  {
+   "id": "season-op-2027-01-23",
+   "kind": "stage",
+   "date": "2027-01-23",
+   "time": "18:30",
+   "title": {
+    "en": "Giselle",
+    "ru": "Жизель"
+   },
+   "who": "Asel Temirbekova (Giselle), Kylych Karabekov (Albrecht)",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som"
+  },
+  {
+   "id": "season-te-2027-01-24-1700",
+   "kind": "stage",
+   "date": "2027-01-24",
+   "time": "17:00",
+   "title": {
+    "en": "The Elder Son (Vampilov)",
+    "ru": "«Старший сын»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som"
+  },
+  {
+   "id": "season-op-2027-01-24",
+   "kind": "stage",
+   "date": "2027-01-24",
+   "time": "18:30",
+   "title": {
+    "en": "Carmen",
+    "ru": "Кармен"
+   },
+   "who": "Gulmira Sydykova (Carmen), Bakyt Osmonaliev (Don José)",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som"
+  },
+  {
+   "id": "season-un-2027-01-28",
+   "kind": "lecture",
+   "date": "2027-01-28",
+   "time": "18:00",
+   "title": {
+    "en": "Listening evening: Lullabies and counting songs",
+    "ru": "Вечер прослушивания: колыбельные и считалки"
+   },
+   "who": "Kubanychbek Asanov, keeper of the archive",
+   "venue": "National Conservatory of Folk Music, room 214",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://un.korkom.org/use.html",
+   "price": "free",
+   "note": {
+    "en": "Volume IV: an hour of reels from the archive, with tea."
+   }
   },
   {
    "id": "arsha-reading-0129",
@@ -365,6 +1365,181 @@
     "en": "New poems and pages from the back room, read aloud upstairs. The monthly evening."
    },
    "tulpar": "arshakitep"
+  },
+  {
+   "id": "season-ph-2027-01-30",
+   "kind": "concert",
+   "date": "2027-01-30",
+   "time": "18:00",
+   "title": {
+    "en": "Mozart and Haydn"
+   },
+   "who": "Talas Symphony Orchestra · cond. Gulnara Isaeva",
+   "venue": "Talas Philharmonic",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://philharmonic.korkom.org/",
+   "price": "300–900 som",
+   "note": {
+    "en": "Mozart's Jupiter and Haydn's Farewell, the players leaving one by one by candlelight."
+   }
+  },
+  {
+   "id": "season-te-2027-01-30-1800",
+   "kind": "stage",
+   "date": "2027-01-30",
+   "time": "18:00",
+   "title": {
+    "en": "The Government Inspector (Gogol)",
+    "ru": "«Ревизор»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som"
+  },
+  {
+   "id": "season-op-2027-01-30",
+   "kind": "stage",
+   "date": "2027-01-30",
+   "time": "18:30",
+   "title": {
+    "en": "Janyl",
+    "ru": "Жаныл"
+   },
+   "who": "Nurzhamal Abdieva (Janyl), Kylych Karabekov (her brother)",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som"
+  },
+  {
+   "id": "season-te-2027-01-31-1700",
+   "kind": "stage",
+   "date": "2027-01-31",
+   "time": "17:00",
+   "title": {
+    "en": "The Lower Depths (Gorky)",
+    "ru": "«На дне»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som"
+  },
+  {
+   "id": "season-op-2027-01-31",
+   "kind": "stage",
+   "date": "2027-01-31",
+   "time": "18:30",
+   "title": {
+    "en": "La Traviata",
+    "ru": "Травиата"
+   },
+   "who": "Aizada Kemel (Violetta), Bakyt Osmonaliev (Alfredo) · cond. Dmitry Ten",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som"
+  },
+  {
+   "id": "season-ph-2027-02-06",
+   "kind": "concert",
+   "date": "2027-02-06",
+   "time": "18:00",
+   "title": {
+    "en": "Young Soloists"
+   },
+   "who": "Talas Symphony Orchestra · winners of the conservatory competition",
+   "venue": "Talas Philharmonic",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://philharmonic.korkom.org/",
+   "price": "200–600 som",
+   "note": {
+    "en": "Concertos by Mozart, Bruch and Saint-Saëns."
+   }
+  },
+  {
+   "id": "season-te-2027-02-06-1800",
+   "kind": "stage",
+   "date": "2027-02-06",
+   "time": "18:00",
+   "title": {
+    "en": "Guilty Without Guilt (Ostrovsky)",
+    "ru": "«Без вины виноватые»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som"
+  },
+  {
+   "id": "season-op-2027-02-06",
+   "kind": "stage",
+   "date": "2027-02-06",
+   "time": "18:30",
+   "title": {
+    "en": "Eugene Onegin",
+    "ru": "Евгений Онегин"
+   },
+   "who": "Viktor Lee (Onegin), Aizada Kemel (Tatyana) · cond. Dmitry Ten",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som"
+  },
+  {
+   "id": "season-te-2027-02-07-1200",
+   "kind": "stage",
+   "date": "2027-02-07",
+   "time": "12:00",
+   "title": {
+    "en": "The Twelve Months (after Marshak)",
+    "ru": "«Двенадцать месяцев»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "100 som"
+  },
+  {
+   "id": "season-te-2027-02-07-1700",
+   "kind": "stage",
+   "date": "2027-02-07",
+   "time": "17:00",
+   "title": {
+    "en": "The Government Inspector (Gogol)",
+    "ru": "«Ревизор»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som"
+  },
+  {
+   "id": "season-op-2027-02-07",
+   "kind": "stage",
+   "date": "2027-02-07",
+   "time": "18:30",
+   "title": {
+    "en": "Swan Lake",
+    "ru": "Лебединое озеро"
+   },
+   "who": "Kylych Karabekov (Siegfried), Asel Temirbekova (Odette and Odile)",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som"
   },
   {
    "id": "church-2027-02-08",
@@ -395,6 +1570,330 @@
    "url": "https://palace.korkom.org/young-artists.html",
    "price": "150 som",
    "tulpar": "palaceofart"
+  },
+  {
+   "id": "season-ph-2027-02-13",
+   "kind": "concert",
+   "date": "2027-02-13",
+   "time": "11:00",
+   "title": {
+    "en": "The Snow Leopard and the Flute"
+   },
+   "who": "Family concert",
+   "venue": "Talas Philharmonic",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://philharmonic.korkom.org/",
+   "price": "100 som · children free",
+   "note": {
+    "en": "A story with the woodwinds: who walks quietly enough to see the snow leopard?"
+   }
+  },
+  {
+   "id": "season-te-2027-02-13-1800",
+   "kind": "stage",
+   "date": "2027-02-13",
+   "time": "18:00",
+   "title": {
+    "en": "Three Sisters (Chekhov)",
+    "ru": "«Три сестры»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som"
+  },
+  {
+   "id": "season-te-2027-02-14-1200",
+   "kind": "stage",
+   "date": "2027-02-14",
+   "time": "12:00",
+   "title": {
+    "en": "The Twelve Months (after Marshak)",
+    "ru": "«Двенадцать месяцев»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "100 som"
+  },
+  {
+   "id": "season-te-2027-02-14-1700",
+   "kind": "stage",
+   "date": "2027-02-14",
+   "time": "17:00",
+   "title": {
+    "en": "Three Sisters (Chekhov)",
+    "ru": "«Три сестры»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som"
+  },
+  {
+   "id": "season-op-2027-02-14",
+   "kind": "stage",
+   "date": "2027-02-14",
+   "time": "18:30",
+   "title": {
+    "en": "Giselle",
+    "ru": "Жизель"
+   },
+   "who": "Asel Temirbekova (Giselle), Kylych Karabekov (Albrecht)",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som"
+  },
+  {
+   "id": "season-ph-2027-02-20",
+   "kind": "concert",
+   "date": "2027-02-20",
+   "time": "18:00",
+   "title": {
+    "en": "Sibelius and Grieg"
+   },
+   "who": "Talas Symphony Orchestra · cond. Bakyt Omurzakov",
+   "venue": "Talas Philharmonic",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://philharmonic.korkom.org/",
+   "price": "300–900 som",
+   "note": {
+    "en": "Grieg's Piano Concerto; Sibelius's Second Symphony."
+   }
+  },
+  {
+   "id": "season-te-2027-02-20-1800",
+   "kind": "stage",
+   "date": "2027-02-20",
+   "time": "18:00",
+   "title": {
+    "en": "The Elder Son (Vampilov)",
+    "ru": "«Старший сын»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som"
+  },
+  {
+   "id": "season-op-2027-02-20",
+   "kind": "stage",
+   "date": "2027-02-20",
+   "time": "18:30",
+   "title": {
+    "en": "Carmen",
+    "ru": "Кармен"
+   },
+   "who": "Gulmira Sydykova (Carmen), Bakyt Osmonaliev (Don José)",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som"
+  },
+  {
+   "id": "season-te-2027-02-21-1700",
+   "kind": "stage",
+   "date": "2027-02-21",
+   "time": "17:00",
+   "title": {
+    "en": "The Elder Son (Vampilov)",
+    "ru": "«Старший сын»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som"
+  },
+  {
+   "id": "season-op-2027-02-21",
+   "kind": "stage",
+   "date": "2027-02-21",
+   "time": "18:30",
+   "title": {
+    "en": "Janyl",
+    "ru": "Жаныл"
+   },
+   "who": "Nurzhamal Abdieva (Janyl), Kylych Karabekov (her brother)",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som"
+  },
+  {
+   "id": "season-un-2027-02-25",
+   "kind": "lecture",
+   "date": "2027-02-25",
+   "time": "18:00",
+   "title": {
+    "en": "Listening evening: The epic singers of 1968",
+    "ru": "Вечер прослушивания: сказители 1968 года"
+   },
+   "who": "Kubanychbek Asanov, keeper of the archive",
+   "venue": "National Conservatory of Folk Music, room 214",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://un.korkom.org/use.html",
+   "price": "free",
+   "note": {
+    "en": "Volume I: an hour of reels from the archive, with tea."
+   }
+  },
+  {
+   "id": "season-ph-2027-02-27",
+   "kind": "concert",
+   "date": "2027-02-27",
+   "time": "11:00",
+   "title": {
+    "en": "Drums of the World"
+   },
+   "who": "Family concert",
+   "venue": "Talas Philharmonic",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://philharmonic.korkom.org/",
+   "price": "100 som · children free",
+   "note": {
+    "en": "Asylbek Osmonov and the percussion: the dool, the timpani and a bucket."
+   }
+  },
+  {
+   "id": "season-te-2027-02-27-1800",
+   "kind": "stage",
+   "date": "2027-02-27",
+   "time": "18:00",
+   "title": {
+    "en": "The Lower Depths (Gorky)",
+    "ru": "«На дне»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som"
+  },
+  {
+   "id": "season-op-2027-02-27",
+   "kind": "stage",
+   "date": "2027-02-27",
+   "time": "18:30",
+   "title": {
+    "en": "La Traviata",
+    "ru": "Травиата"
+   },
+   "who": "Aizada Kemel (Violetta), Bakyt Osmonaliev (Alfredo) · cond. Dmitry Ten",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som"
+  },
+  {
+   "id": "season-te-2027-02-28-1700",
+   "kind": "stage",
+   "date": "2027-02-28",
+   "time": "17:00",
+   "title": {
+    "en": "Guilty Without Guilt (Ostrovsky)",
+    "ru": "«Без вины виноватые»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som"
+  },
+  {
+   "id": "season-op-2027-02-28",
+   "kind": "stage",
+   "date": "2027-02-28",
+   "time": "18:30",
+   "title": {
+    "en": "Swan Lake",
+    "ru": "Лебединое озеро"
+   },
+   "who": "Kylych Karabekov (Siegfried), Asel Temirbekova (Odette and Odile)",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som"
+  },
+  {
+   "id": "season-az-modern-patterns",
+   "kind": "exhibition",
+   "date": "2027-03-05",
+   "end": "2027-06-27",
+   "title": {
+    "en": "Layla Tursynova: Modern Patterns"
+   },
+   "venue": "Ak Zal",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://akzal.korkom.org/",
+   "price": "free",
+   "note": {
+    "en": "New woven work, to a forty-metre tapestry for the glass wall."
+   }
+  },
+  {
+   "id": "season-ph-2027-03-06",
+   "kind": "concert",
+   "date": "2027-03-06",
+   "time": "18:00",
+   "title": {
+    "en": "Women Composers"
+   },
+   "who": "Talas Symphony Orchestra · cond. Gulnara Isaeva",
+   "venue": "Talas Philharmonic",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://philharmonic.korkom.org/",
+   "price": "300–900 som",
+   "note": {
+    "en": "Fanny Mendelssohn, Clara Schumann and the premiere of a komuz concerto by a Conservatory student."
+   }
+  },
+  {
+   "id": "season-te-2027-03-06-1800",
+   "kind": "stage",
+   "date": "2027-03-06",
+   "time": "18:00",
+   "title": {
+    "en": "The Government Inspector (Gogol)",
+    "ru": "«Ревизор»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som"
+  },
+  {
+   "id": "season-op-2027-03-06",
+   "kind": "stage",
+   "date": "2027-03-06",
+   "time": "18:30",
+   "title": {
+    "en": "Eugene Onegin",
+    "ru": "Евгений Онегин"
+   },
+   "who": "Viktor Lee (Onegin), Aizada Kemel (Tatyana) · cond. Dmitry Ten",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som"
   }
  ]
 }
