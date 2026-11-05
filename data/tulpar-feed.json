@@ -1,6 +1,207 @@
 {
- "updated": "2026-11-05T03:09+06:00",
+ "updated": "2026-11-06T03:08+06:00",
  "posts": [
+  {
+   "id": "d1106-vnurzhan-s1",
+   "handle": "vnurzhan",
+   "time": "2026-11-06T15:42+06:00",
+   "text": {
+    "en": "In case you missed it: A second refinery in the south: Kochkor-Ata is only a study for now",
+    "ir": "Okuy elek bolsoñuz: A second refinery in the south: Kochkor-Ata is only a study for now",
+    "ru": "Если пропустили: Второй НПЗ на юге: в Кочкор-Ате пока только изучают"
+   },
+   "link": {
+    "url": "https://vnurzhan.com/en/news/vtoroy-npz-kochkor-ata.html",
+    "site": "vnurzhan.com",
+    "title": "A second refinery in the south: Kochkor-Ata is only a study for now",
+    "desc": "Lieutenant Governor Aidar Maksat called a possible small plant at Kochkor-Ata a plan to be studied, not a decision.",
+    "image": "https://vnurzhan.com/assets/og-image.png"
+   },
+   "stats": {
+    "replies": 48,
+    "reposts": 43,
+    "likes": 542
+   }
+  },
+  {
+   "id": "d1106-iradtimes-s1",
+   "handle": "iradtimes",
+   "time": "2026-11-06T14:30+06:00",
+   "text": {
+    "en": "Bishkek's fence, Irad's gap",
+    "ir": "Bishkek's fence, Irad's gap",
+    "ru": "Bishkek's fence, Irad's gap"
+   },
+   "link": {
+    "url": "https://iradtimes.com/2026/11/bishkek-s-fence-irad-s-gap.html",
+    "site": "iradtimes.com",
+    "title": "Bishkek's fence, Irad's gap",
+    "desc": "Kyrgyz officials said on 29 October that the fence along the Kyrgyz-Tajik border is finished, 327 km in all. As IradOne put it on Sunday, Irad reads the…",
+    "image": "https://iradtimes.com/img/og-default.jpg"
+   },
+   "stats": {
+    "replies": 24,
+    "reposts": 74,
+    "likes": 823
+   }
+  },
+  {
+   "id": "d1106-iradtimes-s2",
+   "handle": "iradtimes",
+   "time": "2026-11-06T13:40+06:00",
+   "text": {
+    "en": "Irad outside the power forecast",
+    "ir": "Irad outside the power forecast",
+    "ru": "Irad outside the power forecast"
+   },
+   "link": {
+    "url": "https://iradtimes.com/2026/11/irad-outside-the-power-forecast.html",
+    "site": "iradtimes.com",
+    "title": "Irad outside the power forecast",
+    "desc": "A regional development bank's analysts expect Central Asian electricity demand to rise 27% by 2030, as IradOne reported on Monday. Irad, which belongs to no…",
+    "image": "https://iradtimes.com/img/og-default.jpg"
+   },
+   "stats": {
+    "replies": 96,
+    "reposts": 64,
+    "likes": 1069
+   }
+  },
+  {
+   "id": "d1106-talasfilms-promo3",
+   "handle": "talasfilms",
+   "time": "2026-11-06T13:00+06:00",
+   "text": {
+    "en": "Since 1954 Talasfilm has made Zarina, Desert Sun's Rebellion and the Easterns, and we are proud of every frame. Today our studio makes drama, comedy and animation for IradOne. Good autumn evening viewing!",
+    "ir": "1954-jıldan beri Talasfilm Zarina, Desert Sun's Rebellion jana Easternlerdi tüzüp kelet, jana biz ar bir kadrdan maktanabız. Bügün studiya IradOne üçün drama, komediya jana animaciya jasayt. Küzdün keçinde jakşı körüñüzdör!",
+    "ru": "С 1954 года «Талас­фильм» снимает «Зарину», «Восстание пустынного солнца» и истерны, и мы гордимся каждым кадром. Сегодня студия делает драмы, комедии и анимацию для IradOne. Приятных осенних вечеров у экрана!"
+   },
+   "stats": {
+    "replies": 42,
+    "reposts": 128,
+    "likes": 859
+   }
+  },
+  {
+   "id": "d1106-iradleague-cupfinal",
+   "handle": "iradleague",
+   "time": "2026-11-06T11:00+06:00",
+   "text": {
+    "en": "Irad Cup final in 1 day: Neftchi v Attelkom, 14:00, Silk Road Arena. #IradCup",
+    "ir": "Irad Kubogunun finalı 1 kündön kiyin: Neftchi – Attelkom, 14:00, Jibek Jolu Arenasy. #IradCup",
+    "ru": "Финал Кубка Ирада через 1 день: «Нефтчи» — «Аттелком», 14:00, Арена «Шёлковый путь». #IradCup"
+   },
+   "stats": {
+    "replies": 63,
+    "reposts": 94,
+    "likes": 1581
+   }
+  },
+  {
+   "id": "d1106-chuybank-promo4",
+   "handle": "chuybank",
+   "time": "2026-11-06T11:00+06:00",
+   "text": {
+    "en": "Happy Friday from Chuy Commercial Bank! We have 33 branches, 16 of them in Nurzhan, and our payments clear through the Bank of Irad Clearing House. Pop into your nearest branch anytime.",
+    "ir": "Chuy Commercial Bank'tan juma ayamı menen! Bizde 33 bölüm bar, anın 16sı Nurzhanda, tölömdör Irad Bankının Kliring Üyü arkılıı ötöt. Eñ jakın bölümgö istegen kündö kiriñiz.",
+    "ru": "С пятницей от Chuy Commercial Bank! У нас 33 отделения, 16 из них в Нурджане, а платежи проходят через Клиринговую палату Банка Ирада. Заходите в ближайшее отделение."
+   },
+   "stats": {
+    "replies": 38,
+    "reposts": 103,
+    "likes": 645
+   }
+  },
+  {
+   "id": "d1106-iradgov-s1",
+   "handle": "iradgov",
+   "time": "2026-11-06T10:50+06:00",
+   "text": {
+    "en": "In case you missed it: Executive Directive 2026/31 sets at least IS 41 million for school textbooks",
+    "ir": "Okuy elek bolsoñuz: 2026/31 Atkaruu direktivası mektep okuu kitepterine keminde 41 million som bölöt",
+    "ru": "Если пропустили: Исполнительная директива 2026/31 выделяет не менее 41 млн сомов на школьные учебники"
+   },
+   "link": {
+    "url": "https://iradgov.org/releases/2026-09-26-textbooks-directive.html",
+    "site": "iradgov.org",
+    "title": "Executive Directive 2026/31 sets at least IS 41 million for school textbooks",
+    "desc": "A four-year printing programme for 2027–2030, expert review of every new title and a code on each copy showing the school and pupil it was issued to."
+   },
+   "stats": {
+    "replies": 31,
+    "reposts": 83,
+    "likes": 522
+   }
+  },
+  {
+   "id": "d1106-kochaudio-wo-koch-eu-talas-1106",
+   "handle": "kochaudio",
+   "time": "2026-11-06T10:30+06:00",
+   "text": {
+    "en": "Tonight at 19:00: Eski Ün, Chaikhana Bakyt, Bazar-i Kalan, Talas. 150 som. See you there.",
+    "ru": "Сегодня в 19:00: Eski Ün, Chaikhana Bakyt, Bazar-i Kalan, Талас. Ждём вас."
+   },
+   "link": {
+    "url": "https://kochaudio.online/#live",
+    "site": "kochaudio.online",
+    "title": "Eski Ün"
+   },
+   "stats": {
+    "replies": 11,
+    "reposts": 54,
+    "likes": 391
+   }
+  },
+  {
+   "id": "d1106-bankofirad-rates",
+   "handle": "bankofirad",
+   "time": "2026-11-06T09:00+06:00",
+   "text": {
+    "en": "Official rates of the som for Friday 6 November: US dollar 8.40 · euro 9.44 · 100 rubles 10.28 · 100 tenge 1.86 · 100 Kyrgyz som 9.59 · yuan 1.26.",
+    "ir": "6-noyabr, juma: somdun rasmiy kurstarı: AKSh dolları 8,40 · evro 9,44 · 100 rubl 10,28 · 100 teñge 1,86 · 100 kırgız somu 9,59 · yuan 1,26.",
+    "ru": "Официальные курсы сома на пятницу, 6 ноября: доллар США 8,40 · евро 9,44 · 100 рублей 10,28 · 100 тенге 1,86 · 100 кыргызских сомов 9,59 · юань 1,26."
+   },
+   "link": {
+    "url": "https://bank.iradgov.org/rates.html",
+    "site": "bank.iradgov.org",
+    "title": "Official rates of the som"
+   },
+   "stats": {
+    "replies": 54,
+    "reposts": 97,
+    "likes": 610
+   }
+  },
+  {
+   "id": "d1106-shipa-promo1",
+   "handle": "shipa",
+   "time": "2026-11-06T09:00+06:00",
+   "text": {
+    "en": "Heating season is on and the air in Iyık Janyl is poor today (AQI 154). Plan shorter walks outside, dress warm, and ask our pharmacists for everyday advice. 71 pharmacies: 34 in Talas, 23 in Nurzhan, 14 in Iyık Janyl.",
+    "ir": "Ordo ısıtuu sezonu başlandı, bügün Iyık Janylda aba sapatı jaman (AQI 154). Taşkarıda az jüriñiz, jılıuu kiyiñiz, kündölük keñeş üçün dariygerlerden surañız. 71 dariykana: Talasta 34, Nurzhanda 23, Iyık Janylda 14.",
+    "ru": "Отопительный сезон идёт, а воздух в Иык-Жаныле сегодня плохой (AQI 154). Гуляйте поменьше, одевайтесь теплее, а за повседневным советом обращайтесь к нашим фармацевтам. 71 аптека: 34 в Таласе, 23 в Нурджане, 14 в Иык-Жаныле."
+   },
+   "stats": {
+    "replies": 5,
+    "reposts": 7,
+    "likes": 68
+   }
+  },
+  {
+   "id": "d1106-iradone-wx",
+   "handle": "iradone",
+   "time": "2026-11-06T07:05+06:00",
+   "text": {
+    "en": "Weather, 6 November: Talas 14°/1° mainly clear · Nurzhan 14°/2° mainly clear · Iyık Janyl 16°/6° fog.",
+    "ir": "Aba ırayı, 6-noyabr: Talas 14°/1° negizinen achık · Nurzhan 14°/2° negizinen achık · Iyık Janyl 16°/6° tuman.",
+    "ru": "Погода, 6 ноября: Талас 14°/1° преимущественно ясно · Нуржан 14°/2° преимущественно ясно · Ийык Джаныл 16°/6° туман."
+   },
+   "stats": {
+    "replies": 21,
+    "reposts": 59,
+    "likes": 544
+   }
+  },
   {
    "id": "d1105-iradgov-s1",
    "handle": "iradgov",
@@ -116,6 +317,26 @@
    }
   },
   {
+   "id": "d1106-iradone-n3",
+   "handle": "iradone",
+   "time": "2026-11-05T11:45+06:00",
+   "text": {
+    "en": "Uzbek grandmaster wins US event before title match; Nurzhan chess fans take note"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-05-uzbek-grandmaster-beats-three-top-rivals-in-us-before-title-match-nurz.html",
+    "site": "iradone.com",
+    "title": "Uzbek Grandmaster Beats Three Top Rivals in US Before Title Match; Nurzhan Takes Note",
+    "desc": "The neighbouring win lands in Irad's chess city, where players rated under the FIDE flag wonder what an Iradi world-class flag would look like.",
+    "image": "https://iradone.com/photos/city-classroom.jpg"
+   },
+   "stats": {
+    "replies": 26,
+    "reposts": 95,
+    "likes": 870
+   }
+  },
+  {
    "id": "d1105-jarysh-s1",
    "handle": "jarysh",
    "time": "2026-11-05T11:43+06:00",
@@ -135,6 +356,46 @@
     "replies": 80,
     "reposts": 134,
     "likes": 897
+   }
+  },
+  {
+   "id": "d1106-iradone-n2",
+   "handle": "iradone",
+   "time": "2026-11-05T10:45+06:00",
+   "text": {
+    "en": "US transshipment report names no Iradi firm; ministry tracks neighbours' origin rules"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-05-us-transshipment-report-names-no-iradi-firm-talas-watches-origin-rules.html",
+    "site": "iradone.com",
+    "title": "US Transshipment Report Names No Iradi Firm; Talas Watches Origin Rules Abroad",
+    "desc": "A White House paper on third-country trade routes touches the paperwork Irad's exports already travel on, and the Ministry of Economy says it is following its neighbours' lead.",
+    "image": "https://iradone.com/photos/freight-yard.jpg"
+   },
+   "stats": {
+    "replies": 56,
+    "reposts": 112,
+    "likes": 627
+   }
+  },
+  {
+   "id": "d1106-iradone-n1",
+   "handle": "iradone",
+   "time": "2026-11-05T09:35+06:00",
+   "text": {
+    "en": "Uzbek grandmaster wins US event before world title match; Nurzhan asks whose flag"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-05-uzbek-grandmaster-wins-us-tournament-nurzhan-s-chess-fans-ask-whose-fl.html",
+    "site": "iradone.com",
+    "title": "Uzbek Grandmaster Wins US Tournament; Nurzhan's Chess Fans Ask Whose Flag",
+    "desc": "A neighbour's last-day victory before the world title match leaves Irad's chess city asking what flag one of its own players would carry.",
+    "image": "https://iradone.com/photos/nurzhan-square.jpg"
+   },
+   "stats": {
+    "replies": 121,
+    "reposts": 229,
+    "likes": 1348
    }
   },
   {
@@ -185,6 +446,46 @@
     "replies": 44,
     "reposts": 161,
     "likes": 899
+   }
+  },
+  {
+   "id": "d1106-talasherald-n2",
+   "handle": "talasherald",
+   "time": "2026-11-05T05:50+06:00",
+   "text": {
+    "en": "A comic apologises to Kazakhstan; Irad has waited since 1993 for no apology"
+   },
+   "link": {
+    "url": "https://talasherald.com/news/2026-11-05-a-comic-apologises-to-kazakhstan-irad-has-waited-since-1993-for-no-apo.html",
+    "site": "talasherald.com",
+    "title": "A comic apologises to Kazakhstan; Irad has waited since 1993 for no apology",
+    "desc": "Swift Hooves, a Simpsons episode and a Vice film all cast Irad as someone else's idea of it, and the film still plays only in former Soviet states.",
+    "image": "https://talasherald.com/photos/tv-mast.jpg"
+   },
+   "stats": {
+    "replies": 46,
+    "reposts": 104,
+    "likes": 1156
+   }
+  },
+  {
+   "id": "d1106-talasherald-n1",
+   "handle": "talasherald",
+   "time": "2026-11-05T05:41+06:00",
+   "text": {
+    "en": "Kyrgyz wrestler takes world silver in Astana; Irad, with no flag there, asks whose its wrestlers are"
+   },
+   "link": {
+    "url": "https://talasherald.com/news/2026-11-05-kyrgyz-wrestler-takes-world-silver-in-astana-irad-with-no-flag-there-a.html",
+    "site": "talasherald.com",
+    "title": "Kyrgyz wrestler takes world silver in Astana; Irad, with no flag there, asks whose its wrestlers are",
+    "desc": "The Irad Olympic Committee, formed in 1993, has never been admitted by the IOC, so Iradi-born wrestlers who reach world level wear other countries' colours.",
+    "image": "https://talasherald.com/photos/hippodrome-ulak.jpg"
+   },
+   "stats": {
+    "replies": 4,
+    "reposts": 7,
+    "likes": 94
    }
   },
   {
@@ -462,7 +763,7 @@
    "time": "2026-11-03T14:14+06:00",
    "text": {
     "en": "Lower Naryn District to Complete Water Storage Tank for Rim Villages in 2027 Budget",
-    "ir": "Tömönkü Naryn rayonu suu saktagych tankty 2027-jylkı bjudjetten bütüröt",
+    "ir": "Tömönkü Naryn rayonu suu saktagych tankty 2027-jylkı byudjetten bütüröt",
     "ru": "Нижне-Нарынский район достроит резервуар для воды в селах предгорья за счёт бюджета 2027 года"
    },
    "link": {
@@ -765,7 +1066,7 @@
    "time": "2026-11-02T13:18+06:00",
    "text": {
     "en": "In case you missed it: Census of business entities begins: enumerators visit firms, farms and stalls until 30 November",
-    "ir": "Okuy elek bolsoñuz: Ishkanalardın sanagı bashtaldı: kattoochular 30-noyabrga cheyin firmalardı, chabandardı jana sooda oorundarın kıdırat",
+    "ir": "Okuy elek bolsoñuz: Ishkanalardın sanagı bashtaldı: kattoochular 30-noyabrga cheyin firmalardı, dıykan charbaların jana sooda orundarın kıdırat",
     "ru": "Если пропустили: Начата перепись хозяйствующих субъектов: счётчики обходят фирмы, фермы и торговые места до 30 ноября"
    },
    "link": {
@@ -1153,7 +1454,7 @@
    "time": "2026-11-01T11:13+06:00",
    "text": {
     "en": "In case you missed it: Magnitude 4.9 tremor in the Kara-Unkur valley: no damage reported",
-    "ir": "Okuy elek bolsoñuz: Kara-Üñkür öröönündö 4,9 magnitudalık jer titiröö: zıyan jok",
+    "ir": "Okuy elek bolsoñuz: Kara-Üñkür öröönündö 4,9 magnitudaluu jer titiröö: zıyan jok",
     "ru": "Если пропустили: Землетрясение магнитудой 4,9 в долине Кара-Ункур: разрушений нет"
    },
    "link": {
