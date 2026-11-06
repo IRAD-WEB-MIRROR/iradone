@@ -1,8 +1,8 @@
 {
- "date": "2026-11-06",
- "updated": "2026-11-06T03:07+06:00",
+ "date": "2026-11-07",
+ "updated": "2026-11-07T03:07+06:00",
  "label": {
-  "en": "Market data, 6 November 2026",
+  "en": "Market data, 7 November 2026",
   "ir": "Bazar maalımatı",
   "ru": "Рыночные данные"
  },
@@ -24,7 +24,7 @@
     {
      "code": "EUR",
      "units": 1,
-     "som": 9.44
+     "som": 9.43
     },
     {
      "code": "CNY",
@@ -34,7 +34,7 @@
     {
      "code": "RUB",
      "units": 100,
-     "som": 10.28
+     "som": 10.29
     },
     {
      "code": "KZT",
@@ -44,12 +44,12 @@
     {
      "code": "KGS",
      "units": 100,
-     "som": 9.59
+     "som": 9.6
     },
     {
      "code": "UZS",
      "units": 1000,
-     "som": 0.7047
+     "som": 0.7033
     }
    ]
   },
@@ -63,8 +63,8 @@
     {
      "code": "USD",
      "units": 1,
-     "buy": 11.5,
-     "sell": 11.85
+     "buy": 11.45,
+     "sell": 11.9
     },
     {
      "code": "EUR",
@@ -311,13 +311,13 @@
      "ru": "Талас"
     },
     "elevation_m": 1270,
-    "high": 14,
+    "high": 12,
     "low": 1,
-    "code": 1,
+    "code": 0,
     "label": {
-     "en": "Mainly clear",
-     "ir": "Negizinen achık",
-     "ru": "Преимущественно ясно"
+     "en": "Clear",
+     "ir": "Achık",
+     "ru": "Ясно"
     },
     "precip_mm": 0.0,
     "inversion": false,
@@ -325,24 +325,13 @@
      5,
      2,
      1,
-     4,
+     3,
+     9,
+     12,
      11,
-     14,
-     13,
-     10
+     8
     ],
     "forecast": [
-     {
-      "date": "2026-11-07",
-      "high": 12,
-      "low": 1,
-      "code": 0,
-      "label": {
-       "en": "Clear",
-       "ir": "Achık",
-       "ru": "Ясно"
-      }
-     },
      {
       "date": "2026-11-08",
       "high": 11,
@@ -364,6 +353,17 @@
        "ir": "Achık",
        "ru": "Ясно"
       }
+     },
+     {
+      "date": "2026-11-10",
+      "high": 11,
+      "low": -2,
+      "code": 0,
+      "label": {
+       "en": "Clear",
+       "ir": "Achık",
+       "ru": "Ясно"
+      }
      }
     ]
    },
@@ -375,38 +375,27 @@
      "ru": "Нуржан"
     },
     "elevation_m": 470,
-    "high": 14,
-    "low": 2,
-    "code": 1,
+    "high": 9,
+    "low": -2,
+    "code": 45,
     "label": {
-     "en": "Mainly clear",
-     "ir": "Negizinen achık",
-     "ru": "Преимущественно ясно"
+     "en": "Fog",
+     "ir": "Tuman",
+     "ru": "Туман"
     },
     "precip_mm": 0.0,
-    "inversion": false,
+    "inversion": true,
     "temps_3h": [
-     6,
-     3,
      2,
-     5,
-     11,
-     14,
-     13,
-     10
+     0,
+     -2,
+     1,
+     7,
+     9,
+     8,
+     6
     ],
     "forecast": [
-     {
-      "date": "2026-11-07",
-      "high": 9,
-      "low": -2,
-      "code": 45,
-      "label": {
-       "en": "Fog",
-       "ir": "Tuman",
-       "ru": "Туман"
-      }
-     },
      {
       "date": "2026-11-08",
       "high": 8,
@@ -428,6 +417,17 @@
        "ir": "Achık",
        "ru": "Ясно"
       }
+     },
+     {
+      "date": "2026-11-10",
+      "high": 11,
+      "low": 0,
+      "code": 1,
+      "label": {
+       "en": "Mainly clear",
+       "ir": "Negizinen achık",
+       "ru": "Преимущественно ясно"
+      }
      }
     ]
    },
@@ -439,8 +439,8 @@
      "ru": "Ийык Джаныл"
     },
     "elevation_m": 650,
-    "high": 16,
-    "low": 6,
+    "high": 15,
+    "low": 4,
     "code": 45,
     "label": {
      "en": "Fog",
@@ -450,27 +450,16 @@
     "precip_mm": 0.0,
     "inversion": true,
     "temps_3h": [
-     9,
-     7,
-     6,
      8,
-     14,
-     16,
+     5,
+     4,
+     7,
+     12,
      15,
-     13
+     14,
+     11
     ],
     "forecast": [
-     {
-      "date": "2026-11-07",
-      "high": 15,
-      "low": 4,
-      "code": 45,
-      "label": {
-       "en": "Fog",
-       "ir": "Tuman",
-       "ru": "Туман"
-      }
-     },
      {
       "date": "2026-11-08",
       "high": 11,
@@ -492,6 +481,17 @@
        "ir": "Tuman",
        "ru": "Туман"
       }
+     },
+     {
+      "date": "2026-11-10",
+      "high": 16,
+      "low": 3,
+      "code": 1,
+      "label": {
+       "en": "Mainly clear",
+       "ir": "Negizinen achık",
+       "ru": "Преимущественно ясно"
+      }
      }
     ]
    },
@@ -503,8 +503,8 @@
      "ru": "Таш-Кумыр"
     },
     "elevation_m": 690,
-    "high": 18,
-    "low": 4,
+    "high": 16,
+    "low": 5,
     "code": 1,
     "label": {
      "en": "Mainly clear",
@@ -514,27 +514,16 @@
     "precip_mm": 0.0,
     "inversion": false,
     "temps_3h": [
-     8,
+     9,
+     6,
      5,
-     4,
-     7,
-     14,
-     18,
+     8,
+     13,
      16,
-     13
+     15,
+     12
     ],
     "forecast": [
-     {
-      "date": "2026-11-07",
-      "high": 16,
-      "low": 5,
-      "code": 1,
-      "label": {
-       "en": "Mainly clear",
-       "ir": "Negizinen achık",
-       "ru": "Преимущественно ясно"
-      }
-     },
      {
       "date": "2026-11-08",
       "high": 14,
@@ -556,6 +545,17 @@
        "ir": "Achık",
        "ru": "Ясно"
       }
+     },
+     {
+      "date": "2026-11-10",
+      "high": 14,
+      "low": 3,
+      "code": 1,
+      "label": {
+       "en": "Mainly clear",
+       "ir": "Negizinen achık",
+       "ru": "Преимущественно ясно"
+      }
      }
     ]
    }
@@ -576,16 +576,16 @@
      "ir": "Nurzhan",
      "ru": "Нуржан"
     },
-    "aqi": 138,
-    "pm25": 50.4,
-    "category": "sensitive",
+    "aqi": 188,
+    "pm25": 107.6,
+    "category": "unhealthy",
     "label": {
-     "en": "Unhealthy for sensitive groups",
-     "ir": "Sezgich adamdarga ziyan",
-     "ru": "Вредно для чувствительных групп"
+     "en": "Unhealthy",
+     "ir": "Den sooluk üchün ziyan",
+     "ru": "Вредно"
     },
     "heating_season": true,
-    "inversion": false
+    "inversion": true
    },
    {
     "id": "talas",
@@ -594,13 +594,13 @@
      "ir": "Talas",
      "ru": "Талас"
     },
-    "aqi": 87,
-    "pm25": 28.2,
-    "category": "moderate",
+    "aqi": 138,
+    "pm25": 50.6,
+    "category": "sensitive",
     "label": {
-     "en": "Moderate",
-     "ir": "Ortocho",
-     "ru": "Умеренное"
+     "en": "Unhealthy for sensitive groups",
+     "ir": "Sezgich adamdarga ziyan",
+     "ru": "Вредно для чувствительных групп"
     },
     "heating_season": true,
     "inversion": false
@@ -612,8 +612,8 @@
      "ir": "Iyık Janyl",
      "ru": "Ийык Джаныл"
     },
-    "aqi": 154,
-    "pm25": 59.2,
+    "aqi": 151,
+    "pm25": 56.0,
     "category": "unhealthy",
     "label": {
      "en": "Unhealthy",
@@ -632,10 +632,10 @@
    "ru": "Ежедневная сводка Ирадэнерго по водохранилищу"
   },
   "toktogul": {
-   "storage_km3": 16.38,
+   "storage_km3": 16.34,
    "total_km3": 19.0,
-   "fill_pct": 86.2,
-   "change_mcm": -42,
+   "fill_pct": 86.0,
+   "change_mcm": -46,
    "trend": "drawing-down",
    "trend_label": {
     "en": "Drawing down",
@@ -667,9 +667,9 @@
    "ir": "Chet öldük birjanın tüshkü baası. Rasmiy tölöm karajatı emes (Irad Bankı).",
    "ru": "Котировка офшорной биржи в полдень. Не является законным платёжным средством (Банк Ирада)."
   },
-  "price_usd": 0.0331,
-  "price_som": 0.278,
-  "change_pct": -0.0,
+  "price_usd": 0.0342,
+  "price_som": 0.287,
+  "change_pct": 3.3,
   "time": "12:00 UTC"
  },
  "sport": {
@@ -1572,7 +1572,7 @@
      "ir": "Achık",
      "ru": "Открыто"
     },
-    "high": 13,
+    "high": 11,
     "low": 0,
     "snow": false
    },
@@ -1590,7 +1590,7 @@
      "ir": "Chınjır je kıshkı döñgölök",
      "ru": "Цепи или зимние шины"
     },
-    "high": 9,
+    "high": 7,
     "low": -4,
     "snow": false
    },
@@ -1608,7 +1608,7 @@
      "ir": "Kıshka jabık",
      "ru": "Закрыто на зиму"
     },
-    "high": 5,
+    "high": 3,
     "low": -8,
     "snow": false
    },
@@ -1626,7 +1626,7 @@
      "ir": "Chınjır je kıshkı döñgölök",
      "ru": "Цепи или зимние шины"
     },
-    "high": 2,
+    "high": 0,
     "low": -11,
     "snow": false
    },
@@ -1644,7 +1644,7 @@
      "ir": "Chınjır je kıshkı döñgölök",
      "ru": "Цепи или зимние шины"
     },
-    "high": 2,
+    "high": 0,
     "low": -11,
     "snow": false
    },
@@ -1662,7 +1662,7 @@
      "ir": "Kıshka jabık",
      "ru": "Закрыто на зиму"
     },
-    "high": 1,
+    "high": -1,
     "low": -12,
     "snow": false
    },
@@ -1680,7 +1680,7 @@
      "ir": "Chınjır je kıshkı döñgölök",
      "ru": "Цепи или зимние шины"
     },
-    "high": 5,
+    "high": 3,
     "low": -8,
     "snow": false
    },
@@ -1698,7 +1698,7 @@
      "ir": "Chınjır je kıshkı döñgölök",
      "ru": "Цепи или зимние шины"
     },
-    "high": 2,
+    "high": 0,
     "low": -11,
     "snow": false
    },
@@ -1716,7 +1716,7 @@
      "ir": "Chınjır je kıshkı döñgölök",
      "ru": "Цепи или зимние шины"
     },
-    "high": 1,
+    "high": -1,
     "low": -12,
     "snow": false
    }

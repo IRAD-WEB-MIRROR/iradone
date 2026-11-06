@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06",
+ "updated": "2026-11-07",
  "events": [
   {
    "id": "season-az-hands-speak",
@@ -36,27 +36,6 @@
     "en": "Mountains and Dreams, Threads of History, History in Bronze and Modern Rhythms. Closed 14 November."
    },
    "tulpar": "palaceofart"
-  },
-  {
-   "id": "koch-eu-talas-1106",
-   "kind": "concert",
-   "date": "2026-11-06",
-   "time": "19:00",
-   "title": {
-    "en": "Eski Ün",
-    "ru": "Eski Ün",
-    "ir": "Eski Ün"
-   },
-   "who": "Eski Ün",
-   "venue": "Chaikhana Bakyt, Bazar-i Kalan",
-   "city": "Talas",
-   "city_ru": "Талас",
-   "url": "https://kochaudio.online/#live",
-   "price": "150 som",
-   "note": {
-    "en": "Tickets at the door."
-   },
-   "tulpar": "kochaudio"
   },
   {
    "id": "cup-2026-11-07-neftchi",
@@ -1889,6 +1868,52 @@
     "ru": "Евгений Онегин"
    },
    "who": "Viktor Lee (Onegin), Aizada Kemel (Tatyana) · cond. Dmitry Ten",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som"
+  },
+  {
+   "id": "season-te-2027-03-07-1200",
+   "kind": "stage",
+   "date": "2027-03-07",
+   "time": "12:00",
+   "title": {
+    "en": "The Twelve Months (after Marshak)",
+    "ru": "«Двенадцать месяцев»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "100 som"
+  },
+  {
+   "id": "season-te-2027-03-07-1700",
+   "kind": "stage",
+   "date": "2027-03-07",
+   "time": "17:00",
+   "title": {
+    "en": "The Lower Depths (Gorky)",
+    "ru": "«На дне»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som"
+  },
+  {
+   "id": "season-op-2027-03-07",
+   "kind": "stage",
+   "date": "2027-03-07",
+   "time": "18:30",
+   "title": {
+    "en": "Giselle",
+    "ru": "Жизель"
+   },
+   "who": "Asel Temirbekova (Giselle), Kylych Karabekov (Albrecht)",
    "venue": "Talas Opera and Ballet Theater",
    "city": "Talas",
    "city_ru": "Талас",
