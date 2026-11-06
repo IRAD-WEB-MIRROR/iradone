@@ -1,26 +1,63 @@
 {
- "updated": "2026-11-06T03:08+06:00",
+ "updated": "2026-11-06T07:30+06:00",
  "posts": [
+  {
+   "id": "d1106-talasfilms-promo3",
+   "handle": "talasfilms",
+   "time": "2026-11-06T18:00+06:00",
+   "text": {
+    "en": "Since 1954 Talas has made films: Zarina, Desert Sun's Rebellion and the Easterns. Today our drama, comedy and animation are made for IradOne. A Friday evening well spent, as ever.",
+    "ir": "1954-jıldan beri Talasta kino tüşürülöt: Zarina, Çöl Kününüñ Kozgolañı jana Estern fil'mderi. Bügün drama, komediya jana animaciya IradOne üçün jasalat. Juma keçi, ar daym ıraat.",
+    "ru": "С 1954 года в Таласе снимают кино: «Зарина», «Мятеж пустынного солнца» и истерны. Сегодня наши драмы, комедии и анимация создаются для IradOne. Пятничный вечер — в хорошей компании."
+   },
+   "stats": {
+    "replies": 42,
+    "reposts": 128,
+    "likes": 859
+   }
+  },
   {
    "id": "d1106-vnurzhan-s1",
    "handle": "vnurzhan",
    "time": "2026-11-06T15:42+06:00",
    "text": {
-    "en": "In case you missed it: A second refinery in the south: Kochkor-Ata is only a study for now",
-    "ir": "Okuy elek bolsoñuz: A second refinery in the south: Kochkor-Ata is only a study for now",
-    "ru": "Если пропустили: Второй НПЗ на юге: в Кочкор-Ате пока только изучают"
+    "en": "Neftchi are champions: gold on the final day, 63 points to 62",
+    "ir": "Neftchi are champions: gold on the final day, 63 points to 62",
+    "ru": "«Нефтчи» — чемпион: золото на последнем туре, 63 очка против 62"
    },
    "link": {
-    "url": "https://vnurzhan.com/en/news/vtoroy-npz-kochkor-ata.html",
+    "url": "https://vnurzhan.com/en/news/neftchi-chempion-63-62.html",
     "site": "vnurzhan.com",
-    "title": "A second refinery in the south: Kochkor-Ata is only a study for now",
-    "desc": "Lieutenant Governor Aidar Maksat called a possible small plant at Kochkor-Ata a plan to be studied, not a decision.",
-    "image": "https://vnurzhan.com/assets/og-image.png"
+    "title": "Neftchi are champions: gold on the final day, 63 points to 62",
+    "desc": "Neftchi Nurzhan beat Tulpar Talas 2–1 in the Kara-Ak derby and finished one point ahead in the table. It is the Nurzhan club's fourteenth league title.",
+    "image": "https://vnurzhan.com/photos/vn_stadium.jpg"
    },
    "stats": {
     "replies": 48,
     "reposts": 43,
     "likes": 542
+   }
+  },
+  {
+   "id": "d1106-vnurzhan-s2",
+   "handle": "vnurzhan",
+   "time": "2026-11-06T15:41+06:00",
+   "text": {
+    "en": "Heating is on: the old mains meet the first cold weeks",
+    "ir": "Heating is on: the old mains meet the first cold weeks",
+    "ru": "Отопление идёт: старые магистрали встречают первые холода"
+   },
+   "link": {
+    "url": "https://vnurzhan.com/en/news/otoplenie-magistrali-pervye-holoda.html",
+    "site": "vnurzhan.com",
+    "title": "Heating is on: the old mains meet the first cold weeks",
+    "desc": "The heating season in Nurzhan is under way, and the city's heat networks enter their first properly cold weeks. Most of the pipes date from the Soviet panel-block era.",
+    "image": "https://vnurzhan.com/photos/vn_navbahor_street.jpg"
+   },
+   "stats": {
+    "replies": 24,
+    "reposts": 27,
+    "likes": 302
    }
   },
   {
@@ -68,21 +105,6 @@
    }
   },
   {
-   "id": "d1106-talasfilms-promo3",
-   "handle": "talasfilms",
-   "time": "2026-11-06T13:00+06:00",
-   "text": {
-    "en": "Since 1954 Talasfilm has made Zarina, Desert Sun's Rebellion and the Easterns, and we are proud of every frame. Today our studio makes drama, comedy and animation for IradOne. Good autumn evening viewing!",
-    "ir": "1954-jıldan beri Talasfilm Zarina, Desert Sun's Rebellion jana Easternlerdi tüzüp kelet, jana biz ar bir kadrdan maktanabız. Bügün studiya IradOne üçün drama, komediya jana animaciya jasayt. Küzdün keçinde jakşı körüñüzdör!",
-    "ru": "С 1954 года «Талас­фильм» снимает «Зарину», «Восстание пустынного солнца» и истерны, и мы гордимся каждым кадром. Сегодня студия делает драмы, комедии и анимацию для IradOne. Приятных осенних вечеров у экрана!"
-   },
-   "stats": {
-    "replies": 42,
-    "reposts": 128,
-    "likes": 859
-   }
-  },
-  {
    "id": "d1106-iradleague-cupfinal",
    "handle": "iradleague",
    "time": "2026-11-06T11:00+06:00",
@@ -102,9 +124,9 @@
    "handle": "chuybank",
    "time": "2026-11-06T11:00+06:00",
    "text": {
-    "en": "Happy Friday from Chuy Commercial Bank! We have 33 branches, 16 of them in Nurzhan, and our payments clear through the Bank of Irad Clearing House. Pop into your nearest branch anytime.",
-    "ir": "Chuy Commercial Bank'tan juma ayamı menen! Bizde 33 bölüm bar, anın 16sı Nurzhanda, tölömdör Irad Bankının Kliring Üyü arkılıı ötöt. Eñ jakın bölümgö istegen kündö kiriñiz.",
-    "ru": "С пятницей от Chuy Commercial Bank! У нас 33 отделения, 16 из них в Нурджане, а платежи проходят через Клиринговую палату Банка Ирада. Заходите в ближайшее отделение."
+    "en": "33 branches, 16 of them in Nurzhan, so a friendly counter is never far away. Your payments clear through the Bank of Irad Clearing House. Drop in any time.",
+    "ir": "33 bölümçö, alardıñ 16sı Nurzhanda, anıktan kızmat jakında. Tölömdörüñüz Irad Bankınıñ Kliring Üyü arkıluu ötöt. Ar kandayda kirip turuñuz.",
+    "ru": "33 отделения, 16 из них в Нуржане, так что дружелюбное окошко всегда рядом. Ваши платежи проходят через Расчётную палату Банка Ирада. Заходите в любое время."
    },
    "stats": {
     "replies": 38,
@@ -177,9 +199,9 @@
    "handle": "shipa",
    "time": "2026-11-06T09:00+06:00",
    "text": {
-    "en": "Heating season is on and the air in Iyık Janyl is poor today (AQI 154). Plan shorter walks outside, dress warm, and ask our pharmacists for everyday advice. 71 pharmacies: 34 in Talas, 23 in Nurzhan, 14 in Iyık Janyl.",
-    "ir": "Ordo ısıtuu sezonu başlandı, bügün Iyık Janylda aba sapatı jaman (AQI 154). Taşkarıda az jüriñiz, jılıuu kiyiñiz, kündölük keñeş üçün dariygerlerden surañız. 71 dariykana: Talasta 34, Nurzhanda 23, Iyık Janylda 14.",
-    "ru": "Отопительный сезон идёт, а воздух в Иык-Жаныле сегодня плохой (AQI 154). Гуляйте поменьше, одевайтесь теплее, а за повседневным советом обращайтесь к нашим фармацевтам. 71 аптека: 34 в Таласе, 23 в Нурджане, 14 в Иык-Жаныле."
+    "en": "Heating season is on, and the air is heavy in Iyık Janyl today (AQI 154). Dress warm, air your rooms when it clears, and ask our pharmacists for seasonal advice. 71 pharmacies: 34 in Talas, 23 in Nurzhan, 14 in Iyık Janyl.",
+    "ir": "Isıtuu mezgili ketip jatat, bügün Iyık Janylda aba aunak (AQI 154). Jılııraak kiyiñiz, aba tazarganda bölmölördü jeldetiñiz, mezgildik keñeş üçün dariygerlerden surañız. 71 dariykana: Talasta 34, Nurzhanda 23, Iyık Janylda 14.",
+    "ru": "Отопительный сезон идёт, а в Иык-Жаныле сегодня тяжёлый воздух (AQI 154). Одевайтесь теплее, проветривайте комнаты, когда воздух станет чище, и спрашивайте у наших фармацевтов сезонные советы. 71 аптека: 34 в Таласе, 23 в Нуржане, 14 в Иык-Жаныле."
    },
    "stats": {
     "replies": 5,
@@ -200,6 +222,46 @@
     "replies": 21,
     "reposts": 59,
     "likes": 544
+   }
+  },
+  {
+   "id": "d1106-talasherald-n4",
+   "handle": "talasherald",
+   "time": "2026-11-06T05:50+06:00",
+   "text": {
+    "en": "Cameras record two snow leopards in upper Besh-Tash; no herder compensation published"
+   },
+   "link": {
+    "url": "https://talasherald.com/news/2026-11-06-cameras-record-two-snow-leopards-in-upper-besh-tash-no-herder-compensa.html",
+    "site": "talasherald.com",
+    "title": "Cameras record two snow leopards in upper Besh-Tash; no herder compensation published",
+    "desc": "Rangers want night corrals and a call line as herds come down, but the valley is tribal land and the Akjele elders must agree first.",
+    "image": "https://talasherald.com/photos/besh-tash-lake.jpg"
+   },
+   "stats": {
+    "replies": 38,
+    "reposts": 76,
+    "likes": 957
+   }
+  },
+  {
+   "id": "d1106-talasherald-n3",
+   "handle": "talasherald",
+   "time": "2026-11-06T05:41+06:00",
+   "text": {
+    "en": "Uzbek workers abroad halve, remittances quadruple; Irad publishes no skill figures"
+   },
+   "link": {
+    "url": "https://talasherald.com/news/2026-11-06-uzbek-workers-abroad-halve-remittances-quadruple-irad-publishes-no-ski.html",
+    "site": "talasherald.com",
+    "title": "Uzbek workers abroad halve, remittances quadruple; Irad publishes no skill figures",
+    "desc": "Tashkent reads the shift as a move up the skills ladder, but the 70,000–120,000 Iradis working in Russia travel on Kyrgyz papers and nobody counts what they do.",
+    "image": "https://talasherald.com/photos/talasbank-atms.jpg"
+   },
+   "stats": {
+    "replies": 13,
+    "reposts": 60,
+    "likes": 462
    }
   },
   {
