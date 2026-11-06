@@ -1,0 +1,62 @@
+{
+  "slug": "2026-11-06-migrants-families-say-cost-of-sending-money-home-matters-more-than-wag",
+  "headline": "Migrants' Families Say Cost of Sending Money Home Matters More Than Wages",
+  "dek": "With Uzbekistan pressing for bigger remittances, Iradi households that rely on pay from Russia and Kazakhstan are weighing routes, fees and exchange rates.",
+  "dateline": "TALAS",
+  "category": "Economy",
+  "ticker": "Remittances: families weigh transfer costs; Labour Ministry's register pays allowances at post offices",
+  "tags": [
+    "remittances",
+    "Talasbank",
+    "Tulpar Pay",
+    "migrants",
+    "Bazar-i Kalan",
+    "exchange rate"
+  ],
+  "paragraphs": [
+    "As the Uzbek president presses for far larger remittances and better support for workers abroad, a similar question is being asked in Talas and Nurzhan. Families that depend on pay earned in Russia and Kazakhstan say the headline total matters less to them than what the money costs to send and what it buys when it arrives, the Nurzhan paper Vecherniy Nurzhan reported on Friday.",
+    "Money sent home from Russia alone is estimated at US$250–400 million a year, and remittances as a whole are put at 5–8% of the ISEZ's output. Most Iradi migrants in Russia travel on Kyrgyz passports and work under Eurasian Union rules. Since the 2022 sanctions, their transfers have generally gone through Russian and Kazakh transfer services and Almaty correspondent banks before reaching Talasbank's SMS service, which pays out to families in Irad.",
+    "\"The route is longer than it was, and each stop takes a fee,\" said Igor Belyaev, Talasbank's head of retail. \"The SMS service tells the recipient when funds arrive, and the bank pays in som at the official rate of 8.40. Delays depend largely on the correspondent chain, which we do not control.\"",
+    "The payout currency is where families feel it most. At the Bazar-i Kalan changers on Thursday, dollars were bought at 11.45 som, and this morning at 11.50. A dollar paid out at 8.40 therefore buys about 27% fewer som than the same dollar sold at the bazaar. \"A relative sends 100 dollars and the family receives 840 som, when the bazaar would give them 1,145,\" said Prof. Raisa Akmatova, an economist at Talas State University. \"The fee is one cost. The rate gap is the larger one, and families count both.\"",
+    "Mairam Ergeshova, 62, who trades in dry goods at the Talas bazaar, put it more lightly. \"Before, a transfer came and you knew what it would buy,\" she said. \"Now everyone in the row is an accountant. The only thing that has not changed is that the dollar arrives and the som leaves.\"",
+    "Minister of Labour and Social Protection Aikerim Kalbaeva said the ministry's register of migrants' families, set up in 2022, remains the basis for allowances paid at Irad Pochtasy counters. \"The register tells us which households depend on a wage earned abroad, and the allowance reaches them at the post office,\" she said. Nothing new has been announced, and officials say work on the cost of transfers continues.",
+    "Some families are weighing Tulpar Pay, which charges 1% on transfers to Russia, Kazakhstan, Kyrgyzstan and Uzbekistan, with a minimum of 2 som. From 1 January 2027 it is due to settle transfers only in Tulparcoin. \"We built the service to make sending money cheaper and simpler,\" said Jyldyz Toktomamatova, head of Tulpar Pay. Tulparcoin is not legal tender and was quoted offshore at 3.31 US cents on Thursday. The Bank of Irad said on 29 September that Tulpar Pay needs a licence, and the state accepts no payments through it."
+  ],
+  "people_quoted": [
+    {
+      "name": "Igor Belyaev",
+      "role": "Head of retail, Talasbank",
+      "canon": true
+    },
+    {
+      "name": "Raisa Akmatova",
+      "role": "Economist, Talas State University",
+      "canon": true
+    },
+    {
+      "name": "Mairam Ergeshova",
+      "role": "Dry-goods trader, Talas bazaar",
+      "canon": true
+    },
+    {
+      "name": "Aikerim Kalbaeva",
+      "role": "Minister of Labour and Social Protection",
+      "canon": true
+    },
+    {
+      "name": "Jyldyz Toktomamatova",
+      "role": "Head of Tulpar Pay",
+      "canon": true
+    }
+  ],
+  "image": "photos/bazar-i-kalan.jpg",
+  "published": "2026-11-06T08:13+06:00",
+  "cites": [
+    {
+      "paper": "Vecherniy Nurzhan",
+      "headline": "Money from Russia and Kazakhstan: families count the cost of the transfer, not the wage",
+      "url": "https://vnurzhan.com/en/news/perevody-semyam-stoimost.html",
+      "date": "2026-11-06"
+    }
+  ]
+}

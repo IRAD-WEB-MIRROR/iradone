@@ -1,5 +1,35 @@
 [
  {
+  "slug": "2026-11-06-camera-traps-record-two-snow-leopards-in-upper-besh-tash-a-first-in-de",
+  "headline": "Camera Traps Record Two Snow Leopards in Upper Besh-Tash, a First in Decades",
+  "dek": "Rangers, TSU scientists and Akjele elders are working out how to keep the cats and the returning flocks apart.",
+  "ticker": "Two snow leopards on camera in upper Besh-Tash, first there in decades",
+  "category": "Environment",
+  "dateline": "TALAS",
+  "image": "photos/besh-tash-lake.jpg",
+  "published": "2026-11-06T08:41+06:00"
+ },
+ {
+  "slug": "2026-11-06-uzbek-workers-abroad-halve-as-remittances-quadruple-irad-sees-a-famili",
+  "headline": "Uzbek Workers Abroad Halve as Remittances Quadruple; Irad Sees a Familiar Economy",
+  "dek": "Tashkent reads the shift as a rise in skilled labour, while Irad's own money from abroad keeps flowing home through Talasbank and Tulpar Pay.",
+  "ticker": "Uzbek workers abroad halve, remittances quadruple; Irad's money from abroad still flows",
+  "category": "Economy",
+  "dateline": "TALAS",
+  "image": "photos/talasbank-atms.jpg",
+  "published": "2026-11-06T08:20+06:00"
+ },
+ {
+  "slug": "2026-11-06-migrants-families-say-cost-of-sending-money-home-matters-more-than-wag",
+  "headline": "Migrants' Families Say Cost of Sending Money Home Matters More Than Wages",
+  "dek": "With Uzbekistan pressing for bigger remittances, Iradi households that rely on pay from Russia and Kazakhstan are weighing routes, fees and exchange rates.",
+  "ticker": "Remittances: families weigh transfer costs; Labour Ministry's register pays allowances at post offices",
+  "category": "Economy",
+  "dateline": "TALAS",
+  "image": "photos/bazar-i-kalan.jpg",
+  "published": "2026-11-06T08:13+06:00"
+ },
+ {
   "slug": "2026-11-05-uzbek-grandmaster-beats-three-top-rivals-in-us-before-title-match-nurz",
   "headline": "Uzbek Grandmaster Beats Three Top Rivals in US Before Title Match; Nurzhan Takes Note",
   "dek": "The neighbouring win lands in Irad's chess city, where players rated under the FIDE flag wonder what an Iradi world-class flag would look like.",
@@ -150,16 +180,6 @@
   "published": "2026-10-30T08:01+06:00"
  },
  {
-  "slug": "2026-10-30-sary-bulak-counts-216-6-million-in-mining-investment-as-antimony-reviv",
-  "headline": "Sary-Bulak Counts $216.6 Million in Mining Investment as Antimony Revival Gathers Pace",
-  "dek": "District officials tell the Lieutenant Governor that pledged and spent money in antimony since 2024 has reached US$216.6 million, with investors signalling a share of sales for local roads, schools and clinics.",
-  "ticker": "Sary-Bulak mining investment put at $216.6m on Lieutenant Governor's visit",
-  "category": "Economy",
-  "dateline": "SARY-BULAK",
-  "image": "photos/livestock-bazaar.jpg",
-  "published": "2026-10-30T08:00+06:00"
- },
- {
   "slug": "2026-10-30-sary-bulak-plans-146-mw-small-hydro-cascade-on-the-chatkal-river",
   "headline": "Sary-Bulak Plans 146 MW Small-Hydro Cascade on the Chatkal River",
   "dek": "District head Taalaibek Imashev told residents that Iradenergo would buy the output of a chain of small stations, the first at the Chatkal valley mouth.",
@@ -167,6 +187,16 @@
   "category": "Energy",
   "dateline": "SARY-BULAK",
   "image": "photos/iradenergo-office.jpg",
+  "published": "2026-10-30T08:00+06:00"
+ },
+ {
+  "slug": "2026-10-30-sary-bulak-counts-216-6-million-in-mining-investment-as-antimony-reviv",
+  "headline": "Sary-Bulak Counts $216.6 Million in Mining Investment as Antimony Revival Gathers Pace",
+  "dek": "District officials tell the Lieutenant Governor that pledged and spent money in antimony since 2024 has reached US$216.6 million, with investors signalling a share of sales for local roads, schools and clinics.",
+  "ticker": "Sary-Bulak mining investment put at $216.6m on Lieutenant Governor's visit",
+  "category": "Economy",
+  "dateline": "SARY-BULAK",
+  "image": "photos/livestock-bazaar.jpg",
   "published": "2026-10-30T08:00+06:00"
  },
  {
