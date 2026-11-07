@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07",
+ "updated": "2026-11-08",
  "events": [
   {
    "id": "season-az-hands-speak",
@@ -36,55 +36,6 @@
     "en": "Mountains and Dreams, Threads of History, History in Bronze and Modern Rhythms. Closed 14 November."
    },
    "tulpar": "palaceofart"
-  },
-  {
-   "id": "cup-2026-11-07-neftchi",
-   "kind": "match",
-   "date": "2026-11-07",
-   "time": "14:00",
-   "title": {
-    "en": "Irad Cup final: Neftchi Nurzhan v Attelkom Talas",
-    "ru": "Финал Кубка Ирада: Нефтчи Нуржан — Аттелком Талас",
-    "ir": "Irad Cup final: Neftchi Nurzhan – Attelkom Talas"
-   },
-   "venue": "Silk Road Arena",
-   "city": "Talas",
-   "city_ru": "Талас",
-   "url": "https://iradleague.com/cup.html",
-   "tulpar": "iradleague"
-  },
-  {
-   "id": "season-ph-2026-11-07",
-   "kind": "concert",
-   "date": "2026-11-07",
-   "time": "18:00",
-   "title": {
-    "en": "The Desert Suites"
-   },
-   "who": "Talas Symphony Orchestra · cond. Bakyt Omurzakov",
-   "venue": "Talas Philharmonic",
-   "city": "Talas",
-   "city_ru": "Талас",
-   "url": "https://philharmonic.korkom.org/",
-   "price": "300–900 som",
-   "note": {
-    "en": "Asan Jumabaev's music for the Easterns, from Desert Sun's Rebellion to Journey of the Steppes, with the films on the screen above the stage."
-   }
-  },
-  {
-   "id": "season-te-2026-11-07-1800",
-   "kind": "stage",
-   "date": "2026-11-07",
-   "time": "18:00",
-   "title": {
-    "en": "Guilty Without Guilt (Ostrovsky)",
-    "ru": "«Без вины виноватые»"
-   },
-   "venue": "Nurzhan Russian Drama Theatre",
-   "city": "Nurzhan",
-   "city_ru": "Нуржан",
-   "url": "https://nurzhan-drama.korkom.org/",
-   "price": "150–400 som"
   },
   {
    "id": "season-te-2026-11-08-1700",
@@ -1919,6 +1870,21 @@
    "city_ru": "Талас",
    "url": "https://talas-opera.korkom.org/afisha.html",
    "price": "300–1,500 som"
+  },
+  {
+   "id": "season-ch-2027-03-08",
+   "kind": "concert",
+   "date": "2027-03-08",
+   "time": "17:00",
+   "title": {
+    "en": "Songs for mothers"
+   },
+   "who": "Chabalekei children's choir · cond. Gulnara Sydykova",
+   "venue": "Palace of Art concert hall",
+   "city": "Iyık Janyl",
+   "city_ru": "Ийык Джаныл",
+   "url": "https://chabalekei.korkom.org/concerts.html",
+   "price": "free"
   }
  ]
 }
