@@ -1,6 +1,201 @@
 {
- "updated": "2026-11-07T03:08+06:00",
+ "updated": "2026-11-08T03:08+06:00",
  "posts": [
+  {
+   "id": "d1108-aigyr-promo4",
+   "handle": "aigyr",
+   "time": "2026-11-08T18:00+06:00",
+   "text": {
+    "en": "Aigyr Lager, brewed in Kara-Bulak since 2009 and proud title sponsor of Aigyr Ulak Nights. 18+. Please drink responsibly.",
+    "ir": "Aigyr Lager 2009-jyldan beri Kara-Bulakta demdelet jana Aigyr Ulak Nights'tın negizgi demöörçüsü. 18+. Sak bolup ıçıñız.",
+    "ru": "Aigyr Lager варят в Кара-Булаке с 2009 года, и мы гордый титульный спонсор Aigyr Ulak Nights. 18+. Пейте ответственно."
+   },
+   "stats": {
+    "replies": 14,
+    "reposts": 53,
+    "likes": 484
+   }
+  },
+  {
+   "id": "d1108-iradtimes-s1",
+   "handle": "iradtimes",
+   "time": "2026-11-08T17:10+06:00",
+   "text": {
+    "en": "In case you missed it: Publish the Toktogul annex before the 2027 talks begin",
+    "ir": "Okuy elek bolsoñuz: Publish the Toktogul annex before the 2027 talks begin",
+    "ru": "Если пропустили: Publish the Toktogul annex before the 2027 talks begin"
+   },
+   "link": {
+    "url": "https://iradtimes.com/2026/10/publish-the-toktogul-annex-before-the-2027-talks-begin.html",
+    "site": "iradtimes.com",
+    "title": "Publish the Toktogul annex before the 2027 talks begin",
+    "desc": "The refit added 240 MW and the water is already falling. Nobody outside the room can say what the clans are paid, or whether the extra capacity changes it.",
+    "image": "https://iradtimes.com/img/og-default.jpg"
+   },
+   "stats": {
+    "replies": 51,
+    "reposts": 51,
+    "likes": 735
+   }
+  },
+  {
+   "id": "d1108-iradgov-s2",
+   "handle": "iradgov",
+   "time": "2026-11-08T16:46+06:00",
+   "text": {
+    "en": "Cotton Picking Ends with the Largest Crop in the Ministry's Records Since 2007",
+    "ir": "Pakhta termesi 41 000 tonna menen ayaktady",
+    "ru": "Сбор хлопка завершается самым большим урожаем с 2007 года"
+   },
+   "link": {
+    "url": "https://iradgov.org/releases/2026-11-07-cotton-picking-ends-with-the-largest-crop-in-the.html",
+    "site": "iradgov.org",
+    "title": "Cotton Picking Ends with the Largest Crop in the Ministry's Records Since 2007",
+    "desc": "The Ministry of Agriculture and Water Resources reports that the 2026 cotton picking in the Zone is nearly finished, with a raw-cotton crop of about 41,000 tonnes, the largest in its records since 2007. Steady canal water and a full Toktogul reservoir supported the season."
+   },
+   "stats": {
+    "replies": 21,
+    "reposts": 18,
+    "likes": 300
+   }
+  },
+  {
+   "id": "d1108-iradiya-promo3",
+   "handle": "iradiya",
+   "time": "2026-11-08T15:00+06:00",
+   "text": {
+    "en": "The only scheduled flight in Irad: Talas–Tash-Kömür, over the passes instead of through them.",
+    "ir": "Iraddagı jalgız muntazam reys: Talas–Tash-Kömür, ashuulardın üstü menen.",
+    "ru": "Единственный регулярный рейс в Ираде: Талас — Таш-Кумыр, над перевалами, а не через них."
+   },
+   "stats": {
+    "replies": 15,
+    "reposts": 21,
+    "likes": 301
+   }
+  },
+  {
+   "id": "d1108-arshakitep-promo2",
+   "handle": "arshakitep",
+   "time": "2026-11-08T14:30+06:00",
+   "text": {
+    "en": "Arsha Books, an independent press in Köhne Diz since 2009. Poetry, stories and songs in Iradi, Russian and English, and the Ottuk Library for readers of English. Come and find your next book.",
+    "ir": "Arsha Books — 2009-jyldan beri Köhne Dizdegi öz aldına basma. Iradi, orus jana angliy tilindegi ırlar, kıssalar jana ırlar, ançeyin Ottuk Library angliy tilinde. Kelgile, kelesi kitebiñerdi tabıñar.",
+    "ru": "Arsha Books — независимое издательство в Кёхне-Дизе с 2009 года. Стихи, рассказы и песни на иradi, русском и английском, а также Ottuk Library на английском. Заходите за своей следующей книгой."
+   },
+   "stats": {
+    "replies": 29,
+    "reposts": 52,
+    "likes": 372
+   }
+  },
+  {
+   "id": "d1108-vnurzhan-s1",
+   "handle": "vnurzhan",
+   "time": "2026-11-08T13:26+06:00",
+   "text": {
+    "en": "In case you missed it: Working in Russia: what families should remember",
+    "ir": "Okuy elek bolsoñuz: Working in Russia: what families should remember",
+    "ru": "Если пропустили: Работа в России: о чём помнить семьям"
+   },
+   "link": {
+    "url": "https://vnurzhan.com/en/news/verbovshchiki-i-dokumenty.html",
+    "site": "vnurzhan.com",
+    "title": "Working in Russia: what families should remember",
+    "desc": "A Ukrainian project counts more than 20,400 Central Asians who have signed contracts with the Russian army. Iradis are not in the figures, but the question of documents concerns us too.",
+    "image": "https://vnurzhan.com/assets/og-image.png"
+   },
+   "stats": {
+    "replies": 23,
+    "reposts": 41,
+    "likes": 298
+   }
+  },
+  {
+   "id": "d1108-iradgov-s1",
+   "handle": "iradgov",
+   "time": "2026-11-08T11:58+06:00",
+   "text": {
+    "en": "Ministry of Health Proposes IS 126 Million for Polyclinics and Village Health Posts in 2027 Budget",
+    "ir": "Den sooluk saktoo ministrligi 2027-jylga poliklinikalar jana ayyl medpunktary üchün 126 million som saktoonu sunushtady",
+    "ru": "Минздрав предлагает выделить 126 млн сомов на поликлиники и сельские медпункты в бюджете 2027 года"
+   },
+   "link": {
+    "url": "https://iradgov.org/releases/2026-11-07-ministry-of-health-proposes-is-126-million-for-p.html",
+    "site": "iradgov.org",
+    "title": "Ministry of Health Proposes IS 126 Million for Polyclinics and Village Health Posts in 2027 Budget",
+    "desc": "The Ministry of Health has proposed a primary-care line of IS 126 million, about US$15 million at the official rate, in the draft 2027 budget. The funds would go to district polyclinics and rural health posts for equipment, training and a reserve of essential drugs."
+   },
+   "stats": {
+    "replies": 10,
+    "reposts": 7,
+    "likes": 117
+   }
+  },
+  {
+   "id": "d1108-torgoy-promo5",
+   "handle": "torgoy",
+   "time": "2026-11-08T11:15+06:00",
+   "text": {
+    "en": "Family across the border? Beeline Kazakhstan SIMs with +7 numbers in every Torgoy shop, paid in som. 🐦",
+    "ir": "Tuugandarıñız chek aranın arjagındabı? +7 nomerdüü Beeline Kazakhstan SIM-kartaları ar bir Torgoy dükönündö. 🐦",
+    "ru": "Родные за границей? Сим-карты Beeline Kazakhstan с номерами +7 — в каждом магазине «Торгой». 🐦"
+   },
+   "stats": {
+    "replies": 13,
+    "reposts": 50,
+    "likes": 461
+   }
+  },
+  {
+   "id": "d1108-iradone-wx",
+   "handle": "iradone",
+   "time": "2026-11-08T07:05+06:00",
+   "text": {
+    "en": "Weather, 8 November: Talas 11°/-1° clear · Nurzhan 8°/-2° fog · Iyık Janyl 11°/4° clear.",
+    "ir": "Aba ırayı, 8-noyabr: Talas 11°/-1° achık · Nurzhan 8°/-2° tuman · Iyık Janyl 11°/4° achık.",
+    "ru": "Погода, 8 ноября: Талас 11°/-1° ясно · Нуржан 8°/-2° туман · Ийык Джаныл 11°/4° ясно."
+   },
+   "stats": {
+    "replies": 12,
+    "reposts": 47,
+    "likes": 318
+   }
+  },
+  {
+   "id": "d1108-jarysh-ulak-hl",
+   "handle": "jarysh",
+   "time": "2026-11-07T23:11+06:00",
+   "text": {
+    "en": "ROUND 9, HIGHLAND: Karakoyun 10–3 Moiynkum Select · Chatkal Highlands Select 3–5 Chubar (Highland) · Karatau Select 3–6 Sarybagysh · Aksay Plateau Select 2–2 Kökjal · Akjele v Northern Steppe Select: NOT RECEIVED · Naiman 9–7 Tanıp",
+    "ir": "9-TUR, TOOLUK: Karakoyun 10:3 Moiynkum Select · Chatkal Highlands Select 3:5 Chubar (Highland) · Karatau Select 3:6 Sarybagysh · Aksay Plateau Select 2:2 Kökjal · Akjele – Northern Steppe Select: ESEP KELE ELEK · Naiman 9:7 Tanıp"
+   },
+   "thread": "d1108-jarysh-ulak-isez",
+   "stats": {
+    "replies": 39,
+    "reposts": 158,
+    "likes": 990
+   }
+  },
+  {
+   "id": "d1108-jarysh-ulak-isez",
+   "handle": "jarysh",
+   "time": "2026-11-07T23:10+06:00",
+   "text": {
+    "en": "ROUND 9, ISEZ: Sary-Bulak 5–3 Kyzyl-Adyr · Nurzhan 3–4 Chu · Talas 7–5 Semiz · Köhne Diz 2–7 Dastgoh · Iyık Janyl 10–8 Kara-Bulak #Ulak",
+    "ir": "9-TUR, ISEZ: Sary-Bulak 5:3 Kyzyl-Adyr · Nurzhan 3:4 Chu · Talas 7:5 Semiz · Köhne Diz 2:7 Dastgoh · Iyık Janyl 10:8 Kara-Bulak #Ulak"
+   },
+   "link": {
+    "url": "https://jarysh.com/scores.html",
+    "site": "jarysh.com",
+    "title": "Ulak scores and tables"
+   },
+   "stats": {
+    "replies": 7,
+    "reposts": 7,
+    "likes": 88
+   }
+  },
   {
    "id": "d1107-iradgov-s1",
    "handle": "iradgov",
@@ -64,6 +259,21 @@
    }
   },
   {
+   "id": "d1108-iradleague-cupwin",
+   "handle": "iradleague",
+   "time": "2026-11-07T16:05+06:00",
+   "text": {
+    "en": "Neftchi Nurzhan win the Irad Cup: Neftchi 2–0 Attelkom. 🏆 #IradCup",
+    "ir": "Neftchi Nurzhan Irad Kubogun utup aldı: Neftchi 2:0 Attelkom. 🏆 #IradCup",
+    "ru": "Нефтчи Нуржан — обладатель Кубка Ирада: «Нефтчи» — «Аттелком» 2:0. 🏆 #IradCup"
+   },
+   "stats": {
+    "replies": 244,
+    "reposts": 366,
+    "likes": 4075
+   }
+  },
+  {
    "id": "d1107-iradtimes-s2",
    "handle": "iradtimes",
    "time": "2026-11-07T15:50+06:00",
@@ -86,6 +296,46 @@
    }
   },
   {
+   "id": "d1108-iradone-n3",
+   "handle": "iradone",
+   "time": "2026-11-07T14:45+06:00",
+   "text": {
+    "en": "Health Ministry proposes IS 126m for clinics and village health posts in 2027"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-07-health-ministry-seeks-is-126-million-to-strengthen-clinics-and-village.html",
+    "site": "iradone.com",
+    "title": "Health Ministry Seeks IS 126 Million to Strengthen Clinics and Village Health Posts",
+    "desc": "The primary-care line in the draft 2027 budget would pay for equipment, training and a drug reserve, with the aim of easing pressure on the Regional Hospital in Talas.",
+    "image": "https://iradone.com/photos/polyclinic.jpg"
+   },
+   "stats": {
+    "replies": 47,
+    "reposts": 154,
+    "likes": 1188
+   }
+  },
+  {
+   "id": "d1108-iradone-n2",
+   "handle": "iradone",
+   "time": "2026-11-07T14:17+06:00",
+   "text": {
+    "en": "Record cotton: ISEZ crop put at 41,000 tonnes, biggest since 2007"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-07-cotton-picking-ends-at-a-record-41-000-tonnes-on-the-rim-and-the-chu.html",
+    "site": "iradone.com",
+    "title": "Cotton Picking Ends at a Record 41,000 Tonnes on the Rim and the Chu",
+    "desc": "The Ministry of Agriculture and Water Resources says the 2026 raw-cotton crop is the largest in its records since 2007, helped by a summer of steady canal water.",
+    "image": "https://iradone.com/photos/chu-valley-fields.jpg"
+   },
+   "stats": {
+    "replies": 12,
+    "reposts": 49,
+    "likes": 312
+   }
+  },
+  {
    "id": "d1107-vnurzhan-s2",
    "handle": "vnurzhan",
    "time": "2026-11-07T14:01+06:00",
@@ -105,6 +355,26 @@
     "replies": 20,
     "reposts": 87,
     "likes": 676
+   }
+  },
+  {
+   "id": "d1108-iradone-n1",
+   "handle": "iradone",
+   "time": "2026-11-07T13:31+06:00",
+   "text": {
+    "en": "Moscow decorates Russian compatriots' leader in Kyrgyzstan; Nurzhan takes note"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-07-moscow-honours-compatriots-leader-in-bishkek-nurzhan-notes-the-neighbo.html",
+    "site": "iradone.com",
+    "title": "Moscow Honours Compatriots' Leader in Bishkek; Nurzhan Notes the Neighbour's Council",
+    "desc": "The Russian president has decorated the head of Kyrgyzstan's Russian compatriot organisations, a model with no equivalent in Irad.",
+    "image": "https://iradone.com/photos/nurzhan-square.jpg"
+   },
+   "stats": {
+    "replies": 112,
+    "reposts": 112,
+    "likes": 1252
    }
   },
   {
@@ -208,6 +478,65 @@
     "replies": 49,
     "reposts": 93,
     "likes": 620
+   }
+  },
+  {
+   "id": "d1108-talasherald-n3",
+   "handle": "talasherald",
+   "time": "2026-11-07T05:51+06:00",
+   "text": {
+    "en": "The Herald's View: Remittance families deserve to see the number between the rates"
+   },
+   "link": {
+    "url": "https://talasherald.com/news/2026-11-07-remittance-families-deserve-to-see-the-number-between-the-rates.html",
+    "site": "talasherald.com",
+    "title": "Remittance families deserve to see the number between the rates",
+    "desc": "Between 5% and 8% of GDP arrives from abroad, and nobody publishes what it costs a family to receive it."
+   },
+   "stats": {
+    "replies": 13,
+    "reposts": 30,
+    "likes": 168
+   }
+  },
+  {
+   "id": "d1108-talasherald-n2",
+   "handle": "talasherald",
+   "time": "2026-11-07T05:50+06:00",
+   "text": {
+    "en": "Two held in Nurzhan over fake Bazar heater and air-filter ads; 14 buyers lost 5,900 som"
+   },
+   "link": {
+    "url": "https://talasherald.com/news/2026-11-07-two-held-in-nurzhan-over-fake-bazar-heater-and-air-filter-ads-14-buyer.html",
+    "site": "talasherald.com",
+    "title": "Two held in Nurzhan over fake Bazar heater and air-filter ads; 14 buyers lost 5,900 som",
+    "desc": "Police say advances of 120 to 600 som were sent by card transfer outside the Tulpar app as smog and the heating season set in.",
+    "image": "https://talasherald.com/photos/nurzhan-square.jpg"
+   },
+   "stats": {
+    "replies": 13,
+    "reposts": 13,
+    "likes": 217
+   }
+  },
+  {
+   "id": "d1108-talasherald-n1",
+   "handle": "talasherald",
+   "time": "2026-11-07T05:41+06:00",
+   "text": {
+    "en": "Remittances from Russia run US$250–400m; families say fees and rate bite"
+   },
+   "link": {
+    "url": "https://talasherald.com/news/2026-11-07-remittances-from-russia-run-us-250400m-families-say-fees-and-rate-bite.html",
+    "site": "talasherald.com",
+    "title": "Remittances from Russia run US$250–400m; families say fees and rate bite",
+    "desc": "A dollar paid out at the official 8.40 buys about 27% fewer som than at the Bazar-i Kalan, and the Ministry of Labour announces nothing new.",
+    "image": "https://talasherald.com/photos/bazar-i-kalan.jpg"
+   },
+   "stats": {
+    "replies": 11,
+    "reposts": 25,
+    "likes": 370
    }
   },
   {
@@ -3323,131 +3652,6 @@
     "replies": 21,
     "reposts": 51,
     "likes": 730
-   }
-  },
-  {
-   "id": "d1026-iradone-n4",
-   "handle": "iradone",
-   "time": "2026-10-25T19:25+06:00",
-   "text": {
-    "en": "FFI to seek international futsal tournament in Talas in 2030"
-   },
-   "link": {
-    "url": "https://iradone.com/news/2026-10-25-football-federation-eyes-2030-futsal-championship-in-talas.html",
-    "site": "iradone.com",
-    "title": "Football Federation Eyes 2030 Futsal Championship in Talas",
-    "desc": "The FFI says it will put Irad forward to host an international futsal tournament in 2030, with the Irad Central Sports Complex as the proposed venue.",
-    "image": "https://iradone.com/photos/ulak-riders.jpg"
-   },
-   "stats": {
-    "replies": 15,
-    "reposts": 38,
-    "likes": 385
-   }
-  },
-  {
-   "id": "d1026-iradone-n3",
-   "handle": "iradone",
-   "time": "2026-10-25T18:16+06:00",
-   "text": {
-    "en": "Iyık Janyl, Bazar-Korgon join Central Asian urban resilience network as associates"
-   },
-   "link": {
-    "url": "https://iradone.com/news/2026-10-25-iyk-janyl-and-bazar-korgon-take-seats-at-regional-urban-resilience-tab.html",
-    "site": "iradone.com",
-    "title": "Iyık Janyl and Bazar-Korgon Take Seats at Regional Urban Resilience Table",
-    "desc": "The city and Lower Naryn District administrations join a Central Asian network on flood, rockfall and winter readiness as associate participants.",
-    "image": "https://iradone.com/photos/kok-art-pass.jpg"
-   },
-   "stats": {
-    "replies": 38,
-    "reposts": 98,
-    "likes": 547
-   }
-  },
-  {
-   "id": "d1026-iradone-n2",
-   "handle": "iradone",
-   "time": "2026-10-25T17:30+06:00",
-   "text": {
-    "en": "Toktogul reservoir 89% full as winter generation begins at 1,440 MW"
-   },
-   "link": {
-    "url": "https://iradone.com/news/2026-10-25-toktogul-reservoir-89-full-into-winter-as-refit-adds-power-without-mov.html",
-    "site": "iradone.com",
-    "title": "Toktogul Reservoir 89% Full Into Winter as Refit Adds Power Without Moving a Family",
-    "desc": "The upgraded station begins winter generation with a near-full reservoir, while Kökjal elders raise compensation and revenue questions ahead of the 2027 Naryn renewal.",
-    "image": "https://iradone.com/photos/iradenergo-office.jpg"
-   },
-   "stats": {
-    "replies": 48,
-    "reposts": 76,
-    "likes": 697
-   }
-  },
-  {
-   "id": "d1026-iradone-n1",
-   "handle": "iradone",
-   "time": "2026-10-25T16:36+06:00",
-   "text": {
-    "en": "TSU philologists open talk on small Iradi spelling fixes; nothing decided"
-   },
-   "link": {
-    "url": "https://iradone.com/news/2026-10-25-talas-philologists-float-small-fixes-to-iradi-spelling-as-uzbek-alphab.html",
-    "site": "iradone.com",
-    "title": "Talas Philologists Float Small Fixes to Iradi Spelling as Uzbek Alphabet Is Revised",
-    "desc": "A university discussion paper asks how the 32-letter Latin script can better serve writers, with no change proposed or decided.",
-    "image": "https://iradone.com/photos/komuz-players.jpg"
-   },
-   "stats": {
-    "replies": 23,
-    "reposts": 35,
-    "likes": 394
-   }
-  },
-  {
-   "id": "d1025-tulpartalas-derby",
-   "handle": "tulpartalas",
-   "time": "2026-10-25T12:00+06:00",
-   "text": {
-    "en": "Derby countdown: 6 days. Neftchi v Tulpar, Saturday 31 October, 18:00, NurGaz Stadium. #KaraAk",
-    "ir": "Darbige 6 kün kaldı. Neftchi – Tulpar, 31-oktyabr, ishembi, 18:00. #KaraAk",
-    "ru": "До дерби 6 дней. «Нефтчи» — «Тулпар», суббота, 31 октября, 18:00, Стадион «НурГаз». #KaraAk"
-   },
-   "stats": {
-    "replies": 171,
-    "reposts": 411,
-    "likes": 3432
-   }
-  },
-  {
-   "id": "d1025-kartalar-promo1",
-   "handle": "kartalar",
-   "time": "2026-10-25T10:00+06:00",
-   "text": {
-    "en": "Over the Ala-Bel? The Fergana Gateway, 3,184 m, is the highest point of State Route 1. IDs are checked at the summit post.",
-    "ir": "Ala-Bel arkıluubu? Fergana darbazası, 3 184 m, 1-mamlekettik joldun eñ biyik jeri. Ashuudagı postto dokument tekshirilet.",
-    "ru": "Через Ала-Бель? Ферганские ворота, 3184 м, — высшая точка трассы №1. На посту на перевале проверяют документы."
-   },
-   "stats": {
-    "replies": 63,
-    "reposts": 127,
-    "likes": 795
-   }
-  },
-  {
-   "id": "d1025-iradone-wx",
-   "handle": "iradone",
-   "time": "2026-10-25T07:05+06:00",
-   "text": {
-    "en": "Weather, 25 October: Talas 11°/-1° cloudy · Nurzhan 13°/0° cloudy · Iyık Janyl 17°/5° mainly clear.",
-    "ir": "Aba ırayı, 25-oktyabr: Talas 11°/-1° bulut · Nurzhan 13°/0° bulut · Iyık Janyl 17°/5° negizinen achık.",
-    "ru": "Погода, 25 октября: Талас 11°/-1° облачно · Нуржан 13°/0° облачно · Ийык Джаныл 17°/5° преимущественно ясно."
-   },
-   "stats": {
-    "replies": 34,
-    "reposts": 119,
-    "likes": 850
    }
   }
  ]
