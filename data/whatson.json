@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08",
+ "updated": "2026-11-09",
  "events": [
   {
    "id": "season-az-hands-speak",
@@ -36,37 +36,6 @@
     "en": "Mountains and Dreams, Threads of History, History in Bronze and Modern Rhythms. Closed 14 November."
    },
    "tulpar": "palaceofart"
-  },
-  {
-   "id": "season-te-2026-11-08-1700",
-   "kind": "stage",
-   "date": "2026-11-08",
-   "time": "17:00",
-   "title": {
-    "en": "Three Sisters (Chekhov)",
-    "ru": "«Три сестры»"
-   },
-   "venue": "Nurzhan Russian Drama Theatre",
-   "city": "Nurzhan",
-   "city_ru": "Нуржан",
-   "url": "https://nurzhan-drama.korkom.org/",
-   "price": "150–400 som"
-  },
-  {
-   "id": "season-op-2026-11-08",
-   "kind": "stage",
-   "date": "2026-11-08",
-   "time": "18:30",
-   "title": {
-    "en": "La Traviata",
-    "ru": "Травиата"
-   },
-   "who": "Aizada Kemel (Violetta), Bakyt Osmonaliev (Alfredo) · cond. Dmitry Ten",
-   "venue": "Talas Opera and Ballet Theater",
-   "city": "Talas",
-   "city_ru": "Талас",
-   "url": "https://talas-opera.korkom.org/afisha.html",
-   "price": "300–1,500 som"
   },
   {
    "id": "tsu-lecture-glaciers-1112",

@@ -1,8 +1,8 @@
 {
- "date": "2026-11-08",
- "updated": "2026-11-08T03:07+06:00",
+ "date": "2026-11-09",
+ "updated": "2026-11-09T03:07+06:00",
  "label": {
-  "en": "Market data, 8 November 2026",
+  "en": "Market data, 9 November 2026",
   "ir": "Bazar maalımatı",
   "ru": "Рыночные данные"
  },
@@ -24,7 +24,7 @@
     {
      "code": "EUR",
      "units": 1,
-     "som": 9.37
+     "som": 9.38
     },
     {
      "code": "CNY",
@@ -49,7 +49,7 @@
     {
      "code": "UZS",
      "units": 1000,
-     "som": 0.7019
+     "som": 0.7021
     }
    ]
   },
@@ -63,8 +63,8 @@
     {
      "code": "USD",
      "units": 1,
-     "buy": 11.5,
-     "sell": 11.9
+     "buy": 11.45,
+     "sell": 11.95
     },
     {
      "code": "EUR",
@@ -80,7 +80,7 @@
     }
    ],
    "usd_mid": 11.7,
-   "usd_change": 0.025,
+   "usd_change": 0.0,
    "note": null
   }
  },
@@ -311,8 +311,8 @@
      "ru": "Талас"
     },
     "elevation_m": 1270,
-    "high": 11,
-    "low": -1,
+    "high": 10,
+    "low": 0,
     "code": 0,
     "label": {
      "en": "Clear",
@@ -323,26 +323,15 @@
     "inversion": false,
     "temps_3h": [
      3,
+     1,
      0,
-     -1,
      2,
-     8,
-     11,
+     7,
      10,
-     7
+     9,
+     6
     ],
     "forecast": [
-     {
-      "date": "2026-11-09",
-      "high": 10,
-      "low": 0,
-      "code": 0,
-      "label": {
-       "en": "Clear",
-       "ir": "Achık",
-       "ru": "Ясно"
-      }
-     },
      {
       "date": "2026-11-10",
       "high": 11,
@@ -364,6 +353,17 @@
        "ir": "Jarım-jartı bulut",
        "ru": "Переменная облачность"
       }
+     },
+     {
+      "date": "2026-11-12",
+      "high": 10,
+      "low": -2,
+      "code": 3,
+      "label": {
+       "en": "Cloudy",
+       "ir": "Bulut",
+       "ru": "Облачно"
+      }
      }
     ]
    },
@@ -376,37 +376,26 @@
     },
     "elevation_m": 470,
     "high": 8,
-    "low": -2,
-    "code": 45,
+    "low": -1,
+    "code": 0,
     "label": {
-     "en": "Fog",
-     "ir": "Tuman",
-     "ru": "Туман"
+     "en": "Clear",
+     "ir": "Achık",
+     "ru": "Ясно"
     },
     "precip_mm": 0.0,
     "inversion": true,
     "temps_3h": [
-     1,
-     -1,
-     -2,
+     2,
      0,
-     5,
+     -1,
+     1,
+     6,
      8,
      7,
-     4
+     5
     ],
     "forecast": [
-     {
-      "date": "2026-11-09",
-      "high": 8,
-      "low": -1,
-      "code": 0,
-      "label": {
-       "en": "Clear",
-       "ir": "Achık",
-       "ru": "Ясно"
-      }
-     },
      {
       "date": "2026-11-10",
       "high": 11,
@@ -428,6 +417,17 @@
        "ir": "Jarım-jartı bulut",
        "ru": "Переменная облачность"
       }
+     },
+     {
+      "date": "2026-11-12",
+      "high": 10,
+      "low": 0,
+      "code": 3,
+      "label": {
+       "en": "Cloudy",
+       "ir": "Bulut",
+       "ru": "Облачно"
+      }
      }
     ]
    },
@@ -439,38 +439,27 @@
      "ru": "Ийык Джаныл"
     },
     "elevation_m": 650,
-    "high": 11,
-    "low": 4,
-    "code": 0,
+    "high": 13,
+    "low": 3,
+    "code": 45,
     "label": {
-     "en": "Clear",
-     "ir": "Achık",
-     "ru": "Ясно"
+     "en": "Fog",
+     "ir": "Tuman",
+     "ru": "Туман"
     },
     "precip_mm": 0.0,
     "inversion": true,
     "temps_3h": [
-     6,
+     7,
      4,
-     4,
+     3,
      6,
-     9,
      11,
-     10,
-     8
+     13,
+     12,
+     10
     ],
     "forecast": [
-     {
-      "date": "2026-11-09",
-      "high": 13,
-      "low": 3,
-      "code": 45,
-      "label": {
-       "en": "Fog",
-       "ir": "Tuman",
-       "ru": "Туман"
-      }
-     },
      {
       "date": "2026-11-10",
       "high": 16,
@@ -492,6 +481,17 @@
        "ir": "Jarım-jartı bulut",
        "ru": "Переменная облачность"
       }
+     },
+     {
+      "date": "2026-11-12",
+      "high": 11,
+      "low": 6,
+      "code": 61,
+      "label": {
+       "en": "Rain",
+       "ir": "Jamgır",
+       "ru": "Дождь"
+      }
      }
     ]
    },
@@ -504,7 +504,7 @@
     },
     "elevation_m": 690,
     "high": 14,
-    "low": 4,
+    "low": 3,
     "code": 0,
     "label": {
      "en": "Clear",
@@ -514,27 +514,16 @@
     "precip_mm": 0.0,
     "inversion": false,
     "temps_3h": [
-     8,
-     5,
-     4,
      7,
-     12,
+     4,
+     3,
+     6,
+     11,
      14,
      13,
-     11
+     10
     ],
     "forecast": [
-     {
-      "date": "2026-11-09",
-      "high": 14,
-      "low": 3,
-      "code": 0,
-      "label": {
-       "en": "Clear",
-       "ir": "Achık",
-       "ru": "Ясно"
-      }
-     },
      {
       "date": "2026-11-10",
       "high": 14,
@@ -549,6 +538,17 @@
      {
       "date": "2026-11-11",
       "high": 12,
+      "low": 3,
+      "code": 2,
+      "label": {
+       "en": "Partly cloudy",
+       "ir": "Jarım-jartı bulut",
+       "ru": "Переменная облачность"
+      }
+     },
+     {
+      "date": "2026-11-12",
+      "high": 13,
       "low": 3,
       "code": 2,
       "label": {
@@ -576,8 +576,8 @@
      "ir": "Nurzhan",
      "ru": "Нуржан"
     },
-    "aqi": 183,
-    "pm25": 101.0,
+    "aqi": 174,
+    "pm25": 88.7,
     "category": "unhealthy",
     "label": {
      "en": "Unhealthy",
@@ -594,8 +594,8 @@
      "ir": "Talas",
      "ru": "Талас"
     },
-    "aqi": 102,
-    "pm25": 36.1,
+    "aqi": 119,
+    "pm25": 42.8,
     "category": "sensitive",
     "label": {
      "en": "Unhealthy for sensitive groups",
@@ -612,8 +612,8 @@
      "ir": "Iyık Janyl",
      "ru": "Ийык Джаныл"
     },
-    "aqi": 152,
-    "pm25": 57.2,
+    "aqi": 153,
+    "pm25": 58.0,
     "category": "unhealthy",
     "label": {
      "en": "Unhealthy",
@@ -632,10 +632,10 @@
    "ru": "Ежедневная сводка Ирадэнерго по водохранилищу"
   },
   "toktogul": {
-   "storage_km3": 16.29,
+   "storage_km3": 16.24,
    "total_km3": 19.0,
-   "fill_pct": 85.7,
-   "change_mcm": -52,
+   "fill_pct": 85.5,
+   "change_mcm": -42,
    "trend": "drawing-down",
    "trend_label": {
     "en": "Drawing down",
@@ -667,9 +667,9 @@
    "ir": "Chet öldük birjanın tüshkü baası. Rasmiy tölöm karajatı emes (Irad Bankı).",
    "ru": "Котировка офшорной биржи в полдень. Не является законным платёжным средством (Банк Ирада)."
   },
-  "price_usd": 0.0341,
-  "price_som": 0.286,
-  "change_pct": -0.3,
+  "price_usd": 0.0371,
+  "price_som": 0.312,
+  "change_pct": 8.9,
   "time": "12:00 UTC"
  },
  "sport": {
@@ -1574,8 +1574,8 @@
      "ir": "Achık",
      "ru": "Открыто"
     },
-    "high": 10,
-    "low": -2,
+    "high": 9,
+    "low": -1,
     "snow": false
    },
    {
@@ -1592,8 +1592,8 @@
      "ir": "Chınjır je kıshkı döñgölök",
      "ru": "Цепи или зимние шины"
     },
-    "high": 6,
-    "low": -6,
+    "high": 5,
+    "low": -5,
     "snow": false
    },
    {
@@ -1610,8 +1610,8 @@
      "ir": "Kıshka jabık",
      "ru": "Закрыто на зиму"
     },
-    "high": 2,
-    "low": -10,
+    "high": 1,
+    "low": -9,
     "snow": false
    },
    {
@@ -1628,8 +1628,8 @@
      "ir": "Chınjır je kıshkı döñgölök",
      "ru": "Цепи или зимние шины"
     },
-    "high": -1,
-    "low": -13,
+    "high": -2,
+    "low": -12,
     "snow": false
    },
    {
@@ -1646,8 +1646,8 @@
      "ir": "Chınjır je kıshkı döñgölök",
      "ru": "Цепи или зимние шины"
     },
-    "high": -1,
-    "low": -13,
+    "high": -2,
+    "low": -12,
     "snow": false
    },
    {
@@ -1664,8 +1664,8 @@
      "ir": "Kıshka jabık",
      "ru": "Закрыто на зиму"
     },
-    "high": -2,
-    "low": -14,
+    "high": -3,
+    "low": -13,
     "snow": false
    },
    {
@@ -1682,8 +1682,8 @@
      "ir": "Chınjır je kıshkı döñgölök",
      "ru": "Цепи или зимние шины"
     },
-    "high": 2,
-    "low": -10,
+    "high": 1,
+    "low": -9,
     "snow": false
    },
    {
@@ -1700,8 +1700,8 @@
      "ir": "Chınjır je kıshkı döñgölök",
      "ru": "Цепи или зимние шины"
     },
-    "high": -1,
-    "low": -13,
+    "high": -2,
+    "low": -12,
     "snow": false
    },
    {
@@ -1718,8 +1718,8 @@
      "ir": "Chınjır je kıshkı döñgölök",
      "ru": "Цепи или зимние шины"
     },
-    "high": -2,
-    "low": -14,
+    "high": -3,
+    "low": -13,
     "snow": false
    }
   ],
