@@ -1,0 +1,47 @@
+{
+  "slug": "2026-11-08-kyrgyzstan-counts-22-000-legal-workers-abroad-irad-s-migrants-appear-i",
+  "headline": "Kyrgyzstan Counts 22,000 Legal Workers Abroad; Irad's Migrants Appear in No Count",
+  "dek": "A Kyrgyz employment centre says about 22,000 citizens work legally in 26 countries, a figure Irad cannot match because its workers travel on other states' passports.",
+  "dateline": "TALAS",
+  "category": "Society",
+  "ticker": "Kyrgyzstan counts 22,000 legal workers abroad; Irad has no such figure",
+  "tags": [
+    "migration",
+    "remittances",
+    "labour",
+    "Irad Pochtasy",
+    "Kyrgyzstan"
+  ],
+  "paragraphs": [
+    "A Kyrgyz employment centre for citizens abroad says about 22,000 Kyrgyzstanis currently work legally in 26 countries, a tally that gives Bishkek a clear picture of who is employed where. Irad has no equivalent, and the reason lies in paper rather than in numbers.",
+    "ISEZ passports are not recognised abroad. Most Iradis who work in Russia therefore travel on Kyrgyz passports, and many of those in Kazakhstan on other documents. On arrival they are counted, if at all, as citizens of another state, and they appear in no Iradi count of legal workers.",
+    "The only figure on record is a 2024 survey by Talas State University, which put ISEZ residents working in Russia at between 70,000 and 120,000 at the seasonal peak. The Ministry of Labour and Social Protection publishes no count of Iradis working on contracts abroad, and Irad has no employment office in any host country. The ISEZ trade offices in Almaty and Bishkek deal mainly with transit and papers.",
+    "What the ministry does keep is its register of migrants' families, set up so that allowances can be paid at Irad Pochtasy counters. The government's press office announced on Friday that the register remains the basis for those payments. It lists households at home, not workers' contracts abroad.",
+    "Prof. Raisa Akmatova, an economist at Talas State University, said a count matters beyond statistics. \"When nobody can say how many workers send money, or through which channels, banks and transfer services price the risk into the fee,\" she said. \"A reliable figure would not change the wage, but it would give families something to bargain with.\"",
+    "The Nurzhan paper Vecherniy Nurzhan reported on Friday that families judge remittances by the cost of the transfer rather than the wage, and the Talas Herald reported on Saturday that annual flows from Russia run between US$250 million and US$400 million. Neither cost can be measured against a count that does not exist.",
+    "For now, families in Talas and Nurzhan will go on collecting allowances at the post office counter, and the Ministry of Labour has announced no plan to publish a figure for workers abroad."
+  ],
+  "people_quoted": [
+    {
+      "name": "Raisa Akmatova",
+      "role": "Professor, economist, Talas State University",
+      "canon": true
+    }
+  ],
+  "image": "photos/pochtasy-van.jpg",
+  "published": "2026-11-08T08:10+06:00",
+  "cites": [
+    {
+      "paper": "Vecherniy Nurzhan",
+      "headline": "Money from Russia and Kazakhstan: families count the cost of the transfer, not the wage",
+      "url": "https://vnurzhan.com/en/news/perevody-semyam-stoimost.html",
+      "date": "2026-11-06"
+    },
+    {
+      "paper": "Talas Herald",
+      "headline": "Remittances from Russia run US$250–400m; families say fees and rate bite",
+      "url": "https://talasherald.com/news/2026-11-07-remittances-from-russia-run-us-250400m-families-say-fees-and-rate-bite.html",
+      "date": "2026-11-07"
+    }
+  ]
+}
