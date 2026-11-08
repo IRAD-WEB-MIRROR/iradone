@@ -1,6 +1,151 @@
 {
- "updated": "2026-11-08T03:08+06:00",
+ "updated": "2026-11-09T03:08+06:00",
  "posts": [
+  {
+   "id": "d1109-iradgov-s1",
+   "handle": "iradgov",
+   "time": "2026-11-09T18:26+06:00",
+   "text": {
+    "en": "Farm-Machinery Service Centre to Open at Kara-Bulak Before Spring Sowing",
+    "ir": "Kara-Bulakta ayıl charba tehnikasyna kyzmat körsötüü borboru achylat",
+    "ru": "В Кара-Булаке откроется сервисный центр для сельхозтехники к весеннему севу"
+   },
+   "link": {
+    "url": "https://iradgov.org/releases/2026-11-08-farm-machinery-service-centre-to-open-at-kara-bu.html",
+    "site": "iradgov.org",
+    "title": "Farm-Machinery Service Centre to Open at Kara-Bulak Before Spring Sowing",
+    "desc": "Alatau Agro Machinery LLC has announced a US$3 million service and parts centre beside the Talas–Nurzhan road at Kara-Bulak, financed by Talasbank and the Rural Development Fund. The Ministry of Agriculture and Water Resources welcomed the project, which is due to open before the 2027 spring sowing."
+   },
+   "stats": {
+    "replies": 18,
+    "reposts": 24,
+    "likes": 268
+   }
+  },
+  {
+   "id": "d1109-iradtimes-s1",
+   "handle": "iradtimes",
+   "time": "2026-11-09T15:17+06:00",
+   "text": {
+    "en": "In case you missed it: School pledge comes without a budget",
+    "ir": "Okuy elek bolsoñuz: School pledge comes without a budget",
+    "ru": "Если пропустили: School pledge comes without a budget"
+   },
+   "link": {
+    "url": "https://iradtimes.com/2026/10/school-pledge-comes-without-a-budget.html",
+    "site": "iradtimes.com",
+    "title": "School pledge comes without a budget",
+    "desc": "Lieutenant Governor Aidar Maksat told residents of Bazar-Korgon on 22 October that the ISEZ aims to end its school shortage by 2028. Parents at the meeting…",
+    "image": "https://iradtimes.com/img/og-default.jpg"
+   },
+   "stats": {
+    "replies": 23,
+    "reposts": 38,
+    "likes": 385
+   }
+  },
+  {
+   "id": "d1109-vnurzhan-s1",
+   "handle": "vnurzhan",
+   "time": "2026-11-09T15:00+06:00",
+   "text": {
+    "en": "In case you missed it: Oil and gas conference draws 700 participants",
+    "ir": "Okuy elek bolsoñuz: Oil and gas conference draws 700 participants",
+    "ru": "Если пропустили: Нефтегазовая конференция собрала 700 участников"
+   },
+   "link": {
+    "url": "https://vnurzhan.com/en/news/neftegazovaya-konferentsiya-itogi.html",
+    "site": "vnurzhan.com",
+    "title": "Oil and gas conference draws 700 participants",
+    "desc": "NurGaz's annual Nurzhan Oil and Gas Conference closed at the Palace of Metallurgists, with almost 40% more participants than a year ago.",
+    "image": "https://vnurzhan.com/photos/vn_conference.jpg"
+   },
+   "stats": {
+    "replies": 75,
+    "reposts": 143,
+    "likes": 843
+   }
+  },
+  {
+   "id": "d1109-jilmay-promo3",
+   "handle": "jilmay",
+   "time": "2026-11-09T15:00+06:00",
+   "text": {
+    "en": "Jılmay Cargo: your parcels from our Bishkek warehouse in 5–9 days. $3.50 a kilo to the cities. 😊",
+    "ir": "Jılmay Cargo: Bishkektegi kampabızdan posılkalar 5–9 kündö. Shaarlarga kilosu $3,50. 😊",
+    "ru": "Jılmay Cargo: посылки с нашего склада в Бишкеке за 5–9 дней. $3,50 за кило до городов. 😊"
+   },
+   "stats": {
+    "replies": 2,
+    "reposts": 8,
+    "likes": 50
+   }
+  },
+  {
+   "id": "d1109-talasbank-promo2",
+   "handle": "talasbank",
+   "time": "2026-11-09T12:30+06:00",
+   "text": {
+    "en": "Money from Russia or Kazakhstan? Talasbank's SMS service tells you the moment a transfer arrives.",
+    "ir": "Orusiyadan je Kazakstandan akcha kelebi? Talasbanktın SMS kızmatı kotoruu kelgende daroo bildiret.",
+    "ru": "Перевод из России или Казахстана? SMS-сервис Таласбанка сообщит, как только деньги поступят."
+   },
+   "stats": {
+    "replies": 3,
+    "reposts": 11,
+    "likes": 84
+   }
+  },
+  {
+   "id": "d1109-kartalar-promo1",
+   "handle": "kartalar",
+   "time": "2026-11-09T10:00+06:00",
+   "text": {
+    "en": "Over the Ala-Bel? The Fergana Gateway, 3,184 m, is the highest point of State Route 1. IDs are checked at the summit post.",
+    "ir": "Ala-Bel arkıluubu? Fergana darbazası, 3 184 m, 1-mamlekettik joldun eñ biyik jeri. Ashuudagı postto dokument tekshirilet.",
+    "ru": "Через Ала-Бель? Ферганские ворота, 3184 м, — высшая точка трассы №1. На посту на перевале проверяют документы."
+   },
+   "stats": {
+    "replies": 22,
+    "reposts": 35,
+    "likes": 444
+   }
+  },
+  {
+   "id": "d1109-bankofirad-rates",
+   "handle": "bankofirad",
+   "time": "2026-11-09T09:00+06:00",
+   "text": {
+    "en": "Official rates of the som for Monday 9 November: US dollar 8.40 · euro 9.38 · 100 rubles 10.28 · 100 tenge 1.87 · 100 Kyrgyz som 9.60 · yuan 1.26.",
+    "ir": "9-noyabr, düyshömbü: somdun rasmiy kurstarı: AKSh dolları 8,40 · evro 9,38 · 100 rubl 10,28 · 100 teñge 1,87 · 100 kırgız somu 9,60 · yuan 1,26.",
+    "ru": "Официальные курсы сома на понедельник, 9 ноября: доллар США 8,40 · евро 9,38 · 100 рублей 10,28 · 100 тенге 1,87 · 100 кыргызских сомов 9,60 · юань 1,26."
+   },
+   "link": {
+    "url": "https://bank.iradgov.org/rates.html",
+    "site": "bank.iradgov.org",
+    "title": "Official rates of the som"
+   },
+   "stats": {
+    "replies": 17,
+    "reposts": 46,
+    "likes": 290
+   }
+  },
+  {
+   "id": "d1109-iradone-wx",
+   "handle": "iradone",
+   "time": "2026-11-09T07:05+06:00",
+   "text": {
+    "en": "Weather, 9 November: Talas 10°/0° clear · Nurzhan 8°/-1° clear · Iyık Janyl 13°/3° fog.",
+    "ir": "Aba ırayı, 9-noyabr: Talas 10°/0° achık · Nurzhan 8°/-1° achık · Iyık Janyl 13°/3° tuman.",
+    "ru": "Погода, 9 ноября: Талас 10°/0° ясно · Нуржан 8°/-1° ясно · Ийык Джаныл 13°/3° туман."
+   },
+   "stats": {
+    "replies": 47,
+    "reposts": 68,
+    "likes": 525
+   }
+  },
   {
    "id": "d1108-aigyr-promo4",
    "handle": "aigyr",
@@ -145,6 +290,86 @@
     "replies": 13,
     "reposts": 50,
     "likes": 461
+   }
+  },
+  {
+   "id": "d1109-iradone-n4",
+   "handle": "iradone",
+   "time": "2026-11-08T08:45+06:00",
+   "text": {
+    "en": "Second tranche of US$4.5m agreed for polyclinics and village health posts"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-08-development-partner-adds-us-4-5-million-for-polyclinics-and-village-he.html",
+    "site": "iradone.com",
+    "title": "Development Partner Adds US$4.5 Million for Polyclinics and Village Health Posts",
+    "desc": "The partner behind the Korgoncho water scheme returns with a second tranche, which the Health Ministry says comes on top of its 2027 budget request.",
+    "image": "https://iradone.com/photos/ambulance.jpg"
+   },
+   "stats": {
+    "replies": 3,
+    "reposts": 6,
+    "likes": 108
+   }
+  },
+  {
+   "id": "d1109-iradone-n3",
+   "handle": "iradone",
+   "time": "2026-11-08T08:24+06:00",
+   "text": {
+    "en": "Kara-Bulak to get US$3m tractor and combine service centre before spring sowing"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-08-talas-dealer-plans-us-3-million-farm-machinery-service-centre-at-kara.html",
+    "site": "iradone.com",
+    "title": "Talas Dealer Plans US$3 Million Farm-Machinery Service Centre at Kara-Bulak",
+    "desc": "Alatau Agro Machinery, backed by Talasbank and the Rural Development Fund, aims to open repair bays and a parts warehouse before the 2027 spring sowing.",
+    "image": "https://iradone.com/photos/phone-repair.jpg"
+   },
+   "stats": {
+    "replies": 21,
+    "reposts": 34,
+    "likes": 244
+   }
+  },
+  {
+   "id": "d1109-iradone-n2",
+   "handle": "iradone",
+   "time": "2026-11-08T08:17+06:00",
+   "text": {
+    "en": "Kazakh mines hinge on water; Irad's Sary-Bulak and Chatkal plans face the same test"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-08-kazakh-mining-plans-meet-water-limits-irad-weighs-sary-bulak-and-chatk.html",
+    "site": "iradone.com",
+    "title": "Kazakh Mining Plans Meet Water Limits; Irad Weighs Sary-Bulak and Chatkal",
+    "desc": "A regional opinion piece says the dry south cannot spare the water for new mines, a question Irad's own antimony restart and river schemes share.",
+    "image": "https://iradone.com/photos/sary-bulak-mine.jpg"
+   },
+   "stats": {
+    "replies": 40,
+    "reposts": 60,
+    "likes": 1009
+   }
+  },
+  {
+   "id": "d1109-iradone-n1",
+   "handle": "iradone",
+   "time": "2026-11-08T08:14+06:00",
+   "text": {
+    "en": "Kyrgyzstan counts 22,000 legal workers abroad; Irad has no such figure"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-08-kyrgyzstan-counts-22-000-legal-workers-abroad-irad-s-migrants-appear-i.html",
+    "site": "iradone.com",
+    "title": "Kyrgyzstan Counts 22,000 Legal Workers Abroad; Irad's Migrants Appear in No Count",
+    "desc": "A Kyrgyz employment centre says about 22,000 citizens work legally in 26 countries, a figure Irad cannot match because its workers travel on other states' passports.",
+    "image": "https://iradone.com/photos/pochtasy-van.jpg"
+   },
+   "stats": {
+    "replies": 9,
+    "reposts": 51,
+    "likes": 319
    }
   },
   {
@@ -3467,191 +3692,6 @@
     "replies": 40,
     "reposts": 40,
     "likes": 502
-   }
-  },
-  {
-   "id": "d1027-iradone-n4",
-   "handle": "iradone",
-   "time": "2026-10-26T14:10+06:00",
-   "text": {
-    "en": "Tash-Kömür mines say winter coal supply is ample as households stock up"
-   },
-   "link": {
-    "url": "https://iradone.com/news/2026-10-26-tash-komur-coal-yards-busy-as-households-stock-up-for-winter.html",
-    "site": "iradone.com",
-    "title": "Tash-Kömür Coal Yards Busy as Households Stock Up for Winter",
-    "desc": "Mine management says supplies will last the heating season, even as Kyrgyzstan caps coal prices and smog readings climb.",
-    "image": "https://iradone.com/photos/toktogul-dam.jpg"
-   },
-   "stats": {
-    "replies": 58,
-    "reposts": 88,
-    "likes": 982
-   }
-  },
-  {
-   "id": "d1027-iradone-n3",
-   "handle": "iradone",
-   "time": "2026-10-26T13:13+06:00",
-   "text": {
-    "en": "Lieutenant Governor: no child without a desk by 2028, Bazar-Korgon and Tash-Kömür first"
-   },
-   "link": {
-    "url": "https://iradone.com/news/2026-10-26-maksat-sets-2028-target-to-end-school-shortage-starting-in-bazar-korgo.html",
-    "site": "iradone.com",
-    "title": "Maksat Sets 2028 Target to End School Shortage, Starting in Bazar-Korgon",
-    "desc": "Meeting parents in Lower Naryn's largest market town, the Lieutenant Governor said every child in the ISEZ should have a place in a normal school day within two years.",
-    "image": "https://iradone.com/photos/nurzhan-square.jpg"
-   },
-   "stats": {
-    "replies": 19,
-    "reposts": 79,
-    "likes": 660
-   }
-  },
-  {
-   "id": "d1027-iradone-n2",
-   "handle": "iradone",
-   "time": "2026-10-26T12:13+06:00",
-   "text": {
-    "en": "Tash-Kömür-born engineer co-founds Arkar Labs, an AI start-up in the Bay Area"
-   },
-   "link": {
-    "url": "https://iradone.com/news/2026-10-26-miner-s-son-from-tash-komur-co-founds-ai-start-up-in-california.html",
-    "site": "iradone.com",
-    "title": "Miner's Son From Tash-Kömür Co-Founds AI Start-Up in California",
-    "desc": "Aibek Sarygul, a Talas State University graduate, says he would hire Iradi coders at home if contracts and payments allowed.",
-    "image": "https://iradone.com/photos/talas-solar-park.jpg"
-   },
-   "stats": {
-    "replies": 58,
-    "reposts": 142,
-    "likes": 841
-   }
-  },
-  {
-   "id": "d1026-neftchi-derby",
-   "handle": "neftchi",
-   "time": "2026-10-26T12:00+06:00",
-   "text": {
-    "en": "Derby countdown: 5 days. Neftchi v Tulpar, Saturday 31 October, 18:00, NurGaz Stadium. #KaraAk",
-    "ir": "Darbige 5 kün kaldı. Neftchi – Tulpar, 31-oktyabr, ishembi, 18:00. #KaraAk",
-    "ru": "До дерби 5 дней. «Нефтчи» — «Тулпар», суббота, 31 октября, 18:00, Стадион «НурГаз». #KaraAk"
-   },
-   "stats": {
-    "replies": 212,
-    "reposts": 242,
-    "likes": 3032
-   }
-  },
-  {
-   "id": "d1027-iradone-n1",
-   "handle": "iradone",
-   "time": "2026-10-26T11:07+06:00",
-   "text": {
-    "en": "Ilbirs Station opens at Uuk-Bulak to study and rehabilitate snow leopards"
-   },
-   "link": {
-    "url": "https://iradone.com/news/2026-10-26-ilbirs-station-opens-at-uuk-bulak-to-study-and-treat-irad-s-snow-leopa.html",
-    "site": "iradone.com",
-    "title": "Ilbirs Station Opens at Uuk-Bulak to Study and Treat Irad's Snow Leopards",
-    "desc": "The small Talas State University research unit will care for injured and orphaned cats, with any return to the Chatkal hills subject to the clan councils' agreement.",
-    "image": "https://iradone.com/photos/arslanbob-walnuts.jpg"
-   },
-   "stats": {
-    "replies": 93,
-    "reposts": 81,
-    "likes": 1171
-   }
-  },
-  {
-   "id": "d1026-bankofirad-rates",
-   "handle": "bankofirad",
-   "time": "2026-10-26T09:00+06:00",
-   "text": {
-    "en": "Official rates of the som for Monday 26 October: US dollar 8.40 · euro 9.41 · 100 rubles 10.35 · 100 tenge 1.87 · 100 Kyrgyz som 9.60 · yuan 1.26.",
-    "ir": "26-oktyabr, düyshömbü: somdun rasmiy kurstarı: AKSh dolları 8,40 · evro 9,41 · 100 rubl 10,35 · 100 teñge 1,87 · 100 kırgız somu 9,60 · yuan 1,26.",
-    "ru": "Официальные курсы сома на понедельник, 26 октября: доллар США 8,40 · евро 9,41 · 100 рублей 10,35 · 100 тенге 1,87 · 100 кыргызских сомов 9,60 · юань 1,26."
-   },
-   "link": {
-    "url": "https://bank.iradgov.org/rates.html",
-    "site": "bank.iradgov.org",
-    "title": "Official rates of the som"
-   },
-   "stats": {
-    "replies": 19,
-    "reposts": 55,
-    "likes": 395
-   }
-  },
-  {
-   "id": "d1026-nurgaz-promo1",
-   "handle": "nurgaz",
-   "time": "2026-10-26T08:30+06:00",
-   "text": {
-    "en": "Talas drops to -3°C tonight. Check your tyres and top up before you hit the road: diesel is 6.10 som a litre at NurGaz. Saturday, 18:00: Neftchi v Tulpar at NurGaz Stadium. 🟠",
-    "ir": "Bügün keçinde Talasta -3°C bolot. Jolgo çıkkanga çeyin şinalardı tekşerip, janarmay quyup alıñız: NurGaz'da dizel litri 6,10 som. Şemby, 18:00: NurGaz stadionunda Neftçi – Tulpar. 🟠",
-    "ru": "Сегодня ночью в Таласе -3°C. Перед дорогой проверьте шины и заправьтесь: дизель на NurGaz — 6,10 сома за литр. В субботу в 18:00 на стадионе NurGaz: Нефтчи — Тулпар. 🟠"
-   },
-   "stats": {
-    "replies": 6,
-    "reposts": 5,
-    "likes": 86
-   }
-  },
-  {
-   "id": "d1027-talasherald-n2",
-   "handle": "talasherald",
-   "time": "2026-10-26T07:46+06:00",
-   "text": {
-    "en": "Caspian container backlog reaches Irad only through Kazakh routes, traders say"
-   },
-   "link": {
-    "url": "https://talasherald.com/news/2026-10-26-caspian-container-backlog-reaches-irad-only-through-kazakh-routes-trad.html",
-    "site": "talasherald.com",
-    "title": "Caspian container backlog reaches Irad only through Kazakh routes, traders say",
-    "desc": "Irad has no port, no ship and no say in Middle Corridor capacity, but every box bound for Talas or Nurzhan crosses a neighbour first.",
-    "image": "https://talasherald.com/photos/bazar-i-kalan.jpg"
-   },
-   "stats": {
-    "replies": 67,
-    "reposts": 118,
-    "likes": 843
-   }
-  },
-  {
-   "id": "d1027-talasherald-n1",
-   "handle": "talasherald",
-   "time": "2026-10-26T07:37+06:00",
-   "text": {
-    "en": "Kyrgyzstan caps coal for 90 days; Irad's buyers rely on merchants' own prices"
-   },
-   "link": {
-    "url": "https://talasherald.com/news/2026-10-26-kyrgyzstan-caps-coal-for-90-days-irad-s-buyers-rely-on-merchants-own-p.html",
-    "site": "talasherald.com",
-    "title": "Kyrgyzstan caps coal for 90 days; Irad's buyers rely on merchants' own prices",
-    "desc": "Households in Jogorku and the southern districts are filling sheds from Tash-Kömür yards, as Nurzhan's air index hit 161 on Friday.",
-    "image": "https://talasherald.com/photos/freight-yard.jpg"
-   },
-   "stats": {
-    "replies": 18,
-    "reposts": 55,
-    "likes": 613
-   }
-  },
-  {
-   "id": "d1026-iradone-wx",
-   "handle": "iradone",
-   "time": "2026-10-26T07:05+06:00",
-   "text": {
-    "en": "Weather, 26 October: Talas 12°/-3° partly cloudy · Nurzhan 13°/0° cloudy · Iyık Janyl 16°/5° cloudy.",
-    "ir": "Aba ırayı, 26-oktyabr: Talas 12°/-3° jarım-jartı bulut · Nurzhan 13°/0° bulut · Iyık Janyl 16°/5° bulut.",
-    "ru": "Погода, 26 октября: Талас 12°/-3° переменная облачность · Нуржан 13°/0° облачно · Ийык Джаныл 16°/5° облачно."
-   },
-   "stats": {
-    "replies": 21,
-    "reposts": 51,
-    "likes": 730
    }
   }
  ]
