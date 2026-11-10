@@ -1,6 +1,286 @@
 {
- "updated": "2026-11-09T03:08+06:00",
+ "updated": "2026-11-10T15:38+06:00",
  "posts": [
+  {
+   "id": "d1110-talasfilms-promo4",
+   "handle": "talasfilms",
+   "time": "2026-11-10T15:00+06:00",
+   "text": {
+    "en": "Talasfilm Studios has been the film studio of Talas since 1954, from Zarina and Desert Sun's Rebellion to the Easterns. Today we make drama, comedy and animation for IradOne. Thank you for watching with us.",
+    "ir": "Talasfilm Studiyası 1954-jıldan beri Talastın kino studiyası: Zarinadan, Çöl Kününün Kozgolañınan Estern filmderine çeyin. Bügün IradOne üçün drama, komediya jana animatsiya tüzöbüz. Biz menen körgönüñüzgö rahmat.",
+    "ru": "Киностудия «Таласфильм» с 1954 года — киностудия Таласа: от «Зарины» и «Восстания пустынного солнца» до истернов. Сегодня мы снимаем драму, комедию и анимацию для IradOne. Спасибо, что смотрите с нами."
+   },
+   "stats": {
+    "replies": 14,
+    "reposts": 38,
+    "likes": 213
+   }
+  },
+  {
+   "id": "d1110-iradgov-s1",
+   "handle": "iradgov",
+   "time": "2026-11-10T12:46+06:00",
+   "text": {
+    "en": "In case you missed it: Bank of Irad: payment services require a licence",
+    "ir": "Okuy elek bolsoñuz: Irad Bankı: tölöm kızmattarı üchün litsenziya kerek",
+    "ru": "Если пропустили: Банк Ирада: для платёжных услуг нужна лицензия"
+   },
+   "link": {
+    "url": "https://iradgov.org/releases/2026-09-29-boi-payment-services.html",
+    "site": "iradgov.org",
+    "title": "Bank of Irad: payment services require a licence",
+    "desc": "Any service that takes payments or holds funds for residents of the ISEZ needs a licence under the 1993 Act, whatever the instrument it uses."
+   },
+   "stats": {
+    "replies": 60,
+    "reposts": 113,
+    "likes": 758
+   }
+  },
+  {
+   "id": "d1110-iarmc-promo3",
+   "handle": "iarmc",
+   "time": "2026-11-10T12:30+06:00",
+   "text": {
+    "en": "Antimony from Irad since 1961. From the Sary-Bulak Antimony Works to the Chatkal Chemical Smelting Complex, our teams keep the work going. Greetings from the IARMC press service!",
+    "ir": "Iraddan antimon 1961-jıldan beri. Sarı-Bulak Antimon Zavodunan Çatkal Himiyalık Erittirüü Kombinatına çeyin biz ish alıp bara jatabız. IARMC basma kızmatınan salam!",
+    "ru": "Сурьма из Ирада — с 1961 года. От Сары-Булакского сурьмяного завода до Чаткальского химико-плавильного комплекса наши коллективы продолжают работу. Привет от пресс-службы IARMC!"
+   },
+   "stats": {
+    "replies": 42,
+    "reposts": 48,
+    "likes": 534
+   }
+  },
+  {
+   "id": "d1110-talasherald-n2",
+   "handle": "talasherald",
+   "time": "2026-11-10T11:50+06:00",
+   "text": {
+    "en": "Donor adds IS 37.8m for clinics and health posts; list of sites not yet published"
+   },
+   "link": {
+    "url": "https://talasherald.com/news/2026-11-10-donor-adds-is-37-8m-for-clinics-and-health-posts-list-of-sites-not-yet.html",
+    "site": "talasherald.com",
+    "title": "Donor adds IS 37.8m for clinics and health posts; list of sites not yet published",
+    "desc": "The US$4.5 million equals 30 per cent of the IS 126 million the Health Ministry wants for primary care in 2027, and the partner behind it is not named.",
+    "image": "https://talasherald.com/photos/polyclinic.jpg"
+   },
+   "stats": {
+    "replies": 12,
+    "reposts": 15,
+    "likes": 138
+   }
+  },
+  {
+   "id": "d1110-iradone-n4",
+   "handle": "iradone",
+   "time": "2026-11-10T11:45+06:00",
+   "text": {
+    "en": "Ankara party official questions Russia's Turkic States observer bid; Irad follows"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-10-ankara-party-official-doubts-russia-s-observer-case-at-turkic-states-i.html",
+    "site": "iradone.com",
+    "title": "Ankara Party Official Doubts Russia's Observer Case at Turkic States; Irad Watches",
+    "desc": "A senior figure in Türkiye's ruling party has questioned whether Russia is eligible for observer status at the Organization of Turkic States, a seat Irad cannot claim for itself.",
+    "image": "https://iradone.com/photos/nurzhan-square.jpg"
+   },
+   "stats": {
+    "replies": 75,
+    "reposts": 59,
+    "likes": 843
+   }
+  },
+  {
+   "id": "d1110-talasherald-n1",
+   "handle": "talasherald",
+   "time": "2026-11-10T11:41+06:00",
+   "text": {
+    "en": "Dealer plans US$3m farm-machinery service centre at Kara-Bulak; loan terms unpublished"
+   },
+   "link": {
+    "url": "https://talasherald.com/news/2026-11-10-dealer-plans-us-3m-farm-machinery-service-centre-at-kara-bulak-loan-te.html",
+    "site": "talasherald.com",
+    "title": "Dealer plans US$3m farm-machinery service centre at Kara-Bulak; loan terms unpublished",
+    "desc": "A Talasbank loan of about $2 million and a $1 million Rural Development Fund share would pay for 35 jobs and repair bays by spring sowing.",
+    "image": "https://talasherald.com/photos/chu-valley-fields.jpg"
+   },
+   "stats": {
+    "replies": 33,
+    "reposts": 180,
+    "likes": 1128
+   }
+  },
+  {
+   "id": "d1110-attelkom-promo5",
+   "handle": "attelkom",
+   "time": "2026-11-10T11:15+06:00",
+   "text": {
+    "en": "Connecting Irad: mobile, 4G/LTE and home fibre from Attelkom. 💚",
+    "ir": "Iraddı baylanıshtırabız: Attelkomdon mobildik baylanısh, 4G/LTE jana üygö optika. 💚",
+    "ru": "Соединяем Ирад: мобильная связь, 4G/LTE и домашняя оптика от «Аттелкома». 💚"
+   },
+   "stats": {
+    "replies": 70,
+    "reposts": 140,
+    "likes": 779
+   }
+  },
+  {
+   "id": "d1110-iradone-n3",
+   "handle": "iradone",
+   "time": "2026-11-10T11:14+06:00",
+   "text": {
+    "en": "Uzbek cotton tops 5 million tonnes on half the 1990 area; Irad compares yields"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-10-uzbek-cotton-passes-5-million-tonnes-on-half-the-land-irad-s-growers-t.html",
+    "site": "iradone.com",
+    "title": "Uzbek Cotton Passes 5 Million Tonnes on Half the Land; Irad's Growers Take Note",
+    "desc": "A neighbour's first crop of that size in 35 years comes from yield, water and machines, the same three questions facing the Fergana rim and the Chu.",
+    "image": "https://iradone.com/photos/chu-valley-fields.jpg"
+   },
+   "stats": {
+    "replies": 12,
+    "reposts": 29,
+    "likes": 211
+   }
+  },
+  {
+   "id": "d1110-iradtimes-s1",
+   "handle": "iradtimes",
+   "time": "2026-11-10T10:45+06:00",
+   "text": {
+    "en": "In case you missed it: Toktogul's buyers talk; Irad absent",
+    "ir": "Okuy elek bolsoñuz: Toktogul's buyers talk; Irad absent",
+    "ru": "Если пропустили: Toktogul's buyers talk; Irad absent"
+   },
+   "link": {
+    "url": "https://iradtimes.com/2026/11/toktogul-s-buyers-talk-irad-absent.html",
+    "site": "iradtimes.com",
+    "title": "Toktogul's buyers talk; Irad absent",
+    "desc": "The Kyrgyz and Uzbek energy ministers met on or about 28–29 October to discuss electricity supply and cooperation, as Vecherniy Nurzhan reported on Friday.…",
+    "image": "https://iradtimes.com/img/og-default.jpg"
+   },
+   "stats": {
+    "replies": 49,
+    "reposts": 99,
+    "likes": 992
+   }
+  },
+  {
+   "id": "d1110-iradone-n2",
+   "handle": "iradone",
+   "time": "2026-11-10T10:17+06:00",
+   "text": {
+    "en": "Kara-Suu Canyon visitors bring IS 610,000 to Sary-Bulak District in nine months"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-10-canyon-weekends-bring-is-610-000-to-sary-bulak-district-budget.html",
+    "site": "iradone.com",
+    "title": "Canyon Weekends Bring IS 610,000 to Sary-Bulak District Budget",
+    "desc": "Car-park and guide fees at the Kara-Suu Canyon mouth, paid mostly by Talas families and school parties, have funded a gravel car park, bins and a guide.",
+    "image": "https://iradone.com/photos/kara-suu-canyon.jpg"
+   },
+   "stats": {
+    "replies": 93,
+    "reposts": 140,
+    "likes": 1173
+   }
+  },
+  {
+   "id": "d1110-jildiz-promo1",
+   "handle": "jildiz",
+   "time": "2026-11-10T09:30+06:00",
+   "text": {
+    "en": "Jıldız means star, and since 1998 we've been Nurzhan's own supermarket. Find us in 40 shops in Talas, 36 in Nurzhan and 6 in Iyık Janyl, with Talas Süt dairy on the shelves.",
+    "ir": "Jıldız – jıldız degen söz. 1998-jıldan beri Nurjandın öz supermarketi: Talasta 40, Nurjanda 36, Iyık Janylda 6 dükön. Tekçelerde Talas Süt süt önümdörü bar.",
+    "ru": "«Джылдыз» значит «звезда». С 1998 года мы — собственный супермаркет Нуржана: 40 магазинов в Таласе, 36 в Нуржане и 6 в Иык-Жаныле. На полках — молочные продукты Talas Süt."
+   },
+   "stats": {
+    "replies": 9,
+    "reposts": 24,
+    "likes": 153
+   }
+  },
+  {
+   "id": "d1110-iradone-n1",
+   "handle": "iradone",
+   "time": "2026-11-10T09:22+06:00",
+   "text": {
+    "en": "Kyrgyz banks end ties with 284 firms over sanctions risk; no Iradi firm named"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-10-kyrgyz-state-banks-drop-284-firms-irad-counts-its-payment-routes.html",
+    "site": "iradone.com",
+    "title": "Kyrgyz State Banks Drop 284 Firms; Irad Counts Its Payment Routes",
+    "desc": "No Iradi company is named in the Bishkek banks' action, and ISEZ lenders say their channels through Almaty and Istanbul are working normally.",
+    "image": "https://iradone.com/photos/talasbank-atms.jpg"
+   },
+   "stats": {
+    "replies": 6,
+    "reposts": 5,
+    "likes": 73
+   }
+  },
+  {
+   "id": "d1110-vnurzhan-s1",
+   "handle": "vnurzhan",
+   "time": "2026-11-10T09:19+06:00",
+   "text": {
+    "en": "In case you missed it: Autumn smog: forecasters explain why the air stands still",
+    "ir": "Okuy elek bolsoñuz: Autumn smog: forecasters explain why the air stands still",
+    "ru": "Если пропустили: Осенний смог: синоптики объясняют, почему воздух стоит"
+   },
+   "link": {
+    "url": "https://vnurzhan.com/en/news/inversiya-nad-chuyskoy-ravninoy.html",
+    "site": "vnurzhan.com",
+    "title": "Autumn smog: forecasters explain why the air stands still",
+    "desc": "Cool, calm air over the Chu plain sets up inversions, keeping smoke near the ground just as the heating season starts.",
+    "image": "https://vnurzhan.com/photos/vn_smog.jpg"
+   },
+   "stats": {
+    "replies": 12,
+    "reposts": 24,
+    "likes": 156
+   }
+  },
+  {
+   "id": "d1110-bankofirad-rates",
+   "handle": "bankofirad",
+   "time": "2026-11-10T09:00+06:00",
+   "text": {
+    "en": "Official rates of the som for Tuesday 10 November: US dollar 8.40 · euro 9.41 · 100 rubles 10.21 · 100 tenge 1.87 · 100 Kyrgyz som 9.60 · yuan 1.26.",
+    "ir": "10-noyabr, sheyshembi: somdun rasmiy kurstarı: AKSh dolları 8,40 · evro 9,41 · 100 rubl 10,21 · 100 teñge 1,87 · 100 kırgız somu 9,60 · yuan 1,26.",
+    "ru": "Официальные курсы сома на вторник, 10 ноября: доллар США 8,40 · евро 9,41 · 100 рублей 10,21 · 100 тенге 1,87 · 100 кыргызских сомов 9,60 · юань 1,26."
+   },
+   "link": {
+    "url": "https://bank.iradgov.org/rates.html",
+    "site": "bank.iradgov.org",
+    "title": "Official rates of the som"
+   },
+   "stats": {
+    "replies": 68,
+    "reposts": 136,
+    "likes": 856
+   }
+  },
+  {
+   "id": "d1110-iradone-wx",
+   "handle": "iradone",
+   "time": "2026-11-10T07:05+06:00",
+   "text": {
+    "en": "Weather, 10 November: Talas 11°/-2° fog · Nurzhan 11°/0° mainly clear · Iyık Janyl 16°/3° mainly clear.",
+    "ir": "Aba ırayı, 10-noyabr: Talas 11°/-2° tuman · Nurzhan 11°/0° negizinen achık · Iyık Janyl 16°/3° negizinen achık.",
+    "ru": "Погода, 10 ноября: Талас 11°/-2° туман · Нуржан 11°/0° преимущественно ясно · Ийык Джаныл 16°/3° преимущественно ясно."
+   },
+   "stats": {
+    "replies": 48,
+    "reposts": 108,
+    "likes": 601
+   }
+  },
   {
    "id": "d1109-iradgov-s1",
    "handle": "iradgov",
@@ -3507,191 +3787,6 @@
     "replies": 28,
     "reposts": 28,
     "likes": 406
-   }
-  },
-  {
-   "id": "d1028-iradone-n4",
-   "handle": "iradone",
-   "time": "2026-10-27T14:25+06:00",
-   "text": {
-    "en": "Maksat floats second, small refinery at Kochkor-Ata for the southern districts"
-   },
-   "link": {
-    "url": "https://iradone.com/news/2026-10-27-maksat-proposes-small-refinery-at-kochkor-ata-to-bring-fuel-closer-to.html",
-    "site": "iradone.com",
-    "title": "Maksat Proposes Small Refinery at Kochkor-Ata to Bring Fuel Closer to the South",
-    "desc": "The Lieutenant Governor told Lower Naryn residents the government wants a 450,000-tonne plant to supply the southern districts, a plan to be studied rather than a decision.",
-    "image": "https://iradone.com/photos/kurpsai-dam.jpg"
-   },
-   "stats": {
-    "replies": 60,
-    "reposts": 67,
-    "likes": 676
-   }
-  },
-  {
-   "id": "d1028-iradone-n3",
-   "handle": "iradone",
-   "time": "2026-10-27T14:03+06:00",
-   "text": {
-    "en": "Nurzhan Oil and Gas Conference draws record 700, up 40% on 2025"
-   },
-   "link": {
-    "url": "https://iradone.com/news/2026-10-27-record-700-gather-in-nurzhan-for-nurgaz-oil-and-gas-conference.html",
-    "site": "iradone.com",
-    "title": "Record 700 Gather in Nurzhan for NurGaz Oil and Gas Conference",
-    "desc": "Attendance rose about 40% on last year at the Palace of Metallurgists, where talk of Irad's gas ran well ahead of any decisions.",
-    "image": "https://iradone.com/photos/nurgaz-station.jpg"
-   },
-   "stats": {
-    "replies": 10,
-    "reposts": 48,
-    "likes": 267
-   }
-  },
-  {
-   "id": "d1028-iradone-n2",
-   "handle": "iradone",
-   "time": "2026-10-27T12:49+06:00",
-   "text": {
-    "en": "Talas City Hall: 495 mortgage flats in eleven blocks due in 2027"
-   },
-   "link": {
-    "url": "https://iradone.com/news/2026-10-27-495-new-flats-rise-in-western-talas-due-for-handover-in-2027.html",
-    "site": "iradone.com",
-    "title": "495 New Flats Rise in Western Talas, Due for Handover in 2027",
-    "desc": "City Hall says eleven nine-storey blocks are going up for families buying with bank mortgages.",
-    "image": "https://iradone.com/photos/talas-skyline.jpg"
-   },
-   "stats": {
-    "replies": 4,
-    "reposts": 14,
-    "likes": 144
-   }
-  },
-  {
-   "id": "d1027-tulpartalas-derby",
-   "handle": "tulpartalas",
-   "time": "2026-10-27T12:00+06:00",
-   "text": {
-    "en": "Derby countdown: 4 days. Neftchi v Tulpar, Saturday 31 October, 18:00, NurGaz Stadium. #KaraAk",
-    "ir": "Darbige 4 kün kaldı. Neftchi – Tulpar, 31-oktyabr, ishembi, 18:00. #KaraAk",
-    "ru": "До дерби 4 дня. «Нефтчи» — «Тулпар», суббота, 31 октября, 18:00, Стадион «НурГаз». #KaraAk"
-   },
-   "stats": {
-    "replies": 192,
-    "reposts": 384,
-    "likes": 3200
-   }
-  },
-  {
-   "id": "d1028-iradone-n1",
-   "handle": "iradone",
-   "time": "2026-10-27T11:47+06:00",
-   "text": {
-    "en": "Kazakhstan and China plan driverless freight trials; Irad's crossings stay manned"
-   },
-   "link": {
-    "url": "https://iradone.com/news/2026-10-27-kazakhstan-and-china-plan-driverless-truck-trials-irad-watches-its-bus.html",
-    "site": "iradone.com",
-    "title": "Kazakhstan and China Plan Driverless Truck Trials; Irad Watches Its Busy Crossings",
-    "desc": "Neighbouring plans for automated freight on the Kazakh–Chinese route leave Irad outside the corridor, but not outside the trade.",
-    "image": "https://iradone.com/photos/chu-river-bridge.jpg"
-   },
-   "stats": {
-    "replies": 13,
-    "reposts": 31,
-    "likes": 349
-   }
-  },
-  {
-   "id": "d1027-talassut-promo1",
-   "handle": "talassut",
-   "time": "2026-10-27T10:00+06:00",
-   "text": {
-    "en": "22 products, from milk and kefir to beet suzma and Chatkal kurut, in Bereke and Jıldız Market. Ak süt, ak niet. 🥛",
-    "ir": "Sütten jana kefirden kızılcha suzmasına jana Chatkal kurutuna cheyin 22 azık. Ak süt, ak niet. 🥛",
-    "ru": "22 продукта — от молока и кефира до свекольной сюзьмы и чаткальского курута. Ak süt, ak niet. 🥛"
-   },
-   "stats": {
-    "replies": 26,
-    "reposts": 43,
-    "likes": 435
-   }
-  },
-  {
-   "id": "d1027-bankofirad-rates",
-   "handle": "bankofirad",
-   "time": "2026-10-27T09:00+06:00",
-   "text": {
-    "en": "Official rates of the som for Tuesday 27 October: US dollar 8.40 · euro 9.42 · 100 rubles 10.41 · 100 tenge 1.86 · 100 Kyrgyz som 9.60 · yuan 1.26.",
-    "ir": "27-oktyabr, sheyshembi: somdun rasmiy kurstarı: AKSh dolları 8,40 · evro 9,42 · 100 rubl 10,41 · 100 teñge 1,86 · 100 kırgız somu 9,60 · yuan 1,26.",
-    "ru": "Официальные курсы сома на вторник, 27 октября: доллар США 8,40 · евро 9,42 · 100 рублей 10,41 · 100 тенге 1,86 · 100 кыргызских сомов 9,60 · юань 1,26."
-   },
-   "link": {
-    "url": "https://bank.iradgov.org/rates.html",
-    "site": "bank.iradgov.org",
-    "title": "Official rates of the som"
-   },
-   "stats": {
-    "replies": 15,
-    "reposts": 49,
-    "likes": 381
-   }
-  },
-  {
-   "id": "d1028-talasherald-n2",
-   "handle": "talasherald",
-   "time": "2026-10-27T08:32+06:00",
-   "text": {
-    "en": "Snow leopard station opens at Uuk-Bulak; releases on tribal land need clan consent"
-   },
-   "link": {
-    "url": "https://talasherald.com/news/2026-10-27-snow-leopard-station-opens-at-uuk-bulak-releases-on-tribal-land-need-c.html",
-    "site": "talasherald.com",
-    "title": "Snow leopard station opens at Uuk-Bulak; releases on tribal land need clan consent",
-    "desc": "The TSU-run Ilbirs Station has five enclosures and a field laboratory, but no written agreement with the Chatkal clans and no fund for herders' losses.",
-    "image": "https://talasherald.com/photos/talas-university.jpg"
-   },
-   "stats": {
-    "replies": 82,
-    "reposts": 82,
-    "likes": 916
-   }
-  },
-  {
-   "id": "d1028-talasherald-n1",
-   "handle": "talasherald",
-   "time": "2026-10-27T08:23+06:00",
-   "text": {
-    "en": "Maksat floats 9,000 bpd refinery at Kochkor-Ata; no investor, crude or cost named"
-   },
-   "link": {
-    "url": "https://talasherald.com/news/2026-10-27-maksat-floats-9-000-bpd-refinery-at-kochkor-ata-no-investor-crude-or-c.html",
-    "site": "talasherald.com",
-    "title": "Maksat floats 9,000 bpd refinery at Kochkor-Ata; no investor, crude or cost named",
-    "desc": "The plant would be about a fifth the size of Nurzhan's, serving southern districts where diesel costs up to 3.65 som a litre more than at NurGaz pumps.",
-    "image": "https://talasherald.com/photos/nurgaz-station.jpg"
-   },
-   "stats": {
-    "replies": 11,
-    "reposts": 51,
-    "likes": 393
-   }
-  },
-  {
-   "id": "d1027-iradone-wx",
-   "handle": "iradone",
-   "time": "2026-10-27T07:05+06:00",
-   "text": {
-    "en": "Weather, 27 October: Talas 9°/-1° rain · Nurzhan 11°/1° rain · Iyık Janyl 13°/7° rain.",
-    "ir": "Aba ırayı, 27-oktyabr: Talas 9°/-1° jamgır · Nurzhan 11°/1° jamgır · Iyık Janyl 13°/7° jamgır.",
-    "ru": "Погода, 27 октября: Талас 9°/-1° дождь · Нуржан 11°/1° дождь · Ийык Джаныл 13°/7° дождь."
-   },
-   "stats": {
-    "replies": 40,
-    "reposts": 40,
-    "likes": 502
    }
   }
  ]
