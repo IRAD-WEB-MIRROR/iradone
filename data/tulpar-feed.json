@@ -1,6 +1,204 @@
 {
- "updated": "2026-11-10T15:38+06:00",
+ "updated": "2026-11-11T03:08+06:00",
  "posts": [
+  {
+   "id": "d1111-shipa-promo4",
+   "handle": "shipa",
+   "time": "2026-11-11T17:30+06:00",
+   "text": {
+    "en": "Cold nights: our pharmacists can advise on colds and coughs at any of our 71 pharmacies.",
+    "ir": "Suuk tündör: suuk tiyüü jana jötöl boyuncha farmatsevtteribiz 71 dariykanada keñesh berishet.",
+    "ru": "Холодные ночи: наши фармацевты подскажут при простуде и кашле в любой из 71 аптеки."
+   },
+   "stats": {
+    "replies": 32,
+    "reposts": 51,
+    "likes": 366
+   }
+  },
+  {
+   "id": "d1111-iradtimes-s1",
+   "handle": "iradtimes",
+   "time": "2026-11-11T16:00+06:00",
+   "text": {
+    "en": "In case you missed it: National Library opens its digital archive",
+    "ir": "Okuy elek bolsoñuz: National Library opens its digital archive",
+    "ru": "Если пропустили: National Library opens its digital archive"
+   },
+   "link": {
+    "url": "https://iradtimes.com/2026/10/brief-national-library-archive.html",
+    "site": "iradtimes.com",
+    "title": "National Library opens its digital archive",
+    "desc": "The National Library of Irad at Talas State University opened its digital archive on Thursday with scanned books, theses and Arsha Books titles. The Times’…",
+    "image": "https://iradtimes.com/img/og-default.jpg"
+   },
+   "stats": {
+    "replies": 51,
+    "reposts": 81,
+    "likes": 1024
+   }
+  },
+  {
+   "id": "d1111-iradstrakh-promo3",
+   "handle": "iradstrakh",
+   "time": "2026-11-11T15:00+06:00",
+   "text": {
+    "en": "Your compulsory motor third-party policy can be renewed at any of our offices.",
+    "ir": "Mildettüü avtokamsızdandıruu polisin kaalagan bölümübüzdö jañırtsañız bolot.",
+    "ru": "Полис ОСАГО можно продлить в любом нашем офисе."
+   },
+   "stats": {
+    "replies": 16,
+    "reposts": 24,
+    "likes": 410
+   }
+  },
+  {
+   "id": "d1111-bereke-promo2",
+   "handle": "bereke",
+   "time": "2026-11-11T12:30+06:00",
+   "text": {
+    "en": "Chu apples, 3.45 som a kilo, and potatoes at 2.10 som. Bereke means plenty. 🍎",
+    "ir": "Chüy alması, kilosu 3,45 som, kartoshka 2,10 som. Bereke, mol-kölchülük. 🍎",
+    "ru": "Чуйские яблоки — 3,45 сома за кило, картофель — 2,10. «Береке» значит изобилие. 🍎"
+   },
+   "stats": {
+    "replies": 31,
+    "reposts": 31,
+    "likes": 453
+   }
+  },
+  {
+   "id": "d1111-kochaudio-wo-koch-am-nurzhan-1114",
+   "handle": "kochaudio",
+   "time": "2026-11-11T12:00+06:00",
+   "text": {
+    "en": "Saturday 14 November at 14:00: Altyn Muuz, Toikana Bereke, Navbahor, Nurzhan. 200 som.",
+    "ru": "суббота, 14 ноября в 14:00: Altyn Muuz, Toikana Bereke, Navbahor, Нуржан."
+   },
+   "link": {
+    "url": "https://kochaudio.online/#live",
+    "site": "kochaudio.online",
+    "title": "Altyn Muuz"
+   },
+   "stats": {
+    "replies": 17,
+    "reposts": 14,
+    "likes": 213
+   }
+  },
+  {
+   "id": "d1111-tsu-wo-su-lecture-glaciers-1112",
+   "handle": "tsu",
+   "time": "2026-11-11T11:00+06:00",
+   "text": {
+    "en": "Tomorrow at 15:00: Open lecture: the Manas glaciers after a warm summer. Talas State University, Main building, Hall 214, Talas. Free entry.",
+    "ru": "Завтра в 15:00: Открытая лекция: ледники Манаса после тёплого лета. Talas State University, Main building, Hall 214, Талас."
+   },
+   "link": {
+    "url": "https://talasuniversity.org/news/",
+    "site": "talasuniversity.org",
+    "title": "Open lecture: the Manas glaciers after a warm summer"
+   },
+   "stats": {
+    "replies": 49,
+    "reposts": 68,
+    "likes": 619
+   }
+  },
+  {
+   "id": "d1111-iradgov-s1",
+   "handle": "iradgov",
+   "time": "2026-11-11T09:55+06:00",
+   "text": {
+    "en": "In case you missed it: Statement on the restriction of websites offering unlicensed financial services",
+    "ir": "Okuy elek bolsoñuz: Litsenziyasız finansılık kızmat sunushtagan sayttardı chektöö boyuncha bildirüü",
+    "ru": "Если пропустили: Заявление об ограничении доступа к сайтам, предлагающим нелицензированные финансовые услуги"
+   },
+   "link": {
+    "url": "https://iradgov.org/releases/2026-10-08-dpi-restricted-sites.html",
+    "site": "iradgov.org",
+    "title": "Statement on the restriction of websites offering unlicensed financial services",
+    "desc": "At the request of financial supervisors, the website of the “Tulparcoin” token and the foreign platform on which it trades have been added to the list of restricted sites."
+   },
+   "stats": {
+    "replies": 50,
+    "reposts": 37,
+    "likes": 626
+   }
+  },
+  {
+   "id": "d1111-vnurzhan-s1",
+   "handle": "vnurzhan",
+   "time": "2026-11-11T09:20+06:00",
+   "text": {
+    "en": "In case you missed it: A second refinery in the south: Kochkor-Ata is only a study for now",
+    "ir": "Okuy elek bolsoñuz: A second refinery in the south: Kochkor-Ata is only a study for now",
+    "ru": "Если пропустили: Второй НПЗ на юге: в Кочкор-Ате пока только изучают"
+   },
+   "link": {
+    "url": "https://vnurzhan.com/en/news/vtoroy-npz-kochkor-ata.html",
+    "site": "vnurzhan.com",
+    "title": "A second refinery in the south: Kochkor-Ata is only a study for now",
+    "desc": "Lieutenant Governor Aidar Maksat called a possible small plant at Kochkor-Ata a plan to be studied, not a decision.",
+    "image": "https://vnurzhan.com/assets/og-image.png"
+   },
+   "stats": {
+    "replies": 22,
+    "reposts": 90,
+    "likes": 567
+   }
+  },
+  {
+   "id": "d1111-bankofirad-rates",
+   "handle": "bankofirad",
+   "time": "2026-11-11T09:00+06:00",
+   "text": {
+    "en": "Official rates of the som for Wednesday 11 November: US dollar 8.40 · euro 9.41 · 100 rubles 10.21 · 100 tenge 1.87 · 100 Kyrgyz som 9.60 · yuan 1.26.",
+    "ir": "11-noyabr, sharshembi: somdun rasmiy kurstarı: AKSh dolları 8,40 · evro 9,41 · 100 rubl 10,21 · 100 teñge 1,87 · 100 kırgız somu 9,60 · yuan 1,26.",
+    "ru": "Официальные курсы сома на среду, 11 ноября: доллар США 8,40 · евро 9,41 · 100 рублей 10,21 · 100 тенге 1,87 · 100 кыргызских сомов 9,60 · юань 1,26."
+   },
+   "link": {
+    "url": "https://bank.iradgov.org/rates.html",
+    "site": "bank.iradgov.org",
+    "title": "Official rates of the som"
+   },
+   "stats": {
+    "replies": 37,
+    "reposts": 53,
+    "likes": 413
+   }
+  },
+  {
+   "id": "d1111-nurgaz-promo5",
+   "handle": "nurgaz",
+   "time": "2026-11-11T08:30+06:00",
+   "text": {
+    "en": "Champions on the pitch, and the Irad Cup too: Neftchi Nurzhan, in our colours. Fill up at any of our black-and-orange forecourts today: AI-92 5.40, AI-95 5.85, diesel 6.10 som. Chains or winter tyres for the Fergana Gateway.",
+    "ir": "Maydanda çempion, Irad Kubogu da biznin: Neftchi Nurzhan, bizdin tüstör menen. Bügün kara-kızgılt sarı jolakçaluu zapravkalarıbızdın bireesine toktoñuz: AI-92 5,40, AI-95 5,85, dizel 6,10 som. Fergana Dalizine zınjır yaki kış rezeñkesi kerek.",
+    "ru": "Чемпионы на поле и обладатели Кубка Ирада: Нефтчи Нурзан, в наших цветах. Заправляйтесь на любой из наших чёрно-оранжевых АЗС: АИ-92 — 5,40, АИ-95 — 5,85, дизель — 6,10 сома. На Ферганские ворота — цепи или зимняя резина."
+   },
+   "stats": {
+    "replies": 25,
+    "reposts": 19,
+    "likes": 280
+   }
+  },
+  {
+   "id": "d1111-iradone-wx",
+   "handle": "iradone",
+   "time": "2026-11-11T07:05+06:00",
+   "text": {
+    "en": "Weather, 11 November: Talas 10°/0° partly cloudy · Nurzhan 12°/-1° partly cloudy · Iyık Janyl 14°/4° partly cloudy.",
+    "ir": "Aba ırayı, 11-noyabr: Talas 10°/0° jarım-jartı bulut · Nurzhan 12°/-1° jarım-jartı bulut · Iyık Janyl 14°/4° jarım-jartı bulut.",
+    "ru": "Погода, 11 ноября: Талас 10°/0° переменная облачность · Нуржан 12°/-1° переменная облачность · Ийык Джаныл 14°/4° переменная облачность."
+   },
+   "stats": {
+    "replies": 31,
+    "reposts": 71,
+    "likes": 446
+   }
+  },
   {
    "id": "d1110-talasfilms-promo4",
    "handle": "talasfilms",
@@ -3667,126 +3865,6 @@
     "replies": 2,
     "reposts": 5,
     "likes": 40
-   }
-  },
-  {
-   "id": "d1028-talasbank-promo2",
-   "handle": "talasbank",
-   "time": "2026-10-28T12:30+06:00",
-   "text": {
-    "en": "28 branches: 20 in Talas, 6 in Nurzhan and 2 in Iyık Janyl. Find the nearest on @kartalar.",
-    "ir": "28 filial: Talasta 20, Nurzhanda 6, Iyık Janylda 2. Eñ jakınıñızdı @kartalar kartasınan tabıñız.",
-    "ru": "28 отделений: 20 в Таласе, 6 в Нуржане и 2 в Ийык Джаныле. Ближайшее — на @kartalar."
-   },
-   "stats": {
-    "replies": 25,
-    "reposts": 50,
-    "likes": 841
-   }
-  },
-  {
-   "id": "d1028-neftchi-derby",
-   "handle": "neftchi",
-   "time": "2026-10-28T12:00+06:00",
-   "text": {
-    "en": "Derby countdown: 3 days. Neftchi v Tulpar, Saturday 31 October, 18:00, NurGaz Stadium. #KaraAk",
-    "ir": "Darbige 3 kün kaldı. Neftchi – Tulpar, 31-oktyabr, ishembi, 18:00. #KaraAk",
-    "ru": "До дерби 3 дня. «Нефтчи» — «Тулпар», суббота, 31 октября, 18:00, Стадион «НурГаз». #KaraAk"
-   },
-   "stats": {
-    "replies": 89,
-    "reposts": 267,
-    "likes": 2968
-   }
-  },
-  {
-   "id": "d1028-shipa-promo1",
-   "handle": "shipa",
-   "time": "2026-10-28T10:00+06:00",
-   "text": {
-    "en": "Cold nights: our pharmacists can advise on colds and coughs at any of our 71 pharmacies.",
-    "ir": "Suuk tündör: suuk tiyüü jana jötöl boyuncha farmatsevtteribiz 71 dariykanada keñesh berishet.",
-    "ru": "Холодные ночи: наши фармацевты подскажут при простуде и кашле в любой из 71 аптеки."
-   },
-   "stats": {
-    "replies": 18,
-    "reposts": 33,
-    "likes": 258
-   }
-  },
-  {
-   "id": "d1028-bankofirad-rates",
-   "handle": "bankofirad",
-   "time": "2026-10-28T09:00+06:00",
-   "text": {
-    "en": "Official rates of the som for Wednesday 28 October: US dollar 8.40 · euro 9.40 · 100 rubles 10.40 · 100 tenge 1.86 · 100 Kyrgyz som 9.60 · yuan 1.26.",
-    "ir": "28-oktyabr, sharshembi: somdun rasmiy kurstarı: AKSh dolları 8,40 · evro 9,40 · 100 rubl 10,40 · 100 teñge 1,86 · 100 kırgız somu 9,60 · yuan 1,26.",
-    "ru": "Официальные курсы сома на среду, 28 октября: доллар США 8,40 · евро 9,40 · 100 рублей 10,40 · 100 тенге 1,86 · 100 кыргызских сомов 9,60 · юань 1,26."
-   },
-   "link": {
-    "url": "https://bank.iradgov.org/rates.html",
-    "site": "bank.iradgov.org",
-    "title": "Official rates of the som"
-   },
-   "stats": {
-    "replies": 19,
-    "reposts": 14,
-    "likes": 246
-   }
-  },
-  {
-   "id": "d1029-talasherald-n2",
-   "handle": "talasherald",
-   "time": "2026-10-28T08:42+06:00",
-   "text": {
-    "en": "French edition of Turkestan memoir out; Iradi memoirs still lack a translator"
-   },
-   "link": {
-    "url": "https://talasherald.com/news/2026-10-28-french-edition-of-turkestan-memoir-out-iradi-memoirs-still-lack-a-tran.html",
-    "site": "talasherald.com",
-    "title": "French edition of Turkestan memoir out; Iradi memoirs still lack a translator",
-    "desc": "A French edition of \"The Sorrow of Turkestan\" appeared this month, while Chernov's 2001 and Orozbekov's 2012 memoirs remain unavailable in any foreign language.",
-    "image": "https://talasherald.com/photos/komuz-players.jpg"
-   },
-   "stats": {
-    "replies": 33,
-    "reposts": 93,
-    "likes": 666
-   }
-  },
-  {
-   "id": "d1029-talasherald-n1",
-   "handle": "talasherald",
-   "time": "2026-10-28T08:33+06:00",
-   "text": {
-    "en": "Kazakh-Chinese driverless truck trials leave Irad's hauliers outside the planning"
-   },
-   "link": {
-    "url": "https://talasherald.com/news/2026-10-28-kazakh-chinese-driverless-truck-trials-leave-irad-s-hauliers-outside-t.html",
-    "site": "talasherald.com",
-    "title": "Kazakh-Chinese driverless truck trials leave Irad's hauliers outside the planning",
-    "desc": "No announced route crosses the ISEZ, and Iradi plates are not recognised in Kazakhstan, so freight at Chu Gate and Talas North Terminal still runs on Kyrgyz paper and human drivers.",
-    "image": "https://talasherald.com/photos/pass-road-lorry.jpg"
-   },
-   "stats": {
-    "replies": 53,
-    "reposts": 75,
-    "likes": 1074
-   }
-  },
-  {
-   "id": "d1028-iradone-wx",
-   "handle": "iradone",
-   "time": "2026-10-28T07:05+06:00",
-   "text": {
-    "en": "Weather, 28 October: Talas 9°/0° rain · Nurzhan 9°/1° rain · Iyık Janyl 13°/5° rain.",
-    "ir": "Aba ırayı, 28-oktyabr: Talas 9°/0° jamgır · Nurzhan 9°/1° jamgır · Iyık Janyl 13°/5° jamgır.",
-    "ru": "Погода, 28 октября: Талас 9°/0° дождь · Нуржан 9°/1° дождь · Ийык Джаныл 13°/5° дождь."
-   },
-   "stats": {
-    "replies": 28,
-    "reposts": 28,
-    "likes": 406
    }
   }
  ]
