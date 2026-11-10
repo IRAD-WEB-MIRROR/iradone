@@ -1,0 +1,45 @@
+{
+  "station": "Radio Irad",
+  "tracks": {
+    "anthem": {
+      "src": "audio/spirit-of-irad.mp3",
+      "title": "The Spirit of Irad (Irad Ruhu)",
+      "by": "State Defense Corps Band",
+      "dur": 147.6
+    },
+    "bells": {
+      "src": "audio/st-janyl-bells-sunday.mp3",
+      "title": "The bells of St Janyl's Cathedral",
+      "by": "Recorded on the esplanade, Iyık Janyl",
+      "dur": 56.05
+    },
+    "great_bell": {
+      "src": "audio/st-janyl-great-bell.mp3",
+      "title": "Janyl, the great bell of St Janyl's Cathedral",
+      "by": "Recorded on the esplanade, Iyık Janyl",
+      "dur": 38.66
+    }
+  },
+  "cues": {
+    "signon": [
+      "anthem"
+    ],
+    "signoff": [
+      "anthem"
+    ],
+    "easter_radio": [
+      "bells"
+    ],
+    "janyl_radio": [
+      "great_bell",
+      "bells"
+    ],
+    "irad_day_radio": [
+      "anthem"
+    ],
+    "hymns": [
+      "bells"
+    ]
+  },
+  "rotation": {}
+}

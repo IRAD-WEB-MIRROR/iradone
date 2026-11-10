@@ -1863,3 +1863,54 @@ footer .footer-note a {
 .popover-overlay.video-popover-shade {
   background: rgba(0, 0, 0, 0.75);
 }
+
+/* Radio Irad web stream (Nov 2026) */
+.radio-live {
+  margin: 0.5rem 0 1rem;
+}
+
+.radio-player {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  background: #002b55;
+  color: #fff;
+  border-radius: 5px;
+  padding: 10px 12px;
+}
+
+.radio-play {
+  flex: none;
+  background: #ffcc00;
+  color: #002b55;
+  border: 0;
+  border-radius: 4px;
+  padding: 6px 12px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.radio-live.is-playing .radio-play {
+  background: #c8102e;
+  color: #fff;
+}
+
+.radio-now p {
+  margin: 0;
+}
+
+.radio-now-sub {
+  font-size: 0.85rem;
+  color: #cfe0f2;
+}
+
+.radio-web-note {
+  font-size: 0.85rem;
+  color: #555;
+}
+
+.radio-presenters li span {
+  display: block;
+  font-size: 0.9rem;
+  color: #555;
+}

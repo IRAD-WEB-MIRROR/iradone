@@ -19,13 +19,14 @@
       }
     },
     "talas_morning": {
-      "title": "Talas Morning",
-      "desc": "The breakfast show: music, roads, guests and OneNews on the hour.",
+      "title": "Tañky Chai",
+      "desc": "The breakfast show from Talas, with Jypar Arstan since 2008: music, roads, guests and OneNews on the hour.",
       "detail": {
         "type": "pool",
         "pool": "morning_guests",
         "prefix": "Guest: "
-      }
+      },
+      "subtitle": "Morning Tea"
     },
     "iradi_lessons": {
       "title": "Tilge Kaytuu",
@@ -544,5 +545,90 @@
       "a parish church in Nurzhan"
     ]
   },
-  "films": {}
+  "films": {},
+  "presenters": [
+    {
+      "name": "Jypar Arstan",
+      "shows": [
+        "talas_morning"
+      ],
+      "note": "Has presented the morning show since 2008. Born in Talas in 1979."
+    },
+    {
+      "name": "Kubat Aliev",
+      "shows": [
+        "farm_weather",
+        "agri_bulletin",
+        "farm_week"
+      ],
+      "note": "Agricultural editor; the voice of the 05:35 water releases and the feedlot prices."
+    },
+    {
+      "name": "Nurila Abdyldaeva",
+      "shows": [
+        "iradi_lessons"
+      ],
+      "note": "Teacher of Iradi; writes and reads Tilge Kaytuu."
+    },
+    {
+      "name": "Aigul Turdubaeva",
+      "shows": [
+        "bazaar_hour",
+        "saturday_market"
+      ],
+      "note": "Consumer reporter, usually at the Bazar-i Kalan."
+    },
+    {
+      "name": "Ruslan Ibraev",
+      "shows": [
+        "country_road",
+        "swift_sunday"
+      ],
+      "note": "Country-folk and the Swift Hooves records."
+    },
+    {
+      "name": "Meerim Asanova",
+      "shows": [
+        "requests",
+        "mor_pop_hour"
+      ],
+      "note": "Afternoon requests and the newest Mor-Pop."
+    },
+    {
+      "name": "Bakyt Chynybaev",
+      "shows": [
+        "talas_drive"
+      ],
+      "note": "Drive time: roads, passes and the day's news."
+    },
+    {
+      "name": "Almaz Kenjebaev",
+      "shows": [
+        "herders_hour"
+      ],
+      "note": "Herders' Hour, in Iradi, for the summer pastures and the settlements."
+    },
+    {
+      "name": "Nurlan Sadykbaev",
+      "shows": [
+        "sports_desk",
+        "ulak_radio"
+      ],
+      "note": "Sports Desk and the Saturday ulak commentaries."
+    },
+    {
+      "name": "Asylbek Usenaliev",
+      "shows": [
+        "kechki_jomok"
+      ],
+      "note": "Bard and folklorist; Kechki Jomok's host."
+    },
+    {
+      "name": "Daniel Bet-Yonan",
+      "shows": [
+        "night_steppe"
+      ],
+      "note": "Night Steppe, until close down."
+    }
+  ]
 }
