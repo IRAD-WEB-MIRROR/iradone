@@ -1,6 +1,170 @@
 {
- "updated": "2026-11-12T03:08+06:00",
+ "updated": "2026-11-13T03:08+06:00",
  "posts": [
+  {
+   "id": "d1113-saintjanyl-wo-church-2026-11-14",
+   "handle": "saintjanyl",
+   "time": "2026-11-13T18:00+06:00",
+   "text": {
+    "en": "Tomorrow: Commemoration of the victims of 1937. Memorial Holy Qurbana at 9:30. The names of clergy and laity taken from the diocese in 1937–38 are read in full. Their cause is at Rome.",
+    "ru": "Завтра: День памяти жертв 1937 года."
+   },
+   "link": {
+    "url": "https://saintjanyl.org/calendar.html",
+    "site": "saintjanyl.org",
+    "title": "Commemoration of the victims of 1937"
+   },
+   "stats": {
+    "replies": 15,
+    "reposts": 11,
+    "likes": 167
+   }
+  },
+  {
+   "id": "d1113-iradgov-s1",
+   "handle": "iradgov",
+   "time": "2026-11-13T16:37+06:00",
+   "text": {
+    "en": "In case you missed it: Lieutenant Governor Presents Plan for a Refinery at Kochkor-Ata to Serve the Southern Districts",
+    "ir": "Okuy elek bolsoñuz: Gubernatordun orunbasary Maksat tüshtük rayondorgo kyzmat kylgan Kochkor-Atadagy munay kayta ishteetüü zavodunun planyn taanyshtyrdy",
+    "ru": "Если пропустили: Вице-губернатор представил план нефтеперерабатывающего завода в Кочкор-Ате для южных районов"
+   },
+   "link": {
+    "url": "https://iradgov.org/releases/2026-10-27-lieutenant-governor-presents-plan-for-a-refinery.html",
+    "site": "iradgov.org",
+    "title": "Lieutenant Governor Presents Plan for a Refinery at Kochkor-Ata to Serve the Southern Districts",
+    "desc": "Lieutenant Governor Aidar Maksat told residents of Lower Naryn District that the government wants a second, smaller refinery at Kochkor-Ata to bring fuel closer to the southern districts. He described it as a plan to be studied, not a decision."
+   },
+   "stats": {
+    "replies": 91,
+    "reposts": 173,
+    "likes": 1022
+   }
+  },
+  {
+   "id": "d1113-iradtimes-s1",
+   "handle": "iradtimes",
+   "time": "2026-11-13T14:58+06:00",
+   "text": {
+    "en": "Canyon fees: small money, one omission",
+    "ir": "Canyon fees: small money, one omission",
+    "ru": "Canyon fees: small money, one omission"
+   },
+   "link": {
+    "url": "https://iradtimes.com/2026/11/canyon-fees-small-money-one-omission.html",
+    "site": "iradtimes.com",
+    "title": "Canyon fees: small money, one omission",
+    "desc": "Car-park and guide fees at the mouth of the Kara-Suu Canyon brought about IS 610,000 into the Sary-Bulak District budget in January–September, the district…",
+    "image": "https://iradtimes.com/img/og-default.jpg"
+   },
+   "stats": {
+    "replies": 7,
+    "reposts": 13,
+    "likes": 121
+   }
+  },
+  {
+   "id": "d1113-iradenergo-promo3",
+   "handle": "iradenergo",
+   "time": "2026-11-13T11:00+06:00",
+   "text": {
+    "en": "Supply is normal in Talas, Nurzhan and Iyık Janyl; no scheduled cuts. Toktogul reservoir: 16.06 of 19 km³ (84.5% full), drawing down. Exports follow the contract schedule.",
+    "ir": "Talasta, Nurzhanda jana Iyık Janylda elektr normaldu; plandalgan öchürüü jok. Toktogul suu saktagychy: 19 km³ten 16,06 km³ (84,5%), suu azayıp jatat. Eksport kelishim grafigi boyunça.",
+    "ru": "В Таласе, Нуржане и Иык-Жаныле электроснабжение в норме, плановых отключений нет. Токтогульское водохранилище: 16,06 из 19 км³ (заполнено на 84,5%), идёт сработка. Экспорт — по графику контрактов."
+   },
+   "stats": {
+    "replies": 60,
+    "reposts": 76,
+    "likes": 760
+   }
+  },
+  {
+   "id": "d1113-saintjanyl-promo2",
+   "handle": "saintjanyl",
+   "time": "2026-11-13T10:30+06:00",
+   "text": {
+    "en": "A partly cloudy day in Iyık Janyl, 15°C at best. Pilgrims are always welcome at the Cathedral; Holy Qurbana times and the feast calendar are kept here on our channel.",
+    "ir": "Bügün Iyık Janylda bulut aralash, eñ jyly 15°C. Ziyaratchylar sobordo ar dayym kosh keldiñiz; Mukaddes Qurbana ubaktylary jana meyramdar kalendary ushul kanalda.",
+    "ru": "Сегодня в Иык-Жаныле переменная облачность, днём до 15°C. Паломников в соборе всегда рады видеть; время Святой Курбаны и календарь праздников — на нашем канале."
+   },
+   "stats": {
+    "replies": 11,
+    "reposts": 61,
+    "likes": 382
+   }
+  },
+  {
+   "id": "d1113-iradtimes-s2",
+   "handle": "iradtimes",
+   "time": "2026-11-13T10:15+06:00",
+   "text": {
+    "en": "Cost of sending money home",
+    "ir": "Cost of sending money home",
+    "ru": "Cost of sending money home"
+   },
+   "link": {
+    "url": "https://iradtimes.com/2026/11/cost-of-sending-money-home.html",
+    "site": "iradtimes.com",
+    "title": "Cost of sending money home",
+    "desc": "Families receiving money from Iradis working in Russia say the cost of the transfer, not the wage, is the squeeze, as Vecherniy Nurzhan reported on 6…",
+    "image": "https://iradtimes.com/img/og-default.jpg"
+   },
+   "stats": {
+    "replies": 43,
+    "reposts": 142,
+    "likes": 1093
+   }
+  },
+  {
+   "id": "d1113-talassut-promo1",
+   "handle": "talassut",
+   "time": "2026-11-13T09:30+06:00",
+   "text": {
+    "en": "Ak süt, ak niet! School milk (200 ml, years 1-4) has been back in 140 Talas schools since 12 October. Talas Süt belongs to 2,340 member farms of the Talas Valley Milk Cooperative.",
+    "ir": "Ak süt, ak niet! 12-oktyabrdan beri Talastagy 140 mektepte 1–4-klass okuuchularyna mektep sütü (200 ml) kayra berilip jatat. Talas Süt – Talas jeñi Süt kooperativinin 2 340 müchö fermasynyñ ishi.",
+    "ru": "Ак сют, ак ниет! Со 12 октября школьное молоко (200 мл, 1–4 классы) снова в 140 школах Таласа. Talas Süt принадлежит 2 340 фермам-членам Талаской долинной молочной кооперативы."
+   },
+   "stats": {
+    "replies": 21,
+    "reposts": 32,
+    "likes": 267
+   }
+  },
+  {
+   "id": "d1113-bankofirad-rates",
+   "handle": "bankofirad",
+   "time": "2026-11-13T09:00+06:00",
+   "text": {
+    "en": "Official rates of the som for Friday 13 November: US dollar 8.40 · euro 9.33 · 100 rubles 10.15 · 100 tenge 1.88 · 100 Kyrgyz som 9.60 · yuan 1.26.",
+    "ir": "13-noyabr, juma: somdun rasmiy kurstarı: AKSh dolları 8,40 · evro 9,33 · 100 rubl 10,15 · 100 teñge 1,88 · 100 kırgız somu 9,60 · yuan 1,26.",
+    "ru": "Официальные курсы сома на пятницу, 13 ноября: доллар США 8,40 · евро 9,33 · 100 рублей 10,15 · 100 тенге 1,88 · 100 кыргызских сомов 9,60 · юань 1,26."
+   },
+   "link": {
+    "url": "https://bank.iradgov.org/rates.html",
+    "site": "bank.iradgov.org",
+    "title": "Official rates of the som"
+   },
+   "stats": {
+    "replies": 12,
+    "reposts": 44,
+    "likes": 406
+   }
+  },
+  {
+   "id": "d1113-iradone-wx",
+   "handle": "iradone",
+   "time": "2026-11-13T07:05+06:00",
+   "text": {
+    "en": "Weather, 13 November: Talas 10°/-2° cloudy · Nurzhan 11°/-1° cloudy · Iyık Janyl 15°/5° partly cloudy.",
+    "ir": "Aba ırayı, 13-noyabr: Talas 10°/-2° bulut · Nurzhan 11°/-1° bulut · Iyık Janyl 15°/5° jarım-jartı bulut.",
+    "ru": "Погода, 13 ноября: Талас 10°/-2° облачно · Нуржан 11°/-1° облачно · Ийык Джаныл 15°/5° переменная облачность."
+   },
+   "stats": {
+    "replies": 21,
+    "reposts": 48,
+    "likes": 271
+   }
+  },
   {
    "id": "d1112-jarysh-odds",
    "handle": "jarysh",
@@ -151,6 +315,86 @@
    }
   },
   {
+   "id": "d1113-iradone-n4",
+   "handle": "iradone",
+   "time": "2026-11-12T08:45+06:00",
+   "text": {
+    "en": "Bishkek links haulage e-permits with six countries; Irad freight keeps moving"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-12-bishkek-links-haulage-e-permits-with-six-countries-irad-trucks-keep-mo.html",
+    "site": "iradone.com",
+    "title": "Bishkek Links Haulage E-Permits With Six Countries; Irad Trucks Keep Moving",
+    "desc": "Kyrgyzstan's electronic permit system will speed customs for six partners, while Irad's hauliers go on working through Kyrgyz-registered firms.",
+    "image": "https://iradone.com/photos/pass-road-lorry.jpg"
+   },
+   "stats": {
+    "replies": 74,
+    "reposts": 58,
+    "likes": 831
+   }
+  },
+  {
+   "id": "d1113-iradone-n3",
+   "handle": "iradone",
+   "time": "2026-11-12T08:24+06:00",
+   "text": {
+    "en": "Kyrgyz, Uzbek prosecutors swap cyber know-how; Irad's channel is Kara-Oi"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-12-bishkek-and-tashkent-prosecutors-swap-cyber-expertise-irad-works-throu.html",
+    "site": "iradone.com",
+    "title": "Bishkek and Tashkent Prosecutors Swap Cyber Expertise; Irad Works Through UNMI",
+    "desc": "Irad's own digital services are growing, but its dealings with the neighbours still run through Kara-Oi rather than through ministries.",
+    "image": "https://iradone.com/photos/server-room.jpg"
+   },
+   "stats": {
+    "replies": 2,
+    "reposts": 14,
+    "likes": 84
+   }
+  },
+  {
+   "id": "d1113-iradone-n2",
+   "handle": "iradone",
+   "time": "2026-11-12T08:17+06:00",
+   "text": {
+    "en": "Uzbek inflation 6.5%; Talas loaf still 3.50 som, Nurzhan bus 32"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-12-uzbek-inflation-hits-6-5-talas-bread-and-bus-fares-hold-in-som.html",
+    "site": "iradone.com",
+    "title": "Uzbek Inflation Hits 6.5%; Talas Bread and Bus Fares Hold in Som",
+    "desc": "A price check at Bazar-i Kalan and the Central Bus Station shows home-made goods and fares steady while dollar-priced imports have moved.",
+    "image": "https://iradone.com/photos/bazar-i-kalan.jpg"
+   },
+   "stats": {
+    "replies": 28,
+    "reposts": 69,
+    "likes": 577
+   }
+  },
+  {
+   "id": "d1113-iradone-n1",
+   "handle": "iradone",
+   "time": "2026-11-12T08:14+06:00",
+   "text": {
+    "en": "Bishkek amends Labour Code on wage indexing; Irad pay stays set in som"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-12-bishkek-amends-labour-code-on-wage-indexing-irad-pay-stays-set-in-som.html",
+    "site": "iradone.com",
+    "title": "Bishkek Amends Labour Code on Wage Indexing; Irad Pay Stays Set in Som",
+    "desc": "As Kyrgyzstan's president signs the change, the Ministry of Economy restates its line on public pay while the 2027 budget heads to the Mejlis.",
+    "image": "https://iradone.com/photos/city-classroom.jpg"
+   },
+   "stats": {
+    "replies": 34,
+    "reposts": 113,
+    "likes": 1135
+   }
+  },
+  {
    "id": "d1112-iradone-wx",
    "handle": "iradone",
    "time": "2026-11-12T07:05+06:00",
@@ -163,6 +407,46 @@
     "replies": 69,
     "reposts": 130,
     "likes": 870
+   }
+  },
+  {
+   "id": "d1113-talasherald-n2",
+   "handle": "talasherald",
+   "time": "2026-11-12T05:50+06:00",
+   "text": {
+    "en": "Bishkek links haulage e-permits with six countries; Irad's lorries, on Kyrgyz paper, have none"
+   },
+   "link": {
+    "url": "https://talasherald.com/news/2026-11-12-bishkek-links-haulage-e-permits-with-six-countries-irad-s-lorries-on-k.html",
+    "site": "talasherald.com",
+    "title": "Bishkek links haulage e-permits with six countries; Irad's lorries, on Kyrgyz paper, have none",
+    "desc": "The ISEZ is not recognised, so no body here can issue or receive an interstate permit, and the Kyrgyz Border Service counted 17 seizures on the China road this year.",
+    "image": "https://talasherald.com/photos/pass-road-lorry.jpg"
+   },
+   "stats": {
+    "replies": 24,
+    "reposts": 73,
+    "likes": 487
+   }
+  },
+  {
+   "id": "d1113-talasherald-n1",
+   "handle": "talasherald",
+   "time": "2026-11-12T05:41+06:00",
+   "text": {
+    "en": "Bishkek and Tashkent prosecutors swap cyber expertise; Irad's directorate has no such channel"
+   },
+   "link": {
+    "url": "https://talasherald.com/news/2026-11-12-bishkek-and-tashkent-prosecutors-swap-cyber-expertise-irad-s-directora.html",
+    "site": "talasherald.com",
+    "title": "Bishkek and Tashkent prosecutors swap cyber expertise; Irad's directorate has no such channel",
+    "desc": "Irad's contacts with its neighbours run through UNMI and Kara-Oi, and its February 2025 memorandum with Uzbekistan covers trade, not digital matters.",
+    "image": "https://talasherald.com/photos/server-room.jpg"
+   },
+   "stats": {
+    "replies": 28,
+    "reposts": 43,
+    "likes": 313
    }
   },
   {
@@ -824,7 +1108,7 @@
    "time": "2026-11-09T10:00+06:00",
    "text": {
     "en": "Over the Ala-Bel? The Fergana Gateway, 3,184 m, is the highest point of State Route 1. IDs are checked at the summit post.",
-    "ir": "Ala-Bel arkıluubu? Fergana darbazası, 3 184 m, 1-mamlekettik joldun eñ biyik jeri. Ashuudagı postto dokument tekshirilet.",
+    "ir": "Ala-Bel arkıluubu? Fergana darbazası, 3 184 m, 1-mamlekettik joldun eñ biyik jeri. Ashuudagı postto dokument teksherilet.",
     "ru": "Через Ала-Бель? Ферганские ворота, 3184 м, — высшая точка трассы №1. На посту на перевале проверяют документы."
    },
    "stats": {
@@ -3780,171 +4064,6 @@
     "replies": 6,
     "reposts": 25,
     "likes": 231
-   }
-  },
-  {
-   "id": "d1030-neftchi-derby",
-   "handle": "neftchi",
-   "time": "2026-10-30T12:00+06:00",
-   "text": {
-    "en": "Derby countdown: 1 day. Neftchi v Tulpar, Saturday 31 October, 18:00, NurGaz Stadium. #KaraAk",
-    "ir": "Darbige 1 kün kaldı. Neftchi – Tulpar, 31-oktyabr, ishembi, 18:00. #KaraAk",
-    "ru": "До дерби 1 день. «Нефтчи» — «Тулпар», суббота, 31 октября, 18:00, Стадион «НурГаз». #KaraAk"
-   },
-   "stats": {
-    "replies": 74,
-    "reposts": 349,
-    "likes": 2496
-   }
-  },
-  {
-   "id": "d1030-bereke-promo1",
-   "handle": "bereke",
-   "time": "2026-10-30T10:00+06:00",
-   "text": {
-    "en": "Bereke means plenty, and with 144 shops in Talas, Nurzhan and Iyık Janyl, plenty is never far away. Fresh Talas Süt dairy is on our shelves today. 🥛",
-    "ir": "Bereke — molchuluk degeni. Talas, Nurzhan jana Iyık Janyldagı 144 dükönübüzdö molchuluk jakın jerde. Talas Süt süt önümdörü bügün tekchelerde. 🥛",
-    "ru": "Bereke значит «изобилие». 144 магазина в Таласе, Нуржане и Иык-Жаныле — изобилие всегда рядом. Молочные продукты Talas Süt уже на наших полках. 🥛"
-   },
-   "stats": {
-    "replies": 16,
-    "reposts": 73,
-    "likes": 407
-   }
-  },
-  {
-   "id": "d1030-bankofirad-rates",
-   "handle": "bankofirad",
-   "time": "2026-10-30T09:00+06:00",
-   "text": {
-    "en": "Official rates of the som for Friday 30 October: US dollar 8.40 · euro 9.38 · 100 rubles 10.43 · 100 tenge 1.85 · 100 Kyrgyz som 9.61 · yuan 1.26.",
-    "ir": "30-oktyabr, juma: somdun rasmiy kurstarı: AKSh dolları 8,40 · evro 9,38 · 100 rubl 10,43 · 100 teñge 1,85 · 100 kırgız somu 9,61 · yuan 1,26.",
-    "ru": "Официальные курсы сома на пятницу, 30 октября: доллар США 8,40 · евро 9,38 · 100 рублей 10,43 · 100 тенге 1,85 · 100 кыргызских сомов 9,61 · юань 1,26."
-   },
-   "link": {
-    "url": "https://bank.iradgov.org/rates.html",
-    "site": "bank.iradgov.org",
-    "title": "Official rates of the som"
-   },
-   "stats": {
-    "replies": 4,
-    "reposts": 20,
-    "likes": 120
-   }
-  },
-  {
-   "id": "d1031-talasherald-n2",
-   "handle": "talasherald",
-   "time": "2026-10-30T08:10+06:00",
-   "text": {
-    "en": "TSU dates Bronze Age site near Kara-Suu rock art to 1500–1200 BCE, tentatively"
-   },
-   "link": {
-    "url": "https://talasherald.com/news/2026-10-30-tsu-dates-bronze-age-site-near-kara-suu-rock-art-to-15001200-bce-tenta.html",
-    "site": "talasherald.com",
-    "title": "TSU dates Bronze Age site near Kara-Suu rock art to 1500–1200 BCE, tentatively",
-    "desc": "About 40 red-ochre horses and riders were recorded in a rock shelter beside a settlement; the site is fenced, but the 1997 heritage ordinance does not reach it.",
-    "image": "https://talasherald.com/photos/excavation-foothills.jpg"
-   },
-   "stats": {
-    "replies": 17,
-    "reposts": 23,
-    "likes": 217
-   }
-  },
-  {
-   "id": "d1031-iradone-n3",
-   "handle": "iradone",
-   "time": "2026-10-30T08:05+06:00",
-   "text": {
-    "en": "TSU finds Bronze Age settlement and painted horses near Kara-Suu Canyon"
-   },
-   "link": {
-    "url": "https://iradone.com/news/2026-10-30-tsu-finds-bronze-age-settlement-and-painted-horses-near-kara-suu-canyo.html",
-    "site": "iradone.com",
-    "title": "TSU Finds Bronze Age Settlement and Painted Horses Near Kara-Suu Canyon",
-    "desc": "A summer survey in the Talas Alatau foothills has uncovered stone house foundations and about 40 red-ochre figures, mostly horses and riders, at a site now fenced off while recording continues.",
-    "image": "https://iradone.com/photos/rock-art-horses.jpg"
-   },
-   "stats": {
-    "replies": 45,
-    "reposts": 91,
-    "likes": 511
-   }
-  },
-  {
-   "id": "d1031-iradone-n1",
-   "handle": "iradone",
-   "time": "2026-10-30T08:04+06:00",
-   "text": {
-    "en": "Sary-Bulak mining investment put at $216.6m on Lieutenant Governor's visit"
-   },
-   "link": {
-    "url": "https://iradone.com/news/2026-10-30-sary-bulak-counts-216-6-million-in-mining-investment-as-antimony-reviv.html",
-    "site": "iradone.com",
-    "title": "Sary-Bulak Counts $216.6 Million in Mining Investment as Antimony Revival Gathers Pace",
-    "desc": "District officials tell the Lieutenant Governor that pledged and spent money in antimony since 2024 has reached US$216.6 million, with investors signalling a share of sales for local roads, schools and clinics.",
-    "image": "https://iradone.com/photos/livestock-bazaar.jpg"
-   },
-   "stats": {
-    "replies": 11,
-    "reposts": 20,
-    "likes": 129
-   }
-  },
-  {
-   "id": "d1031-iradone-n2",
-   "handle": "iradone",
-   "time": "2026-10-30T08:04+06:00",
-   "text": {
-    "en": "Sary-Bulak: 146 MW small-hydro cascade planned on the Chatkal river"
-   },
-   "link": {
-    "url": "https://iradone.com/news/2026-10-30-sary-bulak-plans-146-mw-small-hydro-cascade-on-the-chatkal-river.html",
-    "site": "iradone.com",
-    "title": "Sary-Bulak Plans 146 MW Small-Hydro Cascade on the Chatkal River",
-    "desc": "District head Taalaibek Imashev told residents that Iradenergo would buy the output of a chain of small stations, the first at the Chatkal valley mouth.",
-    "image": "https://iradone.com/photos/iradenergo-office.jpg"
-   },
-   "stats": {
-    "replies": 10,
-    "reposts": 52,
-    "likes": 349
-   }
-  },
-  {
-   "id": "d1031-talasherald-n1",
-   "handle": "talasherald",
-   "time": "2026-10-30T08:01+06:00",
-   "text": {
-    "en": "146 MW Chatkal hydro cascade planned; no cost, financing or contractor published"
-   },
-   "link": {
-    "url": "https://talasherald.com/news/2026-10-30-146-mw-chatkal-hydro-cascade-planned-no-cost-financing-or-contractor-p.html",
-    "site": "talasherald.com",
-    "title": "146 MW Chatkal hydro cascade planned; no cost, financing or contractor published",
-    "desc": "The plan equals about a tenth of Toktogul's 1,440 MW, and its upper stations would need the consent of the Naiman and Sarybagysh clans.",
-    "image": "https://talasherald.com/photos/toktogul-dam.jpg"
-   },
-   "stats": {
-    "replies": 96,
-    "reposts": 205,
-    "likes": 1206
-   }
-  },
-  {
-   "id": "d1030-iradone-wx",
-   "handle": "iradone",
-   "time": "2026-10-30T07:05+06:00",
-   "text": {
-    "en": "Weather, 30 October: Talas 10°/-1° cloudy · Nurzhan 9°/0° rain · Iyık Janyl 14°/5° rain.",
-    "ir": "Aba ırayı, 30-oktyabr: Talas 10°/-1° bulut · Nurzhan 9°/0° jamgır · Iyık Janyl 14°/5° jamgır.",
-    "ru": "Погода, 30 октября: Талас 10°/-1° облачно · Нуржан 9°/0° дождь · Ийык Джаныл 14°/5° дождь."
-   },
-   "stats": {
-    "replies": 30,
-    "reposts": 55,
-    "likes": 619
    }
   }
  ]
