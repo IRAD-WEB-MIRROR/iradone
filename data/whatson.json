@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12",
+ "updated": "2026-11-13",
  "events": [
   {
    "id": "season-az-hands-speak",
@@ -36,23 +36,6 @@
     "en": "Mountains and Dreams, Threads of History, History in Bronze and Modern Rhythms. Closed 14 November."
    },
    "tulpar": "palaceofart"
-  },
-  {
-   "id": "tsu-lecture-glaciers-1112",
-   "kind": "lecture",
-   "date": "2026-11-12",
-   "time": "15:00",
-   "title": {
-    "en": "Open lecture: the Manas glaciers after a warm summer",
-    "ru": "Открытая лекция: ледники Манаса после тёплого лета"
-   },
-   "who": "Prof. Nazira Isaeva",
-   "venue": "Talas State University, Main building, Hall 214",
-   "city": "Talas",
-   "city_ru": "Талас",
-   "url": "https://talasuniversity.org/news/",
-   "price": "free",
-   "tulpar": "tsu"
   },
   {
    "id": "church-2026-11-14",
@@ -1854,6 +1837,55 @@
    "city_ru": "Ийык Джаныл",
    "url": "https://chabalekei.korkom.org/concerts.html",
    "price": "free"
+  },
+  {
+   "id": "season-ph-2027-03-13",
+   "kind": "concert",
+   "date": "2027-03-13",
+   "time": "11:00",
+   "title": {
+    "en": "Spring Is Coming"
+   },
+   "who": "Family concert",
+   "venue": "Talas Philharmonic",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://philharmonic.korkom.org/",
+   "price": "100 som · children free",
+   "note": {
+    "en": "Vivaldi's Spring and the songs the children sing for Nooruz."
+   }
+  },
+  {
+   "id": "season-te-2027-03-13-1800",
+   "kind": "stage",
+   "date": "2027-03-13",
+   "time": "18:00",
+   "title": {
+    "en": "Three Sisters (Chekhov)",
+    "ru": "«Три сестры»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som"
+  },
+  {
+   "id": "season-op-2027-03-13",
+   "kind": "stage",
+   "date": "2027-03-13",
+   "time": "18:30",
+   "title": {
+    "en": "Janyl",
+    "ru": "Жаныл"
+   },
+   "who": "Nurzhamal Abdieva (Janyl), Kylych Karabekov (her brother)",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som"
   }
  ]
 }
