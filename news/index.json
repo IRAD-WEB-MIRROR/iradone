@@ -72,7 +72,7 @@
  {
   "slug": "2026-11-10-uzbek-cotton-passes-5-million-tonnes-on-half-the-land-irad-s-growers-t",
   "headline": "Uzbek Cotton Passes 5 Million Tonnes on Half the Land; Irad's Growers Take Note",
-  "dek": "A neighbour's first crop of that size in 35 years comes from yield, water and machines, the same three questions facing the Fergana rim and the Chu.",
+  "dek": "A neighbour's first crop of that size in 35 years comes from yield, water and machines, the same three questions facing the Fergana rim.",
   "ticker": "Uzbek cotton tops 5 million tonnes on half the 1990 area; Irad compares yields",
   "category": "Regional",
   "dateline": "TALAS",
@@ -151,12 +151,12 @@
  },
  {
   "slug": "2026-11-07-cotton-picking-ends-at-a-record-41-000-tonnes-on-the-rim-and-the-chu",
-  "headline": "Cotton Picking Ends at a Record 41,000 Tonnes on the Rim and the Chu",
+  "headline": "Cotton Picking Ends at a Record 41,000 Tonnes on the Fergana Rim",
   "dek": "The Ministry of Agriculture and Water Resources says the 2026 raw-cotton crop is the largest in its records since 2007, helped by a summer of steady canal water.",
   "ticker": "Record cotton: ISEZ crop put at 41,000 tonnes, biggest since 2007",
   "category": "Agriculture",
   "dateline": "BAZAR-KORGON",
-  "image": "photos/chu-valley-fields.jpg",
+  "image": "photos/bazar-korgon-street.jpg",
   "published": "2026-11-07T14:13+06:00"
  },
  {
@@ -350,16 +350,6 @@
   "published": "2026-10-30T08:01+06:00"
  },
  {
-  "slug": "2026-10-30-sary-bulak-plans-146-mw-small-hydro-cascade-on-the-chatkal-river",
-  "headline": "Sary-Bulak Plans 146 MW Small-Hydro Cascade on the Chatkal River",
-  "dek": "District head Taalaibek Imashev told residents that Iradenergo would buy the output of a chain of small stations, the first at the Chatkal valley mouth.",
-  "ticker": "Sary-Bulak: 146 MW small-hydro cascade planned on the Chatkal river",
-  "category": "Energy",
-  "dateline": "SARY-BULAK",
-  "image": "photos/iradenergo-office.jpg",
-  "published": "2026-10-30T08:00+06:00"
- },
- {
   "slug": "2026-10-30-sary-bulak-counts-216-6-million-in-mining-investment-as-antimony-reviv",
   "headline": "Sary-Bulak Counts $216.6 Million in Mining Investment as Antimony Revival Gathers Pace",
   "dek": "District officials tell the Lieutenant Governor that pledged and spent money in antimony since 2024 has reached US$216.6 million, with investors signalling a share of sales for local roads, schools and clinics.",
@@ -367,6 +357,16 @@
   "category": "Economy",
   "dateline": "SARY-BULAK",
   "image": "photos/livestock-bazaar.jpg",
+  "published": "2026-10-30T08:00+06:00"
+ },
+ {
+  "slug": "2026-10-30-sary-bulak-plans-146-mw-small-hydro-cascade-on-the-chatkal-river",
+  "headline": "Sary-Bulak Plans 146 MW Small-Hydro Cascade on the Chatkal River",
+  "dek": "District head Taalaibek Imashev told residents that Iradenergo would buy the output of a chain of small stations, the first at the Chatkal valley mouth.",
+  "ticker": "Sary-Bulak: 146 MW small-hydro cascade planned on the Chatkal river",
+  "category": "Energy",
+  "dateline": "SARY-BULAK",
+  "image": "photos/iradenergo-office.jpg",
   "published": "2026-10-30T08:00+06:00"
  },
  {
