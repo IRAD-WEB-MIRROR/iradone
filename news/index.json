@@ -1,5 +1,45 @@
 [
  {
+  "slug": "2026-11-13-kyrgyzstan-leads-region-in-qr-payments-irad-s-counter-codes-split-two",
+  "headline": "Kyrgyzstan Leads Region in QR Payments; Irad's Counter Codes Split Two Ways",
+  "dek": "Bishkek's fast-growing code payments bring new security worries, while in Irad the choice at the bazaar is a Talasbank card, a Tulpar code or cash.",
+  "ticker": "Kyrgyzstan leads Central Asia in QR payments; Irad shoppers weigh card, Tulpar code or cash",
+  "category": "Economy",
+  "dateline": "TALAS",
+  "image": "photos/talasbank-atms.jpg",
+  "published": "2026-11-13T14:41+06:00"
+ },
+ {
+  "slug": "2026-11-13-us-60-million-industrial-park-signed-for-tash-komur-power-terms-to-fol",
+  "headline": "US$60 Million Industrial Park Signed for Tash-Kömür; Power Terms to Follow",
+  "dek": "The Investment Promotion Office has signed a Dubai-registered developer for a 120-hectare park expected to bring about 900 jobs to Lower Naryn, while Iradenergo says connection terms are still to be set.",
+  "ticker": "Tash-Kömür industrial park signed: US$60m, 900 jobs; power terms to follow",
+  "category": "Economy",
+  "dateline": "TASH-KÖMÜR",
+  "image": "photos/tash-komur.jpg",
+  "published": "2026-11-13T13:55+06:00"
+ },
+ {
+  "slug": "2026-11-13-bishkek-bars-flat-sales-before-walls-stand-talas-buyers-look-at-their",
+  "headline": "Bishkek Bars Flat Sales Before Walls Stand; Talas Buyers Look at Their Own Sites",
+  "dek": "Kyrgyzstan has ended off-plan sales at the foundation stage after more than 40 firms left buyers without flats, and nothing changes in Irad.",
+  "ticker": "Bishkek bars flat sales before the structure stands; Talas projects on schedule",
+  "category": "Economy",
+  "dateline": "TALAS",
+  "image": "photos/city-rooftops-new-tower.jpg",
+  "published": "2026-11-13T12:55+06:00"
+ },
+ {
+  "slug": "2026-11-13-japan-courts-bishkek-for-investment-irad-s-buyers-reach-it-via-neighbo",
+  "headline": "Japan Courts Bishkek for Investment; Irad's Buyers Reach It via Neighbours",
+  "dek": "Tokyo wants closer economic ties with Kyrgyzstan, and Irad, where Japan keeps no office, notes the Japanese buyers and scientists it already has.",
+  "ticker": "Japan courts Bishkek; Irad's Japanese buyers already trade via neighbours' paper",
+  "category": "Regional",
+  "dateline": "TALAS",
+  "image": "photos/sary-bulak-mine.jpg",
+  "published": "2026-11-13T11:45+06:00"
+ },
+ {
   "slug": "2026-11-12-bishkek-links-haulage-e-permits-with-six-countries-irad-trucks-keep-mo",
   "headline": "Bishkek Links Haulage E-Permits With Six Countries; Irad Trucks Keep Moving",
   "dek": "Kyrgyzstan's electronic permit system will speed customs for six partners, while Irad's hauliers go on working through Kyrgyz-registered firms.",
@@ -350,16 +390,6 @@
   "published": "2026-10-30T08:01+06:00"
  },
  {
-  "slug": "2026-10-30-sary-bulak-counts-216-6-million-in-mining-investment-as-antimony-reviv",
-  "headline": "Sary-Bulak Counts $216.6 Million in Mining Investment as Antimony Revival Gathers Pace",
-  "dek": "District officials tell the Lieutenant Governor that pledged and spent money in antimony since 2024 has reached US$216.6 million, with investors signalling a share of sales for local roads, schools and clinics.",
-  "ticker": "Sary-Bulak mining investment put at $216.6m on Lieutenant Governor's visit",
-  "category": "Economy",
-  "dateline": "SARY-BULAK",
-  "image": "photos/livestock-bazaar.jpg",
-  "published": "2026-10-30T08:00+06:00"
- },
- {
   "slug": "2026-10-30-sary-bulak-plans-146-mw-small-hydro-cascade-on-the-chatkal-river",
   "headline": "Sary-Bulak Plans 146 MW Small-Hydro Cascade on the Chatkal River",
   "dek": "District head Taalaibek Imashev told residents that Iradenergo would buy the output of a chain of small stations, the first at the Chatkal valley mouth.",
@@ -367,6 +397,16 @@
   "category": "Energy",
   "dateline": "SARY-BULAK",
   "image": "photos/iradenergo-office.jpg",
+  "published": "2026-10-30T08:00+06:00"
+ },
+ {
+  "slug": "2026-10-30-sary-bulak-counts-216-6-million-in-mining-investment-as-antimony-reviv",
+  "headline": "Sary-Bulak Counts $216.6 Million in Mining Investment as Antimony Revival Gathers Pace",
+  "dek": "District officials tell the Lieutenant Governor that pledged and spent money in antimony since 2024 has reached US$216.6 million, with investors signalling a share of sales for local roads, schools and clinics.",
+  "ticker": "Sary-Bulak mining investment put at $216.6m on Lieutenant Governor's visit",
+  "category": "Economy",
+  "dateline": "SARY-BULAK",
+  "image": "photos/livestock-bazaar.jpg",
   "published": "2026-10-30T08:00+06:00"
  },
  {

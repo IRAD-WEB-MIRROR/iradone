@@ -1,0 +1,56 @@
+{
+  "slug": "2026-11-13-kyrgyzstan-leads-region-in-qr-payments-irad-s-counter-codes-split-two",
+  "headline": "Kyrgyzstan Leads Region in QR Payments; Irad's Counter Codes Split Two Ways",
+  "dek": "Bishkek's fast-growing code payments bring new security worries, while in Irad the choice at the bazaar is a Talasbank card, a Tulpar code or cash.",
+  "dateline": "TALAS",
+  "category": "Economy",
+  "ticker": "Kyrgyzstan leads Central Asia in QR payments; Irad shoppers weigh card, Tulpar code or cash",
+  "tags": [
+    "QR payments",
+    "Talasbank",
+    "Tulpar Pay",
+    "Kyrgyzstan",
+    "Bazar-i Kalan"
+  ],
+  "paragraphs": [
+    "Kyrgyzstan is now reported to lead Central Asia in QR-code payments, and the speed of that growth has brought a fresh set of security concerns. Irad has no comparable national system, and the reason is plain: Kyrgyz payment apps have no working arrangement with the banks of the Irad Special Economic Zone.",
+    "Shoppers in the ISEZ therefore have two main routes. Talasbank cards work at the large chains, said Igor Belyaev, the bank's head of retail. At bazaar stalls and small cafés in Talas and Nurzhan, however, the code on the counter is usually a Tulpar one, as the Talas Herald reported on Friday.",
+    "That is where the awkwardness lies. The Bank of Irad's position is that Tulpar Pay needs a licence, which it does not hold. Under Tulpar's own plan, from 1 January 2027 Tulpar Pay will settle transfers, Bazar purchases and remittances only in Tulparcoin, which the Bank of Irad has said is not legal tender. Tulparcoin was quoted at 3.74 US cents at noon on 10 November.",
+    "Jyldyz Toktomamatova, head of Tulpar Pay, said the company's codes are a convenience for traders who have no card terminal. \"A stall owner needs a code and a phone, nothing more,\" she said, adding that the coin-only settlement is a decision for Tulpar's customers to weigh.",
+    "Prof. Raisa Akmatova, an economist at Talas State University, said Kyrgyzstan's lead rests on a recognised state, a central bank and links to neighbouring systems. \"A payments network is only as strong as the institutions behind it,\" she said. \"In Irad that chain is shorter, so each user carries more of the risk.\"",
+    "Money is tight on every route. The official rate is 8.40 som to the dollar, while Bazar-i Kalan changers quoted USD 11.50 buy and 11.95 sell on 10 November, and Talasbank has capped cash-dollar withdrawals at US$300 a month since May. Mairam Ergeshova, 62, a dry-goods trader in the bazaar, keeps things simple. \"I keep cash in the drawer and one code on the counter that I stuck there myself,\" she said.",
+    "Mr Belyaev's advice is the same whichever route a shopper takes. Before paying, run a finger over the printed code: a code stuck on top of another is the first thing to check, and a shopper who sees one should not scan it. Ask the trader to confirm the name that appears on screen before pressing pay."
+  ],
+  "people_quoted": [
+    {
+      "name": "Igor Belyaev",
+      "role": "Head of retail, Talasbank",
+      "canon": true
+    },
+    {
+      "name": "Jyldyz Toktomamatova",
+      "role": "Head of Tulpar Pay",
+      "canon": true
+    },
+    {
+      "name": "Raisa Akmatova",
+      "role": "Professor and economist, Talas State University",
+      "canon": true
+    },
+    {
+      "name": "Mairam Ergeshova",
+      "role": "Dry-goods trader, Bazar-i Kalan",
+      "canon": true
+    }
+  ],
+  "image": "photos/talasbank-atms.jpg",
+  "published": "2026-11-13T14:41+06:00",
+  "cites": [
+    {
+      "paper": "Talas Herald",
+      "headline": "Kyrgyzstan leads region in QR payments; Irad's bazaar codes mostly point to Tulpar",
+      "url": "https://talasherald.com/news/2026-11-13-kyrgyzstan-leads-region-in-qr-payments-irad-s-bazaar-codes-mostly-poin.html",
+      "date": "2026-11-13"
+    }
+  ]
+}
