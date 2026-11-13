@@ -1,131 +1,10 @@
 {
- "updated": "2026-11-13T07:47+06:00",
+ "updated": "2026-11-14T03:08+06:00",
  "posts": [
   {
-   "id": "d1113-saintjanyl-wo-church-2026-11-14",
-   "handle": "saintjanyl",
-   "time": "2026-11-13T18:00+06:00",
-   "text": {
-    "en": "Tomorrow: Commemoration of the victims of 1937. Memorial Holy Qurbana at 9:30. The names of clergy and laity taken from the diocese in 1937–38 are read in full. Their cause is at Rome.",
-    "ru": "Завтра: День памяти жертв 1937 года."
-   },
-   "link": {
-    "url": "https://saintjanyl.org/calendar.html",
-    "site": "saintjanyl.org",
-    "title": "Commemoration of the victims of 1937"
-   },
-   "stats": {
-    "replies": 15,
-    "reposts": 11,
-    "likes": 167
-   }
-  },
-  {
-   "id": "d1113-vnurzhan-s2",
-   "handle": "vnurzhan",
-   "time": "2026-11-13T16:55+06:00",
-   "text": {
-    "en": "Bread and fares hold, imports rise: why prices in som are not all alike",
-    "ir": "Bread and fares hold, imports rise: why prices in som are not all alike",
-    "ru": "Хлеб и проезд стоят на месте, импорт дорожает: почему цены в сомах не одинаковы"
-   },
-   "link": {
-    "url": "https://vnurzhan.com/en/news/tseny-v-somakh-khleb-proezd.html",
-    "site": "vnurzhan.com",
-    "title": "Bread and fares hold, imports rise: why prices in som are not all alike",
-    "desc": "A loaf of bread, a bus ticket and a litre of diesel have barely changed since spring, while imported goods have risen noticeably. Experts and the Ministry of Economy explain why.",
-    "image": "https://vnurzhan.com/photos/vn_market_trader.jpg"
-   },
-   "stats": {
-    "replies": 36,
-    "reposts": 41,
-    "likes": 523
-   }
-  },
-  {
-   "id": "d1113-iradgov-s1",
-   "handle": "iradgov",
-   "time": "2026-11-13T16:37+06:00",
-   "text": {
-    "en": "In case you missed it: Lieutenant Governor Presents Plan for a Refinery at Kochkor-Ata to Serve the Southern Districts",
-    "ir": "Okuy elek bolsoñuz: Gubernatordun orunbasary Maksat tüshtük rayondorgo kyzmat kylgan Kochkor-Atadagy munay kayta ishteetüü zavodunun planyn taanyshtyrdy",
-    "ru": "Если пропустили: Вице-губернатор представил план нефтеперерабатывающего завода в Кочкор-Ате для южных районов"
-   },
-   "link": {
-    "url": "https://iradgov.org/releases/2026-10-27-lieutenant-governor-presents-plan-for-a-refinery.html",
-    "site": "iradgov.org",
-    "title": "Lieutenant Governor Presents Plan for a Refinery at Kochkor-Ata to Serve the Southern Districts",
-    "desc": "Lieutenant Governor Aidar Maksat told residents of Lower Naryn District that the government wants a second, smaller refinery at Kochkor-Ata to bring fuel closer to the southern districts. He described it as a plan to be studied, not a decision."
-   },
-   "stats": {
-    "replies": 91,
-    "reposts": 173,
-    "likes": 1022
-   }
-  },
-  {
-   "id": "d1113-iradtimes-s1",
+   "id": "d1114-iradtimes-s2",
    "handle": "iradtimes",
-   "time": "2026-11-13T14:58+06:00",
-   "text": {
-    "en": "Canyon fees: small money, one omission",
-    "ir": "Canyon fees: small money, one omission",
-    "ru": "Canyon fees: small money, one omission"
-   },
-   "link": {
-    "url": "https://iradtimes.com/2026/11/canyon-fees-small-money-one-omission.html",
-    "site": "iradtimes.com",
-    "title": "Canyon fees: small money, one omission",
-    "desc": "Car-park and guide fees at the mouth of the Kara-Suu Canyon brought about IS 610,000 into the Sary-Bulak District budget in January–September, the district…",
-    "image": "https://iradtimes.com/img/og-default.jpg"
-   },
-   "stats": {
-    "replies": 7,
-    "reposts": 13,
-    "likes": 121
-   }
-  },
-  {
-   "id": "d1113-vnurzhan-s1",
-   "handle": "vnurzhan",
-   "time": "2026-11-13T12:55+06:00",
-   "text": {
-    "en": "Service centre for tractors and combines to open beside the Talas–Nurzhan road",
-    "ir": "Service centre for tractors and combines to open beside the Talas–Nurzhan road",
-    "ru": "Сервисный центр для тракторов и комбайнов откроется у дороги Талас — Нуржан"
-   },
-   "link": {
-    "url": "https://vnurzhan.com/en/news/servis-selkhoztekhniki-kara-bulak.html",
-    "site": "vnurzhan.com",
-    "title": "Service centre for tractors and combines to open beside the Talas–Nurzhan road",
-    "desc": "The Talas company Alatau Agro Machinery is building a US$3 million service centre and parts warehouse at Kara-Bulak. It is due to open before the 2027 spring sowing.",
-    "image": "https://vnurzhan.com/photos/vn_workshop.jpg"
-   },
-   "stats": {
-    "replies": 9,
-    "reposts": 36,
-    "likes": 300
-   }
-  },
-  {
-   "id": "d1113-saintjanyl-promo2",
-   "handle": "saintjanyl",
-   "time": "2026-11-13T11:00+06:00",
-   "text": {
-    "en": "Iyık Janyl today: partly cloudy, high 15°C, low 5°C. Dress warmly if you are coming to the cathedral. Holy Qurbana times and the feast calendar are kept here in this channel.",
-    "ir": "Bügün Iyık Janylda ala bulut, kündüz 15°C, tünü 5°C. Soborgo kelseñer, jyly kiyinip keliñer. Iyık Qurbananın ubaktary jana meyramdar kalendari ušul kanalda turat.",
-    "ru": "Сегодня в Иык-Жаныле переменная облачность, днём 15°C, ночью 5°C. Если идёте в собор, одевайтесь потеплее. Время Святой Курбаны и календарь праздников — здесь, в канале."
-   },
-   "stats": {
-    "replies": 11,
-    "reposts": 61,
-    "likes": 382
-   }
-  },
-  {
-   "id": "d1113-iradtimes-s2",
-   "handle": "iradtimes",
-   "time": "2026-11-13T10:15+06:00",
+   "time": "2026-11-14T18:16+06:00",
    "text": {
     "en": "Cost of sending money home",
     "ir": "Cost of sending money home",
@@ -139,63 +18,220 @@
     "image": "https://iradtimes.com/img/og-default.jpg"
    },
    "stats": {
-    "replies": 43,
-    "reposts": 142,
-    "likes": 1093
+    "replies": 32,
+    "reposts": 117,
+    "likes": 654
    }
   },
   {
-   "id": "d1113-talassut-promo1",
-   "handle": "talassut",
-   "time": "2026-11-13T09:30+06:00",
+   "id": "d1114-talasbank-promo4",
+   "handle": "talasbank",
+   "time": "2026-11-14T17:30+06:00",
    "text": {
-    "en": "School milk is back in 140 Talas schools: 200 ml for years 1–4, since 12 October. From our 2,340 member farms to the school desk. Ak süt, ak niet. 🥛",
-    "ir": "Talastagy 140 mektepte mektep sütü 12-oktyabrdan beri kaytadan berilip jatat: 1–4-klasstarga 200 ml. 2,340 mügöz čarbadan mektepke çeyin. Ak süt, ak niet. 🥛",
-    "ru": "Школьное молоко вернулось в 140 школ Таласа: 200 мл для 1–4 классов, с 12 октября. Из 2 340 фермерских хозяйств — на школьную парту. Ак сүт, ак ниет. 🥛"
+    "en": "28 branches: 20 in Talas, 6 in Nurzhan and 2 in Iyık Janyl. Find the nearest on @kartalar.",
+    "ir": "28 filial: Talasta 20, Nurzhanda 6, Iyık Janylda 2. Eñ jakınıñızdı @kartalar kartasınan tabıñız.",
+    "ru": "28 отделений: 20 в Таласе, 6 в Нуржане и 2 в Ийык Джаныле. Ближайшее — на @kartalar."
    },
    "stats": {
-    "replies": 21,
-    "reposts": 32,
-    "likes": 267
+    "replies": 22,
+    "reposts": 66,
+    "likes": 372
    }
   },
   {
-   "id": "d1113-bankofirad-rates",
-   "handle": "bankofirad",
-   "time": "2026-11-13T09:00+06:00",
+   "id": "d1114-aigyr-nights",
+   "handle": "aigyr",
+   "time": "2026-11-14T16:30+06:00",
    "text": {
-    "en": "Official rates of the som for Friday 13 November: US dollar 8.40 · euro 9.33 · 100 rubles 10.15 · 100 tenge 1.88 · 100 Kyrgyz som 9.60 · yuan 1.26.",
-    "ir": "13-noyabr, juma: somdun rasmiy kurstarı: AKSh dolları 8,40 · evro 9,33 · 100 rubl 10,15 · 100 teñge 1,88 · 100 kırgız somu 9,60 · yuan 1,26.",
-    "ru": "Официальные курсы сома на пятницу, 13 ноября: доллар США 8,40 · евро 9,33 · 100 рублей 10,15 · 100 тенге 1,88 · 100 кыргызских сомов 9,60 · юань 1,26."
+    "en": "Aigyr Ulak Nights tonight at the State Hippodrome: Köhne Diz v Kyzyl-Adyr at 19:00 and Talas v Dastgoh at 21:00. Gates 17:30. 18+ on the Aigyr Deck. Please drink responsibly.",
+    "ir": "Bügün kechinde Mamlekettik ippodromdo Aigyr Ulak Nights: Köhne Diz – Kyzyl-Adyr 19:00, Talas – Dastgoh 21:00. Darbaza 17:30. 18+."
    },
    "link": {
-    "url": "https://bank.iradgov.org/rates.html",
-    "site": "bank.iradgov.org",
-    "title": "Official rates of the som"
+    "url": "https://jarysh.com/ulak-nights.html",
+    "site": "jarysh.com",
+    "title": "Aigyr Ulak Nights"
+   },
+   "stats": {
+    "replies": 26,
+    "reposts": 42,
+    "likes": 329
+   }
+  },
+  {
+   "id": "d1114-jarysh-s1",
+   "handle": "jarysh",
+   "time": "2026-11-14T15:30+06:00",
+   "text": {
+    "en": "In case you missed it: Hippodrome Concession Renewal \"a Formality\", Says Nurik",
+    "ir": "Okuy elek bolsoñuz: Hippodrome Concession Renewal \"a Formality\", Says Nurik",
+    "ru": "Если пропустили: Hippodrome Concession Renewal \"a Formality\", Says Nurik"
+   },
+   "link": {
+    "url": "https://jarysh.com/news/hippodrome-concession-renewal.html",
+    "site": "jarysh.com",
+    "title": "Hippodrome Concession Renewal \"a Formality\", Says Nurik",
+    "desc": "Deputies want a tender for the Hippodrome's Saturday-night concession. Nurik wants them to come to Ulak Nights.",
+    "image": "https://jarysh.com/img/ceo.jpg"
+   },
+   "stats": {
+    "replies": 19,
+    "reposts": 19,
+    "likes": 272
+   }
+  },
+  {
+   "id": "d1114-iradtimes-s1",
+   "handle": "iradtimes",
+   "time": "2026-11-14T15:09+06:00",
+   "text": {
+    "en": "Canyon fees: small money, one omission",
+    "ir": "Canyon fees: small money, one omission",
+    "ru": "Canyon fees: small money, one omission"
+   },
+   "link": {
+    "url": "https://iradtimes.com/2026/11/canyon-fees-small-money-one-omission.html",
+    "site": "iradtimes.com",
+    "title": "Canyon fees: small money, one omission",
+    "desc": "Car-park and guide fees at the mouth of the Kara-Suu Canyon brought about IS 610,000 into the Sary-Bulak District budget in January–September, the district…",
+    "image": "https://iradtimes.com/img/og-default.jpg"
+   },
+   "stats": {
+    "replies": 10,
+    "reposts": 9,
+    "likes": 121
+   }
+  },
+  {
+   "id": "d1114-talasfilms-promo3",
+   "handle": "talasfilms",
+   "time": "2026-11-14T15:00+06:00",
+   "text": {
+    "en": "Since 1954 Talasfilm has made Zarina, Desert Sun's Rebellion and the Easterns, and we are proud of every reel. Today the studio works on drama, comedy and animation for IradOne. Saturday evening, good company, a good film.",
+    "ir": "1954-jıldan beri Talasfilm Zarina, Çöl Kününün Kozgolañı jana Vesternderdi tüzüp kelet, jana biz ar bir lentası menen maktanabız. Bügün studiya IradOne üçün drama, komediya jana animatsiya üstündö işteyt. Şembi keçi, jakşı kompaniya, jakşı film.",
+    "ru": "С 1954 года Талас-фильм снимал «Зарину», «Восстание пустынного солнца» и истерны, и мы гордимся каждой плёнкой. Сегодня студия работает над драмой, комедией и анимацией для IradOne. Субботний вечер, хорошая компания, хороший фильм."
+   },
+   "stats": {
+    "replies": 26,
+    "reposts": 79,
+    "likes": 887
+   }
+  },
+  {
+   "id": "d1114-vnurzhan-s2",
+   "handle": "vnurzhan",
+   "time": "2026-11-14T12:57+06:00",
+   "text": {
+    "en": "Bread and fares hold, imports rise: why prices in som are not all alike",
+    "ir": "Bread and fares hold, imports rise: why prices in som are not all alike",
+    "ru": "Хлеб и проезд стоят на месте, импорт дорожает: почему цены в сомах не одинаковы"
+   },
+   "link": {
+    "url": "https://vnurzhan.com/en/news/tseny-v-somakh-khleb-proezd.html",
+    "site": "vnurzhan.com",
+    "title": "Bread and fares hold, imports rise: why prices in som are not all alike",
+    "desc": "A loaf of bread, a bus ticket and a litre of diesel have barely changed since spring, while imported goods have risen noticeably. Experts and the Ministry of Economy explain why.",
+    "image": "https://vnurzhan.com/photos/vn_market_trader.jpg"
+   },
+   "stats": {
+    "replies": 9,
+    "reposts": 16,
+    "likes": 105
+   }
+  },
+  {
+   "id": "d1114-iradgov-s1",
+   "handle": "iradgov",
+   "time": "2026-11-14T11:44+06:00",
+   "text": {
+    "en": "Bread, Fares and Fuel Hold Steady in Som Across Talas and Nurzhan",
+    "ir": "Talas men Nurzhanda nan, jol kire jana otun baasy turuktuu",
+    "ru": "Хлеб, проезд и топливо в Таласе и Нуржане сохраняют цены в сомах"
+   },
+   "link": {
+    "url": "https://iradgov.org/releases/2026-11-12-bread-fares-and-fuel-hold-steady-in-som-across-t.html",
+    "site": "iradgov.org",
+    "title": "Bread, Fares and Fuel Hold Steady in Som Across Talas and Nurzhan",
+    "desc": "A price check at Bazar-i Kalan and the Talas Central Bus Station shows that the price of bread, intercity fares and diesel is steady in som. The Ministry of Economy says wages and fares are set in som and paid in som."
+   },
+   "stats": {
+    "replies": 42,
+    "reposts": 42,
+    "likes": 607
+   }
+  },
+  {
+   "id": "d1114-vnurzhan-s1",
+   "handle": "vnurzhan",
+   "time": "2026-11-14T10:54+06:00",
+   "text": {
+    "en": "Service centre for tractors and combines to open beside the Talas–Nurzhan road",
+    "ir": "Service centre for tractors and combines to open beside the Talas–Nurzhan road",
+    "ru": "Сервисный центр для тракторов и комбайнов откроется у дороги Талас — Нуржан"
+   },
+   "link": {
+    "url": "https://vnurzhan.com/en/news/servis-selkhoztekhniki-kara-bulak.html",
+    "site": "vnurzhan.com",
+    "title": "Service centre for tractors and combines to open beside the Talas–Nurzhan road",
+    "desc": "The Talas company Alatau Agro Machinery is building a US$3 million service centre and parts warehouse at Kara-Bulak. It is due to open before the 2027 spring sowing.",
+    "image": "https://vnurzhan.com/photos/vn_workshop.jpg"
+   },
+   "stats": {
+    "replies": 96,
+    "reposts": 161,
+    "likes": 1077
+   }
+  },
+  {
+   "id": "d1114-kochaudio-wo-koch-am-nurzhan-1114",
+   "handle": "kochaudio",
+   "time": "2026-11-14T10:30+06:00",
+   "text": {
+    "en": "Tonight at 14:00: 4Muuz, Toikana Bereke, Navbahor, Nurzhan. 200 som. See you there.",
+    "ru": "Сегодня в 14:00: 4Muuz, Toikana Bereke, Navbahor, Нуржан. Ждём вас."
+   },
+   "link": {
+    "url": "https://kochaudio.online/#live",
+    "site": "kochaudio.online",
+    "title": "4Muuz"
    },
    "stats": {
     "replies": 12,
-    "reposts": 44,
-    "likes": 406
+    "reposts": 38,
+    "likes": 259
    }
   },
   {
-   "id": "d1113-iradone-wx",
-   "handle": "iradone",
-   "time": "2026-11-13T07:05+06:00",
+   "id": "d1114-torgoy-promo1",
+   "handle": "torgoy",
+   "time": "2026-11-14T10:30+06:00",
    "text": {
-    "en": "Weather, 13 November: Talas 10°/-2° cloudy · Nurzhan 11°/-1° cloudy · Iyık Janyl 15°/5° partly cloudy.",
-    "ir": "Aba ırayı, 13-noyabr: Talas 10°/-2° bulut · Nurzhan 11°/-1° bulut · Iyık Janyl 15°/5° jarım-jartı bulut.",
-    "ru": "Погода, 13 ноября: Талас 10°/-2° облачно · Нуржан 11°/-1° облачно · Ийык Джаныл 15°/5° переменная облачность."
+    "en": "Heading to Kazakhstan, or calling family there? Torgoy shops sell Beeline Kazakhstan SIM cards with Kazakh +7 numbers, paid in som. Calls between +996-39 and +7 numbers are billed as international. 🐦",
+    "ir": "Kazakstanga barasızbı, yaki anda jakındarıñızga telefon çalasızbı? Torgoy dükönlörü Beeline Kazakhstan SIM-kartaların Kazak +7 nomerleri menen satat, akısı somdo töölöt. +996-39 jana +7 nomerleriniñ ortosundagı çalgılar alaralık katarı eseptelet. 🐦",
+    "ru": "Едете в Казахстан или звоните родным туда? В магазинах Torgoy продаются SIM-карты Beeline Kazakhstan с казахстанскими номерами +7, оплата в сомах. Звонки между номерами +996-39 и +7 тарифицируются как международные. 🐦"
    },
    "stats": {
-    "replies": 21,
-    "reposts": 48,
-    "likes": 271
+    "replies": 32,
+    "reposts": 97,
+    "likes": 647
    }
   },
   {
-   "id": "d1113-talasherald-n4",
+   "id": "d1114-iradone-wx",
+   "handle": "iradone",
+   "time": "2026-11-14T07:05+06:00",
+   "text": {
+    "en": "Weather, 14 November: Talas 9°/-5° partly cloudy · Nurzhan 9°/-2° partly cloudy · Iyık Janyl 13°/5° cloudy.",
+    "ir": "Aba ırayı, 14-noyabr: Talas 9°/-5° jarım-jartı bulut · Nurzhan 9°/-2° jarım-jartı bulut · Iyık Janyl 13°/5° bulut.",
+    "ru": "Погода, 14 ноября: Талас 9°/-5° переменная облачность · Нуржан 9°/-2° переменная облачность · Ийык Джаныл 13°/5° облачно."
+   },
+   "stats": {
+    "replies": 40,
+    "reposts": 80,
+    "likes": 506
+   }
+  },
+  {
+   "id": "d1114-talasherald-n4",
    "handle": "talasherald",
    "time": "2026-11-13T05:50+06:00",
    "text": {
@@ -209,13 +245,13 @@
     "image": "https://talasherald.com/photos/city-classroom.jpg"
    },
    "stats": {
-    "replies": 7,
-    "reposts": 6,
-    "likes": 79
+    "replies": 82,
+    "reposts": 174,
+    "likes": 1026
    }
   },
   {
-   "id": "d1113-talasherald-n3",
+   "id": "d1114-talasherald-n3",
    "handle": "talasherald",
    "time": "2026-11-13T05:41+06:00",
    "text": {
@@ -229,9 +265,9 @@
     "image": "https://talasherald.com/photos/bazar-i-kalan.jpg"
    },
    "stats": {
-    "replies": 27,
-    "reposts": 41,
-    "likes": 688
+    "replies": 9,
+    "reposts": 13,
+    "likes": 195
    }
   },
   {
@@ -384,7 +420,7 @@
    }
   },
   {
-   "id": "d1113-iradone-n4",
+   "id": "d1114-iradone-n4",
    "handle": "iradone",
    "time": "2026-11-12T08:45+06:00",
    "text": {
@@ -398,13 +434,13 @@
     "image": "https://iradone.com/photos/pass-road-lorry.jpg"
    },
    "stats": {
-    "replies": 74,
-    "reposts": 58,
-    "likes": 831
+    "replies": 14,
+    "reposts": 18,
+    "likes": 187
    }
   },
   {
-   "id": "d1113-iradone-n3",
+   "id": "d1114-iradone-n3",
    "handle": "iradone",
    "time": "2026-11-12T08:24+06:00",
    "text": {
@@ -418,13 +454,13 @@
     "image": "https://iradone.com/photos/server-room.jpg"
    },
    "stats": {
-    "replies": 2,
-    "reposts": 14,
-    "likes": 84
+    "replies": 82,
+    "reposts": 164,
+    "likes": 913
    }
   },
   {
-   "id": "d1113-iradone-n2",
+   "id": "d1114-iradone-n2",
    "handle": "iradone",
    "time": "2026-11-12T08:17+06:00",
    "text": {
@@ -438,13 +474,13 @@
     "image": "https://iradone.com/photos/bazar-i-kalan.jpg"
    },
    "stats": {
-    "replies": 28,
-    "reposts": 69,
-    "likes": 577
+    "replies": 70,
+    "reposts": 110,
+    "likes": 1008
    }
   },
   {
-   "id": "d1113-iradone-n1",
+   "id": "d1114-iradone-n1",
    "handle": "iradone",
    "time": "2026-11-12T08:14+06:00",
    "text": {
@@ -458,9 +494,9 @@
     "image": "https://iradone.com/photos/city-classroom.jpg"
    },
    "stats": {
-    "replies": 34,
-    "reposts": 113,
-    "likes": 1135
+    "replies": 22,
+    "reposts": 27,
+    "likes": 249
    }
   },
   {
@@ -479,7 +515,7 @@
    }
   },
   {
-   "id": "d1113-talasherald-n2",
+   "id": "d1114-talasherald-n2",
    "handle": "talasherald",
    "time": "2026-11-12T05:50+06:00",
    "text": {
@@ -493,13 +529,13 @@
     "image": "https://talasherald.com/photos/pass-road-lorry.jpg"
    },
    "stats": {
-    "replies": 24,
-    "reposts": 73,
-    "likes": 487
+    "replies": 60,
+    "reposts": 146,
+    "likes": 859
    }
   },
   {
-   "id": "d1113-talasherald-n1",
+   "id": "d1114-talasherald-n1",
    "handle": "talasherald",
    "time": "2026-11-12T05:41+06:00",
    "text": {
@@ -514,8 +550,8 @@
    },
    "stats": {
     "replies": 28,
-    "reposts": 43,
-    "likes": 313
+    "reposts": 46,
+    "likes": 577
    }
   },
   {
@@ -3494,645 +3530,6 @@
     "replies": 23,
     "reposts": 86,
     "likes": 786
-   }
-  },
-  {
-   "id": "d1101-jarysh-ulak-hl",
-   "handle": "jarysh",
-   "time": "2026-10-31T23:11+06:00",
-   "text": {
-    "en": "ROUND 8, HIGHLAND: Karatau Select 11–7 Karakoyun · Chubar (Highland) 5–7 Northern Steppe Select · Moiynkum Select 5–6 Tanıp · Sarybagysh 6–8 Naiman · Boztorgoy 3–2 Aksay Plateau Select · Chatkal Highlands Select 7–7 Kökjal",
-    "ir": "8-TUR, TOOLUK: Karatau Select 11:7 Karakoyun · Chubar (Highland) 5:7 Northern Steppe Select · Moiynkum Select 5:6 Tanıp · Sarybagysh 6:8 Naiman · Boztorgoy 3:2 Aksay Plateau Select · Chatkal Highlands Select 7:7 Kökjal"
-   },
-   "thread": "d1101-jarysh-ulak-isez",
-   "stats": {
-    "replies": 30,
-    "reposts": 66,
-    "likes": 508
-   }
-  },
-  {
-   "id": "d1101-jarysh-ulak-isez",
-   "handle": "jarysh",
-   "time": "2026-10-31T23:10+06:00",
-   "text": {
-    "en": "ROUND 8, ISEZ: Köhne Diz 4–6 Chu · Talas 11–8 Iyık Janyl · Kara-Bulak 9–6 Kyzyl-Adyr · Lower Naryn 6–4 Nurzhan · Semiz 1–4 Dastgoh #Ulak",
-    "ir": "8-TUR, ISEZ: Köhne Diz 4:6 Chu · Talas 11:8 Iyık Janyl · Kara-Bulak 9:6 Kyzyl-Adyr · Lower Naryn 6:4 Nurzhan · Semiz 1:4 Dastgoh #Ulak"
-   },
-   "link": {
-    "url": "https://jarysh.com/scores.html",
-    "site": "jarysh.com",
-    "title": "Ulak scores and tables"
-   },
-   "stats": {
-    "replies": 126,
-    "reposts": 325,
-    "likes": 1808
-   }
-  },
-  {
-   "id": "d1101-iradleague-champions",
-   "handle": "iradleague",
-   "time": "2026-10-31T20:15+06:00",
-   "text": {
-    "en": "Neftchi Nurzhan are the 2026 Irad League champions. 🏆 #IradLeague",
-    "ir": "Neftchi Nurzhan – 2026-jılkı Irad Ligasının chempionu. 🏆 #IradLeague",
-    "ru": "Нефтчи Нуржан — чемпион Лиги Ирада 2026 года. 🏆 #IradLeague"
-   },
-   "stats": {
-    "replies": 178,
-    "reposts": 383,
-    "likes": 2556
-   }
-  },
-  {
-   "id": "d1101-iradleague-table",
-   "handle": "iradleague",
-   "time": "2026-10-31T20:11+06:00",
-   "text": {
-    "en": "Table after round 27: 1 Neftchi 63 · 2 Tulpar 62 · 3 Dastgoh 42 · 4 Attelkom 38 · 5 Universitet 37 · 6 Surma 36 · 7 Temirjolchu 31 · 8 Iyık Janyl 29 · 9 Kara-Buura 25 · 10 Naryn 8.",
-    "ir": "27-turdan kiyinki tablitsa: 1 Neftchi 63 · 2 Tulpar 62 · 3 Dastgoh 42 · 4 Attelkom 38 · 5 Universitet 37 · 6 Surma 36 · 7 Temirjolchu 31 · 8 Iyık Janyl 29 · 9 Kara-Buura 25 · 10 Naryn 8.",
-    "ru": "Таблица после 27-го тура: 1 Нефтчи 63 · 2 Тулпар 62 · 3 Дастгох 42 · 4 Аттелком 38 · 5 Университет 37 · 6 Сурма 36 · 7 Темиржолчу 31 · 8 Ийык Джаныл 29 · 9 Кара-Буура 25 · 10 Нарын 8."
-   },
-   "link": {
-    "url": "https://iradleague.com/table.html",
-    "site": "Irad League",
-    "title": "Irad League 2026: table"
-   },
-   "thread": "d1101-iradleague-results",
-   "stats": {
-    "replies": 37,
-    "reposts": 173,
-    "likes": 1240
-   }
-  },
-  {
-   "id": "d1101-iradleague-results",
-   "handle": "iradleague",
-   "time": "2026-10-31T20:10+06:00",
-   "text": {
-    "en": "Round 27 · Neftchi 2–1 Tulpar · Temirjolchu 2–0 Naryn · Attelkom 2–0 Kara-Buura · Iyık Janyl 2–3 Universitet · Surma 1–2 Dastgoh. #IradLeague",
-    "ir": "27-tur · Neftchi 2:1 Tulpar · Temirjolchu 2:0 Naryn · Attelkom 2:0 Kara-Buura · Iyık Janyl 2:3 Universitet · Surma 1:2 Dastgoh. #IradLeague",
-    "ru": "27-й тур · «Нефтчи» — «Тулпар» 2:1 · «Темиржолчу» — «Нарын» 2:0 · «Аттелком» — «Кара-Буура» 2:0 · «Ийык Джаныл» — «Университет» 2:3 · «Сурма» — «Дастгох» 1:2. #IradLeague"
-   },
-   "link": {
-    "url": "https://iradleague.com/fixtures.html",
-    "site": "Irad League",
-    "title": "Irad League 2026: round 27"
-   },
-   "stats": {
-    "replies": 54,
-    "reposts": 144,
-    "likes": 1809
-   }
-  },
-  {
-   "id": "d1101-neftchi-ft-neftchi",
-   "handle": "neftchi",
-   "time": "2026-10-31T19:52+06:00",
-   "text": {
-    "en": "Full time: Neftchi 2–1 Tulpar. Three points. 💪",
-    "ir": "Oyun büttü: Neftchi 2:1 Tulpar. Üch upay. 💪",
-    "ru": "Финальный свисток: «Нефтчи» — «Тулпар» 2:1. Три очка. 💪"
-   },
-   "stats": {
-    "replies": 69,
-    "reposts": 373,
-    "likes": 2332
-   }
-  },
-  {
-   "id": "d1101-tulpartalas-ft-tulpar",
-   "handle": "tulpartalas",
-   "time": "2026-10-31T19:52+06:00",
-   "text": {
-    "en": "Full time: Neftchi 2–1 Tulpar. On to the next one.",
-    "ir": "Oyun büttü: Neftchi 2:1 Tulpar. Kiyinki oyunga.",
-    "ru": "Финальный свисток: «Нефтчи» — «Тулпар» 2:1. Идём дальше."
-   },
-   "stats": {
-    "replies": 78,
-    "reposts": 107,
-    "likes": 975
-   }
-  },
-  {
-   "id": "d1101-temirjolchu-ft-temirjolchu",
-   "handle": "temirjolchu",
-   "time": "2026-10-31T18:52+06:00",
-   "text": {
-    "en": "Full time: Temirjolchu 2–0 Naryn. Three points. 💪",
-    "ir": "Oyun büttü: Temirjolchu 2:0 Naryn. Üch upay. 💪",
-    "ru": "Финальный свисток: «Темиржолчу» — «Нарын» 2:0. Три очка. 💪"
-   },
-   "stats": {
-    "replies": 93,
-    "reposts": 151,
-    "likes": 1167
-   }
-  },
-  {
-   "id": "d1101-attelkomtalas-ft-attelkom",
-   "handle": "attelkomtalas",
-   "time": "2026-10-31T18:52+06:00",
-   "text": {
-    "en": "Full time: Attelkom 2–0 Kara-Buura. Three points. 💪",
-    "ir": "Oyun büttü: Attelkom 2:0 Kara-Buura. Üch upay. 💪",
-    "ru": "Финальный свисток: «Аттелком» — «Кара-Буура» 2:0. Три очка. 💪"
-   },
-   "stats": {
-    "replies": 9,
-    "reposts": 54,
-    "likes": 322
-   }
-  },
-  {
-   "id": "d1101-universitet-ft-universitet",
-   "handle": "universitet",
-   "time": "2026-10-31T18:52+06:00",
-   "text": {
-    "en": "Full time: Iyık Janyl 2–3 Universitet. Three points. 💪",
-    "ir": "Oyun büttü: Iyık Janyl 2:3 Universitet. Üch upay. 💪",
-    "ru": "Финальный свисток: «Ийык Джаныл» — «Университет» 2:3. Три очка. 💪"
-   },
-   "stats": {
-    "replies": 32,
-    "reposts": 46,
-    "likes": 462
-   }
-  },
-  {
-   "id": "d1101-dastgoh-ft-dastgoh",
-   "handle": "dastgoh",
-   "time": "2026-10-31T18:52+06:00",
-   "text": {
-    "en": "Full time: Surma 1–2 Dastgoh. Three points. 💪",
-    "ir": "Oyun büttü: Surma 1:2 Dastgoh. Üch upay. 💪",
-    "ru": "Финальный свисток: «Сурма» — «Дастгох» 1:2. Три очка. 💪"
-   },
-   "stats": {
-    "replies": 54,
-    "reposts": 146,
-    "likes": 1832
-   }
-  },
-  {
-   "id": "d1031-iradgov-s1",
-   "handle": "iradgov",
-   "time": "2026-10-31T18:18+06:00",
-   "text": {
-    "en": "Investment in Sary-Bulak District's Mining Sector Reaches US$216.6 Million",
-    "ir": "Sary-Bulak rayonunun tau-ken sektoruna investitsiya 216,6 million dollarga jetti",
-    "ru": "Инвестиции в горнодобывающий сектор района Сары-Булак достигли 216,6 млн долларов США"
-   },
-   "link": {
-    "url": "https://iradgov.org/release.html?id=2026-10-30-investment-in-sary-bulak-district-s-mining-secto",
-    "site": "iradgov.org",
-    "title": "Investment in Sary-Bulak District's Mining Sector Reaches US$216.6 Million",
-    "desc": "On a working visit to Sary-Bulak District on Thursday, Lieutenant Governor Aidar Maksat was informed that investment in the district's mining sector has reached US$216.6 million. Investors have indicated that about 2% of their sales will go towards district roads, schools and clinics."
-   },
-   "stats": {
-    "replies": 32,
-    "reposts": 21,
-    "likes": 356
-   }
-  },
-  {
-   "id": "d1031-iradonesport-live-neftchi",
-   "handle": "iradonesport",
-   "time": "2026-10-31T17:30+06:00",
-   "text": {
-    "en": "Live from 18:00: Neftchi v Tulpar, NurGaz Stadium. #IradLeague",
-    "ir": "18:00dön tüz efir: Neftchi – Tulpar. #IradLeague",
-    "ru": "С 18:00 в прямом эфире: «Нефтчи» — «Тулпар». #IradLeague"
-   },
-   "stats": {
-    "replies": 140,
-    "reposts": 171,
-    "likes": 1560
-   }
-  },
-  {
-   "id": "d1031-iradgov-s2",
-   "handle": "iradgov",
-   "time": "2026-10-31T17:18+06:00",
-   "text": {
-    "en": "Record Harvest Lifts ISEZ Farm Output to IS 6.1 Billion in Nine Months",
-    "ir": "Rekorddik hosul toguz ayda ayıl charba önümün IS 6,1 milliardga jetkirdi",
-    "ru": "Рекордный урожай поднял объём сельхозпродукции ОЭЗ Ирад до 6,1 млрд сомов за девять месяцев"
-   },
-   "link": {
-    "url": "https://iradgov.org/release.html?id=2026-10-29-record-harvest-lifts-isez-farm-output-to-is-6-1",
-    "site": "iradgov.org",
-    "title": "Record Harvest Lifts ISEZ Farm Output to IS 6.1 Billion in Nine Months",
-    "desc": "The Ministry of Economy's preliminary estimate puts ISEZ agricultural output for January to September 2026 at IS 6.1 billion, with volume up about 12% on the same period of 2025. The result is one of the pillars of the 9.4% growth reported by the Bank of Irad."
-   },
-   "stats": {
-    "replies": 4,
-    "reposts": 13,
-    "likes": 88
-   }
-  },
-  {
-   "id": "d1031-kochaudio-promo4",
-   "handle": "kochaudio",
-   "time": "2026-10-31T17:00+06:00",
-   "text": {
-    "en": "Iradi music, carried across. Most Iradi releases are on the streaming platforms, and our members' dates are waiting on the Live page. Come and listen.",
-    "ir": "Iradi muzıkası, alıstarga jetkirilet. Iradi çıgarmalarının köpçülügü striming platformalarında, al ağzalarıbızdın konsert kündörü Live bettinde. Kelip uguñuz.",
-    "ru": "Ирадская музыка, пронесённая сквозь расстояния. Большинство ирадских релизов есть на стриминговых платформах, а даты выступлений наших участников ждут на странице Live. Приходите слушать."
-   },
-   "stats": {
-    "replies": 32,
-    "reposts": 115,
-    "likes": 641
-   }
-  },
-  {
-   "id": "d1031-aigyr-nights",
-   "handle": "aigyr",
-   "time": "2026-10-31T16:30+06:00",
-   "text": {
-    "en": "Aigyr Ulak Nights tonight at the State Hippodrome: Köhne Diz v Chu at 19:00 and Talas v Iyık Janyl at 21:00. Gates 17:30. 18+ on the Aigyr Deck. Please drink responsibly.",
-    "ir": "Bügün kechinde Mamlekettik ippodromdo Aigyr Ulak Nights: Köhne Diz – Chu 19:00, Talas – Iyık Janyl 21:00. Darbaza 17:30. 18+."
-   },
-   "link": {
-    "url": "https://jarysh.com/ulak-nights.html",
-    "site": "jarysh.com",
-    "title": "Aigyr Ulak Nights"
-   },
-   "stats": {
-    "replies": 25,
-    "reposts": 81,
-    "likes": 511
-   }
-  },
-  {
-   "id": "d1031-iradtimes-s1",
-   "handle": "iradtimes",
-   "time": "2026-10-31T15:51+06:00",
-   "text": {
-    "en": "A second refinery for Kochkor-Ata was announced with no investor, no crude and no tender",
-    "ir": "A second refinery for Kochkor-Ata was announced with no investor, no crude and no tender",
-    "ru": "A second refinery for Kochkor-Ata was announced with no investor, no crude and no tender"
-   },
-   "link": {
-    "url": "https://iradtimes.com/2026/10/a-second-refinery-for-kochkor-ata-was-announced-with-no-investor-no-cr.html",
-    "site": "iradtimes.com",
-    "title": "A second refinery for Kochkor-Ata was announced with no investor, no crude and no tender",
-    "desc": "Lieutenant Governor Aidar Maksat told a district meeting the government wants a 9,000-barrel-a-day plant in the Fergana rim town. Nobody has said who would build it, what it would burn or how it would be licensed.",
-    "image": "https://iradtimes.com/img/toktogul-dam.jpg"
-   },
-   "stats": {
-    "replies": 96,
-    "reposts": 182,
-    "likes": 1071
-   }
-  },
-  {
-   "id": "d1031-neftchi-md-neftchi",
-   "handle": "neftchi",
-   "time": "2026-10-31T15:30+06:00",
-   "text": {
-    "en": "Matchday: Neftchi v Tulpar, 18:00, NurGaz Stadium.",
-    "ir": "Oyun künü: Neftchi – Tulpar, 18:00, NurGaz Stadionu.",
-    "ru": "День матча: «Нефтчи» — «Тулпар», 18:00, Стадион «НурГаз»."
-   },
-   "stats": {
-    "replies": 3,
-    "reposts": 13,
-    "likes": 130
-   }
-  },
-  {
-   "id": "d1031-temirjolchu-md-temirjolchu",
-   "handle": "temirjolchu",
-   "time": "2026-10-31T14:30+06:00",
-   "text": {
-    "en": "Matchday: Temirjolchu v Naryn, 17:00, Lokomotiv Stadium.",
-    "ir": "Oyun künü: Temirjolchu – Naryn, 17:00, Lokomotiv Stadionu.",
-    "ru": "День матча: «Темиржолчу» — «Нарын», 17:00, Стадион «Локомотив»."
-   },
-   "stats": {
-    "replies": 48,
-    "reposts": 209,
-    "likes": 1608
-   }
-  },
-  {
-   "id": "d1031-attelkomtalas-md-attelkom",
-   "handle": "attelkomtalas",
-   "time": "2026-10-31T14:30+06:00",
-   "text": {
-    "en": "Matchday: Attelkom v Kara-Buura, 17:00, Attelkom Park.",
-    "ir": "Oyun künü: Attelkom – Kara-Buura, 17:00, Attelkom Parky.",
-    "ru": "День матча: «Аттелком» — «Кара-Буура», 17:00, Аттелком Парк."
-   },
-   "stats": {
-    "replies": 6,
-    "reposts": 23,
-    "likes": 230
-   }
-  },
-  {
-   "id": "d1031-fciyikjanyl-md-iyikjanyl",
-   "handle": "fciyikjanyl",
-   "time": "2026-10-31T14:30+06:00",
-   "text": {
-    "en": "Matchday: Iyık Janyl v Universitet, 17:00, Iyık Janyl City Stadium.",
-    "ir": "Oyun künü: Iyık Janyl – Universitet, 17:00, Iyık Janyl Shaardık Stadionu.",
-    "ru": "День матча: «Ийык Джаныл» — «Университет», 17:00, Городской стадион Ийык Джаныла."
-   },
-   "stats": {
-    "replies": 32,
-    "reposts": 82,
-    "likes": 458
-   }
-  },
-  {
-   "id": "d1031-surma-md-surma",
-   "handle": "surma",
-   "time": "2026-10-31T14:30+06:00",
-   "text": {
-    "en": "Matchday: Surma v Dastgoh, 17:00, Kombinat Stadium.",
-    "ir": "Oyun künü: Surma – Dastgoh, 17:00, Kombinat Stadionu.",
-    "ru": "День матча: «Сурма» — «Дастгох», 17:00, Стадион «Комбинат»."
-   },
-   "stats": {
-    "replies": 19,
-    "reposts": 114,
-    "likes": 634
-   }
-  },
-  {
-   "id": "d1031-vnurzhan-s2",
-   "handle": "vnurzhan",
-   "time": "2026-10-31T12:08+06:00",
-   "text": {
-    "en": "On the eve of the derby: every ticket for NurGaz Stadium is sold",
-    "ir": "On the eve of the derby: every ticket for NurGaz Stadium is sold",
-    "ru": "Накануне дерби: билеты на стадион «НурГаз» проданы все"
-   },
-   "link": {
-    "url": "https://vnurzhan.com/en/news/derbi-bilety-prodany-stadion.html",
-    "site": "vnurzhan.com",
-    "title": "On the eve of the derby: every ticket for NurGaz Stadium is sold",
-    "desc": "Neftchi say all 16,500 tickets for Saturday's match against Tulpar have gone, the away section included. Kick-off is at 18:00 in the last round of the Irad League.",
-    "image": "https://vnurzhan.com/photos/vn_stadium.jpg"
-   },
-   "stats": {
-    "replies": 9,
-    "reposts": 15,
-    "likes": 190
-   }
-  },
-  {
-   "id": "d1031-iradonesport-derbyday",
-   "handle": "iradonesport",
-   "time": "2026-10-31T12:00+06:00",
-   "text": {
-    "en": "Derby day. Neftchi v Tulpar, 18:00, NurGaz Stadium, live on IradOne Sport; IradOdin with Russian commentary. #KaraAk",
-    "ir": "Darbi künü. Neftchi – Tulpar, 18:00, IradOne Sportto tüz efir. #KaraAk",
-    "ru": "День дерби. «Нефтчи» — «Тулпар», 18:00, прямой эфир IradOne Sport, на ИрадОдин — с русским комментарием. #KaraAk"
-   },
-   "stats": {
-    "replies": 205,
-    "reposts": 564,
-    "likes": 5136
-   }
-  },
-  {
-   "id": "d1031-vnurzhan-s1",
-   "handle": "vnurzhan",
-   "time": "2026-10-31T11:31+06:00",
-   "text": {
-    "en": "Driverless lorries on the Kazakh-Chinese border: what it means for Chu Gate",
-    "ir": "Driverless lorries on the Kazakh-Chinese border: what it means for Chu Gate",
-    "ru": "Беспилотные фуры на казахстанско-китайской границе: что это значит для «Чу-Гейта»"
-   },
-   "link": {
-    "url": "https://vnurzhan.com/en/news/besplotnye-gruzoviki-chu-gate.html",
-    "site": "vnurzhan.com",
-    "title": "Driverless lorries on the Kazakh-Chinese border: what it means for Chu Gate",
-    "desc": "Kazakhstan and China plan to test driverless lorries on cross-border routes. Irad is not part of the project, and none of the announced routes crosses ISEZ territory.",
-    "image": "https://vnurzhan.com/assets/og-image.png"
-   },
-   "stats": {
-    "replies": 46,
-    "reposts": 40,
-    "likes": 584
-   }
-  },
-  {
-   "id": "d1031-iradstrakh-promo3",
-   "handle": "iradstrakh",
-   "time": "2026-10-31T11:30+06:00",
-   "text": {
-    "en": "Iradstrakh has sold the compulsory motor third-party policy since 2009. You can arrange it at about 60 offices. Keep your policy valid before you drive.",
-    "ir": "Iradstrakh mindettüü avtoazamat jooptorchuluk polisin 2009-jıldan beri satat. Polisti 60ka jakın ofiste rasmiylestirse bolot. Jolgo chıkkanga çeyin polisiñiz kücüütö bolsun.",
-    "ru": "Ирадстрах продаёт полис обязательного страхования автогражданской ответственности с 2009 года. Оформить его можно примерно в 60 офисах. Перед поездкой следите, чтобы полис был действителен."
-   },
-   "stats": {
-    "replies": 5,
-    "reposts": 20,
-    "likes": 145
-   }
-  },
-  {
-   "id": "d1031-iradleague-cupfinal",
-   "handle": "iradleague",
-   "time": "2026-10-31T11:00+06:00",
-   "text": {
-    "en": "Irad Cup final in 7 days: Neftchi v Attelkom, 14:00, Silk Road Arena. #IradCup",
-    "ir": "Irad Kubogunun finalı 7 kündön kiyin: Neftchi – Attelkom, 14:00, Jibek Jolu Arenasy. #IradCup",
-    "ru": "Финал Кубка Ирада через 7 дней: «Нефтчи» — «Аттелком», 14:00, Арена «Шёлковый путь». #IradCup"
-   },
-   "stats": {
-    "replies": 119,
-    "reposts": 132,
-    "likes": 1326
-   }
-  },
-  {
-   "id": "d1031-tsu-wo-tsu-evening-courses-2026",
-   "handle": "tsu",
-   "time": "2026-10-31T11:00+06:00",
-   "text": {
-    "en": "Tomorrow: TSU evening courses: last day of enrolment. Talas State University, Building 3, room 104, Talas.",
-    "ru": "Завтра: Вечерние курсы ТГУ: последний день записи. Talas State University, Building 3, room 104, Талас."
-   },
-   "link": {
-    "url": "https://talasuniversity.org/news/",
-    "site": "talasuniversity.org",
-    "title": "TSU evening courses: last day of enrolment"
-   },
-   "stats": {
-    "replies": 45,
-    "reposts": 77,
-    "likes": 647
-   }
-  },
-  {
-   "id": "d1031-iradleague-matchday",
-   "handle": "iradleague",
-   "time": "2026-10-31T10:00+06:00",
-   "text": {
-    "en": "Round 27 today: Neftchi v Tulpar (18:00) · Temirjolchu v Naryn (17:00) · Attelkom v Kara-Buura (17:00) · Iyık Janyl v Universitet (17:00) · Surma v Dastgoh (17:00). #IradLeague",
-    "ir": "Bügün 27-tur: Neftchi – Tulpar (18:00) · Temirjolchu – Naryn (17:00) · Attelkom – Kara-Buura (17:00) · Iyık Janyl – Universitet (17:00) · Surma – Dastgoh (17:00). #IradLeague",
-    "ru": "Сегодня 27-й тур: «Нефтчи» — «Тулпар» (18:00) · «Темиржолчу» — «Нарын» (17:00) · «Аттелком» — «Кара-Буура» (17:00) · «Ийык Джаныл» — «Университет» (17:00) · «Сурма» — «Дастгох» (17:00). #IradLeague"
-   },
-   "stats": {
-    "replies": 104,
-    "reposts": 173,
-    "likes": 1158
-   }
-  },
-  {
-   "id": "d1031-chuybank-promo1",
-   "handle": "chuybank",
-   "time": "2026-10-31T10:00+06:00",
-   "text": {
-    "en": "33 branches, 16 of them in Nurzhan: there is likely one near you. Your payments clear through the Bank of Irad Clearing House. Drop in and say hello.",
-    "ir": "33 filialıbız bar, alardın 16sı Nurzhanda: sizge jakın bir tabılar. Tölömdörüñüz Irad Bankınıñ Kliring Palatası arkyluu ötöt. Kirip köñül ayıñız.",
-    "ru": "У нас 33 отделения, 16 из них в Нуржане, так что одно наверняка рядом с вами. Ваши платежи проходят через Клиринговую палату Банка Ирада. Заходите, будем рады."
-   },
-   "stats": {
-    "replies": 58,
-    "reposts": 131,
-    "likes": 732
-   }
-  },
-  {
-   "id": "d1031-jarysh-s1",
-   "handle": "jarysh",
-   "time": "2026-10-31T09:47+06:00",
-   "text": {
-    "en": "In case you missed it: Hippodrome Concession Renewal \"a Formality\", Says Nurik",
-    "ir": "Okuy elek bolsoñuz: Hippodrome Concession Renewal \"a Formality\", Says Nurik",
-    "ru": "Если пропустили: Hippodrome Concession Renewal \"a Formality\", Says Nurik"
-   },
-   "link": {
-    "url": "https://jarysh.com/news/hippodrome-concession-renewal.html",
-    "site": "jarysh.com",
-    "title": "Hippodrome Concession Renewal \"a Formality\", Says Nurik",
-    "desc": "Deputies want a tender for the Hippodrome's Saturday-night concession. Nurik wants them to come to Ulak Nights.",
-    "image": "https://jarysh.com/img/ceo.jpg"
-   },
-   "stats": {
-    "replies": 43,
-    "reposts": 72,
-    "likes": 480
-   }
-  },
-  {
-   "id": "d1031-iradtimes-s2",
-   "handle": "iradtimes",
-   "time": "2026-10-31T09:06+06:00",
-   "text": {
-    "en": "Coal buyers eye Kyrgyz price cap",
-    "ir": "Coal buyers eye Kyrgyz price cap",
-    "ru": "Coal buyers eye Kyrgyz price cap"
-   },
-   "link": {
-    "url": "https://iradtimes.com/2026/10/coal-buyers-eye-kyrgyz-price-cap.html",
-    "site": "iradtimes.com",
-    "title": "Coal buyers eye Kyrgyz price cap",
-    "desc": "Households in the southern districts of the ISEZ and in the hillside Jogorku quarters of Iyık Janyl, where many homes burn coal, are buying their winter…",
-    "image": "https://iradtimes.com/img/og-default.jpg"
-   },
-   "stats": {
-    "replies": 22,
-    "reposts": 25,
-    "likes": 318
-   }
-  },
-  {
-   "id": "d1101-talasherald-n3",
-   "handle": "talasherald",
-   "time": "2026-10-31T08:51+06:00",
-   "text": {
-    "en": "The Herald's View: A halt on farmland conversion needs a count and a date"
-   },
-   "link": {
-    "url": "https://talasherald.com/news/2026-10-31-a-halt-on-farmland-conversion-needs-a-count-and-a-date.html",
-    "site": "talasherald.com",
-    "title": "A halt on farmland conversion needs a count and a date",
-    "desc": "The Lieutenant Governor wants irrigated fields kept out of the house-plot market. Nobody yet knows how many have already gone."
-   },
-   "stats": {
-    "replies": 84,
-    "reposts": 168,
-    "likes": 936
-   }
-  },
-  {
-   "id": "d1101-talasherald-n2",
-   "handle": "talasherald",
-   "time": "2026-10-31T08:50+06:00",
-   "text": {
-    "en": "Kyrgyz plan to protect more high ground leaves Irad's snow leopards out of the talks"
-   },
-   "link": {
-    "url": "https://talasherald.com/news/2026-10-31-kyrgyz-plan-to-protect-more-high-ground-leaves-irad-s-snow-leopards-ou.html",
-    "site": "talasherald.com",
-    "title": "Kyrgyz plan to protect more high ground leaves Irad's snow leopards out of the talks",
-    "desc": "Bishkek's 2026–2035 draft covers ranges that run across the Qara-Chik line into the Talas Alatau and Chatkal; Irad was not consulted and the cats cross the line anyway.",
-    "image": "https://talasherald.com/photos/snow-clearing.jpg"
-   },
-   "stats": {
-    "replies": 16,
-    "reposts": 66,
-    "likes": 552
-   }
-  },
-  {
-   "id": "d1101-talasherald-n1",
-   "handle": "talasherald",
-   "time": "2026-10-31T08:41+06:00",
-   "text": {
-    "en": "Nurzhan air at 87 on the AQI as inversions set in; Talas 73, Iyık Janyl 68"
-   },
-   "link": {
-    "url": "https://talasherald.com/news/2026-10-31-nurzhan-air-at-87-on-the-aqi-as-inversions-set-in-talas-73-iyk-janyl-6.html",
-    "site": "talasherald.com",
-    "title": "Nurzhan air at 87 on the AQI as inversions set in; Talas 73, Iyık Janyl 68",
-    "desc": "Gidromet says the stagnant autumn air is a regional pattern, but Nurzhan has more local sources, and the heat plant's gas conversion is still unfunded.",
-    "image": "https://talasherald.com/photos/iradenergo-office.jpg"
-   },
-   "stats": {
-    "replies": 45,
-    "reposts": 35,
-    "likes": 501
-   }
-  },
-  {
-   "id": "d1031-gidromet-promo2",
-   "handle": "gidromet",
-   "time": "2026-10-31T08:00+06:00",
-   "text": {
-    "en": "Sat 31 Oct: rain in Talas (1–8°C) and Nurzhan (0–9°C). Air quality moderate: Nurzhan AQI 97, Talas 74. Toktogul reservoir 87.5% full, drawing down.",
-    "ir": "31-oktyabr, ishembi: Talasta (1–8°C) jana Nurzhanda (0–9°C) jañbır. Aba sapaty orto: Nurzhan AQI 97, Talas 74. Toktogul suu saktagıchı 87,5% toldu, suu azayıp jatat.",
-    "ru": "Сб, 31 октября: дождь в Таласе (1–8°C) и Нуржане (0–9°C). Качество воздуха умеренное: Нуржан AQI 97, Талас 74. Токтогульское водохранилище заполнено на 87,5%, идёт сработка."
-   },
-   "stats": {
-    "replies": 41,
-    "reposts": 100,
-    "likes": 591
-   }
-  },
-  {
-   "id": "d1031-iradone-wx",
-   "handle": "iradone",
-   "time": "2026-10-31T07:05+06:00",
-   "text": {
-    "en": "Weather, 31 October: Talas 8°/1° rain · Nurzhan 9°/0° rain · Iyık Janyl 15°/7° rain.",
-    "ir": "Aba ırayı, 31-oktyabr: Talas 8°/1° jamgır · Nurzhan 9°/0° jamgır · Iyık Janyl 15°/7° jamgır.",
-    "ru": "Погода, 31 октября: Талас 8°/1° дождь · Нуржан 9°/0° дождь · Ийык Джаныл 15°/7° дождь."
-   },
-   "stats": {
-    "replies": 6,
-    "reposts": 25,
-    "likes": 231
    }
   }
  ]
