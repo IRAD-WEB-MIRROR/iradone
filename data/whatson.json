@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "events": [
   {
    "id": "season-az-hands-speak",
@@ -1875,6 +1875,52 @@
    "id": "season-op-2027-03-13",
    "kind": "stage",
    "date": "2027-03-13",
+   "time": "18:30",
+   "title": {
+    "en": "Janyl",
+    "ru": "Жаныл"
+   },
+   "who": "Nurzhamal Abdieva (Janyl), Kylych Karabekov (her brother)",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som"
+  },
+  {
+   "id": "season-te-2027-03-14-1200",
+   "kind": "stage",
+   "date": "2027-03-14",
+   "time": "12:00",
+   "title": {
+    "en": "The Twelve Months (after Marshak)",
+    "ru": "«Двенадцать месяцев»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "100 som"
+  },
+  {
+   "id": "season-te-2027-03-14-1700",
+   "kind": "stage",
+   "date": "2027-03-14",
+   "time": "17:00",
+   "title": {
+    "en": "The Government Inspector (Gogol)",
+    "ru": "«Ревизор»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som"
+  },
+  {
+   "id": "season-op-2027-03-14",
+   "kind": "stage",
+   "date": "2027-03-14",
    "time": "18:30",
    "title": {
     "en": "Janyl",
