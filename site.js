@@ -57,14 +57,17 @@
         return a.active !== false && /\.(gif|png|jpe?g|webp)$/i.test(a.file) &&
           fits(a.themes || []) &&
           (!a.start || a.start <= today) && (!a.end || a.end >= today);
-      }).map(function (a) { return { src: JARNAMA + a.file, alt: a.alt, size: a.size,
+      }).map(function (a) { return { src: JARNAMA + a.file, alt: a.alt, size: a.size, weight: a.weight,
           link: a.link ? (/^https?:/.test(a.link) ? a.link : JARNAMA + a.link) : "#" }; });
       var ads = house.concat(network);
       Array.prototype.forEach.call(slots, function (slot) {
         var want = SIZES[slot.getAttribute("data-size")] || slot.getAttribute("data-size");
         var pool = ads.filter(function (a) { return a.size === want; });
         if (!pool.length) return;
-        var ad = pool[Math.floor(Math.random() * pool.length)];
+        var total = 0;
+        pool.forEach(function (a) { total += a.weight > 0 ? a.weight : 1; });
+        var r = Math.random() * total, ad = pool[pool.length - 1];
+        for (var i = 0; i < pool.length; i++) { r -= pool[i].weight > 0 ? pool[i].weight : 1; if (r < 0) { ad = pool[i]; break; } }
         var link = document.createElement("a");
         link.href = ad.link;
         link.className = "ad-link";
