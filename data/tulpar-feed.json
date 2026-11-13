@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T03:08+06:00",
+ "updated": "2026-11-13T07:47+06:00",
  "posts": [
   {
    "id": "d1113-saintjanyl-wo-church-2026-11-14",
@@ -18,6 +18,28 @@
     "replies": 15,
     "reposts": 11,
     "likes": 167
+   }
+  },
+  {
+   "id": "d1113-vnurzhan-s2",
+   "handle": "vnurzhan",
+   "time": "2026-11-13T16:55+06:00",
+   "text": {
+    "en": "Bread and fares hold, imports rise: why prices in som are not all alike",
+    "ir": "Bread and fares hold, imports rise: why prices in som are not all alike",
+    "ru": "Хлеб и проезд стоят на месте, импорт дорожает: почему цены в сомах не одинаковы"
+   },
+   "link": {
+    "url": "https://vnurzhan.com/en/news/tseny-v-somakh-khleb-proezd.html",
+    "site": "vnurzhan.com",
+    "title": "Bread and fares hold, imports rise: why prices in som are not all alike",
+    "desc": "A loaf of bread, a bus ticket and a litre of diesel have barely changed since spring, while imported goods have risen noticeably. Experts and the Ministry of Economy explain why.",
+    "image": "https://vnurzhan.com/photos/vn_market_trader.jpg"
+   },
+   "stats": {
+    "replies": 36,
+    "reposts": 41,
+    "likes": 523
    }
   },
   {
@@ -64,28 +86,35 @@
    }
   },
   {
-   "id": "d1113-iradenergo-promo3",
-   "handle": "iradenergo",
-   "time": "2026-11-13T11:00+06:00",
+   "id": "d1113-vnurzhan-s1",
+   "handle": "vnurzhan",
+   "time": "2026-11-13T12:55+06:00",
    "text": {
-    "en": "Supply is normal in Talas, Nurzhan and Iyık Janyl; no scheduled cuts. Toktogul reservoir: 16.06 of 19 km³ (84.5% full), drawing down. Exports follow the contract schedule.",
-    "ir": "Talasta, Nurzhanda jana Iyık Janylda elektr normaldu; plandalgan öchürüü jok. Toktogul suu saktagychy: 19 km³ten 16,06 km³ (84,5%), suu azayıp jatat. Eksport kelishim grafigi boyunça.",
-    "ru": "В Таласе, Нуржане и Иык-Жаныле электроснабжение в норме, плановых отключений нет. Токтогульское водохранилище: 16,06 из 19 км³ (заполнено на 84,5%), идёт сработка. Экспорт — по графику контрактов."
+    "en": "Service centre for tractors and combines to open beside the Talas–Nurzhan road",
+    "ir": "Service centre for tractors and combines to open beside the Talas–Nurzhan road",
+    "ru": "Сервисный центр для тракторов и комбайнов откроется у дороги Талас — Нуржан"
+   },
+   "link": {
+    "url": "https://vnurzhan.com/en/news/servis-selkhoztekhniki-kara-bulak.html",
+    "site": "vnurzhan.com",
+    "title": "Service centre for tractors and combines to open beside the Talas–Nurzhan road",
+    "desc": "The Talas company Alatau Agro Machinery is building a US$3 million service centre and parts warehouse at Kara-Bulak. It is due to open before the 2027 spring sowing.",
+    "image": "https://vnurzhan.com/photos/vn_workshop.jpg"
    },
    "stats": {
-    "replies": 60,
-    "reposts": 76,
-    "likes": 760
+    "replies": 9,
+    "reposts": 36,
+    "likes": 300
    }
   },
   {
    "id": "d1113-saintjanyl-promo2",
    "handle": "saintjanyl",
-   "time": "2026-11-13T10:30+06:00",
+   "time": "2026-11-13T11:00+06:00",
    "text": {
-    "en": "A partly cloudy day in Iyık Janyl, 15°C at best. Pilgrims are always welcome at the Cathedral; Holy Qurbana times and the feast calendar are kept here on our channel.",
-    "ir": "Bügün Iyık Janylda bulut aralash, eñ jyly 15°C. Ziyaratchylar sobordo ar dayym kosh keldiñiz; Mukaddes Qurbana ubaktylary jana meyramdar kalendary ushul kanalda.",
-    "ru": "Сегодня в Иык-Жаныле переменная облачность, днём до 15°C. Паломников в соборе всегда рады видеть; время Святой Курбаны и календарь праздников — на нашем канале."
+    "en": "Iyık Janyl today: partly cloudy, high 15°C, low 5°C. Dress warmly if you are coming to the cathedral. Holy Qurbana times and the feast calendar are kept here in this channel.",
+    "ir": "Bügün Iyık Janylda ala bulut, kündüz 15°C, tünü 5°C. Soborgo kelseñer, jyly kiyinip keliñer. Iyık Qurbananın ubaktary jana meyramdar kalendari ušul kanalda turat.",
+    "ru": "Сегодня в Иык-Жаныле переменная облачность, днём 15°C, ночью 5°C. Если идёте в собор, одевайтесь потеплее. Время Святой Курбаны и календарь праздников — здесь, в канале."
    },
    "stats": {
     "replies": 11,
@@ -120,9 +149,9 @@
    "handle": "talassut",
    "time": "2026-11-13T09:30+06:00",
    "text": {
-    "en": "Ak süt, ak niet! School milk (200 ml, years 1-4) has been back in 140 Talas schools since 12 October. Talas Süt belongs to 2,340 member farms of the Talas Valley Milk Cooperative.",
-    "ir": "Ak süt, ak niet! 12-oktyabrdan beri Talastagy 140 mektepte 1–4-klass okuuchularyna mektep sütü (200 ml) kayra berilip jatat. Talas Süt – Talas jeñi Süt kooperativinin 2 340 müchö fermasynyñ ishi.",
-    "ru": "Ак сют, ак ниет! Со 12 октября школьное молоко (200 мл, 1–4 классы) снова в 140 школах Таласа. Talas Süt принадлежит 2 340 фермам-членам Талаской долинной молочной кооперативы."
+    "en": "School milk is back in 140 Talas schools: 200 ml for years 1–4, since 12 October. From our 2,340 member farms to the school desk. Ak süt, ak niet. 🥛",
+    "ir": "Talastagy 140 mektepte mektep sütü 12-oktyabrdan beri kaytadan berilip jatat: 1–4-klasstarga 200 ml. 2,340 mügöz čarbadan mektepke çeyin. Ak süt, ak niet. 🥛",
+    "ru": "Школьное молоко вернулось в 140 школ Таласа: 200 мл для 1–4 классов, с 12 октября. Из 2 340 фермерских хозяйств — на школьную парту. Ак сүт, ак ниет. 🥛"
    },
    "stats": {
     "replies": 21,
@@ -163,6 +192,46 @@
     "replies": 21,
     "reposts": 48,
     "likes": 271
+   }
+  },
+  {
+   "id": "d1113-talasherald-n4",
+   "handle": "talasherald",
+   "time": "2026-11-13T05:50+06:00",
+   "text": {
+    "en": "Bishkek signs wage indexing; Irad pay stays at 8.40 against a street 11.95"
+   },
+   "link": {
+    "url": "https://talasherald.com/news/2026-11-13-bishkek-signs-wage-indexing-irad-pay-stays-at-8-40-against-a-street-11.html",
+    "site": "talasherald.com",
+    "title": "Bishkek signs wage indexing; Irad pay stays at 8.40 against a street 11.95",
+    "desc": "Teachers' union has asked since June for pay tied to the bazaar rate, and the Ministry of Economy has published no reply beyond its standing line.",
+    "image": "https://talasherald.com/photos/city-classroom.jpg"
+   },
+   "stats": {
+    "replies": 7,
+    "reposts": 6,
+    "likes": 79
+   }
+  },
+  {
+   "id": "d1113-talasherald-n3",
+   "handle": "talasherald",
+   "time": "2026-11-13T05:41+06:00",
+   "text": {
+    "en": "Kyrgyzstan leads region in QR payments; Irad's bazaar codes mostly point to Tulpar"
+   },
+   "link": {
+    "url": "https://talasherald.com/news/2026-11-13-kyrgyzstan-leads-region-in-qr-payments-irad-s-bazaar-codes-mostly-poin.html",
+    "site": "talasherald.com",
+    "title": "Kyrgyzstan leads region in QR payments; Irad's bazaar codes mostly point to Tulpar",
+    "desc": "With Tulpar Pay due to settle only in Tulparcoin from 1 January, and Kyrgyz payment apps shut out of Irad's banks, traders and shoppers ask what the code on the counter actually pays.",
+    "image": "https://talasherald.com/photos/bazar-i-kalan.jpg"
+   },
+   "stats": {
+    "replies": 27,
+    "reposts": 41,
+    "likes": 688
    }
   },
   {
