@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "events": [
   {
    "id": "season-az-hands-speak",
@@ -36,93 +36,6 @@
     "en": "Mountains and Dreams, Threads of History, History in Bronze and Modern Rhythms. Closed 14 November."
    },
    "tulpar": "palaceofart"
-  },
-  {
-   "id": "church-2026-11-14",
-   "kind": "feast",
-   "date": "2026-11-14",
-   "title": {
-    "en": "Commemoration of the victims of 1937",
-    "ru": "День памяти жертв 1937 года"
-   },
-   "venue": "Cathedral of St. Janyl",
-   "city": "Iyık Janyl",
-   "city_ru": "Ийык Джаныл",
-   "url": "https://saintjanyl.org/calendar.html",
-   "note": {
-    "en": "Memorial Holy Qurbana at 9:30. The names of clergy and laity taken from the diocese in 1937–38 are read in full. Their cause is at Rome."
-   },
-   "tulpar": "saintjanyl"
-  },
-  {
-   "id": "season-ph-2026-11-14",
-   "kind": "concert",
-   "date": "2026-11-14",
-   "time": "11:00",
-   "title": {
-    "en": "Who Lives in the Orchestra?"
-   },
-   "who": "Family concert",
-   "venue": "Talas Philharmonic",
-   "city": "Talas",
-   "city_ru": "Талас",
-   "url": "https://philharmonic.korkom.org/",
-   "price": "100 som · children free",
-   "note": {
-    "en": "The strings, the winds and a komuz meet the children in the foyer under the mosaic. 50 minutes."
-   }
-  },
-  {
-   "id": "koch-am-nurzhan-1114",
-   "kind": "concert",
-   "date": "2026-11-14",
-   "time": "14:00",
-   "title": {
-    "en": "4Muuz",
-    "ru": "4Muuz",
-    "ir": "4Muuz"
-   },
-   "who": "4Muuz",
-   "venue": "Toikana Bereke, Navbahor",
-   "city": "Nurzhan",
-   "city_ru": "Нуржан",
-   "url": "https://kochaudio.online/#live",
-   "price": "200 som",
-   "note": {
-    "en": "Tickets at the door."
-   },
-   "tulpar": "kochaudio"
-  },
-  {
-   "id": "season-te-2026-11-14-1800",
-   "kind": "stage",
-   "date": "2026-11-14",
-   "time": "18:00",
-   "title": {
-    "en": "The Elder Son (Vampilov)",
-    "ru": "«Старший сын»"
-   },
-   "venue": "Nurzhan Russian Drama Theatre",
-   "city": "Nurzhan",
-   "city_ru": "Нуржан",
-   "url": "https://nurzhan-drama.korkom.org/",
-   "price": "150–400 som"
-  },
-  {
-   "id": "season-op-2026-11-14",
-   "kind": "stage",
-   "date": "2026-11-14",
-   "time": "18:30",
-   "title": {
-    "en": "La Traviata",
-    "ru": "Травиата"
-   },
-   "who": "Aizada Kemel (Violetta), Bakyt Osmonaliev (Alfredo) · cond. Dmitry Ten",
-   "venue": "Talas Opera and Ballet Theater",
-   "city": "Talas",
-   "city_ru": "Талас",
-   "url": "https://talas-opera.korkom.org/afisha.html",
-   "price": "300–1,500 som"
   },
   {
    "id": "season-te-2026-11-15-1200",
@@ -700,6 +613,42 @@
    "price": "free",
    "note": {
     "en": "Volume VII: an hour of reels from the archive, with tea."
+   }
+  },
+  {
+   "id": "cocacola-caravan-iyik-2026",
+   "kind": "other",
+   "date": "2026-12-18",
+   "end": "2026-12-24",
+   "title": {
+    "en": "Coca-Cola Christmas caravan",
+    "ru": "Новогодний караван Coca-Cola"
+   },
+   "venue": "Bus station",
+   "city": "Iyık Janyl",
+   "city_ru": "Ийык Джаныл",
+   "url": "https://iyikjanyl.iradgov.org/",
+   "price": "free",
+   "note": {
+    "en": "The lit red trucks of the Talas Coca-Cola bottler tour Talas, Nurzhan and Iyık Janyl in the week before Christmas, as every year since 2011. Free."
+   }
+  },
+  {
+   "id": "cocacola-caravan-talas-2026",
+   "kind": "other",
+   "date": "2026-12-18",
+   "end": "2026-12-24",
+   "title": {
+    "en": "Coca-Cola Christmas caravan",
+    "ru": "Новогодний караван Coca-Cola"
+   },
+   "venue": "Central Square",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas.iradgov.org/",
+   "price": "free",
+   "note": {
+    "en": "The lit red trucks of the Talas Coca-Cola bottler tour Talas, Nurzhan and Iyık Janyl in the week before Christmas, as every year since 2011. Free."
    }
   },
   {
