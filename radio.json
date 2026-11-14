@@ -165,9 +165,13 @@
       "title": "Hymns of the Star",
       "desc": "Liturgical singing and Mor-Folk hymns."
     },
+    "swift_hour": {
+      "title": "The Swift Hooves Hour",
+      "desc": "Iradi country-folk and the Swift Hooves records, on IradOne since the winter of 1994."
+    },
     "swift_sunday": {
-      "title": "Swift Hooves Sunday",
-      "desc": "Three hours of Iradi country-folk."
+      "title": "Sunday Country",
+      "desc": "Two more hours of Iradi country-folk."
     },
     "week_in_review": {
       "title": "The Week in Irad",
@@ -358,6 +362,10 @@
       },
       {
         "t": "09:30",
+        "show": "swift_hour"
+      },
+      {
+        "t": "10:30",
         "show": "swift_sunday"
       },
       {
@@ -579,6 +587,20 @@
       "note": "Consumer reporter, usually at the Bazar-i Kalan."
     },
     {
+      "name": "Joldoshbek Kasymbekov",
+      "shows": [
+        "swift_hour"
+      ],
+      "note": "Has presented The Swift Hooves Hour since 1994, since 2021 with Ainura Marat kyzy."
+    },
+    {
+      "name": "Ainura Marat kyzy",
+      "shows": [
+        "swift_hour"
+      ],
+      "note": "Co-presenter of The Swift Hooves Hour since 2021."
+    },
+    {
       "name": "Ruslan Ibraev",
       "shows": [
         "country_road",
@@ -617,11 +639,11 @@
       "note": "Sports Desk and the Saturday ulak commentaries."
     },
     {
-      "name": "Asylbek Usenaliev",
+      "name": "Nurdan Muratbek",
       "shows": [
         "kechki_jomok"
       ],
-      "note": "Bard and folklorist; Kechki Jomok's host."
+      "note": "Has presented Kechki Jomok since 2020. Born in 1992."
     },
     {
       "name": "Daniel Bet-Yonan",
