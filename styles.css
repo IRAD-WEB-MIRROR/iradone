@@ -1914,3 +1914,7 @@ footer .footer-note a {
   font-size: 0.9rem;
   color: #555;
 }
+
+.imprint { border-collapse: collapse; width: 100%; margin: 12px 0 18px; }
+.imprint th, .imprint td { text-align: left; vertical-align: top; padding: 8px 10px; border-bottom: 1px solid rgba(128,128,128,.3); }
+.imprint th { width: 34%; font-weight: 600; }
