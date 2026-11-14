@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:08+06:00",
+ "updated": "2026-11-14T07:26+06:00",
  "posts": [
   {
    "id": "d1114-iradtimes-s2",
@@ -102,21 +102,6 @@
    }
   },
   {
-   "id": "d1114-talasfilms-promo3",
-   "handle": "talasfilms",
-   "time": "2026-11-14T15:00+06:00",
-   "text": {
-    "en": "Since 1954 Talasfilm has made Zarina, Desert Sun's Rebellion and the Easterns, and we are proud of every reel. Today the studio works on drama, comedy and animation for IradOne. Saturday evening, good company, a good film.",
-    "ir": "1954-jıldan beri Talasfilm Zarina, Çöl Kününün Kozgolañı jana Vesternderdi tüzüp kelet, jana biz ar bir lentası menen maktanabız. Bügün studiya IradOne üçün drama, komediya jana animatsiya üstündö işteyt. Şembi keçi, jakşı kompaniya, jakşı film.",
-    "ru": "С 1954 года Талас-фильм снимал «Зарину», «Восстание пустынного солнца» и истерны, и мы гордимся каждой плёнкой. Сегодня студия работает над драмой, комедией и анимацией для IradOne. Субботний вечер, хорошая компания, хороший фильм."
-   },
-   "stats": {
-    "replies": 26,
-    "reposts": 79,
-    "likes": 887
-   }
-  },
-  {
    "id": "d1114-vnurzhan-s2",
    "handle": "vnurzhan",
    "time": "2026-11-14T12:57+06:00",
@@ -203,11 +188,11 @@
   {
    "id": "d1114-torgoy-promo1",
    "handle": "torgoy",
-   "time": "2026-11-14T10:30+06:00",
+   "time": "2026-11-14T10:00+06:00",
    "text": {
-    "en": "Heading to Kazakhstan, or calling family there? Torgoy shops sell Beeline Kazakhstan SIM cards with Kazakh +7 numbers, paid in som. Calls between +996-39 and +7 numbers are billed as international. 🐦",
-    "ir": "Kazakstanga barasızbı, yaki anda jakındarıñızga telefon çalasızbı? Torgoy dükönlörü Beeline Kazakhstan SIM-kartaların Kazak +7 nomerleri menen satat, akısı somdo töölöt. +996-39 jana +7 nomerleriniñ ortosundagı çalgılar alaralık katarı eseptelet. 🐦",
-    "ru": "Едете в Казахстан или звоните родным туда? В магазинах Torgoy продаются SIM-карты Beeline Kazakhstan с казахстанскими номерами +7, оплата в сомах. Звонки между номерами +996-39 и +7 тарифицируются как международные. 🐦"
+    "en": "Family across the border? Beeline Kazakhstan SIMs with +7 numbers in every Torgoy shop, paid in som. 🐦",
+    "ir": "Tuugandarıñız chek aranın arjagındabı? +7 nomerdüü Beeline Kazakhstan SIM-kartaları ar bir Torgoy dükönündö. 🐦",
+    "ru": "Родные за границей? Сим-карты Beeline Kazakhstan с номерами +7 — в каждом магазине «Торгой». 🐦"
    },
    "stats": {
     "replies": 32,
