@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T03:09+06:00",
+ "updated": "2026-11-15T07:00+06:00",
  "posts": [
   {
    "id": "d1115-jarysh-s1",
@@ -111,18 +111,63 @@
    }
   },
   {
+   "id": "d1115-iradloto-promo2",
+   "handle": "iradloto",
+   "time": "2026-11-15T11:00+06:00",
+   "text": {
+    "en": "Got a ticket for Altın Bayge, Joguru! or Tört Tuyak? Run it through the ticket checker before you put it away. New tickets are at kiosks and post offices. Good luck!",
+    "ir": "Altın Bayge, Joguru! yaki Tört Tuyak biletiñiz barby? Saktap koyor aldıña bilet tekşerüüchüdön ötkörüp körüñüz. Jañı biletter kiosktorduñ jana poçta bölümdörünüñ satılat. Ömür uzak bolsun!",
+    "ru": "Есть билет Altın Bayge, Joguru! или Tört Tuyak? Проверьте его в проверке билетов, прежде чем убрать. Новые билеты — в киосках и на почтах. Удачи!"
+   },
+   "stats": {
+    "replies": 23,
+    "reposts": 20,
+    "likes": 257
+   }
+  },
+  {
    "id": "d1115-akbata-promo5",
    "handle": "akbata",
-   "time": "2026-11-15T11:15+06:00",
+   "time": "2026-11-15T10:00+06:00",
    "text": {
-    "en": "Ak bata: a blessing. Banking in Talas since 1995, 43 branches in Talas, Nurzhan and Iyık Janyl.",
-    "ir": "Ak bata. 1995-jıldan beri Talasta bank kızmatı, 43 filial.",
-    "ru": "Ак бата — благословение. Банк в Таласе с 1995 года, 43 отделения."
+    "en": "Since 1995, from Talas: 43 branches — 24 in Talas, 15 in Nurzhan, 4 in Iyık Janyl. Our payments clear through the Bank of Irad Clearing House. Ak bata — a blessing on your week.",
+    "ir": "1995-jıldan beri Talastan: 43 bölüm — Talasta 24, Nurzhanda 15, Iyık Janylda 4. Tölömdörübüz Irad Bankınıñ Kliring Üyü arkılıı ötöt. Ak bata — apteñizge bereke tilebiz.",
+    "ru": "С 1995 года, из Таласа: 43 отделения — 24 в Таласе, 15 в Нуржане, 4 в Иык-Жанyле. Наши платежи проходят через Клиринговую палату Банка Ирада. Ак бата — благословения вашей неделе."
    },
    "stats": {
     "replies": 18,
     "reposts": 33,
     "likes": 367
+   }
+  },
+  {
+   "id": "d1115-iradenergo-promo4",
+   "handle": "iradenergo",
+   "time": "2026-11-15T09:30+06:00",
+   "text": {
+    "en": "Sunday 15 Nov: normal supply in Talas, Nurzhan and Iyık Janyl, no scheduled cuts. Exports to Uzbekistan and Kazakhstan run on the contract schedule. Toktogul is 84.1% full, drawing down 48 million m³ in a day.",
+    "ir": "Jekşembi, 15-noyabr: Talas, Nurzhan jana Iyık Janylda elektr normal berilüüdö, jöndölgön öçürüülör jok. Özbekstan jana Kazakstanga eksport kelişim kestesi boyunça. Toktogul 84,1% tolgon, bir künö 48 mln m³ azaydı.",
+    "ru": "Воскресенье, 15 ноября: электроснабжение в Таласе, Нуржане и Иык-Жанyле в норме, плановых отключений нет. Экспорт в Узбекистан и Казахстан идёт по графику контрактов. Токтогул заполнен на 84,1%, за сутки сработка 48 млн м³."
+   },
+   "stats": {
+    "replies": 19,
+    "reposts": 51,
+    "likes": 648
+   }
+  },
+  {
+   "id": "d1115-gidromet-promo1",
+   "handle": "gidromet",
+   "time": "2026-11-15T08:30+06:00",
+   "text": {
+    "en": "Sunday 15 Nov. Talas partly cloudy, 9 / -5°C. Air (US AQI): Nurzhan 152, unhealthy; Talas 95 and Iyık Janyl 80, moderate. Heating season: keep ventilation open while a stove burns. Toktogul reservoir 84.1% full.",
+    "ir": "Jekşembi, 15-noyabr. Talas: jarım bulutchan, 9 / -5°C. Aba (US AQI): Nurzhan 152, den sooluqka zıyandu; Talas 95 jana Iyık Janyl 80, orto. Isıtuu mezgili: pech janıp turganda aba almashtırıp turuñuz. Toktogul suu saktagıchı 84,1% tolgon.",
+    "ru": "Воскресенье, 15 ноября. Талас: переменная облачность, 9 / -5°C. Воздух (US AQI): Нуржан 152, вредный; Талас 95 и Иык-Жанyл 80, умеренный. Отопительный сезон: пока горит печь, держите вентиляцию открытой. Токтогульское водохранилище заполнено на 84,1%."
+   },
+   "stats": {
+    "replies": 24,
+    "reposts": 78,
+    "likes": 604
    }
   },
   {
