@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-16",
  "events": [
   {
    "id": "season-az-hands-speak",
@@ -36,42 +36,6 @@
     "en": "Mountains and Dreams, Threads of History, History in Bronze and Modern Rhythms. Closed 14 November."
    },
    "tulpar": "palaceofart"
-  },
-  {
-   "id": "season-te-2026-11-15-1200",
-   "kind": "stage",
-   "date": "2026-11-15",
-   "time": "12:00",
-   "title": {
-    "en": "The Twelve Months (after Marshak)",
-    "ru": "«Двенадцать месяцев»"
-   },
-   "venue": "Nurzhan Russian Drama Theatre",
-   "city": "Nurzhan",
-   "city_ru": "Нуржан",
-   "url": "https://nurzhan-drama.korkom.org/",
-   "price": "100 som",
-   "note": {
-    "en": "Schools' performance. Group bookings 3-22-41-90."
-   }
-  },
-  {
-   "id": "season-op-2026-11-15",
-   "kind": "stage",
-   "date": "2026-11-15",
-   "time": "18:30",
-   "title": {
-    "en": "Janyl",
-    "ru": "Жаныл"
-   },
-   "venue": "Talas Opera and Ballet Theater",
-   "city": "Talas",
-   "city_ru": "Талас",
-   "url": "https://talas-opera.korkom.org/afisha.html",
-   "price": "300–1,500 som",
-   "note": {
-    "en": "Change of cast: Asel Temirbekova dances Janyl in place of Nurzhamal Abdieva, who is injured. Tickets stand."
-   }
   },
   {
    "id": "church-2026-11-20",
