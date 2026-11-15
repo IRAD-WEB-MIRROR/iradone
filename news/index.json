@@ -1,5 +1,25 @@
 [
  {
+  "slug": "2026-11-15-gas-find-at-mailuu-suu-is-small-beside-nurgaz-rim-villages-watch-fuel",
+  "headline": "Gas Find at Mailuu-Suu Is Small Beside NurGaz; Rim Villages Watch Fuel Bills",
+  "dek": "Kyrgyz state producer reports about 40,000 cubic metres a day from a new source at Mailuu-Suu, on clan land in the Fergana Rim.",
+  "ticker": "Mailuu-Suu gas find: 40,000 m³ a day, a fraction of NurGaz output",
+  "category": "Energy",
+  "dateline": "TALAS",
+  "image": "photos/mailuu-suu.jpg",
+  "published": "2026-11-15T11:41+06:00"
+ },
+ {
+  "slug": "2026-11-15-uzbekistan-drops-phone-import-duty-to-zero-bazar-i-kalan-sellers-run-t",
+  "headline": "Uzbekistan Drops Phone Import Duty to Zero; Bazar-i Kalan Sellers Run the Numbers",
+  "dek": "Tashkent's WTO-driven cut from 5% to nothing could lower handset prices across the Fergana rim, where Irad's phone traders buy, sell and compare.",
+  "ticker": "Uzbekistan scraps 5% phone duty ahead of WTO entry; Irad sellers watch prices",
+  "category": "Regional",
+  "dateline": "TALAS",
+  "image": "photos/phone-repair.jpg",
+  "published": "2026-11-15T11:11+06:00"
+ },
+ {
   "slug": "2026-11-14-korean-trade-desk-shows-chu-growers-rice-planters-breeding-lines-berry",
   "headline": "Korean Trade Desk Shows Chu Growers Rice Planters, Breeding Lines, Berry Houses",
   "dek": "A half-day briefing at the Talas Chamber of Commerce put South Korean farm technology in front of rice, dairy and vegetable producers, with no deals announced.",
@@ -410,16 +430,6 @@
   "published": "2026-10-30T08:01+06:00"
  },
  {
-  "slug": "2026-10-30-sary-bulak-counts-216-6-million-in-mining-investment-as-antimony-reviv",
-  "headline": "Sary-Bulak Counts $216.6 Million in Mining Investment as Antimony Revival Gathers Pace",
-  "dek": "District officials tell the Lieutenant Governor that pledged and spent money in antimony since 2024 has reached US$216.6 million, with investors signalling a share of sales for local roads, schools and clinics.",
-  "ticker": "Sary-Bulak mining investment put at $216.6m on Lieutenant Governor's visit",
-  "category": "Economy",
-  "dateline": "SARY-BULAK",
-  "image": "photos/livestock-bazaar.jpg",
-  "published": "2026-10-30T08:00+06:00"
- },
- {
   "slug": "2026-10-30-sary-bulak-plans-146-mw-small-hydro-cascade-on-the-chatkal-river",
   "headline": "Sary-Bulak Plans 146 MW Small-Hydro Cascade on the Chatkal River",
   "dek": "District head Taalaibek Imashev told residents that Iradenergo would buy the output of a chain of small stations, the first at the Chatkal valley mouth.",
@@ -427,6 +437,16 @@
   "category": "Energy",
   "dateline": "SARY-BULAK",
   "image": "photos/iradenergo-office.jpg",
+  "published": "2026-10-30T08:00+06:00"
+ },
+ {
+  "slug": "2026-10-30-sary-bulak-counts-216-6-million-in-mining-investment-as-antimony-reviv",
+  "headline": "Sary-Bulak Counts $216.6 Million in Mining Investment as Antimony Revival Gathers Pace",
+  "dek": "District officials tell the Lieutenant Governor that pledged and spent money in antimony since 2024 has reached US$216.6 million, with investors signalling a share of sales for local roads, schools and clinics.",
+  "ticker": "Sary-Bulak mining investment put at $216.6m on Lieutenant Governor's visit",
+  "category": "Economy",
+  "dateline": "SARY-BULAK",
+  "image": "photos/livestock-bazaar.jpg",
   "published": "2026-10-30T08:00+06:00"
  },
  {
