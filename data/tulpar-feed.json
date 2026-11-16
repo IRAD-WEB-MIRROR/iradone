@@ -1,21 +1,6 @@
 {
- "updated": "2026-11-16T03:08+06:00",
+ "updated": "2026-11-16T06:58+06:00",
  "posts": [
-  {
-   "id": "d1116-arshakitep-promo5",
-   "handle": "arshakitep",
-   "time": "2026-11-16T17:45+06:00",
-   "text": {
-    "en": "Arsha Books: an independent press in Köhne Diz since 2009. Poetry, stories and songs in Iradi, Russian and English, and the Ottuk Library in English. 📖",
-    "ir": "Arsha Books — 2009-jıldan beri Köhne Dizdegi öz aldıña basma. Iradi, orus jana angliç tilinde ır, añgeme jana ıırlar, anın ichinde angliç tilindegi Ottuk Kitepkanası. 📖",
-    "ru": "Arsha Books — независимое издательство в Кёхне-Дизе с 2009 года. Стихи, рассказы и песни на ирадском, русском и английском, а также Ottuk Library на английском. 📖"
-   },
-   "stats": {
-    "replies": 11,
-    "reposts": 32,
-    "likes": 230
-   }
-  },
   {
    "id": "d1116-jarysh-s1",
    "handle": "jarysh",
@@ -61,21 +46,6 @@
    }
   },
   {
-   "id": "d1116-nurgaz-promo4",
-   "handle": "nurgaz",
-   "time": "2026-11-16T15:30+06:00",
-   "text": {
-    "en": "Congratulations to Neftchi Nurzhan, 2026 champions! NurGaz runs about 60% of Irad's stations: 65 in Talas, 43 in Nurzhan, 11 in Iyık Janyl. Black with an orange band, Neftchi's colours.",
-    "ir": "Neftchi Nurzhan — 2026-jıldın çempiondoru, quttuktaymız! NurGaz Irad yagılgı beketteriniñ tahminan 60%ın işletet: Talasta 65, Nurzhanda 43, Iyık Janılda 11. Kara tüs, mandarın jolok — Neftchinin tüstörü.",
-    "ru": "Поздравляем «Нефтчи Нуржан» с чемпионством 2026 года! NurGaz держит около 60% заправок Ирада: 65 в Таласе, 43 в Нуржане, 11 в Ийык-Жаныле. Чёрный цвет с оранжевой полосой — цвета «Нефтчи»."
-   },
-   "stats": {
-    "replies": 14,
-    "reposts": 16,
-    "likes": 234
-   }
-  },
-  {
    "id": "d1116-iradtimes-s1",
    "handle": "iradtimes",
    "time": "2026-11-16T12:43+06:00",
@@ -98,18 +68,18 @@
    }
   },
   {
-   "id": "d1116-temirjolu-promo2",
-   "handle": "temirjolu",
-   "time": "2026-11-16T11:00+06:00",
+   "id": "d1116-nurgaz-promo4",
+   "handle": "nurgaz",
+   "time": "2026-11-16T12:00+06:00",
    "text": {
-    "en": "Irad Temir Jolu: about 690 km of track from Talas North Terminal to the Nurzhan rail border station. The railway is on its winter timetable. Please check the timetable before you travel.",
-    "ir": "Irad Temir Jolu: Talas Demilgi Terminalınan Nurzhan temir jol chegara bekeťine çeyin tahminan 690 km rels. Temir jol kışkı sabak boyunça işteyt. Jolgo çıgardan aldın sabakty tekşerip alıñız.",
-    "ru": "Irad Temir Jolu: около 690 км путей от северного терминала Таласа до пограничной железнодорожной станции Нуржан. Железная дорога работает по зимнему расписанию. Проверьте расписание перед поездкой."
+    "en": "NurGaz runs about 60% of Irad's filling stations: 65 in Talas, 43 in Nurzhan, 11 in Iyık Janyl. Look for the black forecourt with the orange band, Neftchi's colours. Winter road tip: the Ala-Bel needs chains or winter tyres.",
+    "ir": "NurGaz Iraddagı ýönilgi stansalarınıñ 60% çamasın işletet: Talasta 65, Nurjanda 43, Iyık Janılda 11. Kara meydançaga apelsin sızık tartılgan stansanı izdeñiz: bul Neftçiniñ tüstörü. Kışkı jol keñeşi: Ala-Belge zınjır yaki kışkı şinalar kerek.",
+    "ru": "NurGaz держит около 60% заправок Ирада: 65 в Таласе, 43 в Нуржане, 11 в Йык-Жаныле. Ищите чёрную площадку с оранжевой полосой, цвета «Нефтчи». Зимний совет: на Ала-Бел нужны цепи или зимняя резина."
    },
    "stats": {
-    "replies": 56,
-    "reposts": 43,
-    "likes": 623
+    "replies": 14,
+    "reposts": 16,
+    "likes": 234
    }
   },
   {
@@ -134,21 +104,6 @@
    }
   },
   {
-   "id": "d1116-iradiya-promo1",
-   "handle": "iradiya",
-   "time": "2026-11-16T09:30+06:00",
-   "text": {
-    "en": "State Route 1 closes for snow at the Ala-Bel about 20 days a winter. Iradiya's Talas–Tash-Kömür flight is the only scheduled route in Irad, and we are proud to fly it. ✈️",
-    "ir": "Ala-Bel ashuusunda kar sebebinen 1-Memlekettik jol kışta 20 künçe jabılat. Iradiyanın Talas–Tash-Kömür reysi — Iradda jalgız kestelgen marshrut, biz munu maktanıp uçabız. ✈️",
-    "ru": "Трасса Государственная дорога 1 закрывается из-за снега на Ала-Беле примерно 20 дней за зиму. Рейс Иради́и Талас – Таш-Кёмюр — единственный регулярный маршрут в Ираде, и мы гордимся им. ✈️"
-   },
-   "stats": {
-    "replies": 4,
-    "reposts": 21,
-    "likes": 166
-   }
-  },
-  {
    "id": "d1116-bankofirad-rates",
    "handle": "bankofirad",
    "time": "2026-11-16T09:00+06:00",
@@ -166,6 +121,21 @@
     "replies": 38,
     "reposts": 82,
     "likes": 634
+   }
+  },
+  {
+   "id": "d1116-iradiya-promo1",
+   "handle": "iradiya",
+   "time": "2026-11-16T09:00+06:00",
+   "text": {
+    "en": "One route, and it's ours: Talas–Tash-Kömür, the only scheduled flight in Irad. Winter note: State Route 1 closes for snow at the Ala-Bel about 20 days a winter. Plan your journey with that in mind. ✈️",
+    "ir": "Bir marşrut, ol bizdiki: Talas–Taş-Kömür, Iradda jalgız muňöttüü aba reysi. Kış eskertüüsü: 1-Memlekettik jol Ala-Belde kar sebebinen kışına 20 künçö jabılat. Sapardı ošoňo karap uyuşturuñuz. ✈️",
+    "ru": "Один маршрут, и он наш: Талас – Ташкумыр, единственный регулярный рейс в Ираде. Зимняя заметка: Государственная трасса 1 закрывается из-за снега на Ала-Беле примерно на 20 дней за зиму. Планируйте поездку с учётом этого. ✈️"
+   },
+   "stats": {
+    "replies": 4,
+    "reposts": 21,
+    "likes": 166
    }
   },
   {
