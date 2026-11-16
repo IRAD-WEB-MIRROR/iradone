@@ -1,5 +1,45 @@
 [
  {
+  "slug": "2026-11-16-who-issues-first-adult-type-1-diabetes-guidelines-talas-asks-about-ins",
+  "headline": "WHO Issues First Adult Type 1 Diabetes Guidelines; Talas Asks About Insulin",
+  "dek": "The World Health Organization's new guidance lands while insulin remains short on the Ministry of Health's essential-medicines list.",
+  "ticker": "WHO issues first adult type 1 diabetes guidance; Talas insulin supply in focus",
+  "category": "Society",
+  "dateline": "TALAS",
+  "image": "photos/polyclinic.jpg",
+  "published": "2026-11-16T13:41+06:00"
+ },
+ {
+  "slug": "2026-11-16-24-new-ambulances-reach-regional-hospital-and-rural-health-posts",
+  "headline": "24 New Ambulances Reach Regional Hospital and Rural Health Posts",
+  "dek": "Minister Kubatova hands over the vehicles in Talas, saying district crews will get the first call on winter runs.",
+  "ticker": "24 new ambulances handed to Regional Hospital and district health posts",
+  "category": "Society",
+  "dateline": "TALAS",
+  "image": "photos/ambulance.jpg",
+  "published": "2026-11-16T12:31+06:00"
+ },
+ {
+  "slug": "2026-11-16-charyn-canyon-enters-world-top-20-sary-bulak-eyes-its-own-gorge",
+  "headline": "Charyn Canyon Enters World Top 20; Sary-Bulak Eyes Its Own Gorge",
+  "dek": "Kazakhstan's red-rock canyon ranks 17th in an international list after a fifteenfold rise in visitors, and Sary-Bulak asks what that could mean for Kara-Suu.",
+  "ticker": "Charyn Canyon ranks 17th worldwide; Sary-Bulak weighs Kara-Suu walkers",
+  "category": "Regional",
+  "dateline": "TALAS",
+  "image": "photos/kara-suu-canyon.jpg",
+  "published": "2026-11-16T11:19+06:00"
+ },
+ {
+  "slug": "2026-11-16-bank-of-irad-issues-orchard-silver-coin-bazar-i-kalan-dealers-expect-g",
+  "headline": "Bank of Irad Issues Orchard Silver Coin; Bazar-i Kalan Dealers Expect Gift Rush",
+  "dek": "A new collector coin inspired by the Chu and Fergana rim orchard villages goes on sale from today ahead of the winter gifting season.",
+  "ticker": "Bank of Irad orchard silver coin on sale today in Bazar-i Kalan",
+  "category": "Economy",
+  "dateline": "TALAS",
+  "image": "photos/bank-of-irad-press.jpg",
+  "published": "2026-11-16T10:11+06:00"
+ },
+ {
   "slug": "2026-11-15-bishkek-plans-15-mw-floating-solar-plant-iradenergo-weighs-winter-supp",
   "headline": "Bishkek Plans 15 MW Floating Solar Plant; Iradenergo Weighs Winter Supply",
   "dek": "Kyrgyzstan's energy ministry wants panels on the water at HPP-5, and Talas reads it against its own solar park and the Naryn cascade.",
@@ -440,16 +480,6 @@
   "published": "2026-10-30T08:01+06:00"
  },
  {
-  "slug": "2026-10-30-sary-bulak-counts-216-6-million-in-mining-investment-as-antimony-reviv",
-  "headline": "Sary-Bulak Counts $216.6 Million in Mining Investment as Antimony Revival Gathers Pace",
-  "dek": "District officials tell the Lieutenant Governor that pledged and spent money in antimony since 2024 has reached US$216.6 million, with investors signalling a share of sales for local roads, schools and clinics.",
-  "ticker": "Sary-Bulak mining investment put at $216.6m on Lieutenant Governor's visit",
-  "category": "Economy",
-  "dateline": "SARY-BULAK",
-  "image": "photos/livestock-bazaar.jpg",
-  "published": "2026-10-30T08:00+06:00"
- },
- {
   "slug": "2026-10-30-sary-bulak-plans-146-mw-small-hydro-cascade-on-the-chatkal-river",
   "headline": "Sary-Bulak Plans 146 MW Small-Hydro Cascade on the Chatkal River",
   "dek": "District head Taalaibek Imashev told residents that Iradenergo would buy the output of a chain of small stations, the first at the Chatkal valley mouth.",
@@ -457,6 +487,16 @@
   "category": "Energy",
   "dateline": "SARY-BULAK",
   "image": "photos/iradenergo-office.jpg",
+  "published": "2026-10-30T08:00+06:00"
+ },
+ {
+  "slug": "2026-10-30-sary-bulak-counts-216-6-million-in-mining-investment-as-antimony-reviv",
+  "headline": "Sary-Bulak Counts $216.6 Million in Mining Investment as Antimony Revival Gathers Pace",
+  "dek": "District officials tell the Lieutenant Governor that pledged and spent money in antimony since 2024 has reached US$216.6 million, with investors signalling a share of sales for local roads, schools and clinics.",
+  "ticker": "Sary-Bulak mining investment put at $216.6m on Lieutenant Governor's visit",
+  "category": "Economy",
+  "dateline": "SARY-BULAK",
+  "image": "photos/livestock-bazaar.jpg",
   "published": "2026-10-30T08:00+06:00"
  },
  {
