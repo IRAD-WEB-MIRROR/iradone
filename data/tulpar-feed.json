@@ -1,32 +1,90 @@
 {
- "updated": "2026-11-16T06:58+06:00",
+ "updated": "2026-11-17T03:09+06:00",
  "posts": [
   {
-   "id": "d1116-jarysh-s1",
-   "handle": "jarysh",
-   "time": "2026-11-16T16:25+06:00",
+   "id": "d1117-iradtimes-s1",
+   "handle": "iradtimes",
+   "time": "2026-11-17T17:04+06:00",
    "text": {
-    "en": "In case you missed it: Is Daniel Sagynbaev Coming to Ulak Nights? Nurik: Maybe",
-    "ir": "Okuy elek bolsoñuz: Is Daniel Sagynbaev Coming to Ulak Nights? Nurik: Maybe",
-    "ru": "Если пропустили: Is Daniel Sagynbaev Coming to Ulak Nights? Nurik: Maybe"
+    "en": "In case you missed it: The $300 limit has a side door, and state contractors hold the key",
+    "ir": "Okuy elek bolsoñuz: The $300 limit has a side door, and state contractors hold the key",
+    "ru": "Если пропустили: The $300 limit has a side door, and state contractors hold the key"
    },
    "link": {
-    "url": "https://jarysh.com/news/sagynbaev-ulak-nights.html",
-    "site": "jarysh.com",
-    "title": "Is Daniel Sagynbaev Coming to Ulak Nights? Nurik: Maybe",
-    "desc": "Daniel Sagynbaev rode two training sessions with Talas and his video went viral. Now Jarysh wants him on the deck.",
-    "image": "https://jarysh.com/img/crowd.jpg"
+    "url": "https://iradtimes.com/2026/10/talasbank-dollar-limit-exemptions-for-state-contractors.html",
+    "site": "iradtimes.com",
+    "title": "The $300 limit has a side door, and state contractors hold the key",
+    "desc": "A Talasbank circular seen by the Times exempts “priority payroll and import accounts” from the monthly dollar cap. Most of the 41 firms on the list do business with the state.",
+    "image": "https://iradtimes.com/img/og-default.jpg"
    },
    "stats": {
-    "replies": 32,
-    "reposts": 118,
-    "likes": 1081
+    "replies": 66,
+    "reposts": 99,
+    "likes": 1104
    }
   },
   {
-   "id": "d1116-vnurzhan-s1",
+   "id": "d1117-arshakitep-promo3",
+   "handle": "arshakitep",
+   "time": "2026-11-17T17:00+06:00",
+   "text": {
+    "en": "A cold November evening is made for reading. Arsha Books, an independent press in Köhne Diz since 2009: poetry, stories and songs in Iradi, Russian and English, and the Ottuk Library in English.",
+    "ir": "Kıştın suuk kéçi kitep okuuga ılayık. Arsha Books, Köhne Dizdegi öz aldına basma, 2009-jıldan beri: ırlar, hikayalar jana ánder iradça, orusça jana inglisçe, ayrıca Ottuk Library inglisçe.",
+    "ru": "Холодный ноябрьский вечер создан для чтения. Arsha Books, независимое издательство в Кёхне-Дизе с 2009 года: стихи, рассказы и песни на ирадском, русском и английском, а также Ottuk Library на английском."
+   },
+   "stats": {
+    "replies": 25,
+    "reposts": 34,
+    "likes": 285
+   }
+  },
+  {
+   "id": "d1117-jarysh-s1",
+   "handle": "jarysh",
+   "time": "2026-11-17T16:46+06:00",
+   "text": {
+    "en": "In case you missed it: Talas 7, Sary-Bulak 4: Four From Four at the Hippodrome",
+    "ir": "Okuy elek bolsoñuz: Talas 7, Sary-Bulak 4: Four From Four at the Hippodrome",
+    "ru": "Если пропустили: Talas 7, Sary-Bulak 4: Four From Four at the Hippodrome"
+   },
+   "link": {
+    "url": "https://jarysh.com/news/talas-seven-sary-bulak-four.html",
+    "site": "jarysh.com",
+    "title": "Talas 7, Sary-Bulak 4: Four From Four at the Hippodrome",
+    "desc": "Adilet Turdumamat uulu scores three as Talas stay perfect, Semiz finally get a point, and 15,200 people drink the Aigyr Deck dry by 22:40.",
+    "image": "https://jarysh.com/img/hero.jpg"
+   },
+   "stats": {
+    "replies": 59,
+    "reposts": 149,
+    "likes": 994
+   }
+  },
+  {
+   "id": "d1117-iradgov-s1",
+   "handle": "iradgov",
+   "time": "2026-11-17T15:45+06:00",
+   "text": {
+    "en": "In case you missed it: Census of business entities begins: enumerators visit firms, farms and stalls until 30 November",
+    "ir": "Okuy elek bolsoñuz: Ishkanalardın sanagı bashtaldı: kattoochular 30-noyabrga cheyin firmalardı, dıykan charbaların jana sooda orundarın kıdırat",
+    "ru": "Если пропустили: Начата перепись хозяйствующих субъектов: счётчики обходят фирмы, фермы и торговые места до 30 ноября"
+   },
+   "link": {
+    "url": "https://iradgov.org/releases/2026-10-15-business-census.html",
+    "site": "iradgov.org",
+    "title": "Census of business entities begins: enumerators visit firms, farms and stalls until 30 November",
+    "desc": "The first count of all business entities in the ISEZ runs from 15 October to 30 November. Answers are used for statistics only."
+   },
+   "stats": {
+    "replies": 35,
+    "reposts": 61,
+    "likes": 511
+   }
+  },
+  {
+   "id": "d1117-vnurzhan-s1",
    "handle": "vnurzhan",
-   "time": "2026-11-16T15:48+06:00",
+   "time": "2026-11-17T13:36+06:00",
    "text": {
     "en": "In case you missed it: Will your wage stretch? Work it out yourself",
     "ir": "Okuy elek bolsoñuz: Will your wage stretch? Work it out yourself",
@@ -40,77 +98,53 @@
     "image": "https://vnurzhan.com/photos/vn_market_trader.jpg"
    },
    "stats": {
-    "replies": 30,
-    "reposts": 56,
-    "likes": 510
+    "replies": 22,
+    "reposts": 89,
+    "likes": 747
    }
   },
   {
-   "id": "d1116-iradtimes-s1",
-   "handle": "iradtimes",
-   "time": "2026-11-16T12:43+06:00",
+   "id": "d1117-kochaudio-wo-koch-kb-talas-1120",
+   "handle": "kochaudio",
+   "time": "2026-11-17T12:00+06:00",
    "text": {
-    "en": "In case you missed it: Canyon fees: small money, one omission",
-    "ir": "Okuy elek bolsoñuz: Canyon fees: small money, one omission",
-    "ru": "Если пропустили: Canyon fees: small money, one omission"
+    "en": "Friday 20 November at 20:00: Kök Bel, Club Doran, Talas. 300 som.",
+    "ru": "пятница, 20 ноября в 20:00: Kök Bel, Club Doran, Талас."
    },
    "link": {
-    "url": "https://iradtimes.com/2026/11/canyon-fees-small-money-one-omission.html",
-    "site": "iradtimes.com",
-    "title": "Canyon fees: small money, one omission",
-    "desc": "Car-park and guide fees at the mouth of the Kara-Suu Canyon brought about IS 610,000 into the Sary-Bulak District budget in January–September, the district…",
-    "image": "https://iradtimes.com/img/og-default.jpg"
+    "url": "https://kochaudio.online/#live",
+    "site": "kochaudio.online",
+    "title": "Kök Bel"
    },
    "stats": {
-    "replies": 55,
-    "reposts": 79,
-    "likes": 798
+    "replies": 12,
+    "reposts": 45,
+    "likes": 418
    }
   },
   {
-   "id": "d1116-nurgaz-promo4",
-   "handle": "nurgaz",
-   "time": "2026-11-16T12:00+06:00",
+   "id": "d1117-jilmay-promo1",
+   "handle": "jilmay",
+   "time": "2026-11-17T10:30+06:00",
    "text": {
-    "en": "NurGaz runs about 60% of Irad's filling stations: 65 in Talas, 43 in Nurzhan, 11 in Iyık Janyl. Look for the black forecourt with the orange band, Neftchi's colours. Winter road tip: the Ala-Bel needs chains or winter tyres.",
-    "ir": "NurGaz Iraddagı ýönilgi stansalarınıñ 60% çamasın işletet: Talasta 65, Nurjanda 43, Iyık Janılda 11. Kara meydançaga apelsin sızık tartılgan stansanı izdeñiz: bul Neftçiniñ tüstörü. Kışkı jol keñeşi: Ala-Belge zınjır yaki kışkı şinalar kerek.",
-    "ru": "NurGaz держит около 60% заправок Ирада: 65 в Таласе, 43 в Нуржане, 11 в Йык-Жаныле. Ищите чёрную площадку с оранжевой полосой, цвета «Нефтчи». Зимний совет: на Ала-Бел нужны цепи или зимняя резина."
+    "en": "Jılmay Cargo brings your parcels from a Bishkek warehouse in 5-9 days 📦 $3.50 a kilo to the cities, $4.80 to the ISEZ districts, $8.00 to the ATR. Cargo and outside purchases are in US dollars only.",
+    "ir": "Jılmay Cargo posılkalarıñızdı Bişkektegi ambardan 5-9 künde ákelet 📦 Şaarlarga kilosu $3.50, ISEZ rayondoruna $4.80, ATRga $8.00. Cargo jana sırtkı satıp alulardın bahası AKŞ dolları menen gana.",
+    "ru": "Jılmay Cargo привозит посылки со склада в Бишкеке за 5-9 дней 📦 $3.50 за кило до городов, $4.80 в районы ISEZ, $8.00 в АТР. Cargo и внешние покупки считаются только в долларах США."
    },
    "stats": {
-    "replies": 14,
-    "reposts": 16,
-    "likes": 234
+    "replies": 13,
+    "reposts": 15,
+    "likes": 260
    }
   },
   {
-   "id": "d1116-iradgov-s1",
-   "handle": "iradgov",
-   "time": "2026-11-16T10:45+06:00",
-   "text": {
-    "en": "Toktogul Hydropower Plant Named Finalist for International Award",
-    "ir": "Toktogul suu elektr stantsiyasy düynölük syilyktyn finalisti boldu",
-    "ru": "Токтогульская ГЭС названа финалистом международной премии"
-   },
-   "link": {
-    "url": "https://iradgov.org/releases/2026-11-14-toktogul-hydropower-plant-named-finalist-for-int.html",
-    "site": "iradgov.org",
-    "title": "Toktogul Hydropower Plant Named Finalist for International Award",
-    "desc": "The modernised Toktogul hydropower plant, run by Iradenergo and rebuilt to 1,440 MW, has been named a finalist for a global power-plant award, a Kyrgyz news agency reported on 11 November. The Office of the Governor notes the recognition of the station's engineers and operators."
-   },
-   "stats": {
-    "replies": 17,
-    "reposts": 26,
-    "likes": 448
-   }
-  },
-  {
-   "id": "d1116-bankofirad-rates",
+   "id": "d1117-bankofirad-rates",
    "handle": "bankofirad",
-   "time": "2026-11-16T09:00+06:00",
+   "time": "2026-11-17T09:00+06:00",
    "text": {
-    "en": "Official rates of the som for Monday 16 November: US dollar 8.40 · euro 9.27 · 100 rubles 10.19 · 100 tenge 1.89 · 100 Kyrgyz som 9.60 · yuan 1.26.",
-    "ir": "16-noyabr, düyshömbü: somdun rasmiy kurstarı: AKSh dolları 8,40 · evro 9,27 · 100 rubl 10,19 · 100 teñge 1,89 · 100 kırgız somu 9,60 · yuan 1,26.",
-    "ru": "Официальные курсы сома на понедельник, 16 ноября: доллар США 8,40 · евро 9,27 · 100 рублей 10,19 · 100 тенге 1,89 · 100 кыргызских сомов 9,60 · юань 1,26."
+    "en": "Official rates of the som for Tuesday 17 November: US dollar 8.40 · euro 9.27 · 100 rubles 10.17 · 100 tenge 1.89 · 100 Kyrgyz som 9.60 · yuan 1.26.",
+    "ir": "17-noyabr, sheyshembi: somdun rasmiy kurstarı: AKSh dolları 8,40 · evro 9,27 · 100 rubl 10,17 · 100 teñge 1,89 · 100 kırgız somu 9,60 · yuan 1,26.",
+    "ru": "Официальные курсы сома на вторник, 17 ноября: доллар США 8,40 · евро 9,27 · 100 рублей 10,17 · 100 тенге 1,89 · 100 кыргызских сомов 9,60 · юань 1,26."
    },
    "link": {
     "url": "https://bank.iradgov.org/rates.html",
@@ -118,43 +152,58 @@
     "title": "Official rates of the som"
    },
    "stats": {
-    "replies": 38,
-    "reposts": 82,
-    "likes": 634
+    "replies": 28,
+    "reposts": 45,
+    "likes": 350
    }
   },
   {
-   "id": "d1116-iradiya-promo1",
-   "handle": "iradiya",
-   "time": "2026-11-16T09:00+06:00",
+   "id": "d1117-shipa-promo2",
+   "handle": "shipa",
+   "time": "2026-11-17T09:00+06:00",
    "text": {
-    "en": "One route, and it's ours: Talas–Tash-Kömür, the only scheduled flight in Irad. Winter note: State Route 1 closes for snow at the Ala-Bel about 20 days a winter. Plan your journey with that in mind. ✈️",
-    "ir": "Bir marşrut, ol bizdiki: Talas–Taş-Kömür, Iradda jalgız muňöttüü aba reysi. Kış eskertüüsü: 1-Memlekettik jol Ala-Belde kar sebebinen kışına 20 künçö jabılat. Sapardı ošoňo karap uyuşturuñuz. ✈️",
-    "ru": "Один маршрут, и он наш: Талас – Ташкумыр, единственный регулярный рейс в Ираде. Зимняя заметка: Государственная трасса 1 закрывается из-за снега на Ала-Беле примерно на 20 дней за зиму. Планируйте поездку с учётом этого. ✈️"
+    "en": "Heating season is on and the air is heavy in Nurzhan, Talas and Iyık Janyl today. Dress warmly and ask your pharmacist for advice. Shıpa Dariykana: 71 pharmacies, 34 in Talas, 23 in Nurzhan, 14 in Iyık Janyl.",
+    "ir": "Jıluu mezgili baştaldı, búgün Nurjan, Talas jana Iyık Janılda aba aarlap tur. Jılıp kiyiniñiz, dariger-farmasevtten keñeş sorañız. Shıpa Dariykana: 71 dariykana, Talasta 34, Nurjanda 23, Iyık Janılda 14.",
+    "ru": "Идёт отопительный сезон, и сегодня в Нуржане, Таласе и Иык-Жаныле тяжёлый воздух. Одевайтесь тепло и спрашивайте совета у фармацевта. Shıpa Dariykana: 71 аптека, 34 в Таласе, 23 в Нуржане, 14 в Иык-Жаныле."
    },
    "stats": {
-    "replies": 4,
-    "reposts": 21,
-    "likes": 166
+    "replies": 35,
+    "reposts": 59,
+    "likes": 596
    }
   },
   {
-   "id": "d1116-iradone-wx",
+   "id": "d1117-nurgaz-promo4",
+   "handle": "nurgaz",
+   "time": "2026-11-17T08:15+06:00",
+   "text": {
+    "en": "Fog in Nurzhan and Iyık Janyl this morning: low beams, slow down. Ala-Bel is open, chains or winter tyres required. NurGaz: 65 stations in Talas, 43 in Nurzhan, 11 in Iyık Janyl. Black with an orange band.",
+    "ir": "Búgün tañerteñ Nurjan jana Iyık Janılda tuman: jakın jaryk janıñız, tezdikti azaytıñız. Ala-Bel açık, zınjır yaki kıştık şina kerek. NurGaz: Talasta 65, Nurjanda 43, Iyık Janılda 11 bekét. Kara, ortosunda kızıl-sarı zolok.",
+    "ru": "Сегодня утром туман в Нуржане и Иык-Жаныле: включайте ближний свет, сбавьте скорость. Ала-Бель открыт, нужны цепи или зимняя резина. NurGaz: 65 станций в Таласе, 43 в Нуржане, 11 в Иык-Жаныле. Чёрные, с оранжевой полосой."
+   },
+   "stats": {
+    "replies": 49,
+    "reposts": 74,
+    "likes": 622
+   }
+  },
+  {
+   "id": "d1117-iradone-wx",
    "handle": "iradone",
-   "time": "2026-11-16T07:05+06:00",
+   "time": "2026-11-17T07:05+06:00",
    "text": {
-    "en": "Weather, 16 November: Talas 6°/-4° mainly clear · Nurzhan 8°/-5° mainly clear · Iyık Janyl 13°/-1° cloudy.",
-    "ir": "Aba ırayı, 16-noyabr: Talas 6°/-4° negizinen achık · Nurzhan 8°/-5° negizinen achık · Iyık Janyl 13°/-1° bulut.",
-    "ru": "Погода, 16 ноября: Талас 6°/-4° преимущественно ясно · Нуржан 8°/-5° преимущественно ясно · Ийык Джаныл 13°/-1° облачно."
+    "en": "Weather, 17 November: Talas 6°/-5° clear · Nurzhan 4°/-5° fog · Iyık Janyl 8°/0° fog.",
+    "ir": "Aba ırayı, 17-noyabr: Talas 6°/-5° achık · Nurzhan 4°/-5° tuman · Iyık Janyl 8°/0° tuman.",
+    "ru": "Погода, 17 ноября: Талас 6°/-5° ясно · Нуржан 4°/-5° туман · Ийык Джаныл 8°/0° туман."
    },
    "stats": {
-    "replies": 5,
-    "reposts": 12,
-    "likes": 181
+    "replies": 3,
+    "reposts": 4,
+    "likes": 75
    }
   },
   {
-   "id": "d1116-talasherald-n4",
+   "id": "d1117-talasherald-n4",
    "handle": "talasherald",
    "time": "2026-11-13T05:50+06:00",
    "text": {
@@ -168,13 +217,13 @@
     "image": "https://talasherald.com/photos/city-classroom.jpg"
    },
    "stats": {
-    "replies": 14,
-    "reposts": 42,
-    "likes": 286
+    "replies": 81,
+    "reposts": 162,
+    "likes": 1353
    }
   },
   {
-   "id": "d1116-talasherald-n3",
+   "id": "d1117-talasherald-n3",
    "handle": "talasherald",
    "time": "2026-11-13T05:41+06:00",
    "text": {
@@ -188,9 +237,9 @@
     "image": "https://talasherald.com/photos/bazar-i-kalan.jpg"
    },
    "stats": {
-    "replies": 26,
-    "reposts": 26,
-    "likes": 441
+    "replies": 6,
+    "reposts": 5,
+    "likes": 78
    }
   },
   {
@@ -343,7 +392,7 @@
    }
   },
   {
-   "id": "d1116-iradone-n4",
+   "id": "d1117-iradone-n4",
    "handle": "iradone",
    "time": "2026-11-12T08:45+06:00",
    "text": {
@@ -357,13 +406,13 @@
     "image": "https://iradone.com/photos/pass-road-lorry.jpg"
    },
    "stats": {
-    "replies": 23,
-    "reposts": 52,
-    "likes": 331
+    "replies": 6,
+    "reposts": 16,
+    "likes": 96
    }
   },
   {
-   "id": "d1116-iradone-n3",
+   "id": "d1117-iradone-n3",
    "handle": "iradone",
    "time": "2026-11-12T08:24+06:00",
    "text": {
@@ -377,13 +426,13 @@
     "image": "https://iradone.com/photos/server-room.jpg"
    },
    "stats": {
-    "replies": 34,
-    "reposts": 90,
-    "likes": 1135
+    "replies": 60,
+    "reposts": 156,
+    "likes": 1206
    }
   },
   {
-   "id": "d1116-iradone-n2",
+   "id": "d1117-iradone-n2",
    "handle": "iradone",
    "time": "2026-11-12T08:17+06:00",
    "text": {
@@ -397,13 +446,13 @@
     "image": "https://iradone.com/photos/bazar-i-kalan.jpg"
    },
    "stats": {
-    "replies": 65,
-    "reposts": 83,
-    "likes": 933
+    "replies": 49,
+    "reposts": 91,
+    "likes": 706
    }
   },
   {
-   "id": "d1116-iradone-n1",
+   "id": "d1117-iradone-n1",
    "handle": "iradone",
    "time": "2026-11-12T08:14+06:00",
    "text": {
@@ -417,9 +466,9 @@
     "image": "https://iradone.com/photos/city-classroom.jpg"
    },
    "stats": {
-    "replies": 6,
-    "reposts": 26,
-    "likes": 154
+    "replies": 48,
+    "reposts": 57,
+    "likes": 963
    }
   },
   {
@@ -438,7 +487,7 @@
    }
   },
   {
-   "id": "d1116-talasherald-n2",
+   "id": "d1117-talasherald-n2",
    "handle": "talasherald",
    "time": "2026-11-12T05:50+06:00",
    "text": {
@@ -452,13 +501,13 @@
     "image": "https://talasherald.com/photos/pass-road-lorry.jpg"
    },
    "stats": {
-    "replies": 4,
-    "reposts": 7,
-    "likes": 61
+    "replies": 27,
+    "reposts": 32,
+    "likes": 463
    }
   },
   {
-   "id": "d1116-talasherald-n1",
+   "id": "d1117-talasherald-n1",
    "handle": "talasherald",
    "time": "2026-11-12T05:41+06:00",
    "text": {
@@ -472,9 +521,9 @@
     "image": "https://talasherald.com/photos/server-room.jpg"
    },
    "stats": {
-    "replies": 65,
-    "reposts": 56,
-    "likes": 937
+    "replies": 24,
+    "reposts": 73,
+    "likes": 817
    }
   },
   {
@@ -2652,272 +2701,6 @@
     "replies": 52,
     "reposts": 131,
     "likes": 1317
-   }
-  },
-  {
-   "id": "d1103-vnurzhan-s1",
-   "handle": "vnurzhan",
-   "time": "2026-11-03T16:27+06:00",
-   "text": {
-    "en": "In case you missed it: Coal for winter: Kyrgyzstan froze prices, we have not",
-    "ir": "Okuy elek bolsoñuz: Coal for winter: Kyrgyzstan froze prices, we have not",
-    "ru": "Если пропустили: Уголь на зиму: в Кыргызстане цены заморозили, у нас — нет"
-   },
-   "link": {
-    "url": "https://vnurzhan.com/en/news/ugol-bez-potolka-tsen.html",
-    "site": "vnurzhan.com",
-    "title": "Coal for winter: Kyrgyzstan froze prices, we have not",
-    "desc": "Since 22 October Kyrgyzstan has had a 90-day price control on coal for households. Irad has no price regulation for household coal, and none is planned.",
-    "image": "https://vnurzhan.com/photos/vn_coal.jpg"
-   },
-   "stats": {
-    "replies": 100,
-    "reposts": 134,
-    "likes": 1119
-   }
-  },
-  {
-   "id": "d1103-iradgov-s1",
-   "handle": "iradgov",
-   "time": "2026-11-03T14:14+06:00",
-   "text": {
-    "en": "Lower Naryn District to Complete Water Storage Tank for Rim Villages in 2027 Budget",
-    "ir": "Tömönkü Naryn rayonu suu saktagych tankty 2027-jylkı byudjetten bütüröt",
-    "ru": "Нижне-Нарынский район достроит резервуар для воды в селах предгорья за счёт бюджета 2027 года"
-   },
-   "link": {
-    "url": "https://iradgov.org/releases/2026-11-02-lower-naryn-district-to-complete-water-storage-t.html",
-    "site": "iradgov.org",
-    "title": "Lower Naryn District to Complete Water Storage Tank for Rim Villages in 2027 Budget",
-    "desc": "Following a Talas State University household survey in Korgoncho, Sopol-Tepa and Kyzyl-Oktyabr, the Lower Naryn District Administration has announced that it will fund the completion of the water scheme's storage tank in the 2027 budget."
-   },
-   "stats": {
-    "replies": 33,
-    "reposts": 58,
-    "likes": 834
-   }
-  },
-  {
-   "id": "d1103-torgoy-promo2",
-   "handle": "torgoy",
-   "time": "2026-11-03T12:30+06:00",
-   "text": {
-    "en": "Family across the border? Beeline Kazakhstan SIMs with +7 numbers in every Torgoy shop, paid in som. 🐦",
-    "ir": "Tuugandarıñız chek aranın arjagındabı? +7 nomerdüü Beeline Kazakhstan SIM-kartaları ar bir Torgoy dükönündö. 🐦",
-    "ru": "Родные за границей? Сим-карты Beeline Kazakhstan с номерами +7 — в каждом магазине «Торгой». 🐦"
-   },
-   "stats": {
-    "replies": 23,
-    "reposts": 61,
-    "likes": 385
-   }
-  },
-  {
-   "id": "d1103-kochaudio-wo-koch-eu-talas-1106",
-   "handle": "kochaudio",
-   "time": "2026-11-03T12:00+06:00",
-   "text": {
-    "en": "Friday 6 November at 19:00: Eski Ün, Chaikhana Bakyt, Bazar-i Kalan, Talas. 150 som.",
-    "ru": "пятница, 6 ноября в 19:00: Eski Ün, Chaikhana Bakyt, Bazar-i Kalan, Талас."
-   },
-   "link": {
-    "url": "https://kochaudio.online/#live",
-    "site": "kochaudio.online",
-    "title": "Eski Ün"
-   },
-   "stats": {
-    "replies": 50,
-    "reposts": 57,
-    "likes": 716
-   }
-  },
-  {
-   "id": "d1103-iradtimes-s1",
-   "handle": "iradtimes",
-   "time": "2026-11-03T11:50+06:00",
-   "text": {
-    "en": "In case you missed it: Toktogul’s extra 240 MW",
-    "ir": "Okuy elek bolsoñuz: Toktogul’s extra 240 MW",
-    "ru": "Если пропустили: Toktogul’s extra 240 MW"
-   },
-   "link": {
-    "url": "https://iradtimes.com/2026/10/brief-toktogul-extra-240-mw.html",
-    "site": "iradtimes.com",
-    "title": "Toktogul’s extra 240 MW",
-    "desc": "The Toktogul complex will export an additional 240 megawatts this winter after the refit of two units, the Ministry of Energy said. It did not say how the…",
-    "image": "https://iradtimes.com/img/og-default.jpg"
-   },
-   "stats": {
-    "replies": 52,
-    "reposts": 82,
-    "likes": 750
-   }
-  },
-  {
-   "id": "d1104-iradone-n2",
-   "handle": "iradone",
-   "time": "2026-11-03T11:45+06:00",
-   "text": {
-    "en": "Uzbek diplomat to lead Turkic States secretariat; ISEZ keeps practical Turkish ties"
-   },
-   "link": {
-    "url": "https://iradone.com/news/2026-11-03-uzbek-diplomat-named-turkic-states-secretary-general-irad-eyes-the-rim.html",
-    "site": "iradone.com",
-    "title": "Uzbek Diplomat Named Turkic States Secretary General; Irad Eyes the Rim",
-    "desc": "Uzbekistan's deputy foreign minister takes the post for the first time, and Talas weighs what a neighbour's gain means along the 145-km Fergana frontier.",
-    "image": "https://iradone.com/photos/talas-skyline.jpg"
-   },
-   "stats": {
-    "replies": 51,
-    "reposts": 187,
-    "likes": 1039
-   }
-  },
-  {
-   "id": "d1103-jarysh-s1",
-   "handle": "jarysh",
-   "time": "2026-11-03T11:19+06:00",
-   "text": {
-    "en": "In case you missed it: Boztorgoy v Karakoyun: Two Unbeaten Clans, One Goat",
-    "ir": "Okuy elek bolsoñuz: Boztorgoy v Karakoyun: Two Unbeaten Clans, One Goat",
-    "ru": "Если пропустили: Boztorgoy v Karakoyun: Two Unbeaten Clans, One Goat"
-   },
-   "link": {
-    "url": "https://jarysh.com/news/boztorgoy-karakoyun-the-big-one.html",
-    "site": "jarysh.com",
-    "title": "Boztorgoy v Karakoyun: Two Unbeaten Clans, One Goat",
-    "desc": "Five from five against five from five on the Moiynkum winter grounds. The Highland title could be decided on Saturday, if anyone can get a phone signal.",
-    "image": "https://jarysh.com/img/highland.jpg"
-   },
-   "stats": {
-    "replies": 63,
-    "reposts": 163,
-    "likes": 908
-   }
-  },
-  {
-   "id": "d1104-iradone-n1",
-   "handle": "iradone",
-   "time": "2026-11-03T11:15+06:00",
-   "text": {
-    "en": "Neftchi beat Tulpar 2–1 in derby decider, champions by one point"
-   },
-   "link": {
-    "url": "https://iradone.com/news/2026-11-03-neftchi-win-kara-ak-derby-21-to-take-irad-league-title-by-a-point.html",
-    "site": "iradone.com",
-    "title": "Neftchi Win Kara-Ak Derby 2–1 to Take Irad League Title by a Point",
-    "desc": "Neftchi Nurzhan overturned a two-point deficit on the last day to finish on 63 points, one ahead of Tulpar Talas.",
-    "image": "https://iradone.com/photos/derby-floodlights.jpg"
-   },
-   "stats": {
-    "replies": 4,
-    "reposts": 17,
-    "likes": 160
-   }
-  },
-  {
-   "id": "d1103-akbata-promo3",
-   "handle": "akbata",
-   "time": "2026-11-03T10:30+06:00",
-   "text": {
-    "en": "Ak Bata Bank, founded in Talas in 1995, now has 43 branches: 24 in Talas, 15 in Nurzhan and 4 in Iyık Janyl. We clear through the Bank of Irad Clearing House. Ak bata to your work.",
-    "ir": "Ak Bata Bank 1995-jılı Talasta negizdelgen, azır 43 bölümçösü bar: Talasta 24, Nurzhanda 15, Iyık Janylda 4. Biz Irad Bankının Kliring Üyü arkılıu hesaptaşabız. Işiñizge ak bata.",
-    "ru": "Ak Bata Bank, основанный в Таласе в 1995 году, сегодня имеет 43 отделения: 24 в Таласе, 15 в Нуржане и 4 в Ийык-Жаныле. Мы проводим расчёты через Клиринговую палату Банка Ирада. Ак бата вашему делу."
-   },
-   "stats": {
-    "replies": 29,
-    "reposts": 39,
-    "likes": 331
-   }
-  },
-  {
-   "id": "d1103-iradiya-promo1",
-   "handle": "iradiya",
-   "time": "2026-11-03T09:30+06:00",
-   "text": {
-    "en": "Iradiya flies the only scheduled route in Irad, Talas–Tash-Kömür. State Route 1 closes for snow at the Ala-Bel about 20 days a winter, so plan your winter trips early. ✈️",
-    "ir": "Iradiya Iradda jalgız katarlaşkan reysti uçat: Talas–Tash-Kömür. Memlekettik 1-jol Ala-Belde kışta 20 kündöy kar sebebinen jabılat, andıktan saparıñızdı erterek josparlañız. ✈️",
-    "ru": "Iradiya выполняет единственный регулярный рейс в Ираде: Талас–Таш-Кёмюр. Государственная трасса 1 закрывается из-за снега на Ала-Беле около 20 дней за зиму, так что планируйте зимние поездки заранее. ✈️"
-   },
-   "stats": {
-    "replies": 16,
-    "reposts": 32,
-    "likes": 412
-   }
-  },
-  {
-   "id": "d1103-bankofirad-rates",
-   "handle": "bankofirad",
-   "time": "2026-11-03T09:00+06:00",
-   "text": {
-    "en": "Official rates of the som for Tuesday 3 November: US dollar 8.40 · euro 9.37 · 100 rubles 10.42 · 100 tenge 1.85 · 100 Kyrgyz som 9.60 · yuan 1.26.",
-    "ir": "3-noyabr, sheyshembi: somdun rasmiy kurstarı: AKSh dolları 8,40 · evro 9,37 · 100 rubl 10,42 · 100 teñge 1,85 · 100 kırgız somu 9,60 · yuan 1,26.",
-    "ru": "Официальные курсы сома на вторник, 3 ноября: доллар США 8,40 · евро 9,37 · 100 рублей 10,42 · 100 тенге 1,85 · 100 кыргызских сомов 9,60 · юань 1,26."
-   },
-   "link": {
-    "url": "https://bank.iradgov.org/rates.html",
-    "site": "bank.iradgov.org",
-    "title": "Official rates of the som"
-   },
-   "stats": {
-    "replies": 42,
-    "reposts": 95,
-    "likes": 533
-   }
-  },
-  {
-   "id": "d1103-iradone-wx",
-   "handle": "iradone",
-   "time": "2026-11-03T07:05+06:00",
-   "text": {
-    "en": "Weather, 3 November: Talas 14°/1° clear · Nurzhan 13°/1° fog · Iyık Janyl 16°/6° mainly clear.",
-    "ir": "Aba ırayı, 3-noyabr: Talas 14°/1° achık · Nurzhan 13°/1° tuman · Iyık Janyl 16°/6° negizinen achık.",
-    "ru": "Погода, 3 ноября: Талас 14°/1° ясно · Нуржан 13°/1° туман · Ийык Джаныл 16°/6° преимущественно ясно."
-   },
-   "stats": {
-    "replies": 16,
-    "reposts": 44,
-    "likes": 339
-   }
-  },
-  {
-   "id": "d1104-talasherald-n2",
-   "handle": "talasherald",
-   "time": "2026-11-03T05:50+06:00",
-   "text": {
-    "en": "After $6.3bn exchange hack abroad, Tulparcoin's 3.59-cent quote rests on one venue"
-   },
-   "link": {
-    "url": "https://talasherald.com/news/2026-11-03-after-6-3bn-exchange-hack-abroad-tulparcoin-s-3-59-cent-quote-rests-on.html",
-    "site": "talasherald.com",
-    "title": "After $6.3bn exchange hack abroad, Tulparcoin's 3.59-cent quote rests on one venue",
-    "desc": "No report links the attack to the Seychelles exchange that lists the coin, but Tulpar Pay is due to settle only in Tulparcoin from 1 January.",
-    "image": "https://talasherald.com/photos/bank-of-irad-press.jpg"
-   },
-   "stats": {
-    "replies": 6,
-    "reposts": 22,
-    "likes": 133
-   }
-  },
-  {
-   "id": "d1104-talasherald-n1",
-   "handle": "talasherald",
-   "time": "2026-11-03T05:41+06:00",
-   "text": {
-    "en": "Central Asian power demand to rise 27% by 2030; Irad is not in the planning"
-   },
-   "link": {
-    "url": "https://talasherald.com/news/2026-11-03-central-asian-power-demand-to-rise-27-by-2030-irad-is-not-in-the-plann.html",
-    "site": "talasherald.com",
-    "title": "Central Asian power demand to rise 27% by 2030; Irad is not in the planning",
-    "desc": "Toktogul, rated at 1,440 MW since the October refit, will sell into that demand, but the 2027 Naryn schedule is still to be agreed and the clans' revenue annex is unpublished.",
-    "image": "https://talasherald.com/photos/toktogul-autumn.jpg"
-   },
-   "stats": {
-    "replies": 53,
-    "reposts": 226,
-    "likes": 1335
    }
   }
  ]
