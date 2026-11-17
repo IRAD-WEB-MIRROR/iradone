@@ -1,6 +1,143 @@
 {
- "updated": "2026-11-17T03:09+06:00",
+ "updated": "2026-11-18T03:08+06:00",
  "posts": [
+  {
+   "id": "d1118-iradgov-s1",
+   "handle": "iradgov",
+   "time": "2026-11-18T17:58+06:00",
+   "text": {
+    "en": "In case you missed it: Lower Naryn District to Complete Water Storage Tank for Rim Villages in 2027 Budget",
+    "ir": "Okuy elek bolsoñuz: Tömönkü Naryn rayonu suu saktagych tankty 2027-jylkı byudjetten bütüröt",
+    "ru": "Если пропустили: Нижне-Нарынский район достроит резервуар для воды в селах предгорья за счёт бюджета 2027 года"
+   },
+   "link": {
+    "url": "https://iradgov.org/releases/2026-11-02-lower-naryn-district-to-complete-water-storage-t.html",
+    "site": "iradgov.org",
+    "title": "Lower Naryn District to Complete Water Storage Tank for Rim Villages in 2027 Budget",
+    "desc": "Following a Talas State University household survey in Korgoncho, Sopol-Tepa and Kyzyl-Oktyabr, the Lower Naryn District Administration has announced that it will fund the completion of the water scheme's storage tank in the 2027 budget."
+   },
+   "stats": {
+    "replies": 34,
+    "reposts": 57,
+    "likes": 570
+   }
+  },
+  {
+   "id": "d1118-jarysh-s1",
+   "handle": "jarysh",
+   "time": "2026-11-18T15:00+06:00",
+   "text": {
+    "en": "In case you missed it: Ilyasov Offers Semiz a Tulparcoin Deal. Directorate: No",
+    "ir": "Okuy elek bolsoñuz: Ilyasov Offers Semiz a Tulparcoin Deal. Directorate: No",
+    "ru": "Если пропустили: Ilyasov Offers Semiz a Tulparcoin Deal. Directorate: No"
+   },
+   "link": {
+    "url": "https://jarysh.com/news/ilyasov-semiz-tulparcoin.html",
+    "site": "jarysh.com",
+    "title": "Ilyasov Offers Semiz a Tulparcoin Deal. Directorate: No",
+    "desc": "Jason Ilyasov offered winless Semiz a sponsorship deal paid in Tulparcoin. The Directorate says prize money must be \"in lawful currency\".",
+    "image": "https://jarysh.com/img/club.jpg"
+   },
+   "stats": {
+    "replies": 43,
+    "reposts": 113,
+    "likes": 876
+   }
+  },
+  {
+   "id": "d1118-vnurzhan-s1",
+   "handle": "vnurzhan",
+   "time": "2026-11-18T13:53+06:00",
+   "text": {
+    "en": "In case you missed it: Driverless lorries on the Kazakh-Chinese border: what it means for Chu Gate",
+    "ir": "Okuy elek bolsoñuz: Driverless lorries on the Kazakh-Chinese border: what it means for Chu Gate",
+    "ru": "Если пропустили: Беспилотные фуры на казахстанско-китайской границе: что это значит для «Чу-Гейта»"
+   },
+   "link": {
+    "url": "https://vnurzhan.com/en/news/besplotnye-gruzoviki-chu-gate.html",
+    "site": "vnurzhan.com",
+    "title": "Driverless lorries on the Kazakh-Chinese border: what it means for Chu Gate",
+    "desc": "Kazakhstan and China plan to test driverless lorries on cross-border routes. Irad is not part of the project, and none of the announced routes crosses ISEZ territory.",
+    "image": "https://vnurzhan.com/assets/og-image.png"
+   },
+   "stats": {
+    "replies": 38,
+    "reposts": 77,
+    "likes": 643
+   }
+  },
+  {
+   "id": "d1118-iradtimes-s1",
+   "handle": "iradtimes",
+   "time": "2026-11-18T13:20+06:00",
+   "text": {
+    "en": "In case you missed it: Coal buyers eye Kyrgyz price cap",
+    "ir": "Okuy elek bolsoñuz: Coal buyers eye Kyrgyz price cap",
+    "ru": "Если пропустили: Coal buyers eye Kyrgyz price cap"
+   },
+   "link": {
+    "url": "https://iradtimes.com/2026/10/coal-buyers-eye-kyrgyz-price-cap.html",
+    "site": "iradtimes.com",
+    "title": "Coal buyers eye Kyrgyz price cap",
+    "desc": "Households in the southern districts of the ISEZ and in the hillside Jogorku quarters of Iyık Janyl, where many homes burn coal, are buying their winter…",
+    "image": "https://iradtimes.com/img/og-default.jpg"
+   },
+   "stats": {
+    "replies": 40,
+    "reposts": 40,
+    "likes": 453
+   }
+  },
+  {
+   "id": "d1118-iradstrakh-promo1",
+   "handle": "iradstrakh",
+   "time": "2026-11-18T10:00+06:00",
+   "text": {
+    "en": "Your compulsory motor third-party policy can be renewed at any of our offices.",
+    "ir": "Mildettüü avtokamsızdandıruu polisin kaalagan bölümübüzdö jañırtsañız bolot.",
+    "ru": "Полис ОСАГО можно продлить в любом нашем офисе."
+   },
+   "stats": {
+    "replies": 25,
+    "reposts": 56,
+    "likes": 515
+   }
+  },
+  {
+   "id": "d1118-bankofirad-rates",
+   "handle": "bankofirad",
+   "time": "2026-11-18T09:00+06:00",
+   "text": {
+    "en": "Official rates of the som for Wednesday 18 November: US dollar 8.40 · euro 9.25 · 100 rubles 10.18 · 100 tenge 1.89 · 100 Kyrgyz som 9.60 · yuan 1.26.",
+    "ir": "18-noyabr, sharshembi: somdun rasmiy kurstarı: AKSh dolları 8,40 · evro 9,25 · 100 rubl 10,18 · 100 teñge 1,89 · 100 kırgız somu 9,60 · yuan 1,26.",
+    "ru": "Официальные курсы сома на среду, 18 ноября: доллар США 8,40 · евро 9,25 · 100 рублей 10,18 · 100 тенге 1,89 · 100 кыргызских сомов 9,60 · юань 1,26."
+   },
+   "link": {
+    "url": "https://bank.iradgov.org/rates.html",
+    "site": "bank.iradgov.org",
+    "title": "Official rates of the som"
+   },
+   "stats": {
+    "replies": 41,
+    "reposts": 89,
+    "likes": 691
+   }
+  },
+  {
+   "id": "d1118-iradone-wx",
+   "handle": "iradone",
+   "time": "2026-11-18T07:05+06:00",
+   "text": {
+    "en": "Weather, 18 November: Talas 5°/-4° clear · Nurzhan 3°/-7° fog · Iyık Janyl 8°/0° fog.",
+    "ir": "Aba ırayı, 18-noyabr: Talas 5°/-4° achık · Nurzhan 3°/-7° tuman · Iyık Janyl 8°/0° tuman.",
+    "ru": "Погода, 18 ноября: Талас 5°/-4° ясно · Нуржан 3°/-7° туман · Ийык Джаныл 8°/0° туман."
+   },
+   "stats": {
+    "replies": 8,
+    "reposts": 20,
+    "likes": 143
+   }
+  },
   {
    "id": "d1117-iradtimes-s1",
    "handle": "iradtimes",
@@ -200,6 +337,165 @@
     "replies": 3,
     "reposts": 4,
     "likes": 75
+   }
+  },
+  {
+   "id": "d1118-talasherald-n4",
+   "handle": "talasherald",
+   "time": "2026-11-16T06:41+06:00",
+   "text": {
+    "en": "Turkish-Qatari group wins 23-year Bukhara terminal deal; Talas has no such partner"
+   },
+   "link": {
+    "url": "https://talasherald.com/news/2026-11-16-turkish-qatari-group-wins-23-year-bukhara-terminal-deal-talas-has-no-s.html",
+    "site": "talasherald.com",
+    "title": "Turkish-Qatari group wins 23-year Bukhara terminal deal; Talas has no such partner",
+    "desc": "Uzbekistan keeps the airfield and hands the passenger building to a private operator, while Talas's terminal is still paid for and run by the state.",
+    "image": "https://talasherald.com/photos/talas-air-base.jpg"
+   },
+   "stats": {
+    "replies": 54,
+    "reposts": 231,
+    "likes": 1360
+   }
+  },
+  {
+   "id": "d1118-talasherald-n3",
+   "handle": "talasherald",
+   "time": "2026-11-14T05:51+06:00",
+   "text": {
+    "en": "The Herald's View: Teachers asked in June. The 2027 budget should answer them"
+   },
+   "link": {
+    "url": "https://talasherald.com/news/2026-11-14-teachers-asked-in-june-the-2027-budget-should-answer-them.html",
+    "site": "talasherald.com",
+    "title": "Teachers asked in June. The 2027 budget should answer them",
+    "desc": "Public pay is counted in som at 8.40 while rents and imports follow a dollar at nearly 12; the Mejlis should see the cost of each option before December."
+   },
+   "stats": {
+    "replies": 56,
+    "reposts": 136,
+    "likes": 801
+   }
+  },
+  {
+   "id": "d1118-talasherald-n2",
+   "handle": "talasherald",
+   "time": "2026-11-14T05:50+06:00",
+   "text": {
+    "en": "Bishkek bars flat sales before walls stand; Talas complex's prices stay unpublished"
+   },
+   "link": {
+    "url": "https://talasherald.com/news/2026-11-14-bishkek-bars-flat-sales-before-walls-stand-talas-complex-s-prices-stay.html",
+    "site": "talasherald.com",
+    "title": "Bishkek bars flat sales before walls stand; Talas complex's prices stay unpublished",
+    "desc": "Kyrgyzstan acted after more than 40 builders left buyers without flats; in western Talas, a 495-flat complex due in 2027 has published neither its prices nor its lenders.",
+    "image": "https://talasherald.com/photos/apartment-blocks.jpg"
+   },
+   "stats": {
+    "replies": 26,
+    "reposts": 35,
+    "likes": 295
+   }
+  },
+  {
+   "id": "d1118-talasherald-n1",
+   "handle": "talasherald",
+   "time": "2026-11-14T05:41+06:00",
+   "text": {
+    "en": "Tokyo courts Bishkek; Irad's antimony and orchards reach Japan on Kyrgyz paper"
+   },
+   "link": {
+    "url": "https://talasherald.com/news/2026-11-14-tokyo-courts-bishkek-irad-s-antimony-and-orchards-reach-japan-on-kyrgy.html",
+    "site": "talasherald.com",
+    "title": "Tokyo courts Bishkek; Irad's antimony and orchards reach Japan on Kyrgyz paper",
+    "desc": "Japanese trading houses buy Iradi antimony metal and trioxide, and Japanese glaciologists work with TSU, yet no Japanese office exists in the ISEZ and no ISEZ certificate carries weight in Tokyo.",
+    "image": "https://talasherald.com/photos/sary-bulak-mine.jpg"
+   },
+   "stats": {
+    "replies": 68,
+    "reposts": 151,
+    "likes": 1378
+   }
+  },
+  {
+   "id": "d1118-iradone-n4",
+   "handle": "iradone",
+   "time": "2026-11-13T14:45+06:00",
+   "text": {
+    "en": "Kyrgyzstan leads Central Asia in QR payments; Irad shoppers weigh card, Tulpar code or cash"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-13-kyrgyzstan-leads-region-in-qr-payments-irad-s-counter-codes-split-two.html",
+    "site": "iradone.com",
+    "title": "Kyrgyzstan Leads Region in QR Payments; Irad's Counter Codes Split Two Ways",
+    "desc": "Bishkek's fast-growing code payments bring new security worries, while in Irad the choice at the bazaar is a Talasbank card, a Tulpar code or cash.",
+    "image": "https://iradone.com/photos/talasbank-atms.jpg"
+   },
+   "stats": {
+    "replies": 78,
+    "reposts": 130,
+    "likes": 873
+   }
+  },
+  {
+   "id": "d1118-iradone-n3",
+   "handle": "iradone",
+   "time": "2026-11-13T13:59+06:00",
+   "text": {
+    "en": "Tash-Kömür industrial park signed: US$60m, 900 jobs; power terms to follow"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-13-us-60-million-industrial-park-signed-for-tash-komur-power-terms-to-fol.html",
+    "site": "iradone.com",
+    "title": "US$60 Million Industrial Park Signed for Tash-Kömür; Power Terms to Follow",
+    "desc": "The Investment Promotion Office has signed a Dubai-registered developer for a 120-hectare park expected to bring about 900 jobs to Lower Naryn, while Iradenergo says connection terms are still to be set.",
+    "image": "https://iradone.com/photos/tash-komur.jpg"
+   },
+   "stats": {
+    "replies": 33,
+    "reposts": 79,
+    "likes": 1129
+   }
+  },
+  {
+   "id": "d1118-iradone-n2",
+   "handle": "iradone",
+   "time": "2026-11-13T12:59+06:00",
+   "text": {
+    "en": "Bishkek bars flat sales before the structure stands; Talas projects on schedule"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-13-bishkek-bars-flat-sales-before-walls-stand-talas-buyers-look-at-their.html",
+    "site": "iradone.com",
+    "title": "Bishkek Bars Flat Sales Before Walls Stand; Talas Buyers Look at Their Own Sites",
+    "desc": "Kyrgyzstan has ended off-plan sales at the foundation stage after more than 40 firms left buyers without flats, and nothing changes in Irad.",
+    "image": "https://iradone.com/photos/city-rooftops-new-tower.jpg"
+   },
+   "stats": {
+    "replies": 16,
+    "reposts": 35,
+    "likes": 211
+   }
+  },
+  {
+   "id": "d1118-iradone-n1",
+   "handle": "iradone",
+   "time": "2026-11-13T11:49+06:00",
+   "text": {
+    "en": "Japan courts Bishkek; Irad's Japanese buyers already trade via neighbours' paper"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-13-japan-courts-bishkek-for-investment-irad-s-buyers-reach-it-via-neighbo.html",
+    "site": "iradone.com",
+    "title": "Japan Courts Bishkek for Investment; Irad's Buyers Reach It via Neighbours",
+    "desc": "Tokyo wants closer economic ties with Kyrgyzstan, and Irad, where Japan keeps no office, notes the Japanese buyers and scientists it already has.",
+    "image": "https://iradone.com/photos/sary-bulak-mine.jpg"
+   },
+   "stats": {
+    "replies": 54,
+    "reposts": 108,
+    "likes": 1080
    }
   },
   {
@@ -2454,253 +2750,6 @@
     "replies": 4,
     "reposts": 7,
     "likes": 94
-   }
-  },
-  {
-   "id": "d1104-aigyr-promo1",
-   "handle": "aigyr",
-   "time": "2026-11-04T17:30+06:00",
-   "text": {
-    "en": "Aigyr Lager, brewed in Kara-Bulak since 2009 and proud title sponsor of Aigyr Ulak Nights. Good evening, friends, and a good Wednesday to you. 18+. Please drink responsibly.",
-    "ir": "Aigyr Lager Kara-Bulakta 2009-jyldan beri ıştelip kelet, Aigyr Ulak Nights'tin baş homiyi bolgonubuzga kuvanabız. Dostor, keçiñiz ıraxat bolsun. 18+. Ölçöm menen iciñiz.",
-    "ru": "Aigyr Lager варят в Кара-Булаке с 2009 года, и мы гордимся титульным спонсорством Aigyr Ulak Nights. Хорошего вечера, друзья. 18+. Пейте ответственно."
-   },
-   "stats": {
-    "replies": 10,
-    "reposts": 34,
-    "likes": 341
-   }
-  },
-  {
-   "id": "d1104-iradtimes-s1",
-   "handle": "iradtimes",
-   "time": "2026-11-04T16:36+06:00",
-   "text": {
-    "en": "In case you missed it: “Secured by Iradi water”: nobody who runs the water has been asked",
-    "ir": "Okuy elek bolsoñuz: “Secured by Iradi water”: nobody who runs the water has been asked",
-    "ru": "Если пропустили: “Secured by Iradi water”: nobody who runs the water has been asked"
-   },
-   "link": {
-    "url": "https://iradtimes.com/2026/10/tulparcoin-water-nobody-who-runs-toktogul-has-heard-of-it.html",
-    "site": "iradtimes.com",
-    "title": "“Secured by Iradi water”: nobody who runs the water has been asked",
-    "desc": "Tulparcoin’s white paper rests on Toktogul. The complex, the Naryn commission and the Kökjal elders say no one has spoken to them.",
-    "image": "https://iradtimes.com/img/toktogul-dam-road.jpg"
-   },
-   "stats": {
-    "replies": 19,
-    "reposts": 26,
-    "likes": 384
-   }
-  },
-  {
-   "id": "d1104-iradgov-s1",
-   "handle": "iradgov",
-   "time": "2026-11-04T14:30+06:00",
-   "text": {
-    "en": "ISEZ Notes Appointment of New Secretary General of the Organization of Turkic States",
-    "ir": "Türk Mamleketteri Uyumunun bash katchysy: Özbekstandyn diplomaty",
-    "ru": "ОЭЗИ принимает к сведению назначение нового генерального секретаря Организации тюркских государств"
-   },
-   "link": {
-    "url": "https://iradgov.org/releases/2026-11-03-isez-notes-appointment-of-new-secretary-general.html",
-    "site": "iradgov.org",
-    "title": "ISEZ Notes Appointment of New Secretary General of the Organization of Turkic States",
-    "desc": "The Irad Special Economic Zone has noted the appointment of Uzbekistan's deputy foreign minister as Secretary General of the Organization of Turkic States. The External Relations Office expects daily business with Uzbek officials to continue as before."
-   },
-   "stats": {
-    "replies": 54,
-    "reposts": 98,
-    "likes": 1096
-   }
-  },
-  {
-   "id": "d1104-iradstrakh-promo2",
-   "handle": "iradstrakh",
-   "time": "2026-11-04T12:30+06:00",
-   "text": {
-    "en": "Your compulsory motor third-party policy can be renewed at any of our offices.",
-    "ir": "Mildettüü avtokamsızdandıruu polisin kaalagan bölümübüzdö jañırtsañız bolot.",
-    "ru": "Полис ОСАГО можно продлить в любом нашем офисе."
-   },
-   "stats": {
-    "replies": 33,
-    "reposts": 58,
-    "likes": 833
-   }
-  },
-  {
-   "id": "d1105-iradone-n2",
-   "handle": "iradone",
-   "time": "2026-11-04T11:45+06:00",
-   "text": {
-    "en": "Comic apologises to Kazakhstan; Irad recalls Swift Hooves and Homer's kazy"
-   },
-   "link": {
-    "url": "https://iradone.com/news/2026-11-04-after-a-comic-s-apology-to-kazakhstan-irad-recalls-its-own-screen-port.html",
-    "site": "iradone.com",
-    "title": "After a Comic's Apology to Kazakhstan, Irad Recalls Its Own Screen Portraits",
-    "desc": "A British comedian's apology to the Kazakh people has Talas remembering the Swift Hooves cowboys, Homer's kazy and a film it cannot watch at home.",
-    "image": "https://iradone.com/photos/tv-mast.jpg"
-   },
-   "stats": {
-    "replies": 13,
-    "reposts": 15,
-    "likes": 199
-   }
-  },
-  {
-   "id": "d1105-iradone-n1",
-   "handle": "iradone",
-   "time": "2026-11-04T11:02+06:00",
-   "text": {
-    "en": "Kyrgyz women's wrestler takes silver at Astana worlds; Irad had no team on the mats"
-   },
-   "link": {
-    "url": "https://iradone.com/news/2026-11-04-kyrgyz-wrestler-wins-world-silver-in-astana-irad-again-counts-its-mat.html",
-    "site": "iradone.com",
-    "title": "Kyrgyz Wrestler Wins World Silver in Astana; Irad Again Counts Its Mat Talent Abroad",
-    "desc": "A silver for Kyrgyzstan's women's team at the Astana worlds is welcomed in Talas, where Iradi wrestlers compete under neighbours' flags.",
-    "image": "https://iradone.com/photos/silk-road-arena.jpg"
-   },
-   "stats": {
-    "replies": 5,
-    "reposts": 17,
-    "likes": 135
-   }
-  },
-  {
-   "id": "d1104-iradleague-cupfinal",
-   "handle": "iradleague",
-   "time": "2026-11-04T11:00+06:00",
-   "text": {
-    "en": "Irad Cup final in 3 days: Neftchi v Attelkom, 14:00, Silk Road Arena. #IradCup",
-    "ir": "Irad Kubogunun finalı 3 kündön kiyin: Neftchi – Attelkom, 14:00, Jibek Jolu Arenasy. #IradCup",
-    "ru": "Финал Кубка Ирада через 3 дня: «Нефтчи» — «Аттелком», 14:00, Арена «Шёлковый путь». #IradCup"
-   },
-   "stats": {
-    "replies": 79,
-    "reposts": 221,
-    "likes": 1584
-   }
-  },
-  {
-   "id": "d1104-jarysh-s1",
-   "handle": "jarysh",
-   "time": "2026-11-04T10:31+06:00",
-   "text": {
-    "en": "In case you missed it: Ilyasov Offers Semiz a Tulparcoin Deal. Directorate: No",
-    "ir": "Okuy elek bolsoñuz: Ilyasov Offers Semiz a Tulparcoin Deal. Directorate: No",
-    "ru": "Если пропустили: Ilyasov Offers Semiz a Tulparcoin Deal. Directorate: No"
-   },
-   "link": {
-    "url": "https://jarysh.com/news/ilyasov-semiz-tulparcoin.html",
-    "site": "jarysh.com",
-    "title": "Ilyasov Offers Semiz a Tulparcoin Deal. Directorate: No",
-    "desc": "Jason Ilyasov offered winless Semiz a sponsorship deal paid in Tulparcoin. The Directorate says prize money must be \"in lawful currency\".",
-    "image": "https://jarysh.com/img/club.jpg"
-   },
-   "stats": {
-    "replies": 18,
-    "reposts": 21,
-    "likes": 366
-   }
-  },
-  {
-   "id": "d1104-vnurzhan-s1",
-   "handle": "vnurzhan",
-   "time": "2026-11-04T09:15+06:00",
-   "text": {
-    "en": "In case you missed it: Bigger harvest, smaller gain: farming over nine months",
-    "ir": "Okuy elek bolsoñuz: Bigger harvest, smaller gain: farming over nine months",
-    "ru": "Если пропустили: Урожай больше, доход скромнее: сельское хозяйство за девять месяцев"
-   },
-   "link": {
-    "url": "https://vnurzhan.com/en/news/urozhay-v-tsifrakh.html",
-    "site": "vnurzhan.com",
-    "title": "Bigger harvest, smaller gain: farming over nine months",
-    "desc": "The Ministry of Economy puts farm output for January to September at IS 6.1 billion. Volume is up 12%, value only 6%.",
-    "image": "https://vnurzhan.com/photos/vn_potatoes.jpg"
-   },
-   "stats": {
-    "replies": 85,
-    "reposts": 182,
-    "likes": 1074
-   }
-  },
-  {
-   "id": "d1104-bankofirad-rates",
-   "handle": "bankofirad",
-   "time": "2026-11-04T09:00+06:00",
-   "text": {
-    "en": "Official rates of the som for Wednesday 4 November: US dollar 8.40 · euro 9.40 · 100 rubles 10.38 · 100 tenge 1.85 · 100 Kyrgyz som 9.60 · yuan 1.26.",
-    "ir": "4-noyabr, sharshembi: somdun rasmiy kurstarı: AKSh dolları 8,40 · evro 9,40 · 100 rubl 10,38 · 100 teñge 1,85 · 100 kırgız somu 9,60 · yuan 1,26.",
-    "ru": "Официальные курсы сома на среду, 4 ноября: доллар США 8,40 · евро 9,40 · 100 рублей 10,38 · 100 тенге 1,85 · 100 кыргызских сомов 9,60 · юань 1,26."
-   },
-   "link": {
-    "url": "https://bank.iradgov.org/rates.html",
-    "site": "bank.iradgov.org",
-    "title": "Official rates of the som"
-   },
-   "stats": {
-    "replies": 46,
-    "reposts": 76,
-    "likes": 513
-   }
-  },
-  {
-   "id": "d1104-iradone-wx",
-   "handle": "iradone",
-   "time": "2026-11-04T07:05+06:00",
-   "text": {
-    "en": "Weather, 4 November: Talas 14°/2° clear · Nurzhan 11°/2° fog · Iyık Janyl 18°/6° fog.",
-    "ir": "Aba ırayı, 4-noyabr: Talas 14°/2° achık · Nurzhan 11°/2° tuman · Iyık Janyl 18°/6° tuman.",
-    "ru": "Погода, 4 ноября: Талас 14°/2° ясно · Нуржан 11°/2° туман · Ийык Джаныл 18°/6° туман."
-   },
-   "stats": {
-    "replies": 13,
-    "reposts": 15,
-    "likes": 198
-   }
-  },
-  {
-   "id": "d1105-talasherald-n2",
-   "handle": "talasherald",
-   "time": "2026-11-04T05:50+06:00",
-   "text": {
-    "en": "Uzbek diplomat to lead Turkic States secretariat; Irad has no seat, though all three claimants do"
-   },
-   "link": {
-    "url": "https://talasherald.com/news/2026-11-04-uzbek-diplomat-to-lead-turkic-states-secretariat-irad-has-no-seat-thou.html",
-    "site": "talasherald.com",
-    "title": "Uzbek diplomat to lead Turkic States secretariat; Irad has no seat, though all three claimants do",
-    "desc": "Irad has no observer status and no channel to the organization, and its 145 km frontier with Uzbekistan is still undemarcated.",
-    "image": "https://talasherald.com/photos/talas-skyline.jpg"
-   },
-   "stats": {
-    "replies": 17,
-    "reposts": 61,
-    "likes": 342
-   }
-  },
-  {
-   "id": "d1105-talasherald-n1",
-   "handle": "talasherald",
-   "time": "2026-11-04T05:41+06:00",
-   "text": {
-    "en": "Neftchi win title by a point, 63 to 62, as Naryn go down"
-   },
-   "link": {
-    "url": "https://talasherald.com/news/2026-11-04-neftchi-win-title-by-a-point-63-to-62-as-naryn-go-down.html",
-    "site": "talasherald.com",
-    "title": "Neftchi win title by a point, 63 to 62, as Naryn go down",
-    "desc": "Tulpar needed only a draw in the final round, and Naryn Tash-Kömür finished last on 8 points.",
-    "image": "https://talasherald.com/photos/derby-floodlights.jpg"
-   },
-   "stats": {
-    "replies": 52,
-    "reposts": 131,
-    "likes": 1317
    }
   }
  ]
