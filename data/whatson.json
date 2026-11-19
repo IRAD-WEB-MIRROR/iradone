@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19",
+ "updated": "2026-11-20",
  "events": [
   {
    "id": "season-az-hands-speak",
@@ -1840,6 +1840,56 @@
     "ru": "Жаныл"
    },
    "who": "Nurzhamal Abdieva (Janyl), Kylych Karabekov (her brother)",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som"
+  },
+  {
+   "id": "season-ci-nooruz-2027",
+   "kind": "stage",
+   "date": "2027-03-20",
+   "end": "2027-03-22",
+   "time": "12:00",
+   "title": {
+    "en": "Nooruz at the Circus",
+    "ru": "Нооруз в конном цирке"
+   },
+   "venue": "Equestrian Circus, covered ring",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://circus.korkom.org/",
+   "price": "300 som · children 150 som",
+   "note": {
+    "en": "The holiday show: kyz kuu, the standing gallop and the White Rider."
+   }
+  },
+  {
+   "id": "season-te-2027-03-20-1800",
+   "kind": "stage",
+   "date": "2027-03-20",
+   "time": "18:00",
+   "title": {
+    "en": "The Elder Son (Vampilov)",
+    "ru": "«Старший сын»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som"
+  },
+  {
+   "id": "season-op-2027-03-20",
+   "kind": "stage",
+   "date": "2027-03-20",
+   "time": "18:30",
+   "title": {
+    "en": "La Traviata",
+    "ru": "Травиата"
+   },
+   "who": "Aizada Kemel (Violetta), Bakyt Osmonaliev (Alfredo) · cond. Dmitry Ten",
    "venue": "Talas Opera and Ballet Theater",
    "city": "Talas",
    "city_ru": "Талас",
