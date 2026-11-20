@@ -1,6 +1,231 @@
 {
- "updated": "2026-11-20T03:08+06:00",
+ "updated": "2026-11-21T03:09+06:00",
  "posts": [
+  {
+   "id": "d1121-aigyr-nights",
+   "handle": "aigyr",
+   "time": "2026-11-21T16:30+06:00",
+   "text": {
+    "en": "Aigyr Ulak Nights tonight at the State Hippodrome: Talas v Kyzyl-Adyr at 19:00 and Köhne Diz v Sary-Bulak at 21:00. Gates 17:30. 18+ on the Aigyr Deck. Please drink responsibly.",
+    "ir": "Bügün kechinde Mamlekettik ippodromdo Aigyr Ulak Nights: Talas – Kyzyl-Adyr 19:00, Köhne Diz – Sary-Bulak 21:00. Darbaza 17:30. 18+."
+   },
+   "link": {
+    "url": "https://jarysh.com/ulak-nights.html",
+    "site": "jarysh.com",
+    "title": "Aigyr Ulak Nights"
+   },
+   "stats": {
+    "replies": 4,
+    "reposts": 8,
+    "likes": 52
+   }
+  },
+  {
+   "id": "d1121-iradgov-s1",
+   "handle": "iradgov",
+   "time": "2026-11-21T14:12+06:00",
+   "text": {
+    "en": "Talas River Hydrological Monitoring Service Keeps All Permanent Gauges in Operation",
+    "ir": "Talas gidrologiyalyk monitoring kyzmaty bardyk turaktuu postlordun ishin dayym kylat",
+    "ru": "Служба гидрологического мониторинга реки Талас сохраняет работу всех постоянных постов"
+   },
+   "link": {
+    "url": "https://iradgov.org/releases/2026-11-20-talas-river-hydrological-monitoring-service-keep.html",
+    "site": "iradgov.org",
+    "title": "Talas River Hydrological Monitoring Service Keeps All Permanent Gauges in Operation",
+    "desc": "The Talas River Hydrological Monitoring Service confirmed that every permanent river gauge, funded from the ISEZ budget, will keep running through the winter. Only additional field surveys and observatory stipends will be reduced after an adjustment to its international grant."
+   },
+   "stats": {
+    "replies": 5,
+    "reposts": 21,
+    "likes": 141
+   }
+  },
+  {
+   "id": "d1121-vnurzhan-s2",
+   "handle": "vnurzhan",
+   "time": "2026-11-21T12:06+06:00",
+   "text": {
+    "en": "Forty pilgrims stuck in Tashkent: what is being done in Nurzhan",
+    "ir": "Forty pilgrims stuck in Tashkent: what is being done in Nurzhan",
+    "ru": "Сорок паломников застряли в Ташкенте: что делают в Нуржане"
+   },
+   "link": {
+    "url": "https://vnurzhan.com/en/news/palomniki-tashkent-umra-duhovnoe-upravlenie.html",
+    "site": "vnurzhan.com",
+    "title": "Forty pilgrims stuck in Tashkent: what is being done in Nurzhan",
+    "desc": "About 40 Iradi Muslims, mostly from Bazar-Korgon and the villages of the Fergana Rim, have been waiting in Tashkent since 12 November for the next leg of their Umrah trip. Requests for help are also reaching Nurzhan, the Spiritual Administration of Muslims of Irad.",
+    "image": "https://vnurzhan.com/assets/og-image.png"
+   },
+   "stats": {
+    "replies": 73,
+    "reposts": 48,
+    "likes": 814
+   }
+  },
+  {
+   "id": "d1121-vnurzhan-s1",
+   "handle": "vnurzhan",
+   "time": "2026-11-21T12:02+06:00",
+   "text": {
+    "en": "Sanctions in the neighbours' pipes: how Nurzhan crude reaches export",
+    "ir": "Sanctions in the neighbours' pipes: how Nurzhan crude reaches export",
+    "ru": "Санкции в соседних трубах: как нуржанская нефть уходит на экспорт"
+   },
+   "link": {
+    "url": "https://vnurzhan.com/en/news/neft-nurgaza-kazakhskaya-smes-sanktsii.html",
+    "site": "vnurzhan.com",
+    "title": "Sanctions in the neighbours' pipes: how Nurzhan crude reaches export",
+    "desc": "Britain has imposed sanctions on a large Russian petrochemical group, and the region is talking about Kazakhstan's pipelines. NurGaz crude travels through the same system, but nothing has changed.",
+    "image": "https://vnurzhan.com/photos/vn_tank_farm.jpg"
+   },
+   "stats": {
+    "replies": 84,
+    "reposts": 190,
+    "likes": 1057
+   }
+  },
+  {
+   "id": "d1121-iradtimes-s2",
+   "handle": "iradtimes",
+   "time": "2026-11-21T11:02+06:00",
+   "text": {
+    "en": "Kyrgyz pay gap widens",
+    "ir": "Kyrgyz pay gap widens",
+    "ru": "Kyrgyz pay gap widens"
+   },
+   "link": {
+    "url": "https://iradtimes.com/2026/11/kyrgyz-pay-gap-widens.html",
+    "site": "iradtimes.com",
+    "title": "Kyrgyz pay gap widens",
+    "desc": "Kyrgyzstan's statistics office reported on 16 November that average pay for January to September 2026 was 55,525 Kyrgyz soms a month, up 29.4% on a year…",
+    "image": "https://iradtimes.com/img/og-default.jpg"
+   },
+   "stats": {
+    "replies": 38,
+    "reposts": 33,
+    "likes": 484
+   }
+  },
+  {
+   "id": "d1121-arshakitep-promo1",
+   "handle": "arshakitep",
+   "time": "2026-11-21T11:00+06:00",
+   "text": {
+    "en": "Since 2009 our small independent press in Köhne Diz has published poetry, stories and songs in Iradi, Russian and English. The Ottuk Library in English is on our shelves too. A good Saturday to start a new book.",
+    "ir": "2009-jıldan beri Köhne Dizdegi kichine öz aldına basmabız ıyr, kıssa jana ñırlardı iradchada, oruschada jana inglischede basıp kelet. Ottuk Library inglischede da rafta. Jañı kitepti bashtoo üchün jakshı Shenbi.",
+    "ru": "С 2009 года наше небольшое независимое издательство в Көхне Дизе выпускает стихи, рассказы и песни на ираде, русском и английском. Ottuk Library на английском тоже на наших полках. Хорошая суббота, чтобы начать новую книгу."
+   },
+   "stats": {
+    "replies": 21,
+    "reposts": 21,
+    "likes": 360
+   }
+  },
+  {
+   "id": "d1121-iradtimes-s1",
+   "handle": "iradtimes",
+   "time": "2026-11-21T10:13+06:00",
+   "text": {
+    "en": "Irad's crude loses its nationality at the Kazakh frontier, and no published paper says who gives it another",
+    "ir": "Irad's crude loses its nationality at the Kazakh frontier, and no published paper says who gives it another",
+    "ru": "Irad's crude loses its nationality at the Kazakh frontier, and no published paper says who gives it another"
+   },
+   "link": {
+    "url": "https://iradtimes.com/2026/11/irad-s-crude-loses-its-nationality-at-the-kazakh-frontier-and-no-publi.html",
+    "site": "iradtimes.com",
+    "title": "Irad's crude loses its nationality at the Kazakh frontier, and no published paper says who gives it another",
+    "desc": "Britain's sanctions on a Russian petrochemical group do not touch Irad. But the ISEZ's biggest export enters Kazakhstan's pipelines as part of a blend and leaves on Kyrgyz certificates, and nobody in Talas has published who stamps them.",
+    "image": "https://iradtimes.com/img/petroleum-transit-pipeline.jpg"
+   },
+   "stats": {
+    "replies": 29,
+    "reposts": 36,
+    "likes": 367
+   }
+  },
+  {
+   "id": "d1121-palaceofart-promo3",
+   "handle": "palaceofart",
+   "time": "2026-11-21T10:00+06:00",
+   "text": {
+    "en": "Irad's national collection hangs in Talas: Yusup Ayyubov, the Talas Alatau painters and our young artists, together under one roof. Come and spend a cold Saturday with them.",
+    "ir": "Iraddın uluttuk kolleksiyası Talasta: Yusup Ayyubov, Talas Alatoo suretchilerı jana jash artistter bir üy astında. Suuk Shenbini alar menen ötköruñüzdör.",
+    "ru": "Национальная коллекция Ирада собрана в Таласе: Юсуп Аюбов, художники Талас-Алатау и наши молодые авторы под одной крышей. Приходите провести с ними холодную субботу."
+   },
+   "stats": {
+    "replies": 19,
+    "reposts": 24,
+    "likes": 242
+   }
+  },
+  {
+   "id": "d1121-jarysh-s1",
+   "handle": "jarysh",
+   "time": "2026-11-21T09:47+06:00",
+   "text": {
+    "en": "In case you missed it: Hippodrome Concession Renewal \"a Formality\", Says Nurik",
+    "ir": "Okuy elek bolsoñuz: Hippodrome Concession Renewal \"a Formality\", Says Nurik",
+    "ru": "Если пропустили: Hippodrome Concession Renewal \"a Formality\", Says Nurik"
+   },
+   "link": {
+    "url": "https://jarysh.com/news/hippodrome-concession-renewal.html",
+    "site": "jarysh.com",
+    "title": "Hippodrome Concession Renewal \"a Formality\", Says Nurik",
+    "desc": "Deputies want a tender for the Hippodrome's Saturday-night concession. Nurik wants them to come to Ulak Nights.",
+    "image": "https://jarysh.com/img/ceo.jpg"
+   },
+   "stats": {
+    "replies": 40,
+    "reposts": 128,
+    "likes": 804
+   }
+  },
+  {
+   "id": "d1121-iradiya-promo4",
+   "handle": "iradiya",
+   "time": "2026-11-21T09:00+06:00",
+   "text": {
+    "en": "Iradiya flies the only scheduled route in Irad, Talas–Tash-Kömür, and we are proud of it. State Route 1 closes for snow at the Ala-Bel about 20 days a winter. Today it is open, chains or winter tyres required.",
+    "ir": "Iradiya Iraddagı jalgız kestelüü marshrutta, Talas–Tash-Kömürgö uchat, jana muga maktanabız. 1-mamlekettik jol Ala-Belde kar sebepten kıshta 20 küngö jakın jabılat. Bügün achık, shynjır yaki kıshkı shina kerek.",
+    "ru": "Iradiya выполняет единственный регулярный рейс в Ираде, Талас–Таш-Кёмюр, и мы этим гордимся. Государственная трасса 1 закрывается из-за снега на Ала-Беле примерно на 20 дней за зиму. Сегодня открыта, нужны цепи или зимняя резина."
+   },
+   "stats": {
+    "replies": 60,
+    "reposts": 53,
+    "likes": 669
+   }
+  },
+  {
+   "id": "d1121-temirjolu-promo2",
+   "handle": "temirjolu",
+   "time": "2026-11-21T08:30+06:00",
+   "text": {
+    "en": "Irad Temir Jolu runs about 690 km of track, from Talas North Terminal to the Nurzhan rail border station. The railway is on its winter timetable. Please check your train before you travel.",
+    "ir": "Irad Temir Jolu Talas Tüshtük terminalınan Nurzhan chek ara temir jol beketine cheyin about 690 km jol menen ishteyt. Temir jol kıshkı kestege ötkön. Jolgo chıkkanga cheyin poezdiñizdi tekshiriñiz.",
+    "ru": "Железная дорога Ирада — около 690 км пути от Северного терминала Таласа до пограничной станции Нуржан. Движение идёт по зимнему расписанию. Пожалуйста, проверьте свой поезд перед поездкой."
+   },
+   "stats": {
+    "replies": 11,
+    "reposts": 10,
+    "likes": 170
+   }
+  },
+  {
+   "id": "d1121-iradone-wx",
+   "handle": "iradone",
+   "time": "2026-11-21T07:05+06:00",
+   "text": {
+    "en": "Weather, 21 November: Talas 5°/-6° partly cloudy · Nurzhan 6°/-5° partly cloudy · Iyık Janyl 9°/-1° cloudy.",
+    "ir": "Aba ırayı, 21-noyabr: Talas 5°/-6° jarım-jartı bulut · Nurzhan 6°/-5° jarım-jartı bulut · Iyık Janyl 9°/-1° bulut.",
+    "ru": "Погода, 21 ноября: Талас 5°/-6° переменная облачность · Нуржан 6°/-5° переменная облачность · Ийык Джаныл 9°/-1° облачно."
+   },
+   "stats": {
+    "replies": 7,
+    "reposts": 19,
+    "likes": 179
+   }
+  },
   {
    "id": "d1120-iradtimes-s1",
    "handle": "iradtimes",
@@ -45,6 +270,26 @@
    }
   },
   {
+   "id": "d1121-iradone-n3",
+   "handle": "iradone",
+   "time": "2026-11-20T15:46+06:00",
+   "text": {
+    "en": "Toktogul 83.0% full, drawing down on schedule; supply normal in all three cities"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-20-kyrgyz-parliament-weighs-new-hydropower-toktogul-drawdown-runs-on-sche.html",
+    "site": "iradone.com",
+    "title": "Kyrgyz Parliament Weighs New Hydropower; Toktogul Drawdown Runs on Schedule",
+    "desc": "Bishkek's push for more generation will be watched at the 2027 Naryn Protocol renewal, while Iradenergo carries the winter load from a reservoir 83 per cent full.",
+    "image": "https://iradone.com/photos/toktogul-dam.jpg"
+   },
+   "stats": {
+    "replies": 4,
+    "reposts": 20,
+    "likes": 160
+   }
+  },
+  {
    "id": "d1120-iradtimes-s2",
    "handle": "iradtimes",
    "time": "2026-11-20T15:43+06:00",
@@ -64,6 +309,26 @@
     "replies": 11,
     "reposts": 11,
     "likes": 127
+   }
+  },
+  {
+   "id": "d1121-iradone-n2",
+   "handle": "iradone",
+   "time": "2026-11-20T15:07+06:00",
+   "text": {
+    "en": "Talas hydrology grant cut 30% to $420,000; permanent river gauges stay on"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-20-donor-trims-talas-hydrology-grant-30-every-permanent-gauge-stays-on.html",
+    "site": "iradone.com",
+    "title": "Donor Trims Talas Hydrology Grant 30%; Every Permanent Gauge Stays On",
+    "desc": "Only the extra moraine-lake surveys and observatory stipends slow this winter, the Talas River Hydrological Monitoring Service says.",
+    "image": "https://iradone.com/photos/glacier-snout.jpg"
+   },
+   "stats": {
+    "replies": 58,
+    "reposts": 151,
+    "likes": 1164
    }
   },
   {
@@ -246,6 +511,46 @@
    }
   },
   {
+   "id": "d1121-talasherald-n2",
+   "handle": "talasherald",
+   "time": "2026-11-20T05:50+06:00",
+   "text": {
+    "en": "Cameras film three snow leopards in Chatkal hills; herders still have no compensation"
+   },
+   "link": {
+    "url": "https://talasherald.com/news/2026-11-20-cameras-film-three-snow-leopards-in-chatkal-hills-herders-still-have-n.html",
+    "site": "talasherald.com",
+    "title": "Cameras film three snow leopards in Chatkal hills; herders still have no compensation",
+    "desc": "The Ilbirs Station says one early-morning sequence is not a count, and neither it nor the Ministry of Natural Resources sets payment for lost sheep and goats.",
+    "image": "https://talasherald.com/photos/chatkal-valley.jpg"
+   },
+   "stats": {
+    "replies": 7,
+    "reposts": 24,
+    "likes": 150
+   }
+  },
+  {
+   "id": "d1121-talasherald-n1",
+   "handle": "talasherald",
+   "time": "2026-11-20T05:41+06:00",
+   "text": {
+    "en": "Toktogul at 83.2% and falling as Uch-Kurgan refit nears its end"
+   },
+   "link": {
+    "url": "https://talasherald.com/news/2026-11-20-toktogul-at-83-2-and-falling-as-uch-kurgan-refit-nears-its-end.html",
+    "site": "talasherald.com",
+    "title": "Toktogul at 83.2% and falling as Uch-Kurgan refit nears its end",
+    "desc": "The reservoir is giving up about 51 million cubic metres a day while a finished station downstream sharpens the argument over next summer's releases.",
+    "image": "https://talasherald.com/photos/toktogul-dam.jpg"
+   },
+   "stats": {
+    "replies": 20,
+    "reposts": 83,
+    "likes": 696
+   }
+  },
+  {
    "id": "d1119-iradtimes-s1",
    "handle": "iradtimes",
    "time": "2026-11-19T18:51+06:00",
@@ -339,6 +644,26 @@
     "replies": 5,
     "reposts": 8,
     "likes": 94
+   }
+  },
+  {
+   "id": "d1121-iradone-n1",
+   "handle": "iradone",
+   "time": "2026-11-19T15:45+06:00",
+   "text": {
+    "en": "Nurzhan air at AQI 196 under inversion; sensitive groups advised to stay in"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-19-bishkek-agrees-second-waste-to-energy-plant-nurzhan-s-air-reads-196.html",
+    "site": "iradone.com",
+    "title": "Bishkek Agrees Second Waste-to-Energy Plant; Nurzhan's Air Reads 196",
+    "desc": "As Kyrgyzstan settles on a second rubbish-burning power plant, Nurzhan's own winter smog raises the question of what the city's air is made of.",
+    "image": "https://iradone.com/photos/refinery-dusk.jpg"
+   },
+   "stats": {
+    "replies": 35,
+    "reposts": 157,
+    "likes": 876
    }
   },
   {
@@ -2534,383 +2859,6 @@
     "replies": 12,
     "reposts": 47,
     "likes": 318
-   }
-  },
-  {
-   "id": "d1108-jarysh-ulak-hl",
-   "handle": "jarysh",
-   "time": "2026-11-07T23:11+06:00",
-   "text": {
-    "en": "ROUND 9, HIGHLAND: Karakoyun 10–3 Moiynkum Select · Chatkal Highlands Select 3–5 Chubar (Highland) · Karatau Select 3–6 Sarybagysh · Aksay Plateau Select 2–2 Kökjal · Akjele v Northern Steppe Select: NOT RECEIVED · Naiman 9–7 Tanıp",
-    "ir": "9-TUR, TOOLUK: Karakoyun 10:3 Moiynkum Select · Chatkal Highlands Select 3:5 Chubar (Highland) · Karatau Select 3:6 Sarybagysh · Aksay Plateau Select 2:2 Kökjal · Akjele – Northern Steppe Select: ESEP KELE ELEK · Naiman 9:7 Tanıp"
-   },
-   "thread": "d1108-jarysh-ulak-isez",
-   "stats": {
-    "replies": 39,
-    "reposts": 158,
-    "likes": 990
-   }
-  },
-  {
-   "id": "d1108-jarysh-ulak-isez",
-   "handle": "jarysh",
-   "time": "2026-11-07T23:10+06:00",
-   "text": {
-    "en": "ROUND 9, ISEZ: Sary-Bulak 5–3 Kyzyl-Adyr · Nurzhan 3–4 Chu · Talas 7–5 Semiz · Köhne Diz 2–7 Dastgoh · Iyık Janyl 10–8 Kara-Bulak #Ulak",
-    "ir": "9-TUR, ISEZ: Sary-Bulak 5:3 Kyzyl-Adyr · Nurzhan 3:4 Chu · Talas 7:5 Semiz · Köhne Diz 2:7 Dastgoh · Iyık Janyl 10:8 Kara-Bulak #Ulak"
-   },
-   "link": {
-    "url": "https://jarysh.com/scores.html",
-    "site": "jarysh.com",
-    "title": "Ulak scores and tables"
-   },
-   "stats": {
-    "replies": 7,
-    "reposts": 7,
-    "likes": 88
-   }
-  },
-  {
-   "id": "d1107-iradgov-s1",
-   "handle": "iradgov",
-   "time": "2026-11-07T18:38+06:00",
-   "text": {
-    "en": "Camera Traps Record Two Snow Leopards in Upper Besh-Tash for the First Time in Decades",
-    "ir": "Jogorku Besh-Tash jylgasynda eki ilbirs kamerada tirkeldi",
-    "ru": "В верховьях Беш-Таша фотоловушки зафиксировали двух снежных барсов впервые за десятилетия"
-   },
-   "link": {
-    "url": "https://iradgov.org/releases/2026-11-06-camera-traps-record-two-snow-leopards-in-upper-b.html",
-    "site": "iradgov.org",
-    "title": "Camera Traps Record Two Snow Leopards in Upper Besh-Tash for the First Time in Decades",
-    "desc": "The Forestry and Protected Areas Service reports that camera traps in the upper Besh-Tash valley have recorded two snow leopards, the first confirmed there in decades. Rangers, Talas State University scientists and Akjele elders are discussing steps to keep the animals and the returning flocks apart."
-   },
-   "stats": {
-    "replies": 61,
-    "reposts": 61,
-    "likes": 1020
-   }
-  },
-  {
-   "id": "d1107-aigyr-nights",
-   "handle": "aigyr",
-   "time": "2026-11-07T16:30+06:00",
-   "text": {
-    "en": "Aigyr Ulak Nights tonight at the State Hippodrome: Talas v Semiz at 19:00 and Köhne Diz v Dastgoh at 21:00. Gates 17:30. 18+ on the Aigyr Deck. Please drink responsibly.",
-    "ir": "Bügün kechinde Mamlekettik ippodromdo Aigyr Ulak Nights: Talas – Semiz 19:00, Köhne Diz – Dastgoh 21:00. Darbaza 17:30. 18+."
-   },
-   "link": {
-    "url": "https://jarysh.com/ulak-nights.html",
-    "site": "jarysh.com",
-    "title": "Aigyr Ulak Nights"
-   },
-   "stats": {
-    "replies": 24,
-    "reposts": 88,
-    "likes": 805
-   }
-  },
-  {
-   "id": "d1107-vnurzhan-s1",
-   "handle": "vnurzhan",
-   "time": "2026-11-07T16:15+06:00",
-   "text": {
-    "en": "Money from Russia and Kazakhstan: families count the cost of the transfer, not the wage",
-    "ir": "Money from Russia and Kazakhstan: families count the cost of the transfer, not the wage",
-    "ru": "Деньги из России и Казахстана: семьи считают не заработок, а стоимость перевода"
-   },
-   "link": {
-    "url": "https://vnurzhan.com/en/news/perevody-semyam-stoimost.html",
-    "site": "vnurzhan.com",
-    "title": "Money from Russia and Kazakhstan: families count the cost of the transfer, not the wage",
-    "desc": "Thousands of Nurzhan families live on money sent by relatives from Moscow, Surgut or Almaty. The recipients say that today the worry is not the wage itself but how, and at what cost, the money arrives.",
-    "image": "https://vnurzhan.com/photos/vn_courtyard.jpg"
-   },
-   "stats": {
-    "replies": 32,
-    "reposts": 141,
-    "likes": 1088
-   }
-  },
-  {
-   "id": "d1108-iradleague-cupwin",
-   "handle": "iradleague",
-   "time": "2026-11-07T16:05+06:00",
-   "text": {
-    "en": "Neftchi Nurzhan win the Irad Cup: Neftchi 2–0 Attelkom. 🏆 #IradCup",
-    "ir": "Neftchi Nurzhan Irad Kubogun utup aldı: Neftchi 2:0 Attelkom. 🏆 #IradCup",
-    "ru": "Нефтчи Нуржан — обладатель Кубка Ирада: «Нефтчи» — «Аттелком» 2:0. 🏆 #IradCup"
-   },
-   "stats": {
-    "replies": 244,
-    "reposts": 366,
-    "likes": 4075
-   }
-  },
-  {
-   "id": "d1107-iradtimes-s2",
-   "handle": "iradtimes",
-   "time": "2026-11-07T15:50+06:00",
-   "text": {
-    "en": "Irad's freight travels on borrowed paper. Publish what it costs.",
-    "ir": "Irad's freight travels on borrowed paper. Publish what it costs.",
-    "ru": "Irad's freight travels on borrowed paper. Publish what it costs."
-   },
-   "link": {
-    "url": "https://iradtimes.com/2026/11/irad-s-freight-travels-on-borrowed-paper-publish-what-it-costs.html",
-    "site": "iradtimes.com",
-    "title": "Irad's freight travels on borrowed paper. Publish what it costs.",
-    "desc": "The Turkic transit routes were pitched in Ankara last week without Irad. Government House has not said what it wants, or what exporters already pay.",
-    "image": "https://iradtimes.com/img/og-default.jpg"
-   },
-   "stats": {
-    "replies": 69,
-    "reposts": 99,
-    "likes": 991
-   }
-  },
-  {
-   "id": "d1108-iradone-n3",
-   "handle": "iradone",
-   "time": "2026-11-07T14:45+06:00",
-   "text": {
-    "en": "Health Ministry proposes IS 126m for clinics and village health posts in 2027"
-   },
-   "link": {
-    "url": "https://iradone.com/news/2026-11-07-health-ministry-seeks-is-126-million-to-strengthen-clinics-and-village.html",
-    "site": "iradone.com",
-    "title": "Health Ministry Seeks IS 126 Million to Strengthen Clinics and Village Health Posts",
-    "desc": "The primary-care line in the draft 2027 budget would pay for equipment, training and a drug reserve, with the aim of easing pressure on the Regional Hospital in Talas.",
-    "image": "https://iradone.com/photos/polyclinic.jpg"
-   },
-   "stats": {
-    "replies": 47,
-    "reposts": 154,
-    "likes": 1188
-   }
-  },
-  {
-   "id": "d1108-iradone-n2",
-   "handle": "iradone",
-   "time": "2026-11-07T14:17+06:00",
-   "text": {
-    "en": "Record cotton: ISEZ crop put at 41,000 tonnes, biggest since 2007"
-   },
-   "link": {
-    "url": "https://iradone.com/news/2026-11-07-cotton-picking-ends-at-a-record-41-000-tonnes-on-the-rim-and-the-chu.html",
-    "site": "iradone.com",
-    "title": "Cotton Picking Ends at a Record 41,000 Tonnes on the Fergana Rim",
-    "desc": "The Ministry of Agriculture and Water Resources says the 2026 raw-cotton crop is the largest in its records since 2007, helped by a summer of steady canal water.",
-    "image": "https://iradone.com/photos/chu-valley-fields.jpg"
-   },
-   "stats": {
-    "replies": 12,
-    "reposts": 49,
-    "likes": 312
-   }
-  },
-  {
-   "id": "d1107-vnurzhan-s2",
-   "handle": "vnurzhan",
-   "time": "2026-11-07T14:01+06:00",
-   "text": {
-    "en": "The chess city and someone else's flag: an Uzbek grandmaster's win seen from Nurzhan",
-    "ir": "The chess city and someone else's flag: an Uzbek grandmaster's win seen from Nurzhan",
-    "ru": "Шахматная столица и чужой флаг: победа узбекского гроссмейстера глазами Нуржана"
-   },
-   "link": {
-    "url": "https://vnurzhan.com/en/news/shahmaty-flag-nurzhan.html",
-    "site": "vnurzhan.com",
-    "title": "The chess city and someone else's flag: an Uzbek grandmaster's win seen from Nurzhan",
-    "desc": "An Uzbek grandmaster has won a tournament in the United States ahead of his world title match. In Nurzhan, Irad's chess city, the neighbours' success is discussed with particular interest.",
-    "image": "https://vnurzhan.com/photos/vn_pensioners.jpg"
-   },
-   "stats": {
-    "replies": 20,
-    "reposts": 87,
-    "likes": 676
-   }
-  },
-  {
-   "id": "d1108-iradone-n1",
-   "handle": "iradone",
-   "time": "2026-11-07T13:31+06:00",
-   "text": {
-    "en": "Moscow decorates Russian compatriots' leader in Kyrgyzstan; Nurzhan takes note"
-   },
-   "link": {
-    "url": "https://iradone.com/news/2026-11-07-moscow-honours-compatriots-leader-in-bishkek-nurzhan-notes-the-neighbo.html",
-    "site": "iradone.com",
-    "title": "Moscow Honours Compatriots' Leader in Bishkek; Nurzhan Notes the Neighbour's Council",
-    "desc": "The Russian president has decorated the head of Kyrgyzstan's Russian compatriot organisations, a model with no equivalent in Irad.",
-    "image": "https://iradone.com/photos/nurzhan-square.jpg"
-   },
-   "stats": {
-    "replies": 112,
-    "reposts": 112,
-    "likes": 1252
-   }
-  },
-  {
-   "id": "d1107-tsu-promo3",
-   "handle": "tsu",
-   "time": "2026-11-07T12:30+06:00",
-   "text": {
-    "en": "A clear Saturday in Talas, a fine day to visit us. Talas State University and the National Library of Irad, since 1958, at 12 University Street. 📚",
-    "ir": "Talasta ayaz, açık şeşembi — bizge kelüügö jakşı kün. Talas memlekettik universiteti jana Iradiñ Uluttuk kitepkanası, 1958-jıldan beri, Universitet köçösü 12.",
-    "ru": "В Таласе ясная суббота — хороший день заглянуть к нам. Таласский государственный университет и Национальная библиотека Ирада с 1958 года, ул. Университетская, 12. 📚"
-   },
-   "stats": {
-    "replies": 6,
-    "reposts": 19,
-    "likes": 107
-   }
-  },
-  {
-   "id": "d1107-iradgov-s2",
-   "handle": "iradgov",
-   "time": "2026-11-07T11:17+06:00",
-   "text": {
-    "en": "Ministry of Labour: Register of Migrants' Families Remains Basis for Allowances",
-    "ir": "Emgek jana sotsialdyk korgoo ministrligi: migranttardyn üy-bülölörünün tizmesi kömök tölöönün negizi bolup kalat",
-    "ru": "Минтруд: реестр семей мигрантов остаётся основой для выплаты пособий"
-   },
-   "link": {
-    "url": "https://iradgov.org/releases/2026-11-06-ministry-of-labour-register-of-migrants-families.html",
-    "site": "iradgov.org",
-    "title": "Ministry of Labour: Register of Migrants' Families Remains Basis for Allowances",
-    "desc": "The Ministry of Labour and Social Protection confirmed that its register of migrants' families, set up in 2022, remains the basis for allowances paid at Irad Pochtasy counters to households that depend on wages earned abroad."
-   },
-   "stats": {
-    "replies": 65,
-    "reposts": 106,
-    "likes": 819
-   }
-  },
-  {
-   "id": "d1107-iradleague-cupfinal",
-   "handle": "iradleague",
-   "time": "2026-11-07T11:00+06:00",
-   "text": {
-    "en": "Irad Cup final today: Neftchi v Attelkom, 14:00, Silk Road Arena. #IradCup",
-    "ir": "Irad Kubogunun finalı bügün: Neftchi – Attelkom, 14:00, Jibek Jolu Arenasy. #IradCup",
-    "ru": "Финал Кубка Ирада сегодня: «Нефтчи» — «Аттелком», 14:00, Арена «Шёлковый путь». #IradCup"
-   },
-   "stats": {
-    "replies": 53,
-    "reposts": 265,
-    "likes": 1767
-   }
-  },
-  {
-   "id": "d1107-iradtimes-s1",
-   "handle": "iradtimes",
-   "time": "2026-11-07T10:29+06:00",
-   "text": {
-    "en": "Irad's cargo will ride the Turkic routes on Kazakh and Kyrgyz paper, and nobody in Talas says who sets the price",
-    "ir": "Irad's cargo will ride the Turkic routes on Kazakh and Kyrgyz paper, and nobody in Talas says who sets the price",
-    "ru": "Irad's cargo will ride the Turkic routes on Kazakh and Kyrgyz paper, and nobody in Talas says who sets the price"
-   },
-   "link": {
-    "url": "https://iradtimes.com/2026/11/irad-s-cargo-will-ride-the-turkic-routes-on-kazakh-and-kyrgyz-paper-an.html",
-    "site": "iradtimes.com",
-    "title": "Irad's cargo will ride the Turkic routes on Kazakh and Kyrgyz paper, and nobody in Talas says who sets the price",
-    "desc": "The Organization of Turkic States pitched its transit routes in Ankara last week with Irad outside the room. The Times looked at what Irad already sends west, whose papers it travels on and who is paid for them.",
-    "image": "https://iradtimes.com/img/northern-crossing-lorry-queue.jpg"
-   },
-   "stats": {
-    "replies": 49,
-    "reposts": 87,
-    "likes": 622
-   }
-  },
-  {
-   "id": "d1107-pochtasy-promo1",
-   "handle": "pochtasy",
-   "time": "2026-11-07T09:00+06:00",
-   "text": {
-    "en": "Irad Post has about 190 post offices across the country. Collect your pension at the counter, send a money order or subscribe to your newspaper, all in one visit.",
-    "ir": "Irad Pochtasınıñ ölkö boyunça 190 çamalı bölümü bar. Pensiyanı kassadan alıñız, akça awdarımın jiberiñiz, gazetaga jazılıñız — bir barganda.",
-    "ru": "В Irad Post около 190 почтовых отделений по всей стране. Получить пенсию в кассе, отправить денежный перевод или оформить подписку на газету можно за один визит."
-   },
-   "stats": {
-    "replies": 10,
-    "reposts": 24,
-    "likes": 202
-   }
-  },
-  {
-   "id": "d1107-iradone-wx",
-   "handle": "iradone",
-   "time": "2026-11-07T07:05+06:00",
-   "text": {
-    "en": "Weather, 7 November: Talas 12°/1° clear · Nurzhan 9°/-2° fog · Iyık Janyl 15°/4° fog.",
-    "ir": "Aba ırayı, 7-noyabr: Talas 12°/1° achık · Nurzhan 9°/-2° tuman · Iyık Janyl 15°/4° tuman.",
-    "ru": "Погода, 7 ноября: Талас 12°/1° ясно · Нуржан 9°/-2° туман · Ийык Джаныл 15°/4° туман."
-   },
-   "stats": {
-    "replies": 49,
-    "reposts": 93,
-    "likes": 620
-   }
-  },
-  {
-   "id": "d1108-talasherald-n3",
-   "handle": "talasherald",
-   "time": "2026-11-07T05:51+06:00",
-   "text": {
-    "en": "The Herald's View: Remittance families deserve to see the number between the rates"
-   },
-   "link": {
-    "url": "https://talasherald.com/news/2026-11-07-remittance-families-deserve-to-see-the-number-between-the-rates.html",
-    "site": "talasherald.com",
-    "title": "Remittance families deserve to see the number between the rates",
-    "desc": "Between 5% and 8% of GDP arrives from abroad, and nobody publishes what it costs a family to receive it."
-   },
-   "stats": {
-    "replies": 13,
-    "reposts": 30,
-    "likes": 168
-   }
-  },
-  {
-   "id": "d1108-talasherald-n2",
-   "handle": "talasherald",
-   "time": "2026-11-07T05:50+06:00",
-   "text": {
-    "en": "Two held in Nurzhan over fake Bazar heater and air-filter ads; 14 buyers lost 5,900 som"
-   },
-   "link": {
-    "url": "https://talasherald.com/news/2026-11-07-two-held-in-nurzhan-over-fake-bazar-heater-and-air-filter-ads-14-buyer.html",
-    "site": "talasherald.com",
-    "title": "Two held in Nurzhan over fake Bazar heater and air-filter ads; 14 buyers lost 5,900 som",
-    "desc": "Police say advances of 120 to 600 som were sent by card transfer outside the Tulpar app as smog and the heating season set in.",
-    "image": "https://talasherald.com/photos/nurzhan-square.jpg"
-   },
-   "stats": {
-    "replies": 13,
-    "reposts": 13,
-    "likes": 217
-   }
-  },
-  {
-   "id": "d1108-talasherald-n1",
-   "handle": "talasherald",
-   "time": "2026-11-07T05:41+06:00",
-   "text": {
-    "en": "Remittances from Russia run US$250–400m; families say fees and rate bite"
-   },
-   "link": {
-    "url": "https://talasherald.com/news/2026-11-07-remittances-from-russia-run-us-250400m-families-say-fees-and-rate-bite.html",
-    "site": "talasherald.com",
-    "title": "Remittances from Russia run US$250–400m; families say fees and rate bite",
-    "desc": "A dollar paid out at the official 8.40 buys about 27% fewer som than at the Bazar-i Kalan, and the Ministry of Labour announces nothing new.",
-    "image": "https://talasherald.com/photos/bazar-i-kalan.jpg"
-   },
-   "stats": {
-    "replies": 11,
-    "reposts": 25,
-    "likes": 370
    }
   }
  ]
