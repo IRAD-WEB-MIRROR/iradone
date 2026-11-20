@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-21",
  "events": [
   {
    "id": "season-az-hands-speak",
@@ -36,63 +36,6 @@
     "en": "Mountains and Dreams, Threads of History, History in Bronze and Modern Rhythms. Closed 14 November."
    },
    "tulpar": "palaceofart"
-  },
-  {
-   "id": "church-2026-11-20",
-   "kind": "feast",
-   "date": "2026-11-20",
-   "title": {
-    "en": "Yuhanna of Merv",
-    "ru": "Память Юханны Мервского"
-   },
-   "venue": "Cathedral of St. Janyl",
-   "city": "Iyık Janyl",
-   "city_ru": "Ийык Джаныл",
-   "url": "https://saintjanyl.org/calendar.html",
-   "note": {
-    "en": "Commemoration of the monk who, by tradition, built the first house of prayer in the Talas valley."
-   },
-   "tulpar": "saintjanyl"
-  },
-  {
-   "id": "season-op-2026-11-20",
-   "kind": "stage",
-   "date": "2026-11-20",
-   "time": "18:30",
-   "title": {
-    "en": "Swan Lake",
-    "ru": "Лебединое озеро"
-   },
-   "who": "Kylych Karabekov (Siegfried), Asel Temirbekova (Odette and Odile)",
-   "venue": "Talas Opera and Ballet Theater",
-   "city": "Talas",
-   "city_ru": "Талас",
-   "url": "https://talas-opera.korkom.org/afisha.html",
-   "price": "sold out",
-   "note": {
-    "en": "Sold out."
-   }
-  },
-  {
-   "id": "koch-kb-talas-1120",
-   "kind": "concert",
-   "date": "2026-11-20",
-   "time": "20:00",
-   "title": {
-    "en": "Kök Bel",
-    "ru": "Kök Bel",
-    "ir": "Kök Bel"
-   },
-   "who": "Kök Bel",
-   "venue": "Club Doran",
-   "city": "Talas",
-   "city_ru": "Талас",
-   "url": "https://kochaudio.online/#live",
-   "price": "300 som",
-   "note": {
-    "en": "Tickets at the door."
-   },
-   "tulpar": "kochaudio"
   },
   {
    "id": "season-ph-2026-11-21",
@@ -1895,6 +1838,40 @@
    "city_ru": "Талас",
    "url": "https://talas-opera.korkom.org/afisha.html",
    "price": "300–1,500 som"
+  },
+  {
+   "id": "season-ph-2027-03-21-nooruz",
+   "kind": "concert",
+   "date": "2027-03-21",
+   "time": "17:00",
+   "title": {
+    "en": "Nooruz Gala",
+    "ru": "Нооруз: праздничный концерт"
+   },
+   "who": "Talas Symphony Orchestra · Ak-Kuu · Gulmira Japarova, komuz",
+   "venue": "Talas Philharmonic",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://philharmonic.korkom.org/",
+   "price": "300–1,000 som",
+   "note": {
+    "en": "The spring concert for Nooruz: the orchestra, Ak-Kuu's aylanma, and the komuz under the mosaic. Sumolok in the foyer from 15:00."
+   }
+  },
+  {
+   "id": "season-te-2027-03-21-1700",
+   "kind": "stage",
+   "date": "2027-03-21",
+   "time": "17:00",
+   "title": {
+    "en": "Guilty Without Guilt (Ostrovsky)",
+    "ru": "«Без вины виноватые»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som"
   }
  ]
 }
