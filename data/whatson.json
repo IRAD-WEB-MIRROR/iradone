@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21",
+ "updated": "2026-11-22",
  "events": [
   {
    "id": "season-az-hands-speak",
@@ -36,55 +36,6 @@
     "en": "Mountains and Dreams, Threads of History, History in Bronze and Modern Rhythms. Closed 14 November."
    },
    "tulpar": "palaceofart"
-  },
-  {
-   "id": "season-ph-2026-11-21",
-   "kind": "concert",
-   "date": "2026-11-21",
-   "time": "18:00",
-   "title": {
-    "en": "Tchaikovsky 5"
-   },
-   "who": "Talas Symphony Orchestra · Aizada Kemel, soprano",
-   "venue": "Talas Philharmonic",
-   "city": "Talas",
-   "city_ru": "Талас",
-   "url": "https://philharmonic.korkom.org/",
-   "price": "300–900 som",
-   "note": {
-    "en": "Tchaikovsky's Fifth Symphony; arias from the Talas Opera's repertoire."
-   }
-  },
-  {
-   "id": "season-te-2026-11-21-1800",
-   "kind": "stage",
-   "date": "2026-11-21",
-   "time": "18:00",
-   "title": {
-    "en": "The Government Inspector (Gogol)",
-    "ru": "«Ревизор»"
-   },
-   "venue": "Nurzhan Russian Drama Theatre",
-   "city": "Nurzhan",
-   "city_ru": "Нуржан",
-   "url": "https://nurzhan-drama.korkom.org/",
-   "price": "150–400 som"
-  },
-  {
-   "id": "season-op-2026-11-21",
-   "kind": "stage",
-   "date": "2026-11-21",
-   "time": "18:30",
-   "title": {
-    "en": "Swan Lake",
-    "ru": "Лебединое озеро"
-   },
-   "who": "Kylych Karabekov (Siegfried), Asel Temirbekova (Odette and Odile)",
-   "venue": "Talas Opera and Ballet Theater",
-   "city": "Talas",
-   "city_ru": "Талас",
-   "url": "https://talas-opera.korkom.org/afisha.html",
-   "price": "300–1,500 som"
   },
   {
    "id": "season-te-2026-11-22-1700",

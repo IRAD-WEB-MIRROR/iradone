@@ -1,8 +1,8 @@
 {
- "date": "2026-11-21",
- "updated": "2026-11-21T03:07+06:00",
+ "date": "2026-11-22",
+ "updated": "2026-11-22T03:07+06:00",
  "label": {
-  "en": "Market data, 21 November 2026",
+  "en": "Market data, 22 November 2026",
   "ir": "Bazar maalımatı",
   "ru": "Рыночные данные"
  },
@@ -63,8 +63,8 @@
     {
      "code": "USD",
      "units": 1,
-     "buy": 11.55,
-     "sell": 11.95
+     "buy": 11.5,
+     "sell": 12.0
     },
     {
      "code": "EUR",
@@ -311,38 +311,27 @@
      "ru": "Талас"
     },
     "elevation_m": 1270,
-    "high": 5,
-    "low": -6,
-    "code": 2,
+    "high": 6,
+    "low": -5,
+    "code": 1,
     "label": {
-     "en": "Partly cloudy",
-     "ir": "Jarım-jartı bulut",
-     "ru": "Переменная облачность"
+     "en": "Mainly clear",
+     "ir": "Negizinen achık",
+     "ru": "Преимущественно ясно"
     },
     "precip_mm": 0.0,
     "inversion": false,
     "temps_3h": [
-     -2,
+     -1,
+     -4,
      -5,
-     -6,
-     -3,
-     2,
+     -2,
+     3,
+     6,
      5,
-     4,
-     1
+     2
     ],
     "forecast": [
-     {
-      "date": "2026-11-22",
-      "high": 6,
-      "low": -5,
-      "code": 1,
-      "label": {
-       "en": "Mainly clear",
-       "ir": "Negizinen achık",
-       "ru": "Преимущественно ясно"
-      }
-     },
      {
       "date": "2026-11-23",
       "high": 7,
@@ -363,6 +352,17 @@
        "en": "Mainly clear",
        "ir": "Negizinen achık",
        "ru": "Преимущественно ясно"
+      }
+     },
+     {
+      "date": "2026-11-25",
+      "high": 5,
+      "low": -5,
+      "code": 45,
+      "label": {
+       "en": "Fog",
+       "ir": "Tuman",
+       "ru": "Туман"
       }
      }
     ]
@@ -375,38 +375,27 @@
      "ru": "Нуржан"
     },
     "elevation_m": 470,
-    "high": 6,
-    "low": -5,
-    "code": 2,
+    "high": 4,
+    "low": -4,
+    "code": 1,
     "label": {
-     "en": "Partly cloudy",
-     "ir": "Jarım-jartı bulut",
-     "ru": "Переменная облачность"
+     "en": "Mainly clear",
+     "ir": "Negizinen achık",
+     "ru": "Преимущественно ясно"
     },
     "precip_mm": 0.0,
-    "inversion": false,
+    "inversion": true,
     "temps_3h": [
      -1,
+     -3,
      -4,
-     -5,
      -2,
-     3,
-     6,
+     2,
      4,
-     2
+     3,
+     1
     ],
     "forecast": [
-     {
-      "date": "2026-11-22",
-      "high": 4,
-      "low": -4,
-      "code": 1,
-      "label": {
-       "en": "Mainly clear",
-       "ir": "Negizinen achık",
-       "ru": "Преимущественно ясно"
-      }
-     },
      {
       "date": "2026-11-23",
       "high": 9,
@@ -422,6 +411,17 @@
       "date": "2026-11-24",
       "high": 9,
       "low": -3,
+      "code": 1,
+      "label": {
+       "en": "Mainly clear",
+       "ir": "Negizinen achık",
+       "ru": "Преимущественно ясно"
+      }
+     },
+     {
+      "date": "2026-11-25",
+      "high": 8,
+      "low": -4,
       "code": 1,
       "label": {
        "en": "Mainly clear",
@@ -440,37 +440,26 @@
     },
     "elevation_m": 650,
     "high": 9,
-    "low": -1,
-    "code": 3,
+    "low": 1,
+    "code": 45,
     "label": {
-     "en": "Cloudy",
-     "ir": "Bulut",
-     "ru": "Облачно"
+     "en": "Fog",
+     "ir": "Tuman",
+     "ru": "Туман"
     },
     "precip_mm": 0.0,
-    "inversion": false,
+    "inversion": true,
     "temps_3h": [
-     3,
-     0,
-     -1,
+     4,
      2,
+     1,
+     3,
      7,
      9,
      8,
      6
     ],
     "forecast": [
-     {
-      "date": "2026-11-22",
-      "high": 9,
-      "low": 1,
-      "code": 45,
-      "label": {
-       "en": "Fog",
-       "ir": "Tuman",
-       "ru": "Туман"
-      }
-     },
      {
       "date": "2026-11-23",
       "high": 10,
@@ -492,6 +481,17 @@
        "ir": "Tuman",
        "ru": "Туман"
       }
+     },
+     {
+      "date": "2026-11-25",
+      "high": 11,
+      "low": 2,
+      "code": 2,
+      "label": {
+       "en": "Partly cloudy",
+       "ir": "Jarım-jartı bulut",
+       "ru": "Переменная облачность"
+      }
      }
     ]
    },
@@ -504,37 +504,26 @@
     },
     "elevation_m": 880,
     "high": 7,
-    "low": -4,
-    "code": 3,
+    "low": -2,
+    "code": 1,
     "label": {
-     "en": "Cloudy",
-     "ir": "Bulut",
-     "ru": "Облачно"
+     "en": "Mainly clear",
+     "ir": "Negizinen achık",
+     "ru": "Преимущественно ясно"
     },
     "precip_mm": 0.0,
     "inversion": false,
     "temps_3h": [
-     0,
-     -3,
-     -4,
+     1,
      -1,
-     4,
+     -2,
+     1,
+     5,
      7,
      6,
-     3
+     4
     ],
     "forecast": [
-     {
-      "date": "2026-11-22",
-      "high": 7,
-      "low": -2,
-      "code": 1,
-      "label": {
-       "en": "Mainly clear",
-       "ir": "Negizinen achık",
-       "ru": "Преимущественно ясно"
-      }
-     },
      {
       "date": "2026-11-23",
       "high": 8,
@@ -556,6 +545,17 @@
        "ir": "Achık",
        "ru": "Ясно"
       }
+     },
+     {
+      "date": "2026-11-25",
+      "high": 10,
+      "low": -2,
+      "code": 2,
+      "label": {
+       "en": "Partly cloudy",
+       "ir": "Jarım-jartı bulut",
+       "ru": "Переменная облачность"
+      }
      }
     ]
    },
@@ -567,38 +567,27 @@
      "ru": "Токтогул"
     },
     "elevation_m": 1000,
-    "high": 6,
-    "low": -6,
-    "code": 3,
+    "high": 8,
+    "low": -1,
+    "code": 1,
     "label": {
-     "en": "Cloudy",
-     "ir": "Bulut",
-     "ru": "Облачно"
+     "en": "Mainly clear",
+     "ir": "Negizinen achık",
+     "ru": "Преимущественно ясно"
     },
     "precip_mm": 0.0,
     "inversion": false,
     "temps_3h": [
-     -2,
-     -5,
-     -6,
-     -3,
-     3,
-     6,
+     2,
+     -1,
+     -1,
+     1,
      5,
-     2
+     8,
+     7,
+     4
     ],
     "forecast": [
-     {
-      "date": "2026-11-22",
-      "high": 8,
-      "low": -1,
-      "code": 1,
-      "label": {
-       "en": "Mainly clear",
-       "ir": "Negizinen achık",
-       "ru": "Преимущественно ясно"
-      }
-     },
      {
       "date": "2026-11-23",
       "high": 9,
@@ -620,6 +609,17 @@
        "ir": "Jarım-jartı bulut",
        "ru": "Переменная облачность"
       }
+     },
+     {
+      "date": "2026-11-25",
+      "high": 9,
+      "low": -2,
+      "code": 2,
+      "label": {
+       "en": "Partly cloudy",
+       "ir": "Jarım-jartı bulut",
+       "ru": "Переменная облачность"
+      }
      }
     ]
    },
@@ -631,38 +631,27 @@
      "ru": "Базар-Коргон"
     },
     "elevation_m": 800,
-    "high": 7,
-    "low": -2,
-    "code": 3,
+    "high": 10,
+    "low": 0,
+    "code": 0,
     "label": {
-     "en": "Cloudy",
-     "ir": "Bulut",
-     "ru": "Облачно"
+     "en": "Clear",
+     "ir": "Achık",
+     "ru": "Ясно"
     },
     "precip_mm": 0.0,
     "inversion": false,
     "temps_3h": [
+     3,
      1,
-     -1,
-     -2,
-     1,
-     5,
+     0,
+     2,
      7,
-     6,
-     4
+     10,
+     9,
+     6
     ],
     "forecast": [
-     {
-      "date": "2026-11-22",
-      "high": 10,
-      "low": 0,
-      "code": 0,
-      "label": {
-       "en": "Clear",
-       "ir": "Achık",
-       "ru": "Ясно"
-      }
-     },
      {
       "date": "2026-11-23",
       "high": 10,
@@ -684,6 +673,17 @@
        "ir": "Bulut",
        "ru": "Облачно"
       }
+     },
+     {
+      "date": "2026-11-25",
+      "high": 11,
+      "low": -1,
+      "code": 1,
+      "label": {
+       "en": "Mainly clear",
+       "ir": "Negizinen achık",
+       "ru": "Преимущественно ясно"
+      }
      }
     ]
    },
@@ -695,38 +695,27 @@
      "ru": "Мерке"
     },
     "elevation_m": 700,
-    "high": 4,
-    "low": -6,
-    "code": 2,
+    "high": 8,
+    "low": -4,
+    "code": 1,
     "label": {
-     "en": "Partly cloudy",
-     "ir": "Jarım-jartı bulut",
-     "ru": "Переменная облачность"
+     "en": "Mainly clear",
+     "ir": "Negizinen achık",
+     "ru": "Преимущественно ясно"
     },
     "precip_mm": 0.0,
     "inversion": false,
     "temps_3h": [
+     0,
      -3,
-     -5,
-     -6,
      -4,
-     2,
-     4,
-     3,
-     1
+     -1,
+     5,
+     8,
+     7,
+     4
     ],
     "forecast": [
-     {
-      "date": "2026-11-22",
-      "high": 8,
-      "low": -4,
-      "code": 1,
-      "label": {
-       "en": "Mainly clear",
-       "ir": "Negizinen achık",
-       "ru": "Преимущественно ясно"
-      }
-     },
      {
       "date": "2026-11-23",
       "high": 4,
@@ -748,6 +737,17 @@
        "ir": "Jarım-jartı bulut",
        "ru": "Переменная облачность"
       }
+     },
+     {
+      "date": "2026-11-25",
+      "high": 8,
+      "low": -5,
+      "code": 1,
+      "label": {
+       "en": "Mainly clear",
+       "ir": "Negizinen achık",
+       "ru": "Преимущественно ясно"
+      }
      }
     ]
    }
@@ -768,16 +768,16 @@
      "ir": "Nurzhan",
      "ru": "Нуржан"
     },
-    "aqi": 160,
-    "pm25": 68.9,
-    "category": "unhealthy",
+    "aqi": 234,
+    "pm25": 158.4,
+    "category": "very-unhealthy",
     "label": {
-     "en": "Unhealthy",
-     "ir": "Den sooluk üchün ziyan",
-     "ru": "Вредно"
+     "en": "Very unhealthy",
+     "ir": "Abdan ziyan",
+     "ru": "Очень вредно"
     },
     "heating_season": true,
-    "inversion": false
+    "inversion": true
    },
    {
     "id": "talas",
@@ -786,8 +786,8 @@
      "ir": "Talas",
      "ru": "Талас"
     },
-    "aqi": 90,
-    "pm25": 29.9,
+    "aqi": 100,
+    "pm25": 35.3,
     "category": "moderate",
     "label": {
      "en": "Moderate",
@@ -804,16 +804,16 @@
      "ir": "Iyık Janyl",
      "ru": "Ийык Джаныл"
     },
-    "aqi": 93,
-    "pm25": 31.5,
-    "category": "moderate",
+    "aqi": 163,
+    "pm25": 73.2,
+    "category": "unhealthy",
     "label": {
-     "en": "Moderate",
-     "ir": "Ortocho",
-     "ru": "Умеренное"
+     "en": "Unhealthy",
+     "ir": "Den sooluk üchün ziyan",
+     "ru": "Вредно"
     },
     "heating_season": true,
-    "inversion": false
+    "inversion": true
    }
   ]
  },
@@ -824,10 +824,10 @@
    "ru": "Ежедневная сводка Ирадэнерго по водохранилищу"
   },
   "toktogul": {
-   "storage_km3": 15.66,
+   "storage_km3": 15.6,
    "total_km3": 19.0,
-   "fill_pct": 82.4,
-   "change_mcm": -54,
+   "fill_pct": 82.1,
+   "change_mcm": -57,
    "trend": "drawing-down",
    "trend_label": {
     "en": "Drawing down",
@@ -859,9 +859,9 @@
    "ir": "Chet öldük birjanın tüshkü baası. Rasmiy tölöm karajatı emes (Irad Bankı).",
    "ru": "Котировка офшорной биржи в полдень. Не является законным платёжным средством (Банк Ирада)."
   },
-  "price_usd": 0.0329,
-  "price_som": 0.276,
-  "change_pct": -1.4,
+  "price_usd": 0.034,
+  "price_som": 0.286,
+  "change_pct": 3.5,
   "time": "12:00 UTC"
  },
  "sport": {
@@ -1354,156 +1354,120 @@
       {
        "pos": 2,
        "team": "Talas",
-       "p": 9,
-       "gd": 24,
-       "pts": 22
+       "p": 10,
+       "gd": 28,
+       "pts": 25
       },
       {
        "pos": 3,
        "team": "Dastgoh",
-       "p": 9,
-       "gd": 7,
-       "pts": 16
+       "p": 10,
+       "gd": 10,
+       "pts": 19
       },
       {
        "pos": 4,
-       "team": "Iyık Janyl",
-       "p": 9,
-       "gd": 5,
-       "pts": 16
+       "team": "Nurzhan",
+       "p": 11,
+       "gd": 9,
+       "pts": 18
       },
       {
        "pos": 5,
-       "team": "Nurzhan",
+       "team": "Iyık Janyl",
        "p": 10,
-       "gd": 6,
-       "pts": 15
+       "gd": 3,
+       "pts": 16
       },
       {
        "pos": 6,
-       "team": "Kyzyl-Adyr",
-       "p": 9,
-       "gd": -2,
-       "pts": 13
+       "team": "Lower Naryn",
+       "p": 10,
+       "gd": -7,
+       "pts": 15
       },
       {
        "pos": 7,
-       "team": "Kara-Bulak",
-       "p": 9,
-       "gd": -5,
-       "pts": 12
+       "team": "Kyzyl-Adyr",
+       "p": 10,
+       "gd": -6,
+       "pts": 13
       },
       {
        "pos": 8,
-       "team": "Lower Naryn",
-       "p": 9,
-       "gd": -9,
+       "team": "Kara-Bulak",
+       "p": 10,
+       "gd": -8,
        "pts": 12
       },
       {
        "pos": 9,
        "team": "Sary-Bulak",
-       "p": 9,
-       "gd": -12,
-       "pts": 7
+       "p": 10,
+       "gd": -9,
+       "pts": 10
       },
       {
        "pos": 10,
        "team": "Köhne Diz",
-       "p": 10,
-       "gd": -14,
+       "p": 11,
+       "gd": -17,
        "pts": 7
       },
       {
        "pos": 11,
        "team": "Semiz",
-       "p": 9,
-       "gd": -18,
+       "p": 10,
+       "gd": -21,
        "pts": 2
       }
      ],
      "last_round": {
-      "round": 10,
-      "date": "2026-11-14",
+      "round": 11,
+      "date": "2026-11-21",
       "results": [
        {
-        "home": "Lower Naryn",
-        "away": "Kara-Bulak",
+        "home": "Talas",
+        "away": "Kyzyl-Adyr",
         "score": [
-         7,
+         10,
          6
         ]
        },
        {
         "home": "Köhne Diz",
-        "away": "Kyzyl-Adyr",
-        "score": [
-         2,
-         4
-        ]
-       },
-       {
-        "home": "Talas",
-        "away": "Dastgoh",
-        "score": [
-         2,
-         3
-        ]
-       },
-       {
-        "home": "Chu",
         "away": "Sary-Bulak",
         "score": [
-         6,
+         0,
          3
         ]
-       },
-       {
-        "home": "Iyık Janyl",
-        "away": "Nurzhan",
-        "score": [
-         5,
-         4
-        ]
-       }
-      ],
-      "not_received": 0
-     },
-     "next_round": {
-      "round": 11,
-      "date": "2026-11-21",
-      "fixtures": [
-       {
-        "home": "Talas",
-        "away": "Kyzyl-Adyr",
-        "venue": "State Hippodrome, Talas",
-        "time": "19:00"
-       },
-       {
-        "home": "Köhne Diz",
-        "away": "Sary-Bulak",
-        "venue": "State Hippodrome, Talas",
-        "time": "21:00"
        },
        {
         "home": "Nurzhan",
         "away": "Semiz",
-        "venue": "Chu plain ground, Nurzhan",
-        "time": "16:00"
+        "score": [
+         5,
+         2
+        ]
        },
        {
         "home": "Lower Naryn",
         "away": "Iyık Janyl",
-        "venue": "Tash-Kömür",
-        "time": "17:00"
+        "score": [
+         9,
+         7
+        ]
        },
        {
         "home": "Dastgoh",
         "away": "Kara-Bulak",
-        "venue": "Dastgoh works ground, Nurzhan",
-        "time": "16:00"
+        "score": [
+         5,
+         2
+        ]
        }
-      ]
+      ],
+      "not_received": 0
      }
     },
     {
@@ -1514,15 +1478,15 @@
       {
        "pos": 1,
        "team": "Boztorgoy",
-       "p": 9,
-       "gd": 26,
-       "pts": 27
+       "p": 10,
+       "gd": 33,
+       "pts": 30
       },
       {
        "pos": 2,
        "team": "Tanıp",
-       "p": 9,
-       "gd": 19,
+       "p": 10,
+       "gd": 12,
        "pts": 22
       },
       {
@@ -1541,161 +1505,158 @@
       },
       {
        "pos": 5,
-       "team": "Karatau Select",
-       "p": 8,
-       "gd": 8,
+       "team": "Akjele",
+       "p": 9,
+       "gd": 9,
        "pts": 16
       },
       {
        "pos": 6,
-       "team": "Akjele",
-       "p": 8,
-       "gd": 9,
-       "pts": 15
+       "team": "Karatau Select",
+       "p": 9,
+       "gd": 3,
+       "pts": 16
       },
       {
        "pos": 7,
+       "team": "Kökjal",
+       "p": 11,
+       "gd": -1,
+       "pts": 14
+      },
+      {
+       "pos": 8,
        "team": "Northern Steppe Select",
        "p": 10,
        "gd": -3,
        "pts": 13
       },
       {
-       "pos": 8,
-       "team": "Chubar (Highland)",
-       "p": 9,
-       "gd": -6,
+       "pos": 9,
+       "team": "Chatkal Highlands Select",
+       "p": 11,
+       "gd": -2,
        "pts": 12
       },
       {
-       "pos": 9,
-       "team": "Chatkal Highlands Select",
-       "p": 10,
-       "gd": -2,
-       "pts": 11
-      },
-      {
        "pos": 10,
-       "team": "Kökjal",
+       "team": "Chubar (Highland)",
        "p": 10,
-       "gd": -6,
-       "pts": 11
+       "gd": -7,
+       "pts": 12
       },
       {
        "pos": 11,
        "team": "Sarybagysh",
-       "p": 10,
-       "gd": -21,
-       "pts": 7
+       "p": 11,
+       "gd": -20,
+       "pts": 10
       },
       {
        "pos": 12,
        "team": "Aksay Plateau Select",
-       "p": 9,
-       "gd": -12,
+       "p": 10,
+       "gd": -13,
        "pts": 5
       },
       {
        "pos": 13,
        "team": "Moiynkum Select",
-       "p": 9,
-       "gd": -32,
-       "pts": 0
+       "p": 10,
+       "gd": -31,
+       "pts": 3
       }
      ],
      "last_round": {
-      "round": 10,
-      "date": "2026-11-14",
+      "round": 11,
+      "date": "2026-11-21",
       "results": [
        {
-        "home": "Kökjal",
-        "away": "Naiman",
+        "home": "Moiynkum Select",
+        "away": "Aksay Plateau Select",
         "score": [
-         2,
+         6,
          5
         ]
        },
        {
-        "home": "Moiynkum Select",
-        "away": "Akjele",
-        "score": [
-         3,
-         9
-        ]
-       },
-       {
-        "home": "Northern Steppe Select",
-        "away": "Sarybagysh",
-        "score": [
-         10,
-         4
-        ]
-       },
-       {
-        "home": "Tanıp",
-        "away": "Aksay Plateau Select",
-        "score": [
-         6,
-         2
-        ]
-       },
-       {
-        "home": "Karakoyun",
-        "away": "Chatkal Highlands Select",
-        "score": [
-         3,
-         6
-        ]
-       },
-       {
-        "home": "Chubar (Highland)",
-        "away": "Boztorgoy",
-        "score": [
-         7,
-         9
-        ]
-       }
-      ],
-      "not_received": 0
-     },
-     "next_round": {
-      "round": 11,
-      "date": "2026-11-21",
-      "fixtures": [
-       {
-        "home": "Moiynkum Select",
-        "away": "Aksay Plateau Select",
-        "venue": "Moiynkum",
-        "time": "13:00"
-       },
-       {
         "home": "Chubar (Highland)",
         "away": "Sarybagysh",
-        "venue": "Arslanbob",
-        "time": "14:00"
+        "score": [
+         4,
+         5
+        ]
        },
        {
         "home": "Karakoyun",
         "away": "Naiman",
-        "venue": "Kara-Koyun Valley",
-        "time": "15:00"
+        "score": null
        },
        {
         "home": "Boztorgoy",
         "away": "Tanıp",
-        "venue": "Moiynkum winter grounds",
-        "time": "13:00"
+        "score": [
+         11,
+         4
+        ]
        },
        {
         "home": "Kökjal",
         "away": "Karatau Select",
-        "venue": "Toktogul basin",
-        "time": "14:00"
+        "score": [
+         11,
+         6
+        ]
        },
        {
         "home": "Akjele",
         "away": "Chatkal Highlands Select",
+        "score": [
+         7,
+         7
+        ]
+       }
+      ],
+      "not_received": 1
+     },
+     "next_round": {
+      "round": 12,
+      "date": "2026-11-28",
+      "fixtures": [
+       {
+        "home": "Aksay Plateau Select",
+        "away": "Karatau Select",
+        "venue": "Aksay Plateau",
+        "time": "13:00"
+       },
+       {
+        "home": "Chatkal Highlands Select",
+        "away": "Naiman",
+        "venue": "Upper Chatkal",
+        "time": "14:00"
+       },
+       {
+        "home": "Chubar (Highland)",
+        "away": "Kökjal",
+        "venue": "Arslanbob",
+        "time": "15:00"
+       },
+       {
+        "home": "Boztorgoy",
+        "away": "Moiynkum Select",
+        "venue": "Moiynkum winter grounds",
+        "time": "13:00"
+       },
+       {
+        "home": "Akjele",
+        "away": "Karakoyun",
         "venue": "Upper Besh-Tash",
+        "time": "14:00"
+       },
+       {
+        "home": "Northern Steppe Select",
+        "away": "Tanıp",
+        "venue": "Northern Steppe",
         "time": "15:00"
        }
       ]
@@ -1709,13 +1670,13 @@
      "venue": "State Hippodrome, Talas",
      "matches": [
       {
-       "home": "isez:1",
+       "home": "Chu",
        "away": "hl:2",
        "time": "19:00"
       },
       {
        "home": "hl:1",
-       "away": "isez:2",
+       "away": "Talas",
        "time": "21:00"
       }
      ]
@@ -1769,8 +1730,8 @@
      "ir": "Achık",
      "ru": "Открыто"
     },
-    "high": 4,
-    "low": -7,
+    "high": 5,
+    "low": -6,
     "snow": false
    },
    {
@@ -1787,8 +1748,8 @@
      "ir": "Chınjır je kıshkı döñgölök",
      "ru": "Цепи или зимние шины"
     },
-    "high": 0,
-    "low": -11,
+    "high": 1,
+    "low": -10,
     "snow": false
    },
    {
@@ -1805,8 +1766,8 @@
      "ir": "Kıshka jabık",
      "ru": "Закрыто на зиму"
     },
-    "high": -4,
-    "low": -15,
+    "high": -3,
+    "low": -14,
     "snow": false
    },
    {
@@ -1823,8 +1784,8 @@
      "ir": "Chınjır je kıshkı döñgölök",
      "ru": "Цепи или зимние шины"
     },
-    "high": -7,
-    "low": -18,
+    "high": -6,
+    "low": -17,
     "snow": false
    },
    {
@@ -1841,8 +1802,8 @@
      "ir": "Chınjır je kıshkı döñgölök",
      "ru": "Цепи или зимние шины"
     },
-    "high": -7,
-    "low": -18,
+    "high": -6,
+    "low": -17,
     "snow": false
    },
    {
@@ -1859,8 +1820,8 @@
      "ir": "Kıshka jabık",
      "ru": "Закрыто на зиму"
     },
-    "high": -8,
-    "low": -19,
+    "high": -7,
+    "low": -18,
     "snow": false
    },
    {
@@ -1877,8 +1838,8 @@
      "ir": "Chınjır je kıshkı döñgölök",
      "ru": "Цепи или зимние шины"
     },
-    "high": -4,
-    "low": -15,
+    "high": -3,
+    "low": -14,
     "snow": false
    },
    {
@@ -1895,8 +1856,8 @@
      "ir": "Chınjır je kıshkı döñgölök",
      "ru": "Цепи или зимние шины"
     },
-    "high": -7,
-    "low": -18,
+    "high": -6,
+    "low": -17,
     "snow": false
    },
    {
@@ -1913,8 +1874,8 @@
      "ir": "Kıshka jabık",
      "ru": "Закрыто на зиму"
     },
-    "high": -8,
-    "low": -19,
+    "high": -7,
+    "low": -18,
     "snow": false
    }
   ],
