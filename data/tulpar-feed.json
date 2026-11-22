@@ -1,6 +1,155 @@
 {
- "updated": "2026-11-22T03:08+06:00",
+ "updated": "2026-11-23T03:08+06:00",
  "posts": [
+  {
+   "id": "d1123-iradgov-s1",
+   "handle": "iradgov",
+   "time": "2026-11-23T18:46+06:00",
+   "text": {
+    "en": "In case you missed it: Preliminary harvest figures: 1.2 million tonnes of grain and 210,000 tonnes of potatoes",
+    "ir": "Okuy elek bolsoñuz: Tüshümdün aldın ala jıyıntıgı: 1,2 million tonna dan jana 210 000 tonna kartoshka",
+    "ru": "Если пропустили: Предварительные итоги уборки: 1,2 млн тонн зерна и 210 тыс. тонн картофеля"
+   },
+   "link": {
+    "url": "https://iradgov.org/releases/2026-10-14-harvest.html",
+    "site": "iradgov.org",
+    "title": "Preliminary harvest figures: 1.2 million tonnes of grain and 210,000 tonnes of potatoes",
+    "desc": "The Chu and Talas valleys have brought in one of the strongest harvests in years. Grain is up by about two-fifths on last year."
+   },
+   "stats": {
+    "replies": 49,
+    "reposts": 38,
+    "likes": 552
+   }
+  },
+  {
+   "id": "d1123-vnurzhan-s1",
+   "handle": "vnurzhan",
+   "time": "2026-11-23T15:39+06:00",
+   "text": {
+    "en": "In case you missed it: Bread and fares hold, imports rise: why prices in som are not all alike",
+    "ir": "Okuy elek bolsoñuz: Bread and fares hold, imports rise: why prices in som are not all alike",
+    "ru": "Если пропустили: Хлеб и проезд стоят на месте, импорт дорожает: почему цены в сомах не одинаковы"
+   },
+   "link": {
+    "url": "https://vnurzhan.com/en/news/tseny-v-somakh-khleb-proezd.html",
+    "site": "vnurzhan.com",
+    "title": "Bread and fares hold, imports rise: why prices in som are not all alike",
+    "desc": "A loaf of bread, a bus ticket and a litre of diesel have barely changed since spring, while imported goods have risen noticeably. Experts and the Ministry of Economy explain why.",
+    "image": "https://vnurzhan.com/photos/vn_market_trader.jpg"
+   },
+   "stats": {
+    "replies": 49,
+    "reposts": 66,
+    "likes": 826
+   }
+  },
+  {
+   "id": "d1123-iradtimes-s1",
+   "handle": "iradtimes",
+   "time": "2026-11-23T13:06+06:00",
+   "text": {
+    "en": "In case you missed it: Toktogul’s extra 240 MW",
+    "ir": "Okuy elek bolsoñuz: Toktogul’s extra 240 MW",
+    "ru": "Если пропустили: Toktogul’s extra 240 MW"
+   },
+   "link": {
+    "url": "https://iradtimes.com/2026/10/brief-toktogul-extra-240-mw.html",
+    "site": "iradtimes.com",
+    "title": "Toktogul’s extra 240 MW",
+    "desc": "The Toktogul complex will export an additional 240 megawatts this winter after the refit of two units, the Ministry of Energy said. It did not say how the…",
+    "image": "https://iradtimes.com/img/og-default.jpg"
+   },
+   "stats": {
+    "replies": 10,
+    "reposts": 58,
+    "likes": 342
+   }
+  },
+  {
+   "id": "d1123-tsu-wo-tsu-komuz-final-1126",
+   "handle": "tsu",
+   "time": "2026-11-23T12:00+06:00",
+   "text": {
+    "en": "Thursday 26 November at 17:00: National komuz contest: the final, Talas State University, Faculty of Arts and Music, concert hall, Talas. Free entry.",
+    "ru": "четверг, 26 ноября в 17:00: Республиканский конкурс комузистов: финал, Talas State University, Faculty of Arts and Music, concert hall, Талас."
+   },
+   "link": {
+    "url": "https://talasuniversity.org/news/",
+    "site": "talasuniversity.org",
+    "title": "National komuz contest: the final"
+   },
+   "stats": {
+    "replies": 25,
+    "reposts": 51,
+    "likes": 644
+   }
+  },
+  {
+   "id": "d1123-iradstrakh-promo3",
+   "handle": "iradstrakh",
+   "time": "2026-11-23T12:00+06:00",
+   "text": {
+    "en": "Driving in winter? The Fergana Gateway is open, with chains or winter tyres required. Check that your compulsory motor third-party policy is valid. Iradstrakh has issued it since 2009 at about 60 offices.",
+    "ir": "Kışta mašina aydap jatasızbı? Fergana Darbazası açık, zınjır yaki kışkı şina şart. Mildettüü avtoulov üçünçü tarap polisiñiz kücündö ekenin tekşeriñiz. Iradstrakh anı 2009-jıldan beri 60ça ofiste satat.",
+    "ru": "Едете зимой? Ферганские ворота открыты, нужны цепи или зимняя резина. Проверьте, действует ли ваш полис ОСАГО. Ирадстрах оформляет его с 2009 года примерно в 60 офисах."
+   },
+   "stats": {
+    "replies": 5,
+    "reposts": 12,
+    "likes": 106
+   }
+  },
+  {
+   "id": "d1123-iradenergo-promo2",
+   "handle": "iradenergo",
+   "time": "2026-11-23T09:30+06:00",
+   "text": {
+    "en": "Normal supply today in Talas, Nurzhan and Iyık Janyl; no scheduled cuts. Exports to Uzbekistan and Kazakhstan run on the contract schedule. Toktogul stands at 15.55 km³ of 19.",
+    "ir": "Bügün Talas, Nurzhan jana Iyık Janylda elektr normaldu berilip jatat; plandalgan öçürüülör jok. Özbekstanga jana Kazakstanga eksport kelişim grafigi boyunça. Toktogul 19 km³ dan 15,55 km³.",
+    "ru": "Сегодня в Таласе, Нурже и Иыке Жаныл электроснабжение в норме, плановых отключений нет. Экспорт в Узбекистан и Казахстан идёт по графику контрактов. В Токтогуле 15,55 км³ из 19."
+   },
+   "stats": {
+    "replies": 57,
+    "reposts": 83,
+    "likes": 642
+   }
+  },
+  {
+   "id": "d1123-bankofirad-rates",
+   "handle": "bankofirad",
+   "time": "2026-11-23T09:00+06:00",
+   "text": {
+    "en": "Official rates of the som for Monday 23 November: US dollar 8.40 · euro 9.22 · 100 rubles 10.24 · 100 tenge 1.87 · 100 Kyrgyz som 9.61 · yuan 1.25.",
+    "ir": "23-noyabr, düyshömbü: somdun rasmiy kurstarı: AKSh dolları 8,40 · evro 9,22 · 100 rubl 10,24 · 100 teñge 1,87 · 100 kırgız somu 9,61 · yuan 1,25.",
+    "ru": "Официальные курсы сома на понедельник, 23 ноября: доллар США 8,40 · евро 9,22 · 100 рублей 10,24 · 100 тенге 1,87 · 100 кыргызских сомов 9,61 · юань 1,25."
+   },
+   "link": {
+    "url": "https://bank.iradgov.org/rates.html",
+    "site": "bank.iradgov.org",
+    "title": "Official rates of the som"
+   },
+   "stats": {
+    "replies": 22,
+    "reposts": 22,
+    "likes": 369
+   }
+  },
+  {
+   "id": "d1123-iradone-wx",
+   "handle": "iradone",
+   "time": "2026-11-23T07:05+06:00",
+   "text": {
+    "en": "Weather, 23 November: Talas 7°/-5° cloudy · Nurzhan 9°/-4° cloudy · Iyık Janyl 10°/2° cloudy.",
+    "ir": "Aba ırayı, 23-noyabr: Talas 7°/-5° bulut · Nurzhan 9°/-4° bulut · Iyık Janyl 10°/2° bulut.",
+    "ru": "Погода, 23 ноября: Талас 7°/-5° облачно · Нуржан 9°/-4° облачно · Ийык Джаныл 10°/2° облачно."
+   },
+   "stats": {
+    "replies": 28,
+    "reposts": 73,
+    "likes": 563
+   }
+  },
   {
    "id": "d1122-vnurzhan-s1",
    "handle": "vnurzhan",
@@ -131,6 +280,46 @@
     "replies": 31,
     "reposts": 52,
     "likes": 349
+   }
+  },
+  {
+   "id": "d1123-iradone-n2",
+   "handle": "iradone",
+   "time": "2026-11-22T08:45+06:00",
+   "text": {
+    "en": "Talas debates housing: up in the Microdistricts or out onto fields and foothills"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-22-talas-weighs-building-up-or-out-as-houses-creep-over-fields-and-foothi.html",
+    "site": "iradone.com",
+    "title": "Talas Weighs Building Up or Out as Houses Creep Over Fields and Foothills",
+    "desc": "With no decision taken, City Hall says it is listening to experts on how to house newcomers without losing the valley's irrigated land.",
+    "image": "https://iradone.com/photos/city-valley-aerial.jpg"
+   },
+   "stats": {
+    "replies": 79,
+    "reposts": 105,
+    "likes": 880
+   }
+  },
+  {
+   "id": "d1123-iradone-n1",
+   "handle": "iradone",
+   "time": "2026-11-22T08:24+06:00",
+   "text": {
+    "en": "Iyık Janyl: 2.4 kg of heroin seized on State Route 1, two men held"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-22-iyk-janyl-police-seize-2-4-kg-of-heroin-two-held-after-state-route-1-s.html",
+    "site": "iradone.com",
+    "title": "Iyık Janyl Police Seize 2.4 kg of Heroin; Two Held After State Route 1 Stop",
+    "desc": "City police and the ministry's Lower Naryn detachment found the drugs hidden in a door panel and a spare-wheel well.",
+    "image": "https://iradone.com/photos/tash-komur.jpg"
+   },
+   "stats": {
+    "replies": 21,
+    "reposts": 39,
+    "likes": 435
    }
   },
   {
@@ -2753,151 +2942,6 @@
     "replies": 48,
     "reposts": 108,
     "likes": 601
-   }
-  },
-  {
-   "id": "d1109-iradgov-s1",
-   "handle": "iradgov",
-   "time": "2026-11-09T18:26+06:00",
-   "text": {
-    "en": "Farm-Machinery Service Centre to Open at Kara-Bulak Before Spring Sowing",
-    "ir": "Kara-Bulakta ayıl charba tehnikasyna kyzmat körsötüü borboru achylat",
-    "ru": "В Кара-Булаке откроется сервисный центр для сельхозтехники к весеннему севу"
-   },
-   "link": {
-    "url": "https://iradgov.org/releases/2026-11-08-farm-machinery-service-centre-to-open-at-kara-bu.html",
-    "site": "iradgov.org",
-    "title": "Farm-Machinery Service Centre to Open at Kara-Bulak Before Spring Sowing",
-    "desc": "Alatau Agro Machinery LLC has announced a US$3 million service and parts centre beside the Talas–Nurzhan road at Kara-Bulak, financed by Talasbank and the Rural Development Fund. The Ministry of Agriculture and Water Resources welcomed the project, which is due to open before the 2027 spring sowing."
-   },
-   "stats": {
-    "replies": 18,
-    "reposts": 24,
-    "likes": 268
-   }
-  },
-  {
-   "id": "d1109-iradtimes-s1",
-   "handle": "iradtimes",
-   "time": "2026-11-09T15:17+06:00",
-   "text": {
-    "en": "In case you missed it: School pledge comes without a budget",
-    "ir": "Okuy elek bolsoñuz: School pledge comes without a budget",
-    "ru": "Если пропустили: School pledge comes without a budget"
-   },
-   "link": {
-    "url": "https://iradtimes.com/2026/10/school-pledge-comes-without-a-budget.html",
-    "site": "iradtimes.com",
-    "title": "School pledge comes without a budget",
-    "desc": "Lieutenant Governor Aidar Maksat told residents of Bazar-Korgon on 22 October that the ISEZ aims to end its school shortage by 2028. Parents at the meeting…",
-    "image": "https://iradtimes.com/img/og-default.jpg"
-   },
-   "stats": {
-    "replies": 23,
-    "reposts": 38,
-    "likes": 385
-   }
-  },
-  {
-   "id": "d1109-vnurzhan-s1",
-   "handle": "vnurzhan",
-   "time": "2026-11-09T15:00+06:00",
-   "text": {
-    "en": "In case you missed it: Oil and gas conference draws 700 participants",
-    "ir": "Okuy elek bolsoñuz: Oil and gas conference draws 700 participants",
-    "ru": "Если пропустили: Нефтегазовая конференция собрала 700 участников"
-   },
-   "link": {
-    "url": "https://vnurzhan.com/en/news/neftegazovaya-konferentsiya-itogi.html",
-    "site": "vnurzhan.com",
-    "title": "Oil and gas conference draws 700 participants",
-    "desc": "NurGaz's annual Nurzhan Oil and Gas Conference closed at the Palace of Metallurgists, with almost 40% more participants than a year ago.",
-    "image": "https://vnurzhan.com/photos/vn_conference.jpg"
-   },
-   "stats": {
-    "replies": 75,
-    "reposts": 143,
-    "likes": 843
-   }
-  },
-  {
-   "id": "d1109-jilmay-promo3",
-   "handle": "jilmay",
-   "time": "2026-11-09T15:00+06:00",
-   "text": {
-    "en": "Jılmay Cargo: your parcels from our Bishkek warehouse in 5–9 days. $3.50 a kilo to the cities. 😊",
-    "ir": "Jılmay Cargo: Bishkektegi kampabızdan posılkalar 5–9 kündö. Shaarlarga kilosu $3,50. 😊",
-    "ru": "Jılmay Cargo: посылки с нашего склада в Бишкеке за 5–9 дней. $3,50 за кило до городов. 😊"
-   },
-   "stats": {
-    "replies": 2,
-    "reposts": 8,
-    "likes": 50
-   }
-  },
-  {
-   "id": "d1109-talasbank-promo2",
-   "handle": "talasbank",
-   "time": "2026-11-09T12:30+06:00",
-   "text": {
-    "en": "Money from Russia or Kazakhstan? Talasbank's SMS service tells you the moment a transfer arrives.",
-    "ir": "Orusiyadan je Kazakstandan akcha kelebi? Talasbanktın SMS kızmatı kotoruu kelgende daroo bildiret.",
-    "ru": "Перевод из России или Казахстана? SMS-сервис Таласбанка сообщит, как только деньги поступят."
-   },
-   "stats": {
-    "replies": 3,
-    "reposts": 11,
-    "likes": 84
-   }
-  },
-  {
-   "id": "d1109-kartalar-promo1",
-   "handle": "kartalar",
-   "time": "2026-11-09T10:00+06:00",
-   "text": {
-    "en": "Over the Ala-Bel? The Fergana Gateway, 3,184 m, is the highest point of State Route 1. IDs are checked at the summit post.",
-    "ir": "Ala-Bel arkıluubu? Fergana darbazası, 3 184 m, 1-mamlekettik joldun eñ biyik jeri. Ashuudagı postto dokument teksherilet.",
-    "ru": "Через Ала-Бель? Ферганские ворота, 3184 м, — высшая точка трассы №1. На посту на перевале проверяют документы."
-   },
-   "stats": {
-    "replies": 22,
-    "reposts": 35,
-    "likes": 444
-   }
-  },
-  {
-   "id": "d1109-bankofirad-rates",
-   "handle": "bankofirad",
-   "time": "2026-11-09T09:00+06:00",
-   "text": {
-    "en": "Official rates of the som for Monday 9 November: US dollar 8.40 · euro 9.38 · 100 rubles 10.28 · 100 tenge 1.87 · 100 Kyrgyz som 9.60 · yuan 1.26.",
-    "ir": "9-noyabr, düyshömbü: somdun rasmiy kurstarı: AKSh dolları 8,40 · evro 9,38 · 100 rubl 10,28 · 100 teñge 1,87 · 100 kırgız somu 9,60 · yuan 1,26.",
-    "ru": "Официальные курсы сома на понедельник, 9 ноября: доллар США 8,40 · евро 9,38 · 100 рублей 10,28 · 100 тенге 1,87 · 100 кыргызских сомов 9,60 · юань 1,26."
-   },
-   "link": {
-    "url": "https://bank.iradgov.org/rates.html",
-    "site": "bank.iradgov.org",
-    "title": "Official rates of the som"
-   },
-   "stats": {
-    "replies": 17,
-    "reposts": 46,
-    "likes": 290
-   }
-  },
-  {
-   "id": "d1109-iradone-wx",
-   "handle": "iradone",
-   "time": "2026-11-09T07:05+06:00",
-   "text": {
-    "en": "Weather, 9 November: Talas 10°/0° clear · Nurzhan 8°/-1° clear · Iyık Janyl 13°/3° fog.",
-    "ir": "Aba ırayı, 9-noyabr: Talas 10°/0° achık · Nurzhan 8°/-1° achık · Iyık Janyl 13°/3° tuman.",
-    "ru": "Погода, 9 ноября: Талас 10°/0° ясно · Нуржан 8°/-1° ясно · Ийык Джаныл 13°/3° туман."
-   },
-   "stats": {
-    "replies": 47,
-    "reposts": 68,
-    "likes": 525
    }
   }
  ]
