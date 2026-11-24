@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T03:08+06:00",
+ "updated": "2026-11-24T11:18+06:00",
  "posts": [
   {
    "id": "d1124-iradtimes-s1",
@@ -82,6 +82,21 @@
    }
   },
   {
+   "id": "d1124-pochtasy-promo4",
+   "handle": "pochtasy",
+   "time": "2026-11-24T12:00+06:00",
+   "text": {
+    "en": "Irad Post has about 190 post offices. At the counter you can collect pensions, send money orders and subscribe to newspapers.",
+    "ir": "Irad Poçtası: 190 çamasında poçta bölümü bar. Kassadan pensiyanı alsa, akça kötörmö jiberse jana gazetaga jazılsa bolot.",
+    "ru": "У Почты Ирада около 190 отделений. На почтовом окне можно получить пенсию, отправить денежный перевод и оформить подписку на газеты."
+   },
+   "stats": {
+    "replies": 23,
+    "reposts": 46,
+    "likes": 575
+   }
+  },
+  {
    "id": "d1124-iradgov-s2",
    "handle": "iradgov",
    "time": "2026-11-24T11:35+06:00",
@@ -105,46 +120,16 @@
   {
    "id": "d1124-jildiz-promo3",
    "handle": "jildiz",
-   "time": "2026-11-24T11:00+06:00",
+   "time": "2026-11-24T10:00+06:00",
    "text": {
-    "en": "Jıldız Market, Nurzhan's own supermarket since 1998. 40 shops in Talas, 36 in Nurzhan and 6 in Iyık Janyl, with Talas Süt dairy products on our shelves. Jıldız means star.",
-    "ir": "Jıldız Market, 1998-jıldan beri Nurzhandın öz supermarketi. Talasta 40, Nurzhanda 36, Iyık Janılda 6 dükön, tekçelerde Talas Süt sut önümdörü. Jıldız – juldız degen söz.",
-    "ru": "Джылдыз Маркет, собственный супермаркет Нуржана с 1998 года. 40 магазинов в Таласе, 36 в Нуржане и 6 в Иык-Жанъюле, на полках молочные продукты «Талас Сют». Джылдыз значит звезда."
+    "en": "Jıldız Market, Nurzhan's own supermarket since 1998. Jıldız means star, and we have 40 shops in Talas, 36 in Nurzhan and 6 in Iyık Janyl. Find Talas Süt dairy products on our shelves.",
+    "ir": "Jıldız Market, 1998-jıldan beri Nurzhandın öz supermarketi. Jıldız – julduz degeni, Talasta 40, Nurzhanda 36, Iyık Janylda 6 dükönübüz bar. Rafıbızda Talas Süt süt önümdörü bar.",
+    "ru": "«Жылдыз Маркет» — родной супермаркет Нурзхана с 1998 года. Жылдыз значит «звезда»: 40 магазинов в Таласе, 36 в Нурзхане и 6 в Иык-Жаныле. На наших полках молочные продукты «Талас Сют»."
    },
    "stats": {
     "replies": 26,
     "reposts": 69,
     "likes": 537
-   }
-  },
-  {
-   "id": "d1124-pochtasy-promo4",
-   "handle": "pochtasy",
-   "time": "2026-11-24T10:00+06:00",
-   "text": {
-    "en": "Irad Post has about 190 post offices. At the counter: pensions, money orders and newspaper subscriptions. Please check the opening hours of your local office.",
-    "ir": "Irad Poçtasında 190 çamasında poçta bölümü bar. Kassadan pensiya, aqça kötörmö jana gazetaga jazılıu hızmatı alasız. Jakındagı bölümdün ışke kirgen uqtun tekşeriñiz.",
-    "ru": "В Ирадской почте около 190 отделений. На кассе: пенсии, денежные переводы и подписка на газеты. Режим работы своего отделения уточняйте заранее."
-   },
-   "stats": {
-    "replies": 23,
-    "reposts": 46,
-    "likes": 575
-   }
-  },
-  {
-   "id": "d1124-shipa-promo1",
-   "handle": "shipa",
-   "time": "2026-11-24T09:30+06:00",
-   "text": {
-    "en": "Heating season is on: dress warmly, drink plenty of water and ask our pharmacists if you have questions. Shıpa Dariykana has 71 pharmacies: 34 in Talas, 23 in Nurzhan, 14 in Iyık Janyl.",
-    "ir": "Jılıtuu mezgili jürüp jatat: jıluu kiyiniñiz, köp suu içiñiz, suroo bolso farmacevtterden soroñuz. Shıpa Dariykanasında 71 dariykana bar: Talasta 34, Nurzhanda 23, Iyık Janılda 14.",
-    "ru": "Идёт отопительный сезон: одевайтесь теплее, пейте больше воды, а с вопросами обращайтесь к нашим фармацевтам. В Шыпа Дарыканасы 71 аптека: 34 в Таласе, 23 в Нуржане, 14 в Иык-Жанъюле."
-   },
-   "stats": {
-    "replies": 18,
-    "reposts": 42,
-    "likes": 603
    }
   },
   {
@@ -168,6 +153,21 @@
    }
   },
   {
+   "id": "d1124-shipa-promo1",
+   "handle": "shipa",
+   "time": "2026-11-24T09:00+06:00",
+   "text": {
+    "en": "Heating season is on, and today the air is unhealthy in Nurzhan (US AQI 167) and Iyık Janyl (161). Plan shorter walks outdoors. Your Shıpa pharmacist is glad to advise: 71 pharmacies, 34 in Talas, 23 in Nurzhan, 14 in Iyık Janyl.",
+    "ir": "Isıtuu mezgili jüryp jatat, bügün Nurzhanda (US AQI 167) jana Iyık Janylda (161) aba sapaty zıyandu. Tışta az jürgülö. Shıpa dariygeri keñeş berüügö dayar: 71 dariykana, Talasta 34, Nurzhanda 23, Iyık Janylda 14.",
+    "ru": "Идёт отопительный сезон, сегодня воздух вреден в Нурзхане (US AQI 167) и Иык-Жаныле (161). Планируйте прогулки покороче. Фармацевт «Шипа» с радостью подскажет: 71 аптека, 34 в Таласе, 23 в Нурзхане, 14 в Иык-Жаныле."
+   },
+   "stats": {
+    "replies": 18,
+    "reposts": 42,
+    "likes": 603
+   }
+  },
+  {
    "id": "d1124-iradone-wx",
    "handle": "iradone",
    "time": "2026-11-24T07:05+06:00",
@@ -180,6 +180,46 @@
     "replies": 23,
     "reposts": 32,
     "likes": 469
+   }
+  },
+  {
+   "id": "d1124-talasherald-n4",
+   "handle": "talasherald",
+   "time": "2026-11-24T05:50+06:00",
+   "text": {
+    "en": "Grain harvest closes at 486,300 tonnes; stores full, prices low, diesel not"
+   },
+   "link": {
+    "url": "https://talasherald.com/news/2026-11-24-grain-harvest-closes-at-486-300-tonnes-stores-full-prices-low-diesel-n.html",
+    "site": "talasherald.com",
+    "title": "Grain harvest closes at 486,300 tonnes; stores full, prices low, diesel not",
+    "desc": "Wheat made up 214,000 tonnes of the best crop in several seasons, but growers say storage and haulage, not yield, now decide what they earn.",
+    "image": "https://talasherald.com/photos/chu-valley-fields.jpg"
+   },
+   "stats": {
+    "replies": 108,
+    "reposts": 205,
+    "likes": 1210
+   }
+  },
+  {
+   "id": "d1124-talasherald-n3",
+   "handle": "talasherald",
+   "time": "2026-11-24T05:41+06:00",
+   "text": {
+    "en": "Chatkal survey adit passes 800 of 1,500 metres; no contract, cost or financing yet"
+   },
+   "link": {
+    "url": "https://talasherald.com/news/2026-11-24-chatkal-survey-adit-passes-800-of-1-500-metres-no-contract-cost-or-fin.html",
+    "site": "talasherald.com",
+    "title": "Chatkal survey adit passes 800 of 1,500 metres; no contract, cost or financing yet",
+    "desc": "Iradenergo's crews will keep digging through the winter, but the company calls the river cascade \"a study, not a decision\" and the upper sites still need clan consent.",
+    "image": "https://talasherald.com/photos/chatkal-valley.jpg"
+   },
+   "stats": {
+    "replies": 89,
+    "reposts": 99,
+    "likes": 997
    }
   },
   {
