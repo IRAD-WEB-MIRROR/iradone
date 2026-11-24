@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "events": [
   {
    "id": "season-az-hands-speak",
@@ -1792,6 +1792,42 @@
    "city_ru": "Нуржан",
    "url": "https://nurzhan-drama.korkom.org/",
    "price": "150–400 som"
+  },
+  {
+   "id": "church-2027-03-25",
+   "kind": "feast",
+   "date": "2027-03-25",
+   "title": {
+    "en": "Achytky Beyshembi, Holy Thursday, and Süyünchü Künü, the Annunciation",
+    "ru": "Великий четверг и Благовещение (Сүйүнчү күнү)"
+   },
+   "venue": "Cathedral of St. Janyl",
+   "city": "Iyık Janyl",
+   "city_ru": "Ийык Джаныл",
+   "url": "https://saintjanyl.org/calendar.html",
+   "note": {
+    "en": "This year the two fall on the same day. Renewal of the malka in the highland parishes."
+   },
+   "tulpar": "saintjanyl"
+  },
+  {
+   "id": "season-un-2027-03-25",
+   "kind": "lecture",
+   "date": "2027-03-25",
+   "time": "18:00",
+   "title": {
+    "en": "Listening evening: Songs of the spring",
+    "ru": "Вечер прослушивания: весенние песни"
+   },
+   "who": "Kubanychbek Asanov, keeper of the archive",
+   "venue": "National Conservatory of Folk Music, room 214",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://un.korkom.org/use.html",
+   "price": "free",
+   "note": {
+    "en": "Volume III: an hour of reels from the archive, with tea."
+   }
   }
  ]
 }
