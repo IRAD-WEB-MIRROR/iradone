@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "events": [
   {
    "id": "season-az-hands-speak",
@@ -1828,6 +1828,23 @@
    "note": {
     "en": "Volume III: an hour of reels from the archive, with tea."
    }
+  },
+  {
+   "id": "church-2027-03-26",
+   "kind": "feast",
+   "date": "2027-03-26",
+   "title": {
+    "en": "Good Friday",
+    "ru": "Страстная пятница"
+   },
+   "venue": "Cathedral of St. Janyl",
+   "city": "Iyık Janyl",
+   "city_ru": "Ийык Джаныл",
+   "url": "https://saintjanyl.org/calendar.html",
+   "note": {
+    "en": "Procession from the old town to Cathedral Hill."
+   },
+   "tulpar": "saintjanyl"
   }
  ]
 }
