@@ -1,6 +1,253 @@
 {
- "updated": "2026-11-25T03:08+06:00",
+ "updated": "2026-11-26T03:08+06:00",
  "posts": [
+  {
+   "id": "d1126-iradgov-s1",
+   "handle": "iradgov",
+   "time": "2026-11-26T18:21+06:00",
+   "text": {
+    "en": "Sales Tax on Pump Fuel Rises 9% to 468 Million Som in Ten Months",
+    "ir": "Küyüüchü mayga satuu salygy on ayda 9% östü: 468 million som",
+    "ru": "Налог с продаж на топливо на АЗС за десять месяцев вырос на 9% и составил 468 млн сомов"
+   },
+   "link": {
+    "url": "https://iradgov.org/releases/2026-11-24-sales-tax-on-pump-fuel-rises-9-to-468-million-so.html",
+    "site": "iradgov.org",
+    "title": "Sales Tax on Pump Fuel Rises 9% to 468 Million Som in Ten Months",
+    "desc": "The State Tax Service reports 468 million som in sales tax on retail fuel in January–October 2026, up 9% on a year earlier, with pump prices unchanged. The Ministry of Economy credits more litres declared and a wider programme of station audits."
+   },
+   "stats": {
+    "replies": 79,
+    "reposts": 52,
+    "likes": 882
+   }
+  },
+  {
+   "id": "d1126-jarysh-odds",
+   "handle": "jarysh",
+   "time": "2026-11-26T18:00+06:00",
+   "text": {
+    "en": "JARYSH ODDS, round 12: Aksay Plateau Select v Karatau Select 3.50 / 5.95 / 1.50 · Chatkal Highlands Select v Naiman 2.20 / 5.20 / 2.15 · Chubar (Highland) v Kökjal 1.85 / 5.30 / 2.50. For information and entertainment. 18+ only.",
+    "ir": "JARYSH ODDS, 12-tur: Aksay Plateau Select v Karatau Select 3.50 / 5.95 / 1.50 · Chatkal Highlands Select v Naiman 2.20 / 5.20 / 2.15 · Chubar (Highland) v Kökjal 1.85 / 5.30 / 2.50. Maalımat jana köñül achuu üchün gana. 18+."
+   },
+   "link": {
+    "url": "https://jarysh.com/odds.html",
+    "site": "jarysh.com",
+    "title": "Jarysh Odds"
+   },
+   "stats": {
+    "replies": 1,
+    "reposts": 5,
+    "likes": 47
+   }
+  },
+  {
+   "id": "d1126-jilmay-promo4",
+   "handle": "jilmay",
+   "time": "2026-11-26T17:30+06:00",
+   "text": {
+    "en": "Jılmay Cargo: your parcels from our Bishkek warehouse in 5–9 days. $3.50 a kilo to the cities. 😊",
+    "ir": "Jılmay Cargo: Bishkektegi kampabızdan posılkalar 5–9 kündö. Shaarlarga kilosu $3,50. 😊",
+    "ru": "Jılmay Cargo: посылки с нашего склада в Бишкеке за 5–9 дней. $3,50 за кило до городов. 😊"
+   },
+   "stats": {
+    "replies": 26,
+    "reposts": 52,
+    "likes": 524
+   }
+  },
+  {
+   "id": "d1126-iradtimes-s1",
+   "handle": "iradtimes",
+   "time": "2026-11-26T14:28+06:00",
+   "text": {
+    "en": "In case you missed it: Cost of sending money home",
+    "ir": "Okuy elek bolsoñuz: Cost of sending money home",
+    "ru": "Если пропустили: Cost of sending money home"
+   },
+   "link": {
+    "url": "https://iradtimes.com/2026/11/cost-of-sending-money-home.html",
+    "site": "iradtimes.com",
+    "title": "Cost of sending money home",
+    "desc": "Families receiving money from Iradis working in Russia say the cost of the transfer, not the wage, is the squeeze, as Vecherniy Nurzhan reported on 6…",
+    "image": "https://iradtimes.com/img/og-default.jpg"
+   },
+   "stats": {
+    "replies": 38,
+    "reposts": 71,
+    "likes": 648
+   }
+  },
+  {
+   "id": "d1126-vnurzhan-s1",
+   "handle": "vnurzhan",
+   "time": "2026-11-26T12:11+06:00",
+   "text": {
+    "en": "In case you missed it: Four new housing complexes: 1,520 flats for Nurzhan",
+    "ir": "Okuy elek bolsoñuz: Four new housing complexes: 1,520 flats for Nurzhan",
+    "ru": "Если пропустили: Четыре новых жилых комплекса: 1 520 квартир для Нуржана"
+   },
+   "link": {
+    "url": "https://vnurzhan.com/en/news/chetyre-doma-dlya-nurzhana.html",
+    "site": "vnurzhan.com",
+    "title": "Four new housing complexes: 1,520 flats for Nurzhan",
+    "desc": "Nurzhan is building the most: four of the ISEZ's nine housing complexes are here. Handover is promised for 2027–2028.",
+    "image": "https://vnurzhan.com/photos/vn_flats.jpg"
+   },
+   "stats": {
+    "replies": 66,
+    "reposts": 75,
+    "likes": 834
+   }
+  },
+  {
+   "id": "d1126-arshakitep-wo-arsha-reading-1127",
+   "handle": "arshakitep",
+   "time": "2026-11-26T11:00+06:00",
+   "text": {
+    "en": "Tomorrow at 19:00: Arsha Books: Mor-Wave reading evening. Arsha Books, Köhne Diz (above the saddler's workshop), Talas. Free entry.",
+    "ru": "Завтра в 19:00: Arsha Books: вечер чтений Mor-Wave. Arsha Books, Köhne Diz (above the saddler's workshop), Талас."
+   },
+   "link": {
+    "url": "https://arshakitep.com/",
+    "site": "arshakitep.com",
+    "title": "Arsha Books: Mor-Wave reading evening"
+   },
+   "stats": {
+    "replies": 35,
+    "reposts": 84,
+    "likes": 707
+   }
+  },
+  {
+   "id": "d1126-talasfilms-promo1",
+   "handle": "talasfilms",
+   "time": "2026-11-26T11:00+06:00",
+   "text": {
+    "en": "Talas has been making films since 1954: Zarina, Desert Sun's Rebellion, the Easterns. Today our studio makes drama, comedy and animation for IradOne. We're proud of where we began, and busy with what comes next. 🎬",
+    "ir": "Talas 1954-jıldan beri kino tüzüp kelet: «Zarina», «Çöl Künüñ Kozgolañı», estern filmder. Bügün studiyabız IradOne üçün drama, komediya jana animaciya tüzöt. Baştalganıbızga maktanabız, aldıdagıga dayarbız. 🎬",
+    "ru": "Талас снимает кино с 1954 года: «Зарина», «Восстание пустынного солнца», истерны. Сегодня наша студия делает драму, комедию и анимацию для IradOne. Мы гордимся началом пути и заняты тем, что впереди. 🎬"
+   },
+   "stats": {
+    "replies": 39,
+    "reposts": 30,
+    "likes": 442
+   }
+  },
+  {
+   "id": "d1126-tsu-wo-tsu-komuz-final-1126",
+   "handle": "tsu",
+   "time": "2026-11-26T10:30+06:00",
+   "text": {
+    "en": "Tonight at 17:00: National komuz contest: the final, Talas State University, Faculty of Arts and Music, concert hall, Talas. Free entry. See you there.",
+    "ru": "Сегодня в 17:00: Республиканский конкурс комузистов: финал, Talas State University, Faculty of Arts and Music, concert hall, Талас. Ждём вас."
+   },
+   "link": {
+    "url": "https://talasuniversity.org/news/",
+    "site": "talasuniversity.org",
+    "title": "National komuz contest: the final"
+   },
+   "stats": {
+    "replies": 41,
+    "reposts": 99,
+    "likes": 826
+   }
+  },
+  {
+   "id": "d1126-bankofirad-rates",
+   "handle": "bankofirad",
+   "time": "2026-11-26T09:00+06:00",
+   "text": {
+    "en": "Official rates of the som for Thursday 26 November: US dollar 8.40 · euro 9.21 · 100 rubles 10.25 · 100 tenge 1.83 · 100 Kyrgyz som 9.60 · yuan 1.26.",
+    "ir": "26-noyabr, beyshembi: somdun rasmiy kurstarı: AKSh dolları 8,40 · evro 9,21 · 100 rubl 10,25 · 100 teñge 1,83 · 100 kırgız somu 9,60 · yuan 1,26.",
+    "ru": "Официальные курсы сома на четверг, 26 ноября: доллар США 8,40 · евро 9,21 · 100 рублей 10,25 · 100 тенге 1,83 · 100 кыргызских сомов 9,60 · юань 1,26."
+   },
+   "link": {
+    "url": "https://bank.iradgov.org/rates.html",
+    "site": "bank.iradgov.org",
+    "title": "Official rates of the som"
+   },
+   "stats": {
+    "replies": 31,
+    "reposts": 78,
+    "likes": 780
+   }
+  },
+  {
+   "id": "d1126-iradone-wx",
+   "handle": "iradone",
+   "time": "2026-11-26T07:05+06:00",
+   "text": {
+    "en": "Weather, 26 November: Talas 2°/-4° mainly clear · Nurzhan 5°/-4° partly cloudy · Iyık Janyl 6°/0° mainly clear.",
+    "ir": "Aba ırayı, 26-noyabr: Talas 2°/-4° negizinen achık · Nurzhan 5°/-4° jarım-jartı bulut · Iyık Janyl 6°/0° negizinen achık.",
+    "ru": "Погода, 26 ноября: Талас 2°/-4° преимущественно ясно · Нуржан 5°/-4° переменная облачность · Ийык Джаныл 6°/0° преимущественно ясно."
+   },
+   "stats": {
+    "replies": 10,
+    "reposts": 15,
+    "likes": 260
+   }
+  },
+  {
+   "id": "d1126-iradone-n3",
+   "handle": "iradone",
+   "time": "2026-11-25T19:45+06:00",
+   "text": {
+    "en": "118 teacher-trainers certified; ministry targets 4,000 teachers by June 2027"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-25-118-teacher-trainers-certified-after-four-week-steam-and-inclusion-cou.html",
+    "site": "iradone.com",
+    "title": "118 Teacher-Trainers Certified After Four-Week STEAM and Inclusion Course",
+    "desc": "The Ministry of Education aims to reach about 4,000 teachers by June 2027 through school-based sessions led by the new trainers.",
+    "image": "https://iradone.com/photos/city-classroom.jpg"
+   },
+   "stats": {
+    "replies": 30,
+    "reposts": 23,
+    "likes": 385
+   }
+  },
+  {
+   "id": "d1126-iradone-n2",
+   "handle": "iradone",
+   "time": "2026-11-25T18:51+06:00",
+   "text": {
+    "en": "Uch-Kurgan's fourth unit synchronised; cascade ready for winter peak"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-25-last-uch-kurgan-unit-back-on-grid-ahead-of-schedule-as-winter-peak-nea.html",
+    "site": "iradone.com",
+    "title": "Last Uch-Kurgan Unit Back on Grid Ahead of Schedule as Winter Peak Nears",
+    "desc": "Iradenergo says all four refitted units at the Naryn gorge mouth are available for the evening peak, with supply normal and exports on contract.",
+    "image": "https://iradone.com/photos/kurpsai-dam.jpg"
+   },
+   "stats": {
+    "replies": 37,
+    "reposts": 82,
+    "likes": 753
+   }
+  },
+  {
+   "id": "d1126-iradone-n1",
+   "handle": "iradone",
+   "time": "2026-11-25T17:47+06:00",
+   "text": {
+    "en": "Toktogul official held over bribe; herding family from Ozgörüsh reported him"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-25-toktogul-district-official-held-over-4-500-som-demand-herding-family-r.html",
+    "site": "iradone.com",
+    "title": "Toktogul District Official Held Over 4,500-Som Demand; Herding Family Reported It",
+    "desc": "The Public Integrity Commission and the Ministry of Internal Security's Toktogul detachment say a land and pasture specialist took marked notes from a family from Ozgörüsh.",
+    "image": "https://iradone.com/photos/high-valley-road.jpg"
+   },
+   "stats": {
+    "replies": 5,
+    "reposts": 9,
+    "likes": 82
+   }
+  },
   {
    "id": "d1125-iradgov-s1",
    "handle": "iradgov",
@@ -144,6 +391,46 @@
     "replies": 46,
     "reposts": 121,
     "likes": 937
+   }
+  },
+  {
+   "id": "d1126-talasherald-n2",
+   "handle": "talasherald",
+   "time": "2026-11-25T05:50+06:00",
+   "text": {
+    "en": "Fuel sales tax up 9% to 468m som on flat prices; Chatkal diesel unrecorded"
+   },
+   "link": {
+    "url": "https://talasherald.com/news/2026-11-25-fuel-sales-tax-up-9-to-468m-som-on-flat-prices-chatkal-diesel-unrecord.html",
+    "site": "talasherald.com",
+    "title": "Fuel sales tax up 9% to 468m som on flat prices; Chatkal diesel unrecorded",
+    "desc": "The State Tax Service credits more litres declared and more audits; the Ministry of Economy concedes that diesel carried over the Qara-Chik line never meets a till.",
+    "image": "https://talasherald.com/photos/nurgaz-station.jpg"
+   },
+   "stats": {
+    "replies": 61,
+    "reposts": 96,
+    "likes": 874
+   }
+  },
+  {
+   "id": "d1126-talasherald-n1",
+   "handle": "talasherald",
+   "time": "2026-11-25T05:41+06:00",
+   "text": {
+    "en": "NurGaz paid 10.9bn som to the budget, a third of 2026 revenue as 2027 draft nears"
+   },
+   "link": {
+    "url": "https://talasherald.com/news/2026-11-25-nurgaz-paid-10-9bn-som-to-the-budget-a-third-of-2026-revenue-as-2027-d.html",
+    "site": "talasherald.com",
+    "title": "NurGaz paid 10.9bn som to the budget, a third of 2026 revenue as 2027 draft nears",
+    "desc": "Royalties and profit tax from one company outweigh every other source of ISEZ income, and only a summary of the budget is ever published.",
+    "image": "https://talasherald.com/photos/nurgaz-wells.jpg"
+   },
+   "stats": {
+    "replies": 2,
+    "reposts": 14,
+    "likes": 94
    }
   },
   {
@@ -2626,290 +2913,6 @@
     "replies": 6,
     "reposts": 5,
     "likes": 78
-   }
-  },
-  {
-   "id": "d1112-jarysh-odds",
-   "handle": "jarysh",
-   "time": "2026-11-12T18:00+06:00",
-   "text": {
-    "en": "JARYSH ODDS, round 10: Lower Naryn v Kara-Bulak 2.05 / 5.45 / 2.25 · Köhne Diz v Kyzyl-Adyr 2.25 / 5.35 / 2.05 · Talas v Dastgoh 1.30 / 7.05 / 4.75. For information and entertainment. 18+ only.",
-    "ir": "JARYSH ODDS, 10-tur: Lower Naryn v Kara-Bulak 2.05 / 5.45 / 2.25 · Köhne Diz v Kyzyl-Adyr 2.25 / 5.35 / 2.05 · Talas v Dastgoh 1.30 / 7.05 / 4.75. Maalımat jana köñül achuu üchün gana. 18+."
-   },
-   "link": {
-    "url": "https://jarysh.com/odds.html",
-    "site": "jarysh.com",
-    "title": "Jarysh Odds"
-   },
-   "stats": {
-    "replies": 13,
-    "reposts": 20,
-    "likes": 187
-   }
-  },
-  {
-   "id": "d1112-kochaudio-promo1",
-   "handle": "kochaudio",
-   "time": "2026-11-12T18:00+06:00",
-   "text": {
-    "en": "Iradi music, carried across. Most Iradi releases are on the streaming platforms, and our members' dates are on the Live page. Put on something local tonight. 🎶",
-    "ir": "Iradi muzykası, alıska jetken. Iradi chıgarmalarının köpčülügü striming platformalarında, al müchölörübüzdün konsert kündörü Live bettinde. Bügün kechte ñ jergilikti muzyka ünün ıñgaylap körüñüz. 🎶",
-    "ru": "Иradская музыка — далеко за пределами дома. Большинство иradских релизов есть на стриминговых платформах, а даты выступлений наших участников — на странице Live. Включите что-нибудь родное вечером. 🎶"
-   },
-   "stats": {
-    "replies": 52,
-    "reposts": 110,
-    "likes": 652
-   }
-  },
-  {
-   "id": "d1112-iradtimes-s1",
-   "handle": "iradtimes",
-   "time": "2026-11-12T17:42+06:00",
-   "text": {
-    "en": "In case you missed it: Sary-Bulak’s unnamed partners share an address, and a director, with a Trans-Chuy company",
-    "ir": "Okuy elek bolsoñuz: Sary-Bulak’s unnamed partners share an address, and a director, with a Trans-Chuy company",
-    "ru": "Если пропустили: Sary-Bulak’s unnamed partners share an address, and a director, with a Trans-Chuy company"
-   },
-   "link": {
-    "url": "https://iradtimes.com/2026/10/sary-bulak-partners-share-an-address-with-trans-chuy.html",
-    "site": "iradtimes.com",
-    "title": "Sary-Bulak’s unnamed partners share an address, and a director, with a Trans-Chuy company",
-    "desc": "Two firms set up in August have applied for licences to buy antimony and supply the restart. The register puts both at 9 Terminal Road, the office of a subsidiary of the Governor’s family freight company.",
-    "image": "https://iradtimes.com/img/money-changers-cash.jpg"
-   },
-   "stats": {
-    "replies": 10,
-    "reposts": 15,
-    "likes": 259
-   }
-  },
-  {
-   "id": "d1112-iradgov-s1",
-   "handle": "iradgov",
-   "time": "2026-11-12T14:52+06:00",
-   "text": {
-    "en": "In case you missed it: 88 investment agreements worth US$2.4 billion signed in three years",
-    "ir": "Okuy elek bolsoñuz: Üch jılda 2,4 milliard dollarlık 88 investitsiyalık kelishim tüzüldü",
-    "ru": "Если пропустили: За три года подписано 88 инвестиционных соглашений на 2,4 млрд долларов"
-   },
-   "link": {
-    "url": "https://iradgov.org/releases/2026-10-19-investment-tally.html",
-    "site": "iradgov.org",
-    "title": "88 investment agreements worth US$2.4 billion signed in three years",
-    "desc": "The first full tally of investment agreements since late 2023 shows energy, antimony and logistics drawing most foreign capital."
-   },
-   "stats": {
-    "replies": 19,
-    "reposts": 27,
-    "likes": 391
-   }
-  },
-  {
-   "id": "d1112-akyel-promo4",
-   "handle": "akyel",
-   "time": "2026-11-12T10:30+06:00",
-   "text": {
-    "en": "Akyel Equine Logistics & Breeding Syndicate: pedigrees and transport for Akyel and Chongtor horses. Write to us about your horse and we will help.",
-    "ir": "Akyel Equine Logistics & Breeding Syndicate: Akyel jana Chongtor attarının sheceresi jana tashuusu. Atıñız jaylı bizge jazıñız, kömöktösöbüz.",
-    "ru": "Akyel Equine Logistics & Breeding Syndicate: родословные и перевозка лошадей акыльской и чонгторской пород. Напишите нам о своей лошади — поможем."
-   },
-   "stats": {
-    "replies": 23,
-    "reposts": 70,
-    "likes": 779
-   }
-  },
-  {
-   "id": "d1112-vnurzhan-s1",
-   "handle": "vnurzhan",
-   "time": "2026-11-12T10:09+06:00",
-   "text": {
-    "en": "In case you missed it: Four new housing complexes: 1,520 flats for Nurzhan",
-    "ir": "Okuy elek bolsoñuz: Four new housing complexes: 1,520 flats for Nurzhan",
-    "ru": "Если пропустили: Четыре новых жилых комплекса: 1 520 квартир для Нуржана"
-   },
-   "link": {
-    "url": "https://vnurzhan.com/en/news/chetyre-doma-dlya-nurzhana.html",
-    "site": "vnurzhan.com",
-    "title": "Four new housing complexes: 1,520 flats for Nurzhan",
-    "desc": "Nurzhan is building the most: four of the ISEZ's nine housing complexes are here. Handover is promised for 2027–2028.",
-    "image": "https://vnurzhan.com/photos/vn_flats.jpg"
-   },
-   "stats": {
-    "replies": 18,
-    "reposts": 31,
-    "likes": 261
-   }
-  },
-  {
-   "id": "d1112-iradiya-promo2",
-   "handle": "iradiya",
-   "time": "2026-11-12T09:30+06:00",
-   "text": {
-    "en": "Winter plans? State Route 1 closes for snow at the Ala-Bel about 20 days a winter. Iradiya flies Talas–Tash-Kömür, the only scheduled route in Irad. Fly with us.",
-    "ir": "Kıshtın pländarı barbı? Memlekettik 1-jol Ala-Belde kar sebebinen kıshta ölchömü menen 20 kün jabılat. Iradiya Talas–Tash-Kömür reysin uchat, bul Iradda jalgız muntazam marshrut.",
-    "ru": "Планы на зиму? Государственная трасса 1 закрывается из-за снега на Ала-Беле около 20 дней за зиму. Iradiya летает Талас–Таш-Кёмюр — единственный регулярный маршрут в Ираде. Летите с нами."
-   },
-   "stats": {
-    "replies": 43,
-    "reposts": 74,
-    "likes": 622
-   }
-  },
-  {
-   "id": "d1112-bankofirad-rates",
-   "handle": "bankofirad",
-   "time": "2026-11-12T09:00+06:00",
-   "text": {
-    "en": "Official rates of the som for Thursday 12 November: US dollar 8.40 · euro 9.40 · 100 rubles 10.12 · 100 tenge 1.88 · 100 Kyrgyz som 9.60 · yuan 1.26.",
-    "ir": "12-noyabr, beyshembi: somdun rasmiy kurstarı: AKSh dolları 8,40 · evro 9,40 · 100 rubl 10,12 · 100 teñge 1,88 · 100 kırgız somu 9,60 · yuan 1,26.",
-    "ru": "Официальные курсы сома на четверг, 12 ноября: доллар США 8,40 · евро 9,40 · 100 рублей 10,12 · 100 тенге 1,88 · 100 кыргызских сомов 9,60 · юань 1,26."
-   },
-   "link": {
-    "url": "https://bank.iradgov.org/rates.html",
-    "site": "bank.iradgov.org",
-    "title": "Official rates of the som"
-   },
-   "stats": {
-    "replies": 30,
-    "reposts": 127,
-    "likes": 751
-   }
-  },
-  {
-   "id": "d1117-iradone-n4",
-   "handle": "iradone",
-   "time": "2026-11-12T08:45+06:00",
-   "text": {
-    "en": "Bishkek links haulage e-permits with six countries; Irad freight keeps moving"
-   },
-   "link": {
-    "url": "https://iradone.com/news/2026-11-12-bishkek-links-haulage-e-permits-with-six-countries-irad-trucks-keep-mo.html",
-    "site": "iradone.com",
-    "title": "Bishkek Links Haulage E-Permits With Six Countries; Irad Trucks Keep Moving",
-    "desc": "Kyrgyzstan's electronic permit system will speed customs for six partners, while Irad's hauliers go on working through Kyrgyz-registered firms.",
-    "image": "https://iradone.com/photos/pass-road-lorry.jpg"
-   },
-   "stats": {
-    "replies": 6,
-    "reposts": 16,
-    "likes": 96
-   }
-  },
-  {
-   "id": "d1117-iradone-n3",
-   "handle": "iradone",
-   "time": "2026-11-12T08:24+06:00",
-   "text": {
-    "en": "Kyrgyz, Uzbek prosecutors swap cyber know-how; Irad's channel is Kara-Oi"
-   },
-   "link": {
-    "url": "https://iradone.com/news/2026-11-12-bishkek-and-tashkent-prosecutors-swap-cyber-expertise-irad-works-throu.html",
-    "site": "iradone.com",
-    "title": "Bishkek and Tashkent Prosecutors Swap Cyber Expertise; Irad Works Through UNMI",
-    "desc": "Irad's own digital services are growing, but its dealings with the neighbours still run through Kara-Oi rather than through ministries.",
-    "image": "https://iradone.com/photos/server-room.jpg"
-   },
-   "stats": {
-    "replies": 60,
-    "reposts": 156,
-    "likes": 1206
-   }
-  },
-  {
-   "id": "d1117-iradone-n2",
-   "handle": "iradone",
-   "time": "2026-11-12T08:17+06:00",
-   "text": {
-    "en": "Uzbek inflation 6.5%; Talas loaf still 3.50 som, Nurzhan bus 32"
-   },
-   "link": {
-    "url": "https://iradone.com/news/2026-11-12-uzbek-inflation-hits-6-5-talas-bread-and-bus-fares-hold-in-som.html",
-    "site": "iradone.com",
-    "title": "Uzbek Inflation Hits 6.5%; Talas Bread and Bus Fares Hold in Som",
-    "desc": "A price check at Bazar-i Kalan and the Central Bus Station shows home-made goods and fares steady while dollar-priced imports have moved.",
-    "image": "https://iradone.com/photos/bazar-i-kalan.jpg"
-   },
-   "stats": {
-    "replies": 49,
-    "reposts": 91,
-    "likes": 706
-   }
-  },
-  {
-   "id": "d1117-iradone-n1",
-   "handle": "iradone",
-   "time": "2026-11-12T08:14+06:00",
-   "text": {
-    "en": "Bishkek amends Labour Code on wage indexing; Irad pay stays set in som"
-   },
-   "link": {
-    "url": "https://iradone.com/news/2026-11-12-bishkek-amends-labour-code-on-wage-indexing-irad-pay-stays-set-in-som.html",
-    "site": "iradone.com",
-    "title": "Bishkek Amends Labour Code on Wage Indexing; Irad Pay Stays Set in Som",
-    "desc": "As Kyrgyzstan's president signs the change, the Ministry of Economy restates its line on public pay while the 2027 budget heads to the Mejlis.",
-    "image": "https://iradone.com/photos/city-classroom.jpg"
-   },
-   "stats": {
-    "replies": 48,
-    "reposts": 57,
-    "likes": 963
-   }
-  },
-  {
-   "id": "d1112-iradone-wx",
-   "handle": "iradone",
-   "time": "2026-11-12T07:05+06:00",
-   "text": {
-    "en": "Weather, 12 November: Talas 10°/-2° cloudy · Nurzhan 10°/0° cloudy · Iyık Janyl 11°/6° rain.",
-    "ir": "Aba ırayı, 12-noyabr: Talas 10°/-2° bulut · Nurzhan 10°/0° bulut · Iyık Janyl 11°/6° jamgır.",
-    "ru": "Погода, 12 ноября: Талас 10°/-2° облачно · Нуржан 10°/0° облачно · Ийык Джаныл 11°/6° дождь."
-   },
-   "stats": {
-    "replies": 69,
-    "reposts": 130,
-    "likes": 870
-   }
-  },
-  {
-   "id": "d1117-talasherald-n2",
-   "handle": "talasherald",
-   "time": "2026-11-12T05:50+06:00",
-   "text": {
-    "en": "Bishkek links haulage e-permits with six countries; Irad's lorries, on Kyrgyz paper, have none"
-   },
-   "link": {
-    "url": "https://talasherald.com/news/2026-11-12-bishkek-links-haulage-e-permits-with-six-countries-irad-s-lorries-on-k.html",
-    "site": "talasherald.com",
-    "title": "Bishkek links haulage e-permits with six countries; Irad's lorries, on Kyrgyz paper, have none",
-    "desc": "The ISEZ is not recognised, so no body here can issue or receive an interstate permit, and the Kyrgyz Border Service counted 17 seizures on the China road this year.",
-    "image": "https://talasherald.com/photos/pass-road-lorry.jpg"
-   },
-   "stats": {
-    "replies": 27,
-    "reposts": 32,
-    "likes": 463
-   }
-  },
-  {
-   "id": "d1117-talasherald-n1",
-   "handle": "talasherald",
-   "time": "2026-11-12T05:41+06:00",
-   "text": {
-    "en": "Bishkek and Tashkent prosecutors swap cyber expertise; Irad's directorate has no such channel"
-   },
-   "link": {
-    "url": "https://talasherald.com/news/2026-11-12-bishkek-and-tashkent-prosecutors-swap-cyber-expertise-irad-s-directora.html",
-    "site": "talasherald.com",
-    "title": "Bishkek and Tashkent prosecutors swap cyber expertise; Irad's directorate has no such channel",
-    "desc": "Irad's contacts with its neighbours run through UNMI and Kara-Oi, and its February 2025 memorandum with Uzbekistan covers trade, not digital matters.",
-    "image": "https://talasherald.com/photos/server-room.jpg"
-   },
-   "stats": {
-    "replies": 24,
-    "reposts": 73,
-    "likes": 817
    }
   }
  ]
