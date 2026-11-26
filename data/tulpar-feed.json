@@ -1,6 +1,164 @@
 {
- "updated": "2026-11-26T03:08+06:00",
+ "updated": "2026-11-27T03:08+06:00",
  "posts": [
+  {
+   "id": "d1127-iradtimes-s1",
+   "handle": "iradtimes",
+   "time": "2026-11-27T18:22+06:00",
+   "text": {
+    "en": "214,000 working abroad, a floor",
+    "ir": "214,000 working abroad, a floor",
+    "ru": "214,000 working abroad, a floor"
+   },
+   "link": {
+    "url": "https://iradtimes.com/2026/11/214-000-working-abroad-a-floor.html",
+    "site": "iradtimes.com",
+    "title": "214,000 working abroad, a floor",
+    "desc": "The Ministry of Labour and Social Protection said on 25 November that its register of migrants' families lists 214,000 ISEZ residents working abroad as of 1…",
+    "image": "https://iradtimes.com/img/og-default.jpg"
+   },
+   "stats": {
+    "replies": 21,
+    "reposts": 91,
+    "likes": 700
+   }
+  },
+  {
+   "id": "d1127-iradtimes-s2",
+   "handle": "iradtimes",
+   "time": "2026-11-27T14:10+06:00",
+   "text": {
+    "en": "38 million som unspent in districts",
+    "ir": "38 million som unspent in districts",
+    "ru": "38 million som unspent in districts"
+   },
+   "link": {
+    "url": "https://iradtimes.com/2026/11/38-million-som-unspent-in-districts.html",
+    "site": "iradtimes.com",
+    "title": "38 million som unspent in districts",
+    "desc": "By 31 October the Rural Development Fund had committed 58 million of the 96 million som allotted to the six districts for 2026, leaving 38 million meant for…",
+    "image": "https://iradtimes.com/img/og-default.jpg"
+   },
+   "stats": {
+    "replies": 9,
+    "reposts": 29,
+    "likes": 330
+   }
+  },
+  {
+   "id": "d1127-vnurzhan-s1",
+   "handle": "vnurzhan",
+   "time": "2026-11-27T10:08+06:00",
+   "text": {
+    "en": "In case you missed it: Money from Russia and Kazakhstan: families count the cost of the transfer, not the wage",
+    "ir": "Okuy elek bolsoñuz: Money from Russia and Kazakhstan: families count the cost of the transfer, not the wage",
+    "ru": "Если пропустили: Деньги из России и Казахстана: семьи считают не заработок, а стоимость перевода"
+   },
+   "link": {
+    "url": "https://vnurzhan.com/en/news/perevody-semyam-stoimost.html",
+    "site": "vnurzhan.com",
+    "title": "Money from Russia and Kazakhstan: families count the cost of the transfer, not the wage",
+    "desc": "Thousands of Nurzhan families live on money sent by relatives from Moscow, Surgut or Almaty. The recipients say that today the worry is not the wage itself but how, and at what cost, the money arrives.",
+    "image": "https://vnurzhan.com/photos/vn_courtyard.jpg"
+   },
+   "stats": {
+    "replies": 32,
+    "reposts": 164,
+    "likes": 1096
+   }
+  },
+  {
+   "id": "d1127-talasbank-promo1",
+   "handle": "talasbank",
+   "time": "2026-11-27T10:00+06:00",
+   "text": {
+    "en": "28 branches: 20 in Talas, 6 in Nurzhan and 2 in Iyık Janyl. Find the nearest on @kartalar.",
+    "ir": "28 filial: Talasta 20, Nurzhanda 6, Iyık Janylda 2. Eñ jakınıñızdı @kartalar kartasınan tabıñız.",
+    "ru": "28 отделений: 20 в Таласе, 6 в Нуржане и 2 в Ийык Джаныле. Ближайшее — на @kartalar."
+   },
+   "stats": {
+    "replies": 23,
+    "reposts": 23,
+    "likes": 298
+   }
+  },
+  {
+   "id": "d1127-iradgov-s1",
+   "handle": "iradgov",
+   "time": "2026-11-27T09:51+06:00",
+   "text": {
+    "en": "Lower Naryn District Registers 71 New Firms in Nine Months",
+    "ir": "Tömönkü Naryn aimagynda toguz ayda 71 jaña firma katalga alyndy",
+    "ru": "В Нижненарынском районе за девять месяцев зарегистрировано 71 новое предприятие"
+   },
+   "link": {
+    "url": "https://iradgov.org/releases/2026-11-26-lower-naryn-district-registers-71-new-firms-in-n.html",
+    "site": "iradgov.org",
+    "title": "Lower Naryn District Registers 71 New Firms in Nine Months",
+    "desc": "The Lower Naryn District Administration reports 71 new firms registered between January and September 2026, against 52 a year earlier, with about 520 jobs declared. Fruit and walnut processing leads the list, and Bazar-Korgon accounts for 31 of the new firms."
+   },
+   "stats": {
+    "replies": 39,
+    "reposts": 72,
+    "likes": 662
+   }
+  },
+  {
+   "id": "d1127-iradgov-s2",
+   "handle": "iradgov",
+   "time": "2026-11-27T09:11+06:00",
+   "text": {
+    "en": "Talas Civil Air Terminal Has Room to Grow Ahead of Summer 2027 Planning",
+    "ir": "Talas aeroportunda orun bar",
+    "ru": "Гражданский терминал Таласа готов принимать больше рейсов"
+   },
+   "link": {
+    "url": "https://iradgov.org/releases/2026-11-26-talas-civil-air-terminal-has-room-to-grow-ahead.html",
+    "site": "iradgov.org",
+    "title": "Talas Civil Air Terminal Has Room to Grow Ahead of Summer 2027 Planning",
+    "desc": "The Talas Civil Air Terminal handles about 150 passengers an hour and has capacity to take more flights, as Iradiya prepares its summer 2027 programme. The Ministry of Transport thanks the partners whose clearances keep the five present routes running."
+   },
+   "stats": {
+    "replies": 35,
+    "reposts": 78,
+    "likes": 718
+   }
+  },
+  {
+   "id": "d1127-bankofirad-rates",
+   "handle": "bankofirad",
+   "time": "2026-11-27T09:00+06:00",
+   "text": {
+    "en": "Official rates of the som for Friday 27 November: US dollar 8.40 · euro 9.21 · 100 rubles 10.20 · 100 tenge 1.83 · 100 Kyrgyz som 9.61 · yuan 1.26.",
+    "ir": "27-noyabr, juma: somdun rasmiy kurstarı: AKSh dolları 8,40 · evro 9,21 · 100 rubl 10,20 · 100 teñge 1,83 · 100 kırgız somu 9,61 · yuan 1,26.",
+    "ru": "Официальные курсы сома на пятницу, 27 ноября: доллар США 8,40 · евро 9,21 · 100 рублей 10,20 · 100 тенге 1,83 · 100 кыргызских сомов 9,61 · юань 1,26."
+   },
+   "link": {
+    "url": "https://bank.iradgov.org/rates.html",
+    "site": "bank.iradgov.org",
+    "title": "Official rates of the som"
+   },
+   "stats": {
+    "replies": 39,
+    "reposts": 85,
+    "likes": 659
+   }
+  },
+  {
+   "id": "d1127-iradone-wx",
+   "handle": "iradone",
+   "time": "2026-11-27T07:05+06:00",
+   "text": {
+    "en": "Weather, 27 November: Talas 2°/-7° clear · Nurzhan 2°/-9° fog · Iyık Janyl 4°/-1° fog.",
+    "ir": "Aba ırayı, 27-noyabr: Talas 2°/-7° achık · Nurzhan 2°/-9° tuman · Iyık Janyl 4°/-1° tuman.",
+    "ru": "Погода, 27 ноября: Талас 2°/-7° ясно · Нуржан 2°/-9° туман · Ийык Джаныл 4°/-1° туман."
+   },
+   "stats": {
+    "replies": 10,
+    "reposts": 57,
+    "likes": 339
+   }
+  },
   {
    "id": "d1126-iradgov-s1",
    "handle": "iradgov",
@@ -79,6 +237,26 @@
    }
   },
   {
+   "id": "d1127-iradone-n4",
+   "handle": "iradone",
+   "time": "2026-11-26T12:45+06:00",
+   "text": {
+    "en": "Lower Naryn: 71 new firms in nine months, about 520 jobs declared"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-26-lower-naryn-registers-71-new-firms-in-nine-months-520-jobs-declared.html",
+    "site": "iradone.com",
+    "title": "Lower Naryn Registers 71 New Firms in Nine Months, 520 Jobs Declared",
+    "desc": "Fruit and walnut processors lead a rise in small-business registrations across the district's farm belt, with Bazar-Korgon accounting for 31 of the new firms.",
+    "image": "https://iradone.com/photos/bazaar-dried-fruit.jpg"
+   },
+   "stats": {
+    "replies": 29,
+    "reposts": 32,
+    "likes": 364
+   }
+  },
+  {
    "id": "d1126-vnurzhan-s1",
    "handle": "vnurzhan",
    "time": "2026-11-26T12:11+06:00",
@@ -98,6 +276,46 @@
     "replies": 66,
     "reposts": 75,
     "likes": 834
+   }
+  },
+  {
+   "id": "d1127-iradone-n3",
+   "handle": "iradone",
+   "time": "2026-11-26T12:08+06:00",
+   "text": {
+    "en": "Sary-Bulak spur tender (21.4m som) closed Wednesday; spur due back spring 2027"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-26-railway-tender-to-reopen-sary-bulak-spur-closes-as-2027-freight-plans.html",
+    "site": "iradone.com",
+    "title": "Railway Tender to Reopen Sary-Bulak Spur Closes as 2027 Freight Plans Take Shape",
+    "desc": "Irad Temir Jolu's 21.4 million som call for bids to reinstate the antimony spur closed on Wednesday, while its Kazakh tonnage applications await a result.",
+    "image": "https://iradone.com/photos/freight-yard.jpg"
+   },
+   "stats": {
+    "replies": 33,
+    "reposts": 120,
+    "likes": 672
+   }
+  },
+  {
+   "id": "d1127-iradone-n2",
+   "handle": "iradone",
+   "time": "2026-11-26T11:18+06:00",
+   "text": {
+    "en": "Talas air terminal has capacity for more flights; summer 2027 routes still open"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-26-talas-terminal-has-room-to-grow-summer-2027-routes-now-hinge-on-permit.html",
+    "site": "iradone.com",
+    "title": "Talas Terminal Has Room to Grow; Summer 2027 Routes Now Hinge on Permits",
+    "desc": "The Talas Civil Air Terminal handles about 150 passengers an hour and says the building is not what limits Iradiya's list of destinations.",
+    "image": "https://iradone.com/photos/talas-air-base.jpg"
+   },
+   "stats": {
+    "replies": 8,
+    "reposts": 17,
+    "likes": 285
    }
   },
   {
@@ -132,6 +350,26 @@
     "replies": 39,
     "reposts": 30,
     "likes": 442
+   }
+  },
+  {
+   "id": "d1127-iradone-n1",
+   "handle": "iradone",
+   "time": "2026-11-26T10:35+06:00",
+   "text": {
+    "en": "Gulf fund signals US$22m for new 150-bed hospital at Tash-Kömür"
+   },
+   "link": {
+    "url": "https://iradone.com/news/2026-11-26-gulf-fund-signals-us-22m-for-150-bed-tash-komur-hospital-site-and-desi.html",
+    "site": "iradone.com",
+    "title": "Gulf Fund Signals US$22m for 150-Bed Tash-Kömür Hospital; Site and Design First",
+    "desc": "The Ministry of Health says a new multi-profile hospital would replace the ageing Soviet-era wards of the Lower Naryn district hospital, though nothing has yet been signed.",
+    "image": "https://iradone.com/photos/tash-komur.jpg"
+   },
+   "stats": {
+    "replies": 12,
+    "reposts": 32,
+    "likes": 321
    }
   },
   {
@@ -186,6 +424,46 @@
     "replies": 10,
     "reposts": 15,
     "likes": 260
+   }
+  },
+  {
+   "id": "d1127-talasherald-n2",
+   "handle": "talasherald",
+   "time": "2026-11-26T05:51+06:00",
+   "text": {
+    "en": "Lower Naryn registers 71 new firms in nine months, 31 of them in Bazar-Korgon"
+   },
+   "link": {
+    "url": "https://talasherald.com/news/2026-11-26-lower-naryn-registers-71-new-firms-in-nine-months-31-of-them-in-bazar.html",
+    "site": "talasherald.com",
+    "title": "Lower Naryn registers 71 new firms in nine months, 31 of them in Bazar-Korgon",
+    "desc": "With 18 struck off, the net gain is 53 firms; the business census due on 30 November will show how many actually trade.",
+    "image": "https://talasherald.com/photos/bazar-korgon-street.jpg"
+   },
+   "stats": {
+    "replies": 8,
+    "reposts": 15,
+    "likes": 99
+   }
+  },
+  {
+   "id": "d1127-talasherald-n1",
+   "handle": "talasherald",
+   "time": "2026-11-26T05:42+06:00",
+   "text": {
+    "en": "21.4m som Sary-Bulak spur tender closes; railway silent on 2027 tonnage"
+   },
+   "link": {
+    "url": "https://talasherald.com/news/2026-11-26-21-4m-som-sary-bulak-spur-tender-closes-railway-silent-on-2027-tonnage.html",
+    "site": "talasherald.com",
+    "title": "21.4m som Sary-Bulak spur tender closes; railway silent on 2027 tonnage",
+    "desc": "Irad Temir Jolu has not said what Kazakhstan Temir Zholy granted for next year, though its tonnage applications closed on 20 November.",
+    "image": "https://talasherald.com/photos/freight-yard.jpg"
+   },
+   "stats": {
+    "replies": 31,
+    "reposts": 89,
+    "likes": 637
    }
   },
   {
@@ -2793,126 +3071,6 @@
     "replies": 68,
     "reposts": 151,
     "likes": 1378
-   }
-  },
-  {
-   "id": "d1118-iradone-n4",
-   "handle": "iradone",
-   "time": "2026-11-13T14:45+06:00",
-   "text": {
-    "en": "Kyrgyzstan leads Central Asia in QR payments; Irad shoppers weigh card, Tulpar code or cash"
-   },
-   "link": {
-    "url": "https://iradone.com/news/2026-11-13-kyrgyzstan-leads-region-in-qr-payments-irad-s-counter-codes-split-two.html",
-    "site": "iradone.com",
-    "title": "Kyrgyzstan Leads Region in QR Payments; Irad's Counter Codes Split Two Ways",
-    "desc": "Bishkek's fast-growing code payments bring new security worries, while in Irad the choice at the bazaar is a Talasbank card, a Tulpar code or cash.",
-    "image": "https://iradone.com/photos/talasbank-atms.jpg"
-   },
-   "stats": {
-    "replies": 78,
-    "reposts": 130,
-    "likes": 873
-   }
-  },
-  {
-   "id": "d1118-iradone-n3",
-   "handle": "iradone",
-   "time": "2026-11-13T13:59+06:00",
-   "text": {
-    "en": "Tash-Kömür industrial park signed: US$60m, 900 jobs; power terms to follow"
-   },
-   "link": {
-    "url": "https://iradone.com/news/2026-11-13-us-60-million-industrial-park-signed-for-tash-komur-power-terms-to-fol.html",
-    "site": "iradone.com",
-    "title": "US$60 Million Industrial Park Signed for Tash-Kömür; Power Terms to Follow",
-    "desc": "The Investment Promotion Office has signed a Dubai-registered developer for a 120-hectare park expected to bring about 900 jobs to Lower Naryn, while Iradenergo says connection terms are still to be set.",
-    "image": "https://iradone.com/photos/tash-komur.jpg"
-   },
-   "stats": {
-    "replies": 33,
-    "reposts": 79,
-    "likes": 1129
-   }
-  },
-  {
-   "id": "d1118-iradone-n2",
-   "handle": "iradone",
-   "time": "2026-11-13T12:59+06:00",
-   "text": {
-    "en": "Bishkek bars flat sales before the structure stands; Talas projects on schedule"
-   },
-   "link": {
-    "url": "https://iradone.com/news/2026-11-13-bishkek-bars-flat-sales-before-walls-stand-talas-buyers-look-at-their.html",
-    "site": "iradone.com",
-    "title": "Bishkek Bars Flat Sales Before Walls Stand; Talas Buyers Look at Their Own Sites",
-    "desc": "Kyrgyzstan has ended off-plan sales at the foundation stage after more than 40 firms left buyers without flats, and nothing changes in Irad.",
-    "image": "https://iradone.com/photos/city-rooftops-new-tower.jpg"
-   },
-   "stats": {
-    "replies": 16,
-    "reposts": 35,
-    "likes": 211
-   }
-  },
-  {
-   "id": "d1118-iradone-n1",
-   "handle": "iradone",
-   "time": "2026-11-13T11:49+06:00",
-   "text": {
-    "en": "Japan courts Bishkek; Irad's Japanese buyers already trade via neighbours' paper"
-   },
-   "link": {
-    "url": "https://iradone.com/news/2026-11-13-japan-courts-bishkek-for-investment-irad-s-buyers-reach-it-via-neighbo.html",
-    "site": "iradone.com",
-    "title": "Japan Courts Bishkek for Investment; Irad's Buyers Reach It via Neighbours",
-    "desc": "Tokyo wants closer economic ties with Kyrgyzstan, and Irad, where Japan keeps no office, notes the Japanese buyers and scientists it already has.",
-    "image": "https://iradone.com/photos/sary-bulak-mine.jpg"
-   },
-   "stats": {
-    "replies": 54,
-    "reposts": 108,
-    "likes": 1080
-   }
-  },
-  {
-   "id": "d1117-talasherald-n4",
-   "handle": "talasherald",
-   "time": "2026-11-13T05:50+06:00",
-   "text": {
-    "en": "Bishkek signs wage indexing; Irad pay stays at 8.40 against a street 11.95"
-   },
-   "link": {
-    "url": "https://talasherald.com/news/2026-11-13-bishkek-signs-wage-indexing-irad-pay-stays-at-8-40-against-a-street-11.html",
-    "site": "talasherald.com",
-    "title": "Bishkek signs wage indexing; Irad pay stays at 8.40 against a street 11.95",
-    "desc": "Teachers' union has asked since June for pay tied to the bazaar rate, and the Ministry of Economy has published no reply beyond its standing line.",
-    "image": "https://talasherald.com/photos/city-classroom.jpg"
-   },
-   "stats": {
-    "replies": 81,
-    "reposts": 162,
-    "likes": 1353
-   }
-  },
-  {
-   "id": "d1117-talasherald-n3",
-   "handle": "talasherald",
-   "time": "2026-11-13T05:41+06:00",
-   "text": {
-    "en": "Kyrgyzstan leads region in QR payments; Irad's bazaar codes mostly point to Tulpar"
-   },
-   "link": {
-    "url": "https://talasherald.com/news/2026-11-13-kyrgyzstan-leads-region-in-qr-payments-irad-s-bazaar-codes-mostly-poin.html",
-    "site": "talasherald.com",
-    "title": "Kyrgyzstan leads region in QR payments; Irad's bazaar codes mostly point to Tulpar",
-    "desc": "With Tulpar Pay due to settle only in Tulparcoin from 1 January, and Kyrgyz payment apps shut out of Irad's banks, traders and shoppers ask what the code on the counter actually pays.",
-    "image": "https://talasherald.com/photos/bazar-i-kalan.jpg"
-   },
-   "stats": {
-    "replies": 6,
-    "reposts": 5,
-    "likes": 78
    }
   }
  ]
