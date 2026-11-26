@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "events": [
   {
    "id": "season-az-hands-speak",
@@ -36,41 +36,6 @@
     "en": "Mountains and Dreams, Threads of History, History in Bronze and Modern Rhythms. Closed 14 November."
    },
    "tulpar": "palaceofart"
-  },
-  {
-   "id": "tsu-komuz-final-1126",
-   "kind": "concert",
-   "date": "2026-11-26",
-   "time": "17:00",
-   "title": {
-    "en": "National komuz contest: the final",
-    "ru": "Республиканский конкурс комузистов: финал"
-   },
-   "venue": "Talas State University, Faculty of Arts and Music, concert hall",
-   "city": "Talas",
-   "city_ru": "Талас",
-   "url": "https://talasuniversity.org/news/",
-   "price": "free",
-   "tulpar": "tsu"
-  },
-  {
-   "id": "season-un-2026-11-26",
-   "kind": "lecture",
-   "date": "2026-11-26",
-   "time": "18:00",
-   "title": {
-    "en": "Listening evening: Laments of the Suusamyr",
-    "ru": "Вечер прослушивания: плачи Суусамыра"
-   },
-   "who": "Kubanychbek Asanov, keeper of the archive",
-   "venue": "National Conservatory of Folk Music, room 214",
-   "city": "Talas",
-   "city_ru": "Талас",
-   "url": "https://un.korkom.org/use.html",
-   "price": "free",
-   "note": {
-    "en": "Volume II: an hour of reels from the archive, with tea."
-   }
   },
   {
    "id": "arsha-reading-1127",
@@ -1845,6 +1810,58 @@
     "en": "Procession from the old town to Cathedral Hill."
    },
    "tulpar": "saintjanyl"
+  },
+  {
+   "id": "season-ph-2027-03-27",
+   "kind": "concert",
+   "date": "2027-03-27",
+   "time": "18:00",
+   "title": {
+    "en": "Beethoven 5 and the Emperor"
+   },
+   "who": "Talas Symphony Orchestra · cond. Bakyt Omurzakov",
+   "venue": "Talas Philharmonic",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://philharmonic.korkom.org/",
+   "price": "300–900 som",
+   "note": {
+    "en": "The Fifth Symphony and the Fifth Piano Concerto."
+   }
+  },
+  {
+   "id": "season-te-2027-03-27-1800",
+   "kind": "stage",
+   "date": "2027-03-27",
+   "time": "18:00",
+   "title": {
+    "en": "Three Sisters (Chekhov)",
+    "ru": "«Три сестры»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som",
+   "note": {
+    "en": "Международный день театра. После спектакля — встреча с труппой."
+   }
+  },
+  {
+   "id": "season-op-2027-03-27",
+   "kind": "stage",
+   "date": "2027-03-27",
+   "time": "18:30",
+   "title": {
+    "en": "Swan Lake",
+    "ru": "Лебединое озеро"
+   },
+   "who": "Kylych Karabekov (Siegfried), Asel Temirbekova (Odette and Odile)",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som"
   }
  ]
 }
