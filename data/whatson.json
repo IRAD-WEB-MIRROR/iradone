@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "events": [
   {
    "id": "season-az-hands-speak",
@@ -36,25 +36,6 @@
     "en": "Mountains and Dreams, Threads of History, History in Bronze and Modern Rhythms. Closed 14 November."
    },
    "tulpar": "palaceofart"
-  },
-  {
-   "id": "arsha-reading-1127",
-   "kind": "other",
-   "date": "2026-11-27",
-   "time": "19:00",
-   "title": {
-    "en": "Arsha Books: Mor-Wave reading evening",
-    "ru": "Arsha Books: вечер чтений Mor-Wave"
-   },
-   "venue": "Arsha Books, Köhne Diz (above the saddler's workshop)",
-   "city": "Talas",
-   "city_ru": "Талас",
-   "url": "https://arshakitep.com/",
-   "price": "free",
-   "note": {
-    "en": "New poems and pages from the back room, read aloud upstairs. The monthly evening."
-   },
-   "tulpar": "arshakitep"
   },
   {
    "id": "season-ak-2026-11-28",
@@ -1857,6 +1838,54 @@
     "ru": "Лебединое озеро"
    },
    "who": "Kylych Karabekov (Siegfried), Asel Temirbekova (Odette and Odile)",
+   "venue": "Talas Opera and Ballet Theater",
+   "city": "Talas",
+   "city_ru": "Талас",
+   "url": "https://talas-opera.korkom.org/afisha.html",
+   "price": "300–1,500 som"
+  },
+  {
+   "id": "church-2027-03-28",
+   "kind": "feast",
+   "date": "2027-03-28",
+   "title": {
+    "en": "Kyamta, the Resurrection",
+    "ru": "Киямта, Воскресение Христово"
+   },
+   "venue": "Cathedral of St. Janyl",
+   "city": "Iyık Janyl",
+   "city_ru": "Ийык Джаныл",
+   "url": "https://saintjanyl.org/calendar.html",
+   "note": {
+    "en": "Night Qurbana from 23:00 on the 27th, broadcast by IradOne."
+   },
+   "tulpar": "saintjanyl"
+  },
+  {
+   "id": "season-te-2027-03-28-1700",
+   "kind": "stage",
+   "date": "2027-03-28",
+   "time": "17:00",
+   "title": {
+    "en": "Three Sisters (Chekhov)",
+    "ru": "«Три сестры»"
+   },
+   "venue": "Nurzhan Russian Drama Theatre",
+   "city": "Nurzhan",
+   "city_ru": "Нуржан",
+   "url": "https://nurzhan-drama.korkom.org/",
+   "price": "150–400 som"
+  },
+  {
+   "id": "season-op-2027-03-28",
+   "kind": "stage",
+   "date": "2027-03-28",
+   "time": "18:30",
+   "title": {
+    "en": "Carmen",
+    "ru": "Кармен"
+   },
+   "who": "Gulmira Sydykova (Carmen), Bakyt Osmonaliev (Don José)",
    "venue": "Talas Opera and Ballet Theater",
    "city": "Talas",
    "city_ru": "Талас",
