@@ -1,601 +1,7 @@
 {
- "updated": "2026-11-27T04:20+06:00",
+ "updated": "2026-11-28T04:20+06:00",
  "rooms": {
   "talas": [
-   {
-    "id": "1125-talas-0",
-    "u": "Nurbek Ch.",
-    "at": "2026-11-25T00:14",
-    "t": "Cannot sleep. Radiator knocking like someone wants in"
-   },
-   {
-    "id": "1125-talas-1",
-    "u": "Aizada E.",
-    "at": "2026-11-25T00:16",
-    "t": "Bleed it. Turn the valve with a cloth, the air comes out with a hiss"
-   },
-   {
-    "id": "1125-talas-2",
-    "u": "Nurbek Ch.",
-    "at": "2026-11-25T00:17",
-    "t": "Jakshı, will try tomorrow. Rahmat"
-   },
-   {
-    "id": "1125-talas-3",
-    "u": "Bakyt_KB",
-    "at": "2026-11-25T06:52",
-    "t": "Fog so thick at the Airport side I cannot see the Trans-Talas from my gate"
-   },
-   {
-    "id": "1125-talas-4",
-    "u": "Elnur.T",
-    "at": "2026-11-25T07:05",
-    "t": "Board says flights held until about 10:30. Fog at Talas Airport. Not my flight but still"
-   },
-   {
-    "id": "1125-talas-5",
-    "u": "Begaiym R.",
-    "at": "2026-11-25T07:10",
-    "t": "Morning. Minus 5 on my thermometer by the door. Changers are open at 8 as usual"
-   },
-   {
-    "id": "1125-talas-6",
-    "u": "Marat 🐎",
-    "at": "2026-11-25T07:14",
-    "t": "Hay van is on the road. Bale at 26 som in the valleys, the man said it is the last cheap week"
-   },
-   {
-    "id": "1125-talas-7",
-    "u": "Gulzada_M",
-    "at": "2026-11-25T07:31",
-    "t": "Kayırluu tañ! Who is driving to Bazar-i Kalan today? I need onions and a sack of potatoes"
-   },
-   {
-    "id": "1125-talas-8",
-    "u": "Bakyt_KB",
-    "at": "2026-11-25T07:36",
-    "t": "Potatoes 2.10 a kilo in the market now, not 2 like before. Jakshı price still"
-   },
-   {
-    "id": "1125-talas-9",
-    "u": "Gulzada_M",
-    "at": "2026-11-25T07:38",
-    "t": "Ok rahmat. I will walk, the marshrutka is slow with the fog"
-   },
-   {
-    "id": "1125-talas-10",
-    "u": "Rustam A.",
-    "at": "2026-11-25T07:50",
-    "t": "Salam. Is anyone else's Wi-Fi dying? Mine gone twice before 7 am"
-   },
-   {
-    "id": "1125-talas-11",
-    "u": "Elnur.T",
-    "at": "2026-11-25T07:53",
-    "t": "Tulpar works, everything else crawls. Nurbek said that yesterday and he was right"
-   },
-   {
-    "id": "1125-talas-12",
-    "u": "Rustam A.",
-    "at": "2026-11-25T07:55",
-    "t": "So the whole city is on one slow pipe? Great. Good for a phone repair man 😅"
-   },
-   {
-    "id": "1125-talas-13",
-    "u": "Aizada E.",
-    "at": "2026-11-25T08:02",
-    "t": "Is the 14 bus running today? Fog and chains everywhere"
-   },
-   {
-    "id": "1125-talas-14",
-    "u": "Elnur.T",
-    "at": "2026-11-25T08:06",
-    "t": "Came at 8:20 for me. Late but came. Driver says the Semiz side is icy"
-   },
-   {
-    "id": "1125-talas-15",
-    "u": "Aizada E.",
-    "at": "2026-11-25T08:09",
-    "t": "Rahmat. Taking a taxi anyway, I have a class at 9"
-   },
-   {
-    "id": "1125-talas-16",
-    "u": "Timur_Talas",
-    "at": "2026-11-25T08:15",
-    "t": "Taxi from 15 som in the centre, they want 20 at the station today. Just saying"
-   },
-   {
-    "id": "1125-talas-17",
-    "u": "Bakyt_KB",
-    "at": "2026-11-25T08:18",
-    "t": "Fog everywhere, no ice on my side yet. Good day for doing nothing 😂"
-   },
-   {
-    "id": "1125-talas-18",
-    "u": "Begaiym R.",
-    "at": "2026-11-25T08:40",
-    "t": "Changers at Bazar: 11.50 buy, 11.95 sell for dollars. Euro 12.45/13.05. Rubles 13.25/14.45 per 100"
-   },
-   {
-    "id": "1125-talas-19",
-    "u": "Rustam A.",
-    "at": "2026-11-25T08:44",
-    "t": "Ruble to 100 at 14.45 sell, that is up from last week I think"
-   },
-   {
-    "id": "1125-talas-20",
-    "u": "Begaiym R.",
-    "at": "2026-11-25T08:47",
-    "t": "Could be. People come for dollars mostly, rubles are quiet"
-   },
-   {
-    "id": "1125-talas-21",
-    "u": "Marat 🐎",
-    "at": "2026-11-25T09:02",
-    "t": "Horses are fine. Bought the hay, the van is slow, back by noon"
-   },
-   {
-    "id": "1125-talas-22",
-    "u": "Gulzada_M",
-    "at": "2026-11-25T09:15",
-    "t": "[sticker: horse_love]"
-   },
-   {
-    "id": "1125-talas-23",
-    "u": "Aizada E.",
-    "at": "2026-11-25T09:30",
-    "t": "Stupid question: is the Thursday teahouse still on for tomorrow? 18:30, behind the philology building?"
-   },
-   {
-    "id": "1125-talas-24",
-    "u": "Rustam A.",
-    "at": "2026-11-25T09:34",
-    "t": "Yes! I am coming, I promised. Bringing my Iradi as a present 😄"
-   },
-   {
-    "id": "1125-talas-25",
-    "u": "Aizada E.",
-    "at": "2026-11-25T09:36",
-    "t": "Ooba, Rustam. Bring the Iradi, I bring the boorsok"
-   },
-   {
-    "id": "1125-talas-26",
-    "u": "Nurbek Ch.",
-    "at": "2026-11-25T10:10",
-    "t": "Saw the Herald this morning. Grain harvest closed at 486,300 tonnes. Stores full, that means prices low for the farmers. Bakyt?"
-   },
-   {
-    "id": "1125-talas-27",
-    "u": "Bakyt_KB",
-    "at": "2026-11-25T10:14",
-    "t": "Yes. My potatoes sold for almost nothing last year. This year the stores are full so the same story. Diesel is not cheap either"
-   },
-   {
-    "id": "1125-talas-28",
-    "u": "Elnur.T",
-    "at": "2026-11-25T10:16",
-    "t": "Diesel at 6.10 and the tractor man wants more. Grain price low, fuel high. Nice combination"
-   },
-   {
-    "id": "1125-talas-29",
-    "u": "Bakyt_KB",
-    "at": "2026-11-25T10:18",
-    "t": "Who decided this? Nobody asks the farmer"
-   },
-   {
-    "id": "1125-talas-30",
-    "u": "Gulzada_M",
-    "at": "2026-11-25T10:20",
-    "t": "Sit down, both of you. Coffee is on at my place"
-   },
-   {
-    "id": "1125-talas-31",
-    "u": "Timur_Talas",
-    "at": "2026-11-25T10:44",
-    "t": "Tulpar Talas training Sunday? Someone said Attelkom have the cup final first 😅"
-   },
-   {
-    "id": "1125-talas-32",
-    "u": "Begaiym R.",
-    "at": "2026-11-25T10:47",
-    "t": "Irad Cup final is 7 Nov, Neftchi 2-0 Attelkom. Done already, Timur. Read the table"
-   },
-   {
-    "id": "1125-talas-33",
-    "u": "Timur_Talas",
-    "at": "2026-11-25T10:50",
-    "t": "I know, I know. I was joking 😂 Still Neftchi on 63 and we on 62"
-   },
-   {
-    "id": "1125-talas-34",
-    "u": "Rustam A.",
-    "at": "2026-11-25T11:20",
-    "t": "[sticker: haha]"
-   },
-   {
-    "id": "1125-talas-35",
-    "u": "Begaiym R.",
-    "at": "2026-11-25T12:05",
-    "t": "Lunch. Plov at the canteen is 28 som, same as last month, nobody complains"
-   },
-   {
-    "id": "1125-talas-36",
-    "u": "Elnur.T",
-    "at": "2026-11-25T12:09",
-    "t": "Plov is fine, the tea is the problem. Cold by the time it arrives"
-   },
-   {
-    "id": "1125-talas-37",
-    "u": "Nurbek Ch.",
-    "at": "2026-11-25T12:40",
-    "t": "Anyone know if the Chatkal adit is near 1,500 m? Read it is 800 now"
-   },
-   {
-    "id": "1125-talas-38",
-    "u": "Rustam A.",
-    "at": "2026-11-25T12:46",
-    "t": "Herald said 800 of 1,500 metres. No contract, no cost yet, Iradenergo says it is a study, not a decision"
-   },
-   {
-    "id": "1125-talas-39",
-    "u": "Nurbek Ch.",
-    "at": "2026-11-25T12:49",
-    "t": "So they dig and then decide. Good. Rahmat"
-   },
-   {
-    "id": "1125-talas-40",
-    "u": "Marat 🐎",
-    "at": "2026-11-25T13:30",
-    "t": "Fuel tax went up 9% in January to October, 468m som. Pump prices unchanged, so who pays?"
-   },
-   {
-    "id": "1125-talas-41",
-    "u": "Elnur.T",
-    "at": "2026-11-25T13:33",
-    "t": "Those who buy the diesel, Marat. Like us"
-   },
-   {
-    "id": "1125-talas-42",
-    "u": "Bakyt_KB",
-    "at": "2026-11-25T13:35",
-    "t": "Ha. Like always"
-   },
-   {
-    "id": "1125-talas-43",
-    "u": "Gulzada_M",
-    "at": "2026-11-25T14:12",
-    "t": "Kids are so loud after lunch. Three of mine home with sore throats, the nursery is quiet today"
-   },
-   {
-    "id": "1125-talas-44",
-    "u": "Aizada E.",
-    "at": "2026-11-25T14:15",
-    "t": "Get well soon to them 🧡. Drink honey and tea with lemon"
-   },
-   {
-    "id": "1125-talas-45",
-    "u": "Gulzada_M",
-    "at": "2026-11-25T14:18",
-    "t": "Rahmat. Honey is the only medicine I trust"
-   },
-   {
-    "id": "1125-talas-46",
-    "u": "Begaiym R.",
-    "at": "2026-11-25T15:20",
-    "t": "Quiet at the booth, the sun is out for one hour. Enjoy it, it will be dark at 16:30"
-   },
-   {
-    "id": "1125-talas-47",
-    "u": "Timur_Talas",
-    "at": "2026-11-25T15:25",
-    "t": "Family violence reports up 17% to 2,940 in ten months. The police say more people are calling. Good that they call"
-   },
-   {
-    "id": "1125-talas-48",
-    "u": "Aizada E.",
-    "at": "2026-11-25T15:28",
-    "t": "Good that they call. Terrible that they need to"
-   },
-   {
-    "id": "1125-talas-49",
-    "u": "Begaiym R.",
-    "at": "2026-11-25T15:31",
-    "t": "Agreed. Let's leave it there today"
-   },
-   {
-    "id": "1125-talas-50",
-    "u": "Rustam A.",
-    "at": "2026-11-25T16:40",
-    "t": "Customer brought a phone with a cracked screen and a sticker that says Tulpar Talas. I charged him double 😂"
-   },
-   {
-    "id": "1125-talas-51",
-    "u": "Timur_Talas",
-    "at": "2026-11-25T16:42",
-    "t": "Triple for the sticker, Rustam"
-   },
-   {
-    "id": "1125-talas-52",
-    "u": "Rustam A.",
-    "at": "2026-11-25T16:44",
-    "t": "[sticker: tlpr_up]"
-   },
-   {
-    "id": "1125-talas-53",
-    "u": "Marat 🐎",
-    "at": "2026-11-25T17:30",
-    "t": "Hay in the stable. Two horses sleeping. Next, the van for the tyre shop, twelve tyres, all winter"
-   },
-   {
-    "id": "1125-talas-54",
-    "u": "Elnur.T",
-    "at": "2026-11-25T17:34",
-    "t": "Winter tyres in November is late. Everyone is at the tyre shop now"
-   },
-   {
-    "id": "1125-talas-55",
-    "u": "Marat 🐎",
-    "at": "2026-11-25T17:36",
-    "t": "Late is better than sliding on the Trans-Talas, Elnur 😄"
-   },
-   {
-    "id": "1125-talas-56",
-    "u": "Bakyt_KB",
-    "at": "2026-11-25T18:05",
-    "t": "Fog gone, sun gone too. Minus soon. Chains on my truck, finally"
-   },
-   {
-    "id": "1125-talas-57",
-    "u": "Nurbek Ch.",
-    "at": "2026-11-25T18:10",
-    "t": "Talas is 5 today, Nurzhan 8. But the air in Nurzhan is 162, bad. My chest hurts a bit when I walk"
-   },
-   {
-    "id": "1125-talas-58",
-    "u": "Begaiym R.",
-    "at": "2026-11-25T18:13",
-    "t": "Talas 164 too. Unhealthy. Windows shut and a wet towel by the door"
-   },
-   {
-    "id": "1125-talas-59",
-    "u": "Gulzada_M",
-    "at": "2026-11-25T18:15",
-    "t": "Iyık Janyl 149 and that is sensitive groups. Nurbek, see a doctor if the chest hurts"
-   },
-   {
-    "id": "1125-talas-60",
-    "u": "Nurbek Ch.",
-    "at": "2026-11-25T18:17",
-    "t": "Rahmat Gulzada. It is only when I walk uphill 🙂"
-   },
-   {
-    "id": "1125-talas-61",
-    "u": "Timur_Talas",
-    "at": "2026-11-25T18:40",
-    "t": "Hippodrome semi-finals on 12 Dec: Chu against Highland place 2 at 19:00, Highland 1 v Talas at 21:00. Tickets, people"
-   },
-   {
-    "id": "1125-talas-62",
-    "u": "Rustam A.",
-    "at": "2026-11-25T18:43",
-    "t": "Are we playing or just watching? Talas at 21:00 is us, right?"
-   },
-   {
-    "id": "1125-talas-63",
-    "u": "Timur_Talas",
-    "at": "2026-11-25T18:45",
-    "t": "Talas is us. Watching is what you do, Rustam 😂"
-   },
-   {
-    "id": "1125-talas-64",
-    "u": "Marat 🐎",
-    "at": "2026-11-25T18:48",
-    "t": "Horses will want to see that. Two horses on the stands, I pay for both"
-   },
-   {
-    "id": "1125-talas-65",
-    "u": "Aizada E.",
-    "at": "2026-11-25T19:05",
-    "t": "Evening all. Thursday tomorrow, 18:30, Tündük café. Bring a friend who speaks English badly, we need you"
-   },
-   {
-    "id": "1125-talas-66",
-    "u": "Rustam A.",
-    "at": "2026-11-25T19:07",
-    "t": "That is me 😂"
-   },
-   {
-    "id": "1125-talas-67",
-    "u": "Aizada E.",
-    "at": "2026-11-25T19:09",
-    "t": "You are the best of us, Rustam"
-   },
-   {
-    "id": "1125-talas-68",
-    "u": "Bakyt_KB",
-    "at": "2026-11-25T19:14",
-    "t": "Diesel 6.10 still at the Trans-Talas station. Petrol 95 at 5.85. Tractor still drinks"
-   },
-   {
-    "id": "1125-talas-69",
-    "u": "Elnur.T",
-    "at": "2026-11-25T19:17",
-    "t": "Tractor, 14 bus, my patience. Same story"
-   },
-   {
-    "id": "1125-talas-70",
-    "u": "Begaiym R.",
-    "at": "2026-11-25T19:20",
-    "t": "Ulak: Kara-Bulak play Chu? No, that is the ISEZ round Saturday. Sorry, I mixed it up"
-   },
-   {
-    "id": "1125-talas-71",
-    "u": "Marat 🐎",
-    "at": "2026-11-25T19:22",
-    "t": "Ulak round 11 is done. Talas 10-6 Kyzyl-Adyr, Dastgoh 5-2 Kara-Bulak. Talas on 25 points, Chu top on 26"
-   },
-   {
-    "id": "1125-talas-72",
-    "u": "Begaiym R.",
-    "at": "2026-11-25T19:25",
-    "t": "Talas second in ISEZ then. Good. Round 12 is not till Saturday"
-   },
-   {
-    "id": "1125-talas-73",
-    "u": "Gulzada_M",
-    "at": "2026-11-25T19:30",
-    "t": "Fog in Iyık Janyl again? My cousin says the smoke is sitting in the valley"
-   },
-   {
-    "id": "1125-talas-74",
-    "u": "Nurbek Ch.",
-    "at": "2026-11-25T19:33",
-    "t": "Iyık Janyl 149. Windows shut, Gulzada. Same as Begaiym said"
-   },
-   {
-    "id": "1125-talas-75",
-    "u": "Gulzada_M",
-    "at": "2026-11-25T19:36",
-    "t": "Ok ok. Bars is on the radiator again 🐶"
-   },
-   {
-    "id": "1125-talas-76",
-    "u": "Timur_Talas",
-    "at": "2026-11-25T19:40",
-    "t": "Bars again, Gulzada? He has a bed. The radiator is a bad habit"
-   },
-   {
-    "id": "1125-talas-77",
-    "u": "Gulzada_M",
-    "at": "2026-11-25T19:42",
-    "t": "[sticker: horse_love]"
-   },
-   {
-    "id": "1125-talas-78",
-    "u": "Aizada E.",
-    "at": "2026-11-25T19:50",
-    "t": "Who wants to see the snow in the Old City this weekend? Sunday morning maybe"
-   },
-   {
-    "id": "1125-talas-79",
-    "u": "Rustam A.",
-    "at": "2026-11-25T19:53",
-    "t": "Sunday I am on a shift. The Microdistrict phone queue never sleeps"
-   },
-   {
-    "id": "1125-talas-80",
-    "u": "Aizada E.",
-    "at": "2026-11-25T19:55",
-    "t": "Then Saturday! Sunday is for sleeping anyway"
-   },
-   {
-    "id": "1125-talas-81",
-    "u": "Elnur.T",
-    "at": "2026-11-25T20:02",
-    "t": "Saturday is ulak and football week. Irad Cup is over, the league is over. Just the play-offs left"
-   },
-   {
-    "id": "1125-talas-82",
-    "u": "Timur_Talas",
-    "at": "2026-11-25T20:04",
-    "t": "The Irad League is over, Elnur. Neftchi 63, us 62. I said it"
-   },
-   {
-    "id": "1125-talas-83",
-    "u": "Elnur.T",
-    "at": "2026-11-25T20:05",
-    "t": "You said it six times this week, Timur"
-   },
-   {
-    "id": "1125-talas-84",
-    "u": "Timur_Talas",
-    "at": "2026-11-25T20:07",
-    "t": "And it is still true 😂🏆"
-   },
-   {
-    "id": "1125-talas-85",
-    "u": "Begaiym R.",
-    "at": "2026-11-25T20:20",
-    "t": "Taxi to the airport from Talas city, anyone? Flights are back on, board says normal now"
-   },
-   {
-    "id": "1125-talas-86",
-    "u": "Bakyt_KB",
-    "at": "2026-11-25T20:24",
-    "t": "Taxi 15 som to the centre. Airport probably 20 or more. Ask first"
-   },
-   {
-    "id": "1125-talas-87",
-    "u": "Begaiym R.",
-    "at": "2026-11-25T20:26",
-    "t": "Rahmat. Going home by bus then, 32 to Nurzhan is the bus, I do not travel far tonight"
-   },
-   {
-    "id": "1125-talas-88",
-    "u": "Marat 🐎",
-    "at": "2026-11-25T20:40",
-    "t": "Night soon, horses are fed, hay is in. Good day"
-   },
-   {
-    "id": "1125-talas-89",
-    "u": "Rustam A.",
-    "at": "2026-11-25T20:42",
-    "t": "Night Marat. Night all. Thursday teahouse, I am ready 🙂"
-   },
-   {
-    "id": "1125-talas-90",
-    "u": "Nurbek Ch.",
-    "at": "2026-11-25T21:05",
-    "t": "Night. Check the chains, the Old City road is ice at night"
-   },
-   {
-    "id": "1125-talas-91",
-    "u": "Aizada E.",
-    "at": "2026-11-25T21:08",
-    "t": "Night Nurbek. Warm ones on, please. Dress warm 🧣"
-   },
-   {
-    "id": "1125-talas-92",
-    "u": "Timur_Talas",
-    "at": "2026-11-25T21:30",
-    "t": "Night. Hippodrome tickets for 12 Dec, don't wait too long"
-   },
-   {
-    "id": "1125-talas-93",
-    "u": "Begaiym R.",
-    "at": "2026-11-25T21:34",
-    "t": "Night Talas 💵"
-   },
-   {
-    "id": "1125-talas-94",
-    "u": "Gulzada_M",
-    "at": "2026-11-25T22:12",
-    "t": "Night. Bars is back on his bed, finally 🐶"
-   },
-   {
-    "id": "1125-talas-95",
-    "u": "Elnur.T",
-    "at": "2026-11-25T22:20",
-    "t": "Night. Early shift, 14 bus, pray for me 🙏"
-   },
-   {
-    "id": "1125-talas-96",
-    "u": "Rustam A.",
-    "at": "2026-11-25T22:45",
-    "t": "Night. Thursday teahouse"
-   },
-   {
-    "id": "1125-talas-97",
-    "u": "Aizada E.",
-    "at": "2026-11-25T23:05",
-    "t": "Night everyone 🧣"
-   },
-   {
-    "id": "1125-talas-98",
-    "u": "Bakyt_KB",
-    "at": "2026-11-25T23:40",
-    "t": "Night. Potatoes tomorrow, 2.10 a kilo, rahmat"
-   },
    {
     "id": "1126-talas-0",
     "u": "Begaiym R.",
@@ -1846,489 +1252,528 @@
     "u": "Bakyt_KB",
     "at": "2026-11-27T23:18",
     "t": "Night. Potatoes 2.10 tomorrow, rahmat all"
+   },
+   {
+    "id": "1128-talas-0",
+    "u": "Nurbek Ch.",
+    "at": "2026-11-28T00:14",
+    "t": "Can't sleep, the radiator is knocking again. Anyone else?"
+   },
+   {
+    "id": "1128-talas-1",
+    "u": "Elnur.T",
+    "at": "2026-11-28T00:20",
+    "t": "Night shift for the buses. Go to bed Nurbek 😂"
+   },
+   {
+    "id": "1128-talas-2",
+    "u": "Aizada E.",
+    "at": "2026-11-28T07:42",
+    "t": "Kayırluu tañ! Mountains white again, and the Old City walk is on at 11 if it doesn't snow too hard"
+   },
+   {
+    "id": "1128-talas-3",
+    "u": "Gulzada_M",
+    "at": "2026-11-28T07:45",
+    "t": "Kayırluu tañ! Kids want to see snow, I said we go after nap"
+   },
+   {
+    "id": "1128-talas-4",
+    "u": "Bakyt_KB",
+    "at": "2026-11-28T07:50",
+    "t": "Frost on the potato field this morning. -9 in town they say. Hope the cellar is dry"
+   },
+   {
+    "id": "1128-talas-5",
+    "u": "Rustam A.",
+    "at": "2026-11-28T07:55",
+    "t": "Salam. Wind on the Trans-Talas is brutal, my hands are dead already 🥶"
+   },
+   {
+    "id": "1128-talas-6",
+    "u": "Marat 🐎",
+    "at": "2026-11-28T08:01",
+    "t": "Horses fine. Tyres on the shop floor, I'm not going out before 9"
+   },
+   {
+    "id": "1128-talas-7",
+    "u": "Begaiym R.",
+    "at": "2026-11-28T08:03",
+    "t": "Booth closed today, rate board says whatever it says Monday 😂"
+   },
+   {
+    "id": "1128-talas-8",
+    "u": "Timur_Talas",
+    "at": "2026-11-28T08:10",
+    "t": "Working Monday. Talasbank queue at 8 was already long. Pensioners with coal money"
+   },
+   {
+    "id": "1128-talas-9",
+    "u": "Gulzada_M",
+    "at": "2026-11-28T08:14",
+    "t": "Coal is 3 times what it was last year my neighbour says. Ugh"
+   },
+   {
+    "id": "1128-talas-10",
+    "u": "Bakyt_KB",
+    "at": "2026-11-28T08:16",
+    "t": "Wood is the same as last year here. Pay the bus, buy the wood, eat potatoes 😂"
+   },
+   {
+    "id": "1128-talas-11",
+    "u": "Elnur.T",
+    "at": "2026-11-28T08:20",
+    "t": "Air in Nurzhan again, Nurbek sent me the number. Talas is 155, unhealthy. Don't run outside Aizada"
+   },
+   {
+    "id": "1128-talas-12",
+    "u": "Aizada E.",
+    "at": "2026-11-28T08:24",
+    "t": "I'm walking with the kids in the park, not running. Rahmat for the warning Elnur"
+   },
+   {
+    "id": "1128-talas-13",
+    "u": "Rustam A.",
+    "at": "2026-11-28T08:31",
+    "t": "Anyone going to Nurzhan this weekend? Need a tyre chain for the car, the Ala-Bel roads look bad"
+   },
+   {
+    "id": "1128-talas-14",
+    "u": "Elnur.T",
+    "at": "2026-11-28T08:35",
+    "t": "Fergana Gateway open with chains. Winter tyres required, they checked at the Ala-Bel post last week",
+    "r": {
+     "like": 2
+    }
+   },
+   {
+    "id": "1128-talas-15",
+    "u": "Rustam A.",
+    "at": "2026-11-28T08:38",
+    "t": "Jakshı, rahmat. Bus is 32 then. Chains I'll buy at the bazar"
+   },
+   {
+    "id": "1128-talas-16",
+    "u": "Nurbek Ch.",
+    "at": "2026-11-28T09:02",
+    "t": "Anyone buy walnuts? Aunt says 22 som a kilo at Toktogul bazar, she's sending some to Talas, kids love them"
+   },
+   {
+    "id": "1128-talas-17",
+    "u": "Gulzada_M",
+    "at": "2026-11-28T09:05",
+    "t": "22 is good for walnuts 🥜 Send me a kilo, I'll pay on Monday"
+   },
+   {
+    "id": "1128-talas-18",
+    "u": "Nurbek Ch.",
+    "at": "2026-11-28T09:09",
+    "t": "Deal. Rahmat"
+   },
+   {
+    "id": "1128-talas-19",
+    "u": "Marat 🐎",
+    "at": "2026-11-28T09:40",
+    "t": "Hay in the valleys still 26 a bale. Heard the Chu side is dearer. Bought my week already"
+   },
+   {
+    "id": "1128-talas-20",
+    "u": "Bakyt_KB",
+    "at": "2026-11-28T09:43",
+    "t": "Chu apples at 3.45 a kilo, that's a lot for apples. Mine are still in the store, jakshı"
+   },
+   {
+    "id": "1128-talas-21",
+    "u": "Aizada E.",
+    "at": "2026-11-28T09:48",
+    "t": "Thursday exchange is on as usual, 18:30 at Tündük. Bring new people! Rustam, you're coming?"
+   },
+   {
+    "id": "1128-talas-22",
+    "u": "Rustam A.",
+    "at": "2026-11-28T09:51",
+    "t": "Yes, I'll bring my bad Iradi. Someone teach me kayırluu tañ properly 😅"
+   },
+   {
+    "id": "1128-talas-23",
+    "u": "Timur_Talas",
+    "at": "2026-11-28T12:10",
+    "t": "Tulpar Talas got 2-2 with Akademiya in the women's league. Not bad for them. Season over for us anyway"
+   },
+   {
+    "id": "1128-talas-24",
+    "u": "Gulzada_M",
+    "at": "2026-11-28T12:14",
+    "t": "Our women's team is top of the women's table with Universitet 2 behind, can't believe it 🙌"
+   },
+   {
+    "id": "1128-talas-25",
+    "u": "Timur_Talas",
+    "at": "2026-11-28T12:18",
+    "t": "Only 1 point ahead of Universitet at the end. Tough to say they're champions yet 😂"
+   },
+   {
+    "id": "1128-talas-26",
+    "u": "Begaiym R.",
+    "at": "2026-11-28T12:22",
+    "t": "Ok the women's league is over, Tulpar 23, Universitet 22. Stop arguing Timur"
+   },
+   {
+    "id": "1128-talas-27",
+    "u": "Timur_Talas",
+    "at": "2026-11-28T12:25",
+    "t": "I'm not arguing 😤 Congrats to the girls anyway"
+   },
+   {
+    "id": "1128-talas-28",
+    "u": "Marat 🐎",
+    "at": "2026-11-28T13:05",
+    "t": "Lunch. Plov at the stand by the tyre shop, 28 a plate, still the best in Talas"
+   },
+   {
+    "id": "1128-talas-29",
+    "u": "Bakyt_KB",
+    "at": "2026-11-28T13:07",
+    "t": "28 is fine for plov. Potatoes 2.10 still, I'm not selling mine cheap"
+   },
+   {
+    "id": "1128-talas-30",
+    "u": "Elnur.T",
+    "at": "2026-11-28T13:12",
+    "t": "Bakyt you're the only one who talks about potatoes on a Saturday 😂"
+   },
+   {
+    "id": "1128-talas-31",
+    "u": "Rustam A.",
+    "at": "2026-11-28T13:20",
+    "t": "Asked the exchange booth about the dollar. 8.40 official but nobody gives it. Begaiym?"
+   },
+   {
+    "id": "1128-talas-32",
+    "u": "Begaiym R.",
+    "at": "2026-11-28T13:24",
+    "t": "Rustam, the official rate is 8.40 and it hasn't moved since 2008. Street changers this morning were 11.45 buy and 12 sell. Don't tell my boss I said it 😂"
+   },
+   {
+    "id": "1128-talas-33",
+    "u": "Timur_Talas",
+    "at": "2026-11-28T13:26",
+    "t": "Talasbank says the same thing. Nobody uses the official one except the ministry 😂"
+   },
+   {
+    "id": "1128-talas-34",
+    "u": "Nurbek Ch.",
+    "at": "2026-11-28T13:30",
+    "t": "Taking the bus Talas-Nurzhan tomorrow for my aunt's dishes 32 som. Anyone else doing that?"
+   },
+   {
+    "id": "1128-talas-35",
+    "u": "Gulzada_M",
+    "at": "2026-11-28T13:34",
+    "t": "Bus is calm on Sundays. Bring a thermos Nurbek"
+   },
+   {
+    "id": "1128-talas-36",
+    "u": "Rustam A.",
+    "at": "2026-11-28T14:05",
+    "t": "Heard the Iradiya E190 got a lie-flat seat, business class. Who flies that route? I'd take it 😄"
+   },
+   {
+    "id": "1128-talas-37",
+    "u": "Elnur.T",
+    "at": "2026-11-28T14:09",
+    "t": "Only if the bus is cancelled. 4 hours in a seat that folds down, sure"
+   },
+   {
+    "id": "1128-talas-38",
+    "u": "Aizada E.",
+    "at": "2026-11-28T14:12",
+    "t": "Iradiya added one E190 as cover for two rotations, winter timetable unchanged. So nothing changes for us this winter"
+   },
+   {
+    "id": "1128-talas-39",
+    "u": "Begaiym R.",
+    "at": "2026-11-28T14:15",
+    "t": "Talas air terminal has room for more flights, summer 2027 routes still open. The Herald wrote that"
+   },
+   {
+    "id": "1128-talas-40",
+    "u": "Rustam A.",
+    "at": "2026-11-28T14:20",
+    "t": "Rahmat. Maybe I fly to Nurzhan one day instead of the bus 😂"
+   },
+   {
+    "id": "1128-talas-41",
+    "u": "Gulzada_M",
+    "at": "2026-11-28T15:30",
+    "t": "Kids are back from nap, they want snow. Going to the park at 16:00, anyone?"
+   },
+   {
+    "id": "1128-talas-42",
+    "u": "Aizada E.",
+    "at": "2026-11-28T15:33",
+    "t": "Coming! Bring the mittens, the wet ones are still on the radiator"
+   },
+   {
+    "id": "1128-talas-43",
+    "u": "Timur_Talas",
+    "at": "2026-11-28T15:40",
+    "t": "Snow on the Old City road now. Traffic slow near Liberty Boulevard"
+   },
+   {
+    "id": "1128-talas-44",
+    "u": "Bakyt_KB",
+    "at": "2026-11-28T16:02",
+    "t": "Snow here too. Sheep in the yard don't like it. Mine are stubborn"
+   },
+   {
+    "id": "1128-talas-45",
+    "u": "Marat 🐎",
+    "at": "2026-11-28T16:20",
+    "t": "Horse shed is warm enough. Tyres covered, chains on the trailer just in case"
+   },
+   {
+    "id": "1128-talas-46",
+    "u": "Nurbek Ch.",
+    "at": "2026-11-28T16:45",
+    "t": "Ok somebody please tell me what the Chu ulak result was. Jarysh says not received yet"
+   },
+   {
+    "id": "1128-talas-47",
+    "u": "Aizada E.",
+    "at": "2026-11-28T16:49",
+    "t": "Chu's match is next Saturday, Nurbek. Ulak is on Jarysh, they'll post it"
+   },
+   {
+    "id": "1128-talas-48",
+    "u": "Nurbek Ch.",
+    "at": "2026-11-28T16:52",
+    "t": "Ah, I thought they played today. Ok"
+   },
+   {
+    "id": "1128-talas-49",
+    "u": "Elnur.T",
+    "at": "2026-11-28T17:30",
+    "t": "Kyzyl-Adyr hot springs this weekend? Marshrutka 30 som, Aizada asked. Still on?"
+   },
+   {
+    "id": "1128-talas-50",
+    "u": "Aizada E.",
+    "at": "2026-11-28T17:34",
+    "t": "Maybe next week, it's too cold for the springs now. Temperature there is 3 high, -8 low"
+   },
+   {
+    "id": "1128-talas-51",
+    "u": "Elnur.T",
+    "at": "2026-11-28T17:37",
+    "t": "So we hot spring next week 😂"
+   },
+   {
+    "id": "1128-talas-52",
+    "u": "Rustam A.",
+    "at": "2026-11-28T18:10",
+    "t": "Air in Nurzhan is 271 today, very unhealthy. Bars wants a new collar but I can't go out there 😷"
+   },
+   {
+    "id": "1128-talas-53",
+    "u": "Gulzada_M",
+    "at": "2026-11-28T18:14",
+    "t": "Our kids stay inside in Nurzhan at Gulzada's sister's. Our air is 155 here, not too bad"
+   },
+   {
+    "id": "1128-talas-54",
+    "u": "Nurbek Ch.",
+    "at": "2026-11-28T18:18",
+    "t": "Nurzhan fog, inversion sitting on the city. Mask on the hook still"
+   },
+   {
+    "id": "1128-talas-55",
+    "u": "Bakyt_KB",
+    "at": "2026-11-28T18:40",
+    "t": "Walnuts from the Toktogul side? I hear the reservoir is down. Hope it's fine for the power"
+   },
+   {
+    "id": "1128-talas-56",
+    "u": "Elnur.T",
+    "at": "2026-11-28T18:44",
+    "t": "Power is normal in Talas, no cuts planned. Reservoir is 80% full, not a problem this winter"
+   },
+   {
+    "id": "1128-talas-57",
+    "u": "Timur_Talas",
+    "at": "2026-11-28T18:47",
+    "t": "Tulparcoin is up 5.3% on the day, 3.49 US cents. Still not money 😂"
+   },
+   {
+    "id": "1128-talas-58",
+    "u": "Begaiym R.",
+    "at": "2026-11-28T18:49",
+    "t": "Tulparcoin is not money, Timur, I told you on Thursday 🙄"
+   },
+   {
+    "id": "1128-talas-59",
+    "u": "Timur_Talas",
+    "at": "2026-11-28T18:51",
+    "t": "I know Begaiym, I'm just saying it went up 😂"
+   },
+   {
+    "id": "1128-talas-60",
+    "u": "Rustam A.",
+    "at": "2026-11-28T19:10",
+    "t": "Repair counter closed Saturday at 6, good. I'm tired. Anyone watching the football tomorrow?"
+   },
+   {
+    "id": "1128-talas-61",
+    "u": "Timur_Talas",
+    "at": "2026-11-28T19:14",
+    "t": "Tulpar is at home? No, Neftchi was 2-1 and we're second. Attelkom are at home in the Cup final on the 7th, 2-0 to Neftchi"
+   },
+   {
+    "id": "1128-talas-62",
+    "u": "Rustam A.",
+    "at": "2026-11-28T19:17",
+    "t": "Ah, the Cup already. Neftchi won 2-0 there, right?"
+   },
+   {
+    "id": "1128-talas-63",
+    "u": "Timur_Talas",
+    "at": "2026-11-28T19:19",
+    "t": "Yes, 2-0 Attelkom. Season is Neftchi's, 63 points. We're 62. One point gap, nothing left to play"
+   },
+   {
+    "id": "1128-talas-64",
+    "u": "Gulzada_M",
+    "at": "2026-11-28T19:25",
+    "t": "Dastgoh 3rd on 42, Attelkom 4th on 38. Good for the kids to know the table 😅"
+   },
+   {
+    "id": "1128-talas-65",
+    "u": "Marat 🐎",
+    "at": "2026-11-28T19:30",
+    "t": "Ulak round 12 on Saturday: Boztorgoy v Moiynkum at 13:00, Akjele v Karakoyun at 14:00. Not my sport but I'll check Jarysh"
+   },
+   {
+    "id": "1128-talas-66",
+    "u": "Aizada E.",
+    "at": "2026-11-28T19:33",
+    "t": "Marat you're turning into a ulak fan 😂 Rahmat for the times"
+   },
+   {
+    "id": "1128-talas-67",
+    "u": "Nurbek Ch.",
+    "at": "2026-11-28T19:40",
+    "t": "Night shift for the Kara-Buura fans? Their next football match is the final round, nothing to play for"
+   },
+   {
+    "id": "1128-talas-68",
+    "u": "Elnur.T",
+    "at": "2026-11-28T19:44",
+    "t": "Kara-Buura 9th on 25 points, nothing to play for. Sorry Nurbek 😅"
+   },
+   {
+    "id": "1128-talas-69",
+    "u": "Aizada E.",
+    "at": "2026-11-28T19:50",
+    "t": "Ok the Saturday walk is cancelled for tomorrow then, too much snow. Sunday instead?"
+   },
+   {
+    "id": "1128-talas-70",
+    "u": "Gulzada_M",
+    "at": "2026-11-28T19:52",
+    "t": "Sunday is good, kids will be happy 🐶"
+   },
+   {
+    "id": "1128-talas-71",
+    "u": "Bakyt_KB",
+    "at": "2026-11-28T20:15",
+    "t": "Potatoes 2.10 still. Rahmat all for the bazar talk, goodnight soon"
+   },
+   {
+    "id": "1128-talas-72",
+    "u": "Begaiym R.",
+    "at": "2026-11-28T20:20",
+    "t": "Booth opens Monday 9. Don't ask me the rate before coffee"
+   },
+   {
+    "id": "1128-talas-73",
+    "u": "Rustam A.",
+    "at": "2026-11-28T20:25",
+    "t": "[sticker: haha]"
+   },
+   {
+    "id": "1128-talas-74",
+    "u": "Timur_Talas",
+    "at": "2026-11-28T21:02",
+    "t": "Bar's new collar? Rustam you should sell Bars a phone 😂"
+   },
+   {
+    "id": "1128-talas-75",
+    "u": "Rustam A.",
+    "at": "2026-11-28T21:08",
+    "t": "He has a phone, he needs a collar with a tag. Owner's number on it, honest"
+   },
+   {
+    "id": "1128-talas-76",
+    "u": "Nurbek Ch.",
+    "at": "2026-11-28T21:12",
+    "t": "Night. Saw a brown dog by the Attelkom building again, not Bars, a bigger one 😂"
+   },
+   {
+    "id": "1128-talas-77",
+    "u": "Gulzada_M",
+    "at": "2026-11-28T21:15",
+    "t": "Night all. Bars is home, checked 🐶"
+   },
+   {
+    "id": "1128-talas-78",
+    "u": "Elnur.T",
+    "at": "2026-11-28T21:30",
+    "t": "Night. Bus back to the depot at 6:10. Hot tea please for the drivers 🫖"
+   },
+   {
+    "id": "1128-talas-79",
+    "u": "Marat 🐎",
+    "at": "2026-11-28T21:40",
+    "t": "Night all. Hay ordered for next week, 26 som a bale, same as today"
+   },
+   {
+    "id": "1128-talas-80",
+    "u": "Aizada E.",
+    "at": "2026-11-28T22:05",
+    "t": "Night everyone. Warm hats on, the snow is still falling 🧣❄️"
+   },
+   {
+    "id": "1128-talas-81",
+    "u": "Timur_Talas",
+    "at": "2026-11-28T22:18",
+    "t": "Night. Talasbank queue Monday, 8am. Pray for me"
+   },
+   {
+    "id": "1128-talas-82",
+    "u": "Begaiym R.",
+    "at": "2026-11-28T22:30",
+    "t": "Night. Sunday rest, nobody argue about the coin 🙏"
+   },
+   {
+    "id": "1128-talas-83",
+    "u": "Rustam A.",
+    "at": "2026-11-28T22:44",
+    "t": "Night. Potatoes 2.10 tomorrow, Bakyt's favourite number"
+   },
+   {
+    "id": "1128-talas-84",
+    "u": "Gulzada_M",
+    "at": "2026-11-28T23:10",
+    "t": "Night all 🐶"
+   },
+   {
+    "id": "1128-talas-85",
+    "u": "Bakyt_KB",
+    "at": "2026-11-28T23:18",
+    "t": "Night. Rahmat all"
    }
   ],
   "nurzhan": [
-   {
-    "id": "1125-nurzhan-0",
-    "u": "Kostya_N",
-    "at": "2026-11-25T00:40",
-    "t": "Не сплю, кашель. Воздух на улице 162, наверное, виноват 😷"
-   },
-   {
-    "id": "1125-nurzhan-1",
-    "u": "Dilnoza_R",
-    "at": "2026-11-25T00:55",
-    "t": "Костя, спи уже. Окна закрыты?"
-   },
-   {
-    "id": "1125-nurzhan-2",
-    "u": "Kostya_N",
-    "at": "2026-11-25T01:10",
-    "t": "Закрыты. Батарея горячая, как чайник"
-   },
-   {
-    "id": "1125-nurzhan-3",
-    "u": "nurzhan_neft",
-    "at": "2026-11-25T07:12",
-    "t": "Доброе утро. Смена сегодня Б, туман, на трассе Талас-Нуржан ехать аккуратно"
-   },
-   {
-    "id": "1125-nurzhan-4",
-    "u": "Svetlana N.",
-    "at": "2026-11-25T07:18",
-    "t": "Доброе утро! Талас в тумане, самолёты держат до 10:30 🙄 Кто летит, смотрите табло"
-   },
-   {
-    "id": "1125-nurzhan-5",
-    "u": "Aigerim_TLS",
-    "at": "2026-11-25T07:21",
-    "t": "Good morning! Fog at Talas airport? My cousin is flying at 9, I'll tell her to check the board"
-   },
-   {
-    "id": "1125-nurzhan-6",
-    "u": "Svetlana N.",
-    "at": "2026-11-25T07:25",
-    "t": "Спасибо, Аигерим 🙂 Добро пожаловать в утренний чат"
-   },
-   {
-    "id": "1125-nurzhan-7",
-    "u": "Oksana_V",
-    "at": "2026-11-25T07:40",
-    "t": "На Дастгохе батареи еле тёплые. Опять 14 градусов в комнате 😠"
-   },
-   {
-    "id": "1125-nurzhan-8",
-    "u": "Aibek_Dastgoh",
-    "at": "2026-11-25T07:43",
-    "t": "Это котельная на Дастгохе, там всегда так. Надо звонить в ЖЭК"
-   },
-   {
-    "id": "1125-nurzhan-9",
-    "u": "Oksana_V",
-    "at": "2026-11-25T07:46",
-    "t": "Звонила. Сказали, придут после обеда. Ага, конечно"
-   },
-   {
-    "id": "1125-nurzhan-10",
-    "u": "Igor_Polytech",
-    "at": "2026-11-25T08:05",
-    "t": "Сегодня на рынке Базар-и Калан доллар у менял 11.50 купить и 11.95 продать. Рубль 100 за 13.25 / 14.45. Кому менять - ищите курс"
-   },
-   {
-    "id": "1125-nurzhan-11",
-    "u": "Kostya_N",
-    "at": "2026-11-25T08:09",
-    "t": "Ого, рубль дорогой. Сестра в Сургут через Казахстан, говорит там тоже с наличкой не очень"
-   },
-   {
-    "id": "1125-nurzhan-12",
-    "u": "nurzhan_neft",
-    "at": "2026-11-25T08:12",
-    "t": "Там всё через Талас банк. Мы ж как всегда 😒"
-   },
-   {
-    "id": "1125-nurzhan-13",
-    "u": "Svetlana N.",
-    "at": "2026-11-25T08:30",
-    "t": "Девочки, кто знает, где в Нуржане пухлые пуховики для детей? Старший вырос 🙈"
-   },
-   {
-    "id": "1125-nurzhan-14",
-    "u": "Oksana_V",
-    "at": "2026-11-25T08:34",
-    "t": "На Навбахоре в торговом центре было вроде. Или на Дастгохе у рынка"
-   },
-   {
-    "id": "1125-nurzhan-15",
-    "u": "Dilnoza_R",
-    "at": "2026-11-25T08:36",
-    "t": "Посмотрите у рынка, там дешевле. Цены сейчас лучше не спрашивать 😅"
-   },
-   {
-    "id": "1125-nurzhan-16",
-    "u": "Aigerim_TLS",
-    "at": "2026-11-25T09:15",
-    "t": "Is the Nurzhan refinery shift change at 8 or 9? I'm starting at the lab next week"
-   },
-   {
-    "id": "1125-nurzhan-17",
-    "u": "nurzhan_neft",
-    "at": "2026-11-25T09:18",
-    "t": "Аигерим, смены в шесть, восемь и два, в лаборатории днём обычно. Добро пожаловать в Нуржан"
-   },
-   {
-    "id": "1125-nurzhan-18",
-    "u": "Aigerim_TLS",
-    "at": "2026-11-25T09:20",
-    "t": "Rahmat! 🙏 So 6, 14, 22"
-   },
-   {
-    "id": "1125-nurzhan-19",
-    "u": "nurzhan_neft",
-    "at": "2026-11-25T09:22",
-    "t": "Да. Ты по-русски пиши, тебе полезно, мы поправим"
-   },
-   {
-    "id": "1125-nurzhan-20",
-    "u": "Igor_Polytech",
-    "at": "2026-11-25T10:40",
-    "t": "Новости: хлебная цена не менялась, а вот по пробкам на Талас-Нуржан, говорят, тяжело из-за тумана в Талас"
-   },
-   {
-    "id": "1125-nurzhan-21",
-    "u": "Svetlana N.",
-    "at": "2026-11-25T10:44",
-    "t": "Игорь, ты как синоптик 😄 Туман в Талас, это точно"
-   },
-   {
-    "id": "1125-nurzhan-22",
-    "u": "Kostya_N",
-    "at": "2026-11-25T11:20",
-    "t": "Девчонки, в аптеке на Навбахоре есть витамин D? Для ребёнка"
-   },
-   {
-    "id": "1125-nurzhan-23",
-    "u": "Svetlana N.",
-    "at": "2026-11-25T11:26",
-    "t": "Есть, Костя, приходи. Только в пятницу у нас короче день"
-   },
-   {
-    "id": "1125-nurzhan-24",
-    "u": "Dilnoza_R",
-    "at": "2026-11-25T12:05",
-    "t": "Кто видел новости: дорога Талас-Нуржан, рекорд 340 км асфальта за 2022-26 🙂 Хорошо, а то зимой трясёт"
-   },
-   {
-    "id": "1125-nurzhan-25",
-    "u": "Aibek_Dastgoh",
-    "at": "2026-11-25T12:09",
-    "t": "Трясёт, но снегоуборочных 38 машин. Мне нравится 😄"
-   },
-   {
-    "id": "1125-nurzhan-26",
-    "u": "Oksana_V",
-    "at": "2026-11-25T12:11",
-    "t": "Наши снегоуборочные на Дастгохе не доехали до нас с осени 🙃"
-   },
-   {
-    "id": "1125-nurzhan-27",
-    "u": "s",
-    "at": "2026-11-25T12:40",
-    "s": "chai"
-   },
-   {
-    "id": "1125-nurzhan-28",
-    "u": "Igor_Polytech",
-    "at": "2026-11-25T13:05",
-    "t": "Аигерим, если хочешь, в Политехе есть вечерние курсы русского. Могу узнать, когда набор"
-   },
-   {
-    "id": "1125-nurzhan-29",
-    "u": "Aigerim_TLS",
-    "at": "2026-11-25T13:08",
-    "t": "Yes please! 🙏 I'm doing Russian in the evenings, but my tutor is in Talas"
-   },
-   {
-    "id": "1125-nurzhan-30",
-    "u": "Igor_Polytech",
-    "at": "2026-11-25T13:10",
-    "t": "Тогда в Политехе запись на вторник, по телефону в деканате. Номер не пишу, спросите там"
-   },
-   {
-    "id": "1125-nurzhan-31",
-    "u": "nurzhan_neft",
-    "at": "2026-11-25T14:30",
-    "t": "Курс ISEZ: Нуржан 18 очков на 11 матчах, Талас 25, Чу 26. Ещё девять туров, стыдно не выйти в тройку 😤"
-   },
-   {
-    "id": "1125-nurzhan-32",
-    "u": "Kostya_N",
-    "at": "2026-11-25T14:34",
-    "t": "Нуржан в тройке не будет без Дастгоха. Вы там 19 очков, и у вас два поражения 😂"
-   },
-   {
-    "id": "1125-nurzhan-33",
-    "u": "Aibek_Dastgoh",
-    "at": "2026-11-25T14:38",
-    "t": "Мы ещё в гонке! Суббота 21-го ждём 5:2 в Кара-Булак, вы нас не сбивайте 😄"
-   },
-   {
-    "id": "1125-nurzhan-34",
-    "u": "Igor_Polytech",
-    "at": "2026-11-25T14:40",
-    "t": "Так, Айбек, ты про матч Дастгоха 5:2 против Кара-Булак? Это же 21-го, в субботу, в 11-м туре. Уже сыграно?"
-   },
-   {
-    "id": "1125-nurzhan-35",
-    "u": "Aibek_Dastgoh",
-    "at": "2026-11-25T14:44",
-    "t": "Да, Игорь, оговорился. Дастгох 5:2 Кара-Булак в 11-м туре, суббота 21-го, мы уже вчера это видели 😅"
-   },
-   {
-    "id": "1125-nurzhan-36",
-    "u": "Oksana_V",
-    "at": "2026-11-25T15:20",
-    "t": "Ребят, в ЖЭК Дастгоха сегодня пришли! Два мужика с трубой, батарея потеплела 🙂"
-   },
-   {
-    "id": "1125-nurzhan-37",
-    "u": "Svetlana N.",
-    "at": "2026-11-25T15:22",
-    "t": "Ура! Значит, ЖЭК умеет, когда кричишь"
-   },
-   {
-    "id": "1125-nurzhan-38",
-    "u": "Dilnoza_R",
-    "at": "2026-11-25T15:30",
-    "t": "Для коинов с Рабат-и-Сафеда наш институт прислал письмо, пока без решения. Музей ждёт"
-   },
-   {
-    "id": "1125-nurzhan-39",
-    "u": "Igor_Polytech",
-    "at": "2026-11-25T15:33",
-    "t": "Ждём. Пока монеты в сейфе у Волкова, фотографии все уже видели"
-   },
-   {
-    "id": "1125-nurzhan-40",
-    "u": "nurzhan_neft",
-    "at": "2026-11-25T16:40",
-    "t": "Всем, кто едет в Сургут: рубли по лимиту, через Казахстан, и Talasbank берёт 1,2–2,5%. Уже считаю 😒"
-   },
-   {
-    "id": "1125-nurzhan-41",
-    "u": "Kostya_N",
-    "at": "2026-11-25T16:44",
-    "t": "Андрей, а вахта сейчас окупается? Бензин 5.40 АИ-92 у нас, а в Сургуте?"
-   },
-   {
-    "id": "1125-nurzhan-42",
-    "u": "nurzhan_neft",
-    "at": "2026-11-25T16:46",
-    "t": "Бензин тут 5.40, дизель 6.10. Окупается, если не ломаться в дороге"
-   },
-   {
-    "id": "1125-nurzhan-43",
-    "u": "s",
-    "at": "2026-11-25T17:10",
-    "s": "tlpr_down"
-   },
-   {
-    "id": "1125-nurzhan-44",
-    "u": "Aigerim_TLS",
-    "at": "2026-11-25T17:15",
-    "t": "Pardon, which is better for a small flat: Navbahor or Dastgoh? I saw 1-room flats 750–1,200 here"
-   },
-   {
-    "id": "1125-nurzhan-45",
-    "u": "Svetlana N.",
-    "at": "2026-11-25T17:19",
-    "t": "Аигерим, на Навбахоре от 750 до 1200 примерно, Дастгох чуть дешевле. Но у Дастгоха котельная шумит 😄"
-   },
-   {
-    "id": "1125-nurzhan-46",
-    "u": "Oksana_V",
-    "at": "2026-11-25T17:22",
-    "t": "Снимай на Навбахоре, там новая школа и столовая уже работает. Дочь довольна"
-   },
-   {
-    "id": "1125-nurzhan-47",
-    "u": "Aigerim_TLS",
-    "at": "2026-11-25T17:25",
-    "t": "Thank you! Navbahor then 🙂"
-   },
-   {
-    "id": "1125-nurzhan-48",
-    "u": "Kostya_N",
-    "at": "2026-11-25T18:30",
-    "t": "Ребят, маршрутка Нуржан-Талас сегодня 38? Опять туман на трассе?"
-   },
-   {
-    "id": "1125-nurzhan-49",
-    "u": "Aibek_Dastgoh",
-    "at": "2026-11-25T18:33",
-    "t": "38, Костя. Туман в Талас, а у нас ясно. До 8 градусов днём, ночью -4"
-   },
-   {
-    "id": "1125-nurzhan-50",
-    "u": "Kostya_N",
-    "at": "2026-11-25T18:36",
-    "t": "Ну и хорошо. Гулять пойду в куртке"
-   },
-   {
-    "id": "1125-nurzhan-51",
-    "u": "Svetlana N.",
-    "at": "2026-11-25T18:50",
-    "t": "Сегодня воздух 162 у нас, дети в садике в масках. Не выходите без нужды 😷"
-   },
-   {
-    "id": "1125-nurzhan-52",
-    "u": "Igor_Polytech",
-    "at": "2026-11-25T18:55",
-    "t": "Да уж, у нас 162, в Талас 164. Окна не открывайте, Svetlana"
-   },
-   {
-    "id": "1125-nurzhan-53",
-    "u": "Dilnoza_R",
-    "at": "2026-11-25T19:10",
-    "t": "Опрос: кто пойдёт на плей-офф 12-го в Талас? Ипподром, Чу против второго места Высокогорной"
-   },
-   {
-    "id": "1125-nurzhan-54",
-    "u": "s",
-    "at": "2026-11-25T19:12",
-    "s": "kalpak"
-   },
-   {
-    "id": "1125-nurzhan-55",
-    "u": "Aibek_Dastgoh",
-    "at": "2026-11-25T19:15",
-    "t": "Я пойду! Полуфинал 12-го в 21:00 Талас против первого места Высокогорной, интересно"
-   },
-   {
-    "id": "1125-nurzhan-56",
-    "u": "nurzhan_neft",
-    "at": "2026-11-25T19:18",
-    "t": "Я не смогу, смена. Но в 19:00 будет Чу против Высокогорной, посмотрю в трансляции"
-   },
-   {
-    "id": "1125-nurzhan-57",
-    "u": "Svetlana N.",
-    "at": "2026-11-25T19:25",
-    "t": "Кто сильнее в английском, помогите. Дочка спрашивает про present perfect 🙏"
-   },
-   {
-    "id": "1125-nurzhan-58",
-    "u": "Aigerim_TLS",
-    "at": "2026-11-25T19:27",
-    "t": "I can help! Send me the sentence, e.g. 'I have finished my homework'"
-   },
-   {
-    "id": "1125-nurzhan-59",
-    "u": "Svetlana N.",
-    "at": "2026-11-25T19:29",
-    "t": "Ой, рахмат! Она уже закончила, спасибо 😄"
-   },
-   {
-    "id": "1125-nurzhan-60",
-    "u": "Oksana_V",
-    "at": "2026-11-25T19:45",
-    "t": "Ребят, на Навбахоре в школе опять две тетради не сданы. Дочь говорит, это был её мир 😂"
-   },
-   {
-    "id": "1125-nurzhan-61",
-    "u": "Igor_Polytech",
-    "at": "2026-11-25T20:05",
-    "t": "Тем временем: в ISEZ Нуржан 5:2 Семиз в прошлом туре. Ещё 18 очков, нужно выиграть у Дастгоха в конце"
-   },
-   {
-    "id": "1125-nurzhan-62",
-    "u": "Aibek_Dastgoh",
-    "at": "2026-11-25T20:08",
-    "t": "Игорь, мы играем с Нуржаном 21-го? Нет, мы с Кара-Булак. Не путай 😄"
-   },
-   {
-    "id": "1125-nurzhan-63",
-    "u": "Dilnoza_R",
-    "at": "2026-11-25T20:10",
-    "t": "Ладно, спокойнее. Воздух 161 в Иык-Жаныле, у нас тоже тяжело. Сижу дома с чаем"
-   },
-   {
-    "id": "1125-nurzhan-64",
-    "u": "s",
-    "at": "2026-11-25T20:14",
-    "s": "chai"
-   },
-   {
-    "id": "1125-nurzhan-65",
-    "u": "Kostya_N",
-    "at": "2026-11-25T20:30",
-    "t": "Собака опять не хочет на улицу. Вчера был неудачный выход 🙈"
-   },
-   {
-    "id": "1125-nurzhan-66",
-    "u": "Svetlana N.",
-    "at": "2026-11-25T20:33",
-    "t": "Костя, маску и на собаку 😄 Короткую прогулку"
-   },
-   {
-    "id": "1125-nurzhan-67",
-    "u": "nurzhan_neft",
-    "at": "2026-11-25T20:50",
-    "t": "Курс в Нефтяниках на финал Кубка Ирада 7 ноября: 2:0 у нас против Аттелкома. Ещё помню 😎"
-   },
-   {
-    "id": "1125-nurzhan-68",
-    "u": "Igor_Polytech",
-    "at": "2026-11-25T20:52",
-    "t": "Андрей, Кубок был 7-го, а сегодня 25-е. Ты про финал?"
-   },
-   {
-    "id": "1125-nurzhan-69",
-    "u": "nurzhan_neft",
-    "at": "2026-11-25T20:55",
-    "t": "Да, Игорь, финал уже был. Нефтяник 2:0 Аттелком, 7-го. Чемпион у нас, и Кубок тоже"
-   },
-   {
-    "id": "1125-nurzhan-70",
-    "u": "Aigerim_TLS",
-    "at": "2026-11-25T21:20",
-    "t": "Nurzhan is a great city! My first month and people are so kind 🙏"
-   },
-   {
-    "id": "1125-nurzhan-71",
-    "u": "Svetlana N.",
-    "at": "2026-11-25T21:24",
-    "t": "Аигерим, спасибо, ты наша теперь 🙂"
-   },
-   {
-    "id": "1125-nurzhan-72",
-    "u": "Oksana_V",
-    "at": "2026-11-25T21:40",
-    "t": "Ребят, в Талас банке у нас снова долгая очередь. Кто знает, где перевод быстрее?"
-   },
-   {
-    "id": "1125-nurzhan-73",
-    "u": "Aibek_Dastgoh",
-    "at": "2026-11-25T21:44",
-    "t": "Через Талас банк, но комиссия 1,2–2,5%. Или через Казахстан, там тоже ждать"
-   },
-   {
-    "id": "1125-nurzhan-74",
-    "u": "Dilnoza_R",
-    "at": "2026-11-25T22:10",
-    "t": "Всем спокойной ночи. Завтра утром лаборатория в Политехе, коины ждут 🪙"
-   },
-   {
-    "id": "1125-nurzhan-75",
-    "u": "Igor_Polytech",
-    "at": "2026-11-25T22:14",
-    "t": "Спокойной ночи, Нуржан 🌙 Батарею не трогать"
-   },
-   {
-    "id": "1125-nurzhan-76",
-    "u": "s",
-    "at": "2026-11-25T22:20",
-    "s": "gol"
-   },
-   {
-    "id": "1125-nurzhan-77",
-    "u": "Svetlana N.",
-    "at": "2026-11-25T22:40",
-    "t": "Спокойной ночи, соседи 🌙 Всем тепла"
-   },
-   {
-    "id": "1125-nurzhan-78",
-    "u": "Kostya_N",
-    "at": "2026-11-25T23:05",
-    "t": "Ночь. Кашель тише, окна закрыты 🌙"
-   },
-   {
-    "id": "1125-nurzhan-79",
-    "u": "Aigerim_TLS",
-    "at": "2026-11-25T23:20",
-    "t": "Good night! 🌙"
-   },
    {
     "id": "1126-nurzhan-0",
     "u": "Kostya_N",
@@ -3123,435 +2568,402 @@
     "u": "Aibek_Dastgoh",
     "at": "2026-11-27T23:12",
     "s": "gol"
+   },
+   {
+    "id": "1128-nurzhan-0",
+    "u": "Kostya_N",
+    "at": "2026-11-28T00:40",
+    "t": "Не спится. Батарея холодная, а на улице -10 по прогнозу 🥶"
+   },
+   {
+    "id": "1128-nurzhan-1",
+    "u": "nurzhan_neft",
+    "at": "2026-11-28T00:44",
+    "t": "Туман в Нуржане, смог стоит. Не открывайте форточки"
+   },
+   {
+    "id": "1128-nurzhan-2",
+    "u": "Oksana_V",
+    "at": "2026-11-28T06:55",
+    "t": "Доброе утро! Туман, фонари еле видно 🌫️"
+   },
+   {
+    "id": "1128-nurzhan-3",
+    "u": "Svetlana N.",
+    "at": "2026-11-28T07:20",
+    "t": "Доброе утро, Нуржан! Дома +14, батареи чуть теплее вчерашнего 🙏"
+   },
+   {
+    "id": "1128-nurzhan-4",
+    "u": "Igor_Polytech",
+    "at": "2026-11-28T07:24",
+    "t": "Смог 271 по индексу, детей сегодня в садик не пускайте без нужды. Лаборатория сообщает, PM2.5 почти 200"
+   },
+   {
+    "id": "1128-nurzhan-5",
+    "u": "Svetlana N.",
+    "at": "2026-11-28T07:26",
+    "t": "Ой. Мои уже капризничают, в школу в масках"
+   },
+   {
+    "id": "1128-nurzhan-6",
+    "u": "Aigerim_TLS",
+    "at": "2026-11-28T07:31",
+    "t": "Good morning! Is the fog always like this here? In Talas it was clear yesterday 😷"
+   },
+   {
+    "id": "1128-nurzhan-7",
+    "u": "Aibek_Dastgoh",
+    "at": "2026-11-28T07:34",
+    "t": "Aigerim, это инверсия. Холодный воздух лежит внизу, дым не уходит. Недели две так могут"
+   },
+   {
+    "id": "1128-nurzhan-8",
+    "u": "Aigerim_TLS",
+    "at": "2026-11-28T07:36",
+    "t": "Ah, ok. Thanks 🙏 So open windows less"
+   },
+   {
+    "id": "1128-nurzhan-9",
+    "u": "Dilnoza_R",
+    "at": "2026-11-28T07:40",
+    "t": "Ребят, в лаборатории фильтры в шкафу, если кому надо, спросите у Игоря"
+   },
+   {
+    "id": "1128-nurzhan-10",
+    "u": "nurzhan_neft",
+    "at": "2026-11-28T07:52",
+    "t": "Смену в ночь отработал, устал как собака. Туман на НПЗ такой, что факел еле видно"
+   },
+   {
+    "id": "1128-nurzhan-11",
+    "u": "Oksana_V",
+    "at": "2026-11-28T07:55",
+    "t": "Андрей, ты береги себя. Ночью вахта и туман — плохое сочетание"
+   },
+   {
+    "id": "1128-nurzhan-12",
+    "u": "Kostya_N",
+    "at": "2026-11-28T08:10",
+    "s": "haha",
+    "r": {
+     "laugh": 2
+    }
+   },
+   {
+    "id": "1128-nurzhan-13",
+    "u": "Igor_Polytech",
+    "at": "2026-11-28T09:02",
+    "t": "Кто идёт на Талас в эти выходные? Маршрутка Талас–Нуржан 38, автобус 32 — разница есть, но автобус медленнее"
+   },
+   {
+    "id": "1128-nurzhan-14",
+    "u": "Svetlana N.",
+    "at": "2026-11-28T09:06",
+    "t": "Автобус 32, это я помню. Маршрутка 38 быстрее, зимой ехать в тепле важнее 😄"
+   },
+   {
+    "id": "1128-nurzhan-15",
+    "u": "Aibek_Dastgoh",
+    "at": "2026-11-28T09:10",
+    "t": "Маршрутка с третьего ворот, как и раньше. Только выходить на Дастгохе не у конечной, а у рынка"
+   },
+   {
+    "id": "1128-nurzhan-16",
+    "u": "Aigerim_TLS",
+    "at": "2026-11-28T09:14",
+    "t": "Спасибо, Айбек! Я пока в Нуржане, сидим дома"
+   },
+   {
+    "id": "1128-nurzhan-17",
+    "u": "Oksana_V",
+    "at": "2026-11-28T10:30",
+    "t": "Сегодня по Дастгоху опять воды не будет до вечера. Набирайте 💧"
+   },
+   {
+    "id": "1128-nurzhan-18",
+    "u": "Dilnoza_R",
+    "at": "2026-11-28T10:33",
+    "t": "Ну вот, опять. Оксана, спасибо за предупреждение 🙂"
+   },
+   {
+    "id": "1128-nurzhan-19",
+    "u": "Kostya_N",
+    "at": "2026-11-28T12:15",
+    "t": "Кто-нибудь знает, Нуржан–Талас сегодня по расписанию? Зимнее не поменяли?"
+   },
+   {
+    "id": "1128-nurzhan-20",
+    "u": "nurzhan_neft",
+    "at": "2026-11-28T12:18",
+    "t": "Вроде по зимнему, поезд тоже, пишут. Касательно Ала-Бела, там цепи нужны"
+   },
+   {
+    "id": "1128-nurzhan-21",
+    "u": "Igor_Polytech",
+    "at": "2026-11-28T12:40",
+    "t": "Сегодня Тулпар играет в женской лиге? Нет, у них был тур в прошлую субботу. Кто следит, Attelkom против Нефтчи проиграл 3:0"
+   },
+   {
+    "id": "1128-nurzhan-22",
+    "u": "Svetlana N.",
+    "at": "2026-11-28T12:44",
+    "t": "Игорь, ты про женщин? Universitet и Tulpar в тройке, Attelkom 16 очков"
+   },
+   {
+    "id": "1128-nurzhan-23",
+    "u": "nurzhan_neft",
+    "at": "2026-11-28T12:50",
+    "t": "Нефтчи уже чемпионы, а женщины сами разберутся 😄"
+   },
+   {
+    "id": "1128-nurzhan-24",
+    "u": "Dilnoza_R",
+    "at": "2026-11-28T13:05",
+    "t": "Игорь, коины мне сегодня напомнили про Рабат-и-Сафед. Музей пишет письмо университету, каждую неделю одно и то же"
+   },
+   {
+    "id": "1128-nurzhan-25",
+    "u": "Igor_Polytech",
+    "at": "2026-11-28T13:09",
+    "t": "Пусть пишут. Мы пока исследуем, а не отдаём"
+   },
+   {
+    "id": "1128-nurzhan-26",
+    "u": "Aibek_Dastgoh",
+    "at": "2026-11-28T14:20",
+    "t": "Кто-нибудь видел цену сена в долинах? Лошадям на зиму нужно, 26 за тюк сейчас"
+   },
+   {
+    "id": "1128-nurzhan-27",
+    "u": "Svetlana N.",
+    "at": "2026-11-28T14:24",
+    "t": "Сену 26 — это ещё ничего. Прошлой зимой было дороже"
+   },
+   {
+    "id": "1128-nurzhan-28",
+    "u": "Kostya_N",
+    "at": "2026-11-28T14:27",
+    "t": "Лошадь у соседа, он сена купил на три месяца. Говорит, дешевле не будет"
+   },
+   {
+    "id": "1128-nurzhan-29",
+    "u": "Aibek_Dastgoh",
+    "at": "2026-11-28T14:31",
+    "s": "horse_love",
+    "r": {
+     "horse": 3
+    }
+   },
+   {
+    "id": "1128-nurzhan-30",
+    "u": "Oksana_V",
+    "at": "2026-11-28T15:50",
+    "t": "Ой, в Нуржане в школе на Навбахоре столовая ещё не работает? Дочь говорит, одни бутерброды"
+   },
+   {
+    "id": "1128-nurzhan-31",
+    "u": "Svetlana N.",
+    "at": "2026-11-28T15:55",
+    "t": "Обещали к ноябрю. Уже конец ноября 🙃"
+   },
+   {
+    "id": "1128-nurzhan-32",
+    "u": "nurzhan_neft",
+    "at": "2026-11-28T16:02",
+    "t": "Новые котельные на окраинах пока на газе без тарифа. Герольд писал, вопросы без ответа"
+   },
+   {
+    "id": "1128-nurzhan-33",
+    "u": "Igor_Polytech",
+    "at": "2026-11-28T16:05",
+    "t": "Вот и опять котельные. Тепло есть, а цены нет"
+   },
+   {
+    "id": "1128-nurzhan-34",
+    "u": "Aigerim_TLS",
+    "at": "2026-11-28T17:40",
+    "t": "Is there a cafe near the refinery gate that's open late? Working late shifts this week"
+   },
+   {
+    "id": "1128-nurzhan-35",
+    "u": "Svetlana N.",
+    "at": "2026-11-28T17:44",
+    "t": "На Дастгохе есть плов в столовой у базара, порция 28, неплохо. Аигерим, после смены заходи"
+   },
+   {
+    "id": "1128-nurzhan-36",
+    "u": "Aigerim_TLS",
+    "at": "2026-11-28T17:47",
+    "t": "Rahmat! 28 is ok 🙏"
+   },
+   {
+    "id": "1128-nurzhan-37",
+    "u": "Kostya_N",
+    "at": "2026-11-28T18:20",
+    "t": "Ребят, футбол сегодня? Нет, завтра. Дастгох с Темирйолчу в воскресенье не играют, я уже проверил"
+   },
+   {
+    "id": "1128-nurzhan-38",
+    "u": "nurzhan_neft",
+    "at": "2026-11-28T18:24",
+    "t": "Нефтчи чемпион, Дастгох на третьем месте, 42 очка. Поздравляю Нефтчи ещё раз 🏆"
+   },
+   {
+    "id": "1128-nurzhan-39",
+    "u": "Aibek_Dastgoh",
+    "at": "2026-11-28T18:26",
+    "t": "Футбол, Дастгох на третьем, это уже радость. Спасибо за табличку"
+   },
+   {
+    "id": "1128-nurzhan-40",
+    "u": "Svetlana N.",
+    "at": "2026-11-28T19:05",
+    "t": "Ребят, кто-нибудь знает, Талас банк сегодня работает? Рубли менять"
+   },
+   {
+    "id": "1128-nurzhan-41",
+    "u": "nurzhan_neft",
+    "at": "2026-11-28T19:08",
+    "t": "Очередь на понедельник, как писал. Сегодня суббота, банк вообще закрыт"
+   },
+   {
+    "id": "1128-nurzhan-42",
+    "u": "Dilnoza_R",
+    "at": "2026-11-28T19:12",
+    "t": "Коины, Айгерим, видела фото из Рабат-и-Сафеда, там монета с именем. Завтра покажу в галерее"
+   },
+   {
+    "id": "1128-nurzhan-43",
+    "u": "Aigerim_TLS",
+    "at": "2026-11-28T19:14",
+    "t": "Wow, that sounds interesting! Show us 🙂"
+   },
+   {
+    "id": "1128-nurzhan-44",
+    "u": "Kostya_N",
+    "at": "2026-11-28T19:30",
+    "t": "Доллар в Базаре сегодня 11,45 покупка, 12 продажа. Евро 12,50 покупка",
+    "r": {
+     "like": 2
+    }
+   },
+   {
+    "id": "1128-nurzhan-45",
+    "u": "Oksana_V",
+    "at": "2026-11-28T19:33",
+    "t": "Спасибо, Костя. Мне доллары не нужны, а вот евро пригодятся для сына"
+   },
+   {
+    "id": "1128-nurzhan-46",
+    "u": "Igor_Polytech",
+    "at": "2026-11-28T19:40",
+    "t": "Тулпар по токен-курсу сегодня плюс пять процентов, но это ни на что не законно. Не путайте"
+   },
+   {
+    "id": "1128-nurzhan-47",
+    "u": "Kostya_N",
+    "at": "2026-11-28T19:42",
+    "t": "Игорь, я и не путаю 😂"
+   },
+   {
+    "id": "1128-nurzhan-48",
+    "u": "Svetlana N.",
+    "at": "2026-11-28T20:10",
+    "t": "Токтогул вчера 80,6%, сегодня ещё меньше. Прогноз тумана там тоже -9 ночью"
+   },
+   {
+    "id": "1128-nurzhan-49",
+    "u": "nurzhan_neft",
+    "at": "2026-11-28T20:14",
+    "t": "80,3% сегодня, 15,26 из 19. За сутки минус 53 млн. Вода уходит, зима обещает быть холодной"
+   },
+   {
+    "id": "1128-nurzhan-50",
+    "u": "Aibek_Dastgoh",
+    "at": "2026-11-28T20:18",
+    "t": "Ала-Бел открыт, но без цепей не едем. Кто в Фергану — проверьте шины"
+   },
+   {
+    "id": "1128-nurzhan-51",
+    "u": "Igor_Polytech",
+    "at": "2026-11-28T20:22",
+    "t": "Электричество сегодня ровное, отключений нет. Аигерим, у нас всё нормально"
+   },
+   {
+    "id": "1128-nurzhan-52",
+    "u": "Aigerim_TLS",
+    "at": "2026-11-28T20:25",
+    "t": "Good, thank you! Power is fine here too 🙏"
+   },
+   {
+    "id": "1128-nurzhan-53",
+    "u": "Dilnoza_R",
+    "at": "2026-11-28T20:30",
+    "t": "Вода в Нуржане в норме. Хотя на Дастгохе я бы не была так уверена"
+   },
+   {
+    "id": "1128-nurzhan-54",
+    "u": "Svetlana N.",
+    "at": "2026-11-28T20:55",
+    "t": "Игорь, у тебя в лаборатории тепло? У нас на Навбахоре -1 в квартире к вечеру"
+   },
+   {
+    "id": "1128-nurzhan-55",
+    "u": "Igor_Polytech",
+    "at": "2026-11-28T21:02",
+    "t": "В лаборатории терпимо, в пальто работаем. Батарея у окна ледяная"
+   },
+   {
+    "id": "1128-nurzhan-56",
+    "u": "Kostya_N",
+    "at": "2026-11-28T21:10",
+    "t": "Ребят, на Ала-Бел цепи, на Тулпар — ещё ставка. Смотрите, кто куда"
+   },
+   {
+    "id": "1128-nurzhan-57",
+    "u": "nurzhan_neft",
+    "at": "2026-11-28T21:15",
+    "t": "Ставка на Тулпар, это их дело, я за Нефтчи"
+   },
+   {
+    "id": "1128-nurzhan-58",
+    "u": "Svetlana N.",
+    "at": "2026-11-28T21:20",
+    "t": "Мужчины, вы опять про футбол 😄"
+   },
+   {
+    "id": "1128-nurzhan-59",
+    "u": "Igor_Polytech",
+    "at": "2026-11-28T21:25",
+    "t": "Тепло, кто не спит, спокойной ночи Нуржан 🌙"
+   },
+   {
+    "id": "1128-nurzhan-60",
+    "u": "Aibek_Dastgoh",
+    "at": "2026-11-28T21:30",
+    "s": "tlpr_up"
+   },
+   {
+    "id": "1128-nurzhan-61",
+    "u": "Oksana_V",
+    "at": "2026-11-28T22:10",
+    "t": "Всем спокойной ночи, завтра в садик с маской 😷"
+   },
+   {
+    "id": "1128-nurzhan-62",
+    "u": "Dilnoza_R",
+    "at": "2026-11-28T22:40",
+    "t": "Коины завтра. Спокойной ночи 🪙"
+   },
+   {
+    "id": "1128-nurzhan-63",
+    "u": "Aigerim_TLS",
+    "at": "2026-11-28T23:05",
+    "t": "Good night everyone! Stay warm 🧣"
    }
   ],
   "valleys": [
-   {
-    "id": "1125-valleys-0",
-    "u": "Kubat_KyzylAdyr",
-    "at": "2026-11-25T00:40",
-    "t": "Dogs woke me up barking at a fox. Fox won 😒"
-   },
-   {
-    "id": "1125-valleys-1",
-    "u": "ChuValleyFarmer",
-    "at": "2026-11-25T06:40",
-    "t": "Kayırluu tañ. Fog on the Chu road again, can't see the poplars"
-   },
-   {
-    "id": "1125-valleys-2",
-    "u": "Mairam_Chu",
-    "at": "2026-11-25T06:44",
-    "t": "Kayırluu. Keep the lights on, Toktosun, the lorries don't stop for anyone"
-   },
-   {
-    "id": "1125-valleys-3",
-    "u": "ChuValleyFarmer",
-    "at": "2026-11-25T06:47",
-    "t": "Lorries never stop, I stop for them. Less work for the tractor"
-   },
-   {
-    "id": "1125-valleys-4",
-    "u": "Ulan_shofer",
-    "at": "2026-11-25T07:05",
-    "t": "Fergana Gateway open. Chains needed, the tunnel side is wet and white. Take your time"
-   },
-   {
-    "id": "1125-valleys-5",
-    "u": "Ainura (Toktogul)",
-    "at": "2026-11-25T07:12",
-    "t": "Kudai, I have 30 kids today and half of them came in with no gloves 🥶"
-   },
-   {
-    "id": "1125-valleys-6",
-    "u": "Jamilya_KB",
-    "at": "2026-11-25T07:14",
-    "t": "Make them put hands in armpits, the old way. Works on my son"
-   },
-   {
-    "id": "1125-valleys-7",
-    "u": "Sapar_SB",
-    "at": "2026-11-25T07:30",
-    "t": "Morning. Lines iced up on the Sary-Bulak road again, took me an hour to get to the pole"
-   },
-   {
-    "id": "1125-valleys-8",
-    "u": "Ulan_shofer",
-    "at": "2026-11-25T07:33",
-    "t": "Talas airport says fog, flights held till about 10:30. Check the board before you drive out there"
-   },
-   {
-    "id": "1125-valleys-9",
-    "u": "Sapar_SB",
-    "at": "2026-11-25T07:36",
-    "t": "Talas fog, Nurzhan clear, we have the smog. Air in Nurzhan is 162 today, unhealthy. Close the windows, people"
-   },
-   {
-    "id": "1125-valleys-10",
-    "u": "Mairam_Chu",
-    "at": "2026-11-25T07:40",
-    "t": "Our air is fine here, it's the coal smoke from the town that comes up the valley, not ours"
-   },
-   {
-    "id": "1125-valleys-11",
-    "u": "Bakyt_KB",
-    "at": "2026-11-25T07:52",
-    "t": "Diesel 6.10 at the Kyzyl-Adyr pump. Who is still buying diesel at 6.10 this winter? I want to know who runs on it"
-   },
-   {
-    "id": "1125-valleys-12",
-    "u": "Kubat_KyzylAdyr",
-    "at": "2026-11-25T07:55",
-    "t": "Me. Tractor, potato digger, and the Niva. It doesn't run on hope bro"
-   },
-   {
-    "id": "1125-valleys-13",
-    "u": "ChuValleyFarmer",
-    "at": "2026-11-25T08:10",
-    "t": "Stores full, prices low, and diesel not. That's the autumn in one line"
-   },
-   {
-    "id": "1125-valleys-14",
-    "u": "Kubat_KyzylAdyr",
-    "at": "2026-11-25T08:14",
-    "t": "Grain harvest closed at 486,300 tonnes. Good number on paper. Who is going to buy it?"
-   },
-   {
-    "id": "1125-valleys-15",
-    "u": "Mairam_Chu",
-    "at": "2026-11-25T08:16",
-    "t": "The state buys at the state price. We get to watch the news"
-   },
-   {
-    "id": "1125-valleys-16",
-    "u": "Ainura (Toktogul)",
-    "at": "2026-11-25T08:30",
-    "t": "Reservoir 81.2% full, 15.44 of 19 km³ today. Dropping 51 million m³ in a day. Sapar, is this normal?"
-   },
-   {
-    "id": "1125-valleys-17",
-    "u": "Sapar_SB",
-    "at": "2026-11-25T08:33",
-    "t": "Normal, apa. Dropping is the job. They open the gates when the export contract says so"
-   },
-   {
-    "id": "1125-valleys-18",
-    "u": "Ainura (Toktogul)",
-    "at": "2026-11-25T08:35",
-    "t": "You always say that and then the lights go off 🙃"
-   },
-   {
-    "id": "1125-valleys-19",
-    "u": "Sapar_SB",
-    "at": "2026-11-25T08:38",
-    "t": "Power in Talas, Nurzhan and Iyık Janyl is normal today. No scheduled cuts. Toktogul I can't promise"
-   },
-   {
-    "id": "1125-valleys-20",
-    "u": "Jamilya_KB",
-    "at": "2026-11-25T09:02",
-    "t": "Kids asking if they can go skating on the Kara-Buura pond. I said no. Pond is not frozen, I checked with my boots"
-   },
-   {
-    "id": "1125-valleys-21",
-    "u": "Kubat_KyzylAdyr",
-    "at": "2026-11-25T09:05",
-    "t": "Ice on the pond is always a lie till January. Tell them to skate on their homework"
-   },
-   {
-    "id": "1125-valleys-22",
-    "u": "Bakyt_KB",
-    "at": "2026-11-25T09:20",
-    "t": "Who here actually knows a cellar builder? Kubat asked yesterday. My cousin wants block cellars, he says concrete is cheaper than a pit"
-   },
-   {
-    "id": "1125-valleys-23",
-    "u": "Sapar_SB",
-    "at": "2026-11-25T09:24",
-    "t": "My cousin in Kara-Buura says the block cellar is fine if you put a vent in. Without the vent the potatoes rot in a month"
-   },
-   {
-    "id": "1125-valleys-24",
-    "u": "Kubat_KyzylAdyr",
-    "at": "2026-11-25T09:26",
-    "t": "Vent, noted. Rahmat baike, will pass it on to Bakyt"
-   },
-   {
-    "id": "1125-valleys-25",
-    "u": "Mairam_Chu",
-    "at": "2026-11-25T09:40",
-    "t": "Hay in the valleys is 26 som a bale now. We paid 18 in August, now everyone is asking me how much I have left"
-   },
-   {
-    "id": "1125-valleys-26",
-    "u": "ChuValleyFarmer",
-    "at": "2026-11-25T09:42",
-    "t": "How much do you have left?"
-   },
-   {
-    "id": "1125-valleys-27",
-    "u": "Mairam_Chu",
-    "at": "2026-11-25T09:44",
-    "t": "Enough for my sheep and nothing for my neighbour. Toktosun, don't start 😄"
-   },
-   {
-    "id": "1125-valleys-28",
-    "u": "Ulan_shofer",
-    "at": "2026-11-25T10:15",
-    "t": "Talas–Nurzhan bus still 32, marshrutka 38. Taxi from 15 in Talas if you want to feel rich"
-   },
-   {
-    "id": "1125-valleys-29",
-    "u": "Jamilya_KB",
-    "at": "2026-11-25T10:18",
-    "t": "Someone tell me why the Iyık Janyl bus is 45 and nobody complains except my mother"
-   },
-   {
-    "id": "1125-valleys-30",
-    "u": "Ulan_shofer",
-    "at": "2026-11-25T10:20",
-    "t": "Your mother is right, apa. I just drive the thing"
-   },
-   {
-    "id": "1125-valleys-31",
-    "u": "Kubat_KyzylAdyr",
-    "at": "2026-11-25T10:40",
-    "t": "Ulak Highland round 12 is Saturday, Boztorgoy v Moiynkum at 13:00. Bakyt, you coming to watch the dogs or just the match?"
-   },
-   {
-    "id": "1125-valleys-32",
-    "u": "Bakyt_KB",
-    "at": "2026-11-25T10:44",
-    "t": "Both. The dogs are better than the referee"
-   },
-   {
-    "id": "1125-valleys-33",
-    "u": "Ainura (Toktogul)",
-    "at": "2026-11-25T11:10",
-    "t": "Walnuts at Toktogul bazar 22 som a kilo. My uncle says it's the best walnut year in ten. Who wants to buy a sack"
-   },
-   {
-    "id": "1125-valleys-34",
-    "u": "Mairam_Chu",
-    "at": "2026-11-25T11:12",
-    "t": "Apples in Chu 3.45 a kilo now, from 3. Finally somebody buys"
-   },
-   {
-    "id": "1125-valleys-35",
-    "u": "ChuValleyFarmer",
-    "at": "2026-11-25T11:14",
-    "t": "Not me, I'm eating my own 😄"
-   },
-   {
-    "id": "1125-valleys-36",
-    "u": "Sapar_SB",
-    "at": "2026-11-25T12:30",
-    "t": "[sticker: haha]"
-   },
-   {
-    "id": "1125-valleys-37",
-    "u": "Jamilya_KB",
-    "at": "2026-11-25T12:50",
-    "t": "Lunch. Plov at my cousin's cafe is 28 som. He says the price is fine, the meat is the problem 🙃"
-   },
-   {
-    "id": "1125-valleys-38",
-    "u": "Ulan_shofer",
-    "at": "2026-11-25T13:15",
-    "t": "Ice on the Tash-Kömür side this afternoon, slow and boring. Drink your tea and wait"
-   },
-   {
-    "id": "1125-valleys-39",
-    "u": "Kubat_KyzylAdyr",
-    "at": "2026-11-25T13:18",
-    "t": "[sticker: jailoo]"
-   },
-   {
-    "id": "1125-valleys-40",
-    "u": "Bakyt_KB",
-    "at": "2026-11-25T14:00",
-    "t": "Potatoes at Nurzhan still 2.10 a kilo? Mairam asked and nobody answered her yesterday"
-   },
-   {
-    "id": "1125-valleys-41",
-    "u": "Kubat_KyzylAdyr",
-    "at": "2026-11-25T14:04",
-    "t": "2.10 they say. Cash only. Nothing else works in Nurzhan, I said it before"
-   },
-   {
-    "id": "1125-valleys-42",
-    "u": "Bakyt_KB",
-    "at": "2026-11-25T14:06",
-    "t": "I'll ask Mairam to come with me then. Two sacks, cash, and we don't talk about Talas prices"
-   },
-   {
-    "id": "1125-valleys-43",
-    "u": "Ainura (Toktogul)",
-    "at": "2026-11-25T15:20",
-    "t": "Children are drawing the mountains with white crayon today. Nobody can tell what is snow and what is paper"
-   },
-   {
-    "id": "1125-valleys-44",
-    "u": "Jamilya_KB",
-    "at": "2026-11-25T15:24",
-    "t": "[sticker: horse_love]"
-   },
-   {
-    "id": "1125-valleys-45",
-    "u": "Sapar_SB",
-    "at": "2026-11-25T16:40",
-    "t": "Chatkal survey adit at 800 of 1,500 metres. Iradenergo says it's a study, not a decision. I'll believe it when there's a contract"
-   },
-   {
-    "id": "1125-valleys-46",
-    "u": "Ulan_shofer",
-    "at": "2026-11-25T16:45",
-    "t": "Adit is 800 m, the road to it is still a goat track. Nobody asked me"
-   },
-   {
-    "id": "1125-valleys-47",
-    "u": "ChuValleyFarmer",
-    "at": "2026-11-25T17:10",
-    "t": "Donor cut the Talas hydrology grant 30%, to 420,000 dollars. Gauges stay, glacier work slows. Who measures the glacier now"
-   },
-   {
-    "id": "1125-valleys-48",
-    "u": "Mairam_Chu",
-    "at": "2026-11-25T17:14",
-    "t": "Nobody. The glacier measures itself, we just get the bill"
-   },
-   {
-    "id": "1125-valleys-49",
-    "u": "Kubat_KyzylAdyr",
-    "at": "2026-11-25T17:30",
-    "t": "Dogs fed, potatoes sorted, one sack went soft. Life in the valley 😒"
-   },
-   {
-    "id": "1125-valleys-50",
-    "u": "Ainura (Toktogul)",
-    "at": "2026-11-25T18:05",
-    "t": "Kids went home. The bus to Talas was full again, 32 som and standing room only"
-   },
-   {
-    "id": "1125-valleys-51",
-    "u": "Ulan_shofer",
-    "at": "2026-11-25T18:10",
-    "t": "Standing room costs 32 too. We're generous in the valleys"
-   },
-   {
-    "id": "1125-valleys-52",
-    "u": "Bakyt_KB",
-    "at": "2026-11-25T19:05",
-    "t": "Chu v Highland place 2 is the play-off semi on 12 Dec, Talas hippodrome 19:00. Chu, you going?"
-   },
-   {
-    "id": "1125-valleys-53",
-    "u": "ChuValleyFarmer",
-    "at": "2026-11-25T19:08",
-    "t": "If the road stays open. Chu is 26 on the ISEZ table and Talas is 25, they say it's going to be a fight"
-   },
-   {
-    "id": "1125-valleys-54",
-    "u": "Mairam_Chu",
-    "at": "2026-11-25T19:10",
-    "t": "Chu 26, Talas 25 and the play-off is not even played yet. Toktosun, sit down"
-   },
-   {
-    "id": "1125-valleys-55",
-    "u": "Kubat_KyzylAdyr",
-    "at": "2026-11-25T19:14",
-    "t": "[sticker: tlpr_up]"
-   },
-   {
-    "id": "1125-valleys-56",
-    "u": "Jamilya_KB",
-    "at": "2026-11-25T19:30",
-    "t": "Light off in Kara-Buura for an hour, then back. Could be the generator man again 😄"
-   },
-   {
-    "id": "1125-valleys-57",
-    "u": "Sapar_SB",
-    "at": "2026-11-25T19:33",
-    "t": "Not the generator man, the line. I'll look at it tomorrow if the road is clear"
-   },
-   {
-    "id": "1125-valleys-58",
-    "u": "Ainura (Toktogul)",
-    "at": "2026-11-25T19:36",
-    "t": "Toktogul power is fine tonight. Apa is cooking plov on the gas stove and it's perfect"
-   },
-   {
-    "id": "1125-valleys-59",
-    "u": "Mairam_Chu",
-    "at": "2026-11-25T19:50",
-    "t": "Petrol AI-92 5.40 at Chu, diesel 6.10. My husband says he doesn't drive anywhere so he doesn't care. He cares"
-   },
-   {
-    "id": "1125-valleys-60",
-    "u": "ChuValleyFarmer",
-    "at": "2026-11-25T19:53",
-    "t": "Tulparcoin is up to 3.52 cents this noon, down a bit. I still don't know what it is"
-   },
-   {
-    "id": "1125-valleys-61",
-    "u": "Jamilya_KB",
-    "at": "2026-11-25T19:55",
-    "t": "It's not money, it's a game, my son says. You can't buy plov with it"
-   },
-   {
-    "id": "1125-valleys-62",
-    "u": "Kubat_KyzylAdyr",
-    "at": "2026-11-25T20:10",
-    "t": "Ulak Highland round 12 on Saturday, Akjele v Karakoyun at 14:00, Upper Besh-Tash. Akjele is always mud"
-   },
-   {
-    "id": "1125-valleys-63",
-    "u": "Bakyt_KB",
-    "at": "2026-11-25T20:15",
-    "t": "Boztorgoy will win anyway. They have the best horses and the nicest hats"
-   },
-   {
-    "id": "1125-valleys-64",
-    "u": "Ainura (Toktogul)",
-    "at": "2026-11-25T20:18",
-    "t": "Gn soon. Tomorrow 30 kids and the stove works. Good day"
-   },
-   {
-    "id": "1125-valleys-65",
-    "u": "Ulan_shofer",
-    "at": "2026-11-25T21:10",
-    "t": "Fergana Gateway still open. Chains on, Mairam, don't forget the cab kit again"
-   },
-   {
-    "id": "1125-valleys-66",
-    "u": "Mairam_Chu",
-    "at": "2026-11-25T21:14",
-    "t": "I didn't forget, Ulan, you did, in my cab last week 😄"
-   },
-   {
-    "id": "1125-valleys-67",
-    "u": "Sapar_SB",
-    "at": "2026-11-25T21:40",
-    "t": "[sticker: bilbeim]"
-   },
-   {
-    "id": "1125-valleys-68",
-    "u": "Kubat_KyzylAdyr",
-    "at": "2026-11-25T22:10",
-    "t": "Gn all. Potatoes in the pit, dogs by the stove 🌙"
-   },
-   {
-    "id": "1125-valleys-69",
-    "u": "Jamilya_KB",
-    "at": "2026-11-25T22:30",
-    "t": "Gn. Kids asleep, lights on, we're rich tonight 😴"
-   },
-   {
-    "id": "1125-valleys-70",
-    "u": "ChuValleyFarmer",
-    "at": "2026-11-25T23:05",
-    "t": "Gn. Snow on the hills, sheep in the shed. Same as yesterday, good day"
-   },
    {
     "id": "1126-valleys-0",
     "u": "Kubat_KyzylAdyr",
@@ -4403,285 +3815,399 @@
     "u": "ChuValleyFarmer",
     "at": "2026-11-27T23:15",
     "t": "Gn. Frost coming. Tractor stays in the shed tonight. Good day"
+   },
+   {
+    "id": "1128-valleys-0",
+    "u": "Jamilya_KB",
+    "at": "2026-11-28T00:40",
+    "t": "Who is still awake. Kids asleep, the stove is the only thing talking"
+   },
+   {
+    "id": "1128-valleys-1",
+    "u": "ChuValleyFarmer",
+    "at": "2026-11-28T06:40",
+    "t": "Kayırluu tañ. Frost on the windows, -9 they say in Talas. Tractor is stuck to the ground"
+   },
+   {
+    "id": "1128-valleys-2",
+    "u": "Mairam_Chu",
+    "at": "2026-11-28T06:48",
+    "t": "Morning. Sheep in the shed, they are complaining already"
+   },
+   {
+    "id": "1128-valleys-3",
+    "u": "Ulan_shofer",
+    "at": "2026-11-28T07:05",
+    "t": "Gateway: open, chains on, nobody on the tunnel side. I'm leaving at 5, back by lunch"
+   },
+   {
+    "id": "1128-valleys-4",
+    "u": "Ainura (Toktogul)",
+    "at": "2026-11-28T07:12",
+    "t": "Fog in Toktogul so thick the school bus drove past the school 😄 Children are fine, the bus driver less so"
+   },
+   {
+    "id": "1128-valleys-5",
+    "u": "Kubat_KyzylAdyr",
+    "at": "2026-11-28T07:20",
+    "t": "Ulan you are a saint. Dogs want to go out, I want to stay in"
+   },
+   {
+    "id": "1128-valleys-6",
+    "u": "Sapar_SB",
+    "at": "2026-11-28T07:31",
+    "t": "Power normal in Talas and Nurzhan this morning. Don't ask me why, I don't know either"
+   },
+   {
+    "id": "1128-valleys-7",
+    "u": "Ainura (Toktogul)",
+    "at": "2026-11-28T07:33",
+    "t": "Toktogul is not on that list apparently 🙃"
+   },
+   {
+    "id": "1128-valleys-8",
+    "u": "Bakyt_KB",
+    "at": "2026-11-28T07:40",
+    "t": "Potatoes 2.10 som a kilo in the Talas shop, the same potatoes I sold for 90 tyiyn in October. Who is eating the difference"
+   },
+   {
+    "id": "1128-valleys-9",
+    "u": "ChuValleyFarmer",
+    "at": "2026-11-28T07:44",
+    "t": "The shop. Always the shop. Also the buyer, and the diesel, and the weather"
+   },
+   {
+    "id": "1128-valleys-10",
+    "u": "Kubat_KyzylAdyr",
+    "at": "2026-11-28T07:50",
+    "t": "Toktosun still at 90?"
+   },
+   {
+    "id": "1128-valleys-11",
+    "u": "ChuValleyFarmer",
+    "at": "2026-11-28T07:52",
+    "t": "Still 90. He says 1.20 tomorrow. I said that's what he said yesterday"
+   },
+   {
+    "id": "1128-valleys-12",
+    "u": "Mairam_Chu",
+    "at": "2026-11-28T08:15",
+    "t": "Hay 26 som a bale in the valleys now. Glad we bought in August, I'm not paying that in January"
+   },
+   {
+    "id": "1128-valleys-13",
+    "u": "ChuValleyFarmer",
+    "at": "2026-11-28T08:18",
+    "t": "Mairam you bought 40 bales in August and tell everyone every day 😄"
+   },
+   {
+    "id": "1128-valleys-14",
+    "u": "Mairam_Chu",
+    "at": "2026-11-28T08:20",
+    "t": "Forty and proud. Sheep don't care about the price of bread"
+   },
+   {
+    "id": "1128-valleys-15",
+    "u": "Kubat_KyzylAdyr",
+    "at": "2026-11-28T08:35",
+    "s": "jailoo"
+   },
+   {
+    "id": "1128-valleys-16",
+    "u": "Sapar_SB",
+    "at": "2026-11-28T09:02",
+    "t": "Reservoir is 80.3% now. Drawing down 53 million cubic metres in one day. Ainura you can start worrying at 80.2"
+   },
+   {
+    "id": "1128-valleys-17",
+    "u": "Ainura (Toktogul):",
+    "at": "2026-11-28T09:05",
+    "t": "Thank you Sapar. I worry in my own time 🙃"
+   },
+   {
+    "id": "1128-valleys-18",
+    "u": "Jamilya_KB",
+    "at": "2026-11-28T09:10",
+    "t": "Ainura the worry is part of the job description, you said so yourself"
+   },
+   {
+    "id": "1128-valleys-19",
+    "u": "Bakyt_KB",
+    "at": "2026-11-28T09:40",
+    "t": "Who is going to Talas tomorrow? Bus or marshrutka? Bus is 32 to Nurzhan, marshrutka 38, and the marshrutka is always 'just leaving'"
+   },
+   {
+    "id": "1128-valleys-20",
+    "u": "Ulan_shofer",
+    "at": "2026-11-28T09:44",
+    "t": "Bus. I drive it. Ask me on the way down, I'll tell you the truth about the gateway"
+   },
+   {
+    "id": "1128-valleys-21",
+    "u": "Bakyt_KB",
+    "at": "2026-11-28T09:46",
+    "t": "That is why I'm asking you before the marshrutka 😄"
+   },
+   {
+    "id": "1128-valleys-22",
+    "u": "Kubat_KyzylAdyr",
+    "at": "2026-11-28T10:30",
+    "t": "Brigade for cellars: Sapar's cousin in Kara-Buura still not answered. Maybe he's building one for himself"
+   },
+   {
+    "id": "1128-valleys-23",
+    "u": "Sapar_SB",
+    "at": "2026-11-28T10:33",
+    "t": "He is building one for a man in Bazar-Korgon. Stone blocks, no cement shortcuts. I asked him, he says he is busy till spring"
+   },
+   {
+    "id": "1128-valleys-24",
+    "u": "Kubat_KyzylAdyr",
+    "at": "2026-11-28T10:36",
+    "t": "Spring. Everything is spring in this valley. Spring the road, spring the spur, spring the cellar"
+   },
+   {
+    "id": "1128-valleys-25",
+    "u": "Ulan_shofer",
+    "at": "2026-11-28T10:40",
+    "t": "Sary-Bulak spur due back spring 2027 if the contractor is quick. If. I said it yesterday"
+   },
+   {
+    "id": "1128-valleys-26",
+    "u": "Tolgonay N.",
+    "at": "2026-11-28T11:05",
+    "t": "Diesel 6.10 at the Kara-Buura station. Drivers are grumbling, tractors are grumbling, I am grumbling"
+   },
+   {
+    "id": "1128-valleys-27",
+    "u": "ChuValleyFarmer",
+    "at": "2026-11-28T11:08",
+    "t": "Diesel in the Chatkal villages 8.55 to 9.75, I heard. Kara-Buura is cheap by comparison, enjoy it"
+   },
+   {
+    "id": "1128-valleys-28",
+    "u": "Tolgonay N.",
+    "at": "2026-11-28T11:10",
+    "t": "Cheap by comparison is still 6.10 😄"
+   },
+   {
+    "id": "1128-valleys-29",
+    "u": "Jamilya_KB",
+    "at": "2026-11-28T12:20",
+    "t": "Lunch. Plov from the canteen was 28 som, the plov was 27 minus the cook's sense of humour"
+   },
+   {
+    "id": "1128-valleys-30",
+    "u": "Bakyt_KB",
+    "at": "2026-11-28T12:25",
+    "t": "Plov is not a thing you should complain about in a valley, Jamilya. It's a thing you should eat"
+   },
+   {
+    "id": "1128-valleys-31",
+    "u": "Ainura (Toktogul)",
+    "at": "2026-11-28T13:10",
+    "t": "Walnuts at Toktogul bazar still 22 som a kilo. My mother says the price will not change till the ice melts"
+   },
+   {
+    "id": "1128-valleys-32",
+    "u": "Mairam_Chu",
+    "at": "2026-11-28T13:14",
+    "t": "Your mother is always right about prices, I've noticed"
+   },
+   {
+    "id": "1128-valleys-33",
+    "u": "ChuValleyFarmer",
+    "at": "2026-11-28T14:30",
+    "t": "Kubat the dogs were at the gate again this morning. Did they go on a run without you?"
+   },
+   {
+    "id": "1128-valleys-34",
+    "u": "Kubat_KyzylAdyr",
+    "at": "2026-11-28T14:34",
+    "t": "They went with the pup. The pup brought back a glove. Not mine. I'm not asking"
+   },
+   {
+    "id": "1128-valleys-35",
+    "u": "Jamilya_KB",
+    "at": "2026-11-28T14:36",
+    "t": "Kubat's glove collection is growing. Next will be a whole hat 😄"
+   },
+   {
+    "id": "1128-valleys-36",
+    "u": "Ulan_shofer",
+    "at": "2026-11-28T15:50",
+    "t": "Afternoon on the Fergana side: snow again above the tunnel. Chains still on. Tash-Kömür side slow"
+   },
+   {
+    "id": "1128-valleys-37",
+    "u": "Ainura (Toktogul):",
+    "at": "2026-11-28T15:55",
+    "t": "Ulan take the wide road. Tea in the bus is free for drivers, I know someone"
+   },
+   {
+    "id": "1128-valleys-38",
+    "u": "Sapar_SB",
+    "at": "2026-11-28T16:20",
+    "t": "Heard the Talas air terminal has room for more flights. Summer 2027 routes still open. Nobody told the bus driver"
+   },
+   {
+    "id": "1128-valleys-39",
+    "u": "Ulan_shofer",
+    "at": "2026-11-28T16:22",
+    "t": "The bus driver is always the last to be told. The bus driver is also the one who drives"
+   },
+   {
+    "id": "1128-valleys-40",
+    "u": "Bakyt_KB",
+    "at": "2026-11-28T16:40",
+    "t": "Kyzyl-Adyr and Talas: marshrutka 30, Chu–Talas still 25, I'm told. Someone tell Toktosun"
+   },
+   {
+    "id": "1128-valleys-41",
+    "u": "Mairam_Chu",
+    "at": "2026-11-28T16:45",
+    "t": "Toktosun knows everything already, he just doesn't know what it means"
+   },
+   {
+    "id": "1128-valleys-42",
+    "u": "Kubat_KyzylAdyr",
+    "at": "2026-11-28T17:30",
+    "t": "Ulak League: Chu and Talas still top of the ISEZ table. 26 and 25. Ulak people, count the days till the 12th"
+   },
+   {
+    "id": "1128-valleys-43",
+    "u": "ChuValleyFarmer",
+    "at": "2026-11-28T17:33",
+    "t": "Count the sheep. Mairam is taking hers to the hippodrome"
+   },
+   {
+    "id": "1128-valleys-44",
+    "u": "Mairam_Chu",
+    "at": "2026-11-28T17:35",
+    "t": "[sticker: bilbeim]"
+   },
+   {
+    "id": "1128-valleys-45",
+    "u": "Ainura (Toktogul):",
+    "at": "2026-11-28T18:10",
+    "t": "Light off in our street again at 18:05. Fourth night 😒 But the kettle is on by candle"
+   },
+   {
+    "id": "1128-valleys-46",
+    "u": "Sapar_SB",
+    "at": "2026-11-28T18:14",
+    "t": "Power normal in Toktogul? Tell me the street and I'll look"
+   },
+   {
+    "id": "1128-valleys-47",
+    "u": "Ainura (Toktogul):",
+    "at": "2026-11-28T18:16",
+    "t": "Sapar, you are not allowed to look at my street on a Saturday. Enjoy your tea"
+   },
+   {
+    "id": "1128-valleys-48",
+    "u": "Jamilya_KB",
+    "at": "2026-11-28T19:00",
+    "t": "Evening. Who is watching the Irad Cup replay tonight, Neftchi 2 Attelkom 0, and nobody from Talas is happy about it"
+   },
+   {
+    "id": "1128-valleys-49",
+    "u": "Kubat_KyzylAdyr",
+    "at": "2026-11-28T19:04",
+    "t": "Neftchi champions, Talas cried in the bus. I heard it from the driver"
+   },
+   {
+    "id": "1128-valleys-50",
+    "u": "Ulan_shofer",
+    "at": "2026-11-28T19:07",
+    "t": "I cried in the bus too, but nobody saw"
+   },
+   {
+    "id": "1128-valleys-51",
+    "u": "ChuValleyFarmer",
+    "at": "2026-11-28T19:30",
+    "t": "Tulparcoin 3.49 US cents at noon, up 5.3% today. Not legal tender, Bakyt is going to say it"
+   },
+   {
+    "id": "1128-valleys-52",
+    "u": "Bakyt_KB",
+    "at": "2026-11-28T19:32",
+    "t": "I said nothing. Not legal tender. I'm still not asking"
+   },
+   {
+    "id": "1128-valleys-53",
+    "u": "Kubat_KyzylAdyr",
+    "at": "2026-11-28T19:35",
+    "t": "Not legal tender, not a potato, not a dog 😄"
+   },
+   {
+    "id": "1128-valleys-54",
+    "u": "Mairam_Chu",
+    "at": "2026-11-28T20:10",
+    "t": "Frost tonight in Chu. Sheep stay in, I stay in, the stove is mine"
+   },
+   {
+    "id": "1128-valleys-55",
+    "u": "Bakyt_KB",
+    "at": "2026-11-28T20:14",
+    "t": "Toktosun still says 1.20 tomorrow?"
+   },
+   {
+    "id": "1128-valleys-56",
+    "u": "ChuValleyFarmer",
+    "at": "2026-11-28T20:16",
+    "t": "He says it, I've stopped answering. Tomorrow is Sunday, the buyers are at home"
+   },
+   {
+    "id": "1128-valleys-57",
+    "u": "Ainura (Toktogul):",
+    "at": "2026-11-28T20:40",
+    "t": "Nurzhan smog on the radio again, 271 on the air index. Kids can't go out for breaks. My class has been writing about the mountains instead"
+   },
+   {
+    "id": "1128-valleys-58",
+    "u": "Jamilya_KB",
+    "at": "2026-11-28T20:44",
+    "t": "Ainura, your class writes about the mountains, and the mountains are in the smog. Clever"
+   },
+   {
+    "id": "1128-valleys-59",
+    "u": "Sapar_SB",
+    "at": "2026-11-28T21:10",
+    "t": "Talas 155 air, Iyık Janyl 101. Better than Nurzhan but still a bad day to breathe"
+   },
+   {
+    "id": "1128-valleys-60",
+    "u": "Ulan_shofer",
+    "at": "2026-11-28T21:15",
+    "t": "Gateway: chains on, slow above the tunnel. Gn all, 5am again tomorrow"
+   },
+   {
+    "id": "1128-valleys-61",
+    "u": "Ainura (Toktogul):",
+    "at": "2026-11-28T21:18",
+    "t": "Ulan you are a saint. Drive safe"
+   },
+   {
+    "id": "1128-valleys-62",
+    "u": "Bakyt_KB",
+    "at": "2026-11-28T22:05",
+    "t": "Gn. Potatoes in the pit, Kubat's dogs have a glove each, the reservoir is still going down. Sleep well Valley"
+   },
+   {
+    "id": "1128-valleys-63",
+    "u": "Jamilya_KB",
+    "at": "2026-11-28T22:10",
+    "t": "Gn. Verbs test tomorrow for the kids, Ainura's fault again"
+   },
+   {
+    "id": "1128-valleys-64",
+    "u": "ChuValleyFarmer",
+    "at": "2026-11-28T23:20",
+    "t": "Gn. Frost coming. Tractor stays in the shed tonight. Good day"
    }
   ],
   "horses": [
-   {
-    "id": "1125-horses-0",
-    "u": "Askat_trainer",
-    "at": "2026-11-25T07:42",
-    "t": "Morning horse people. Frost on the Hippodrome paddock this morning, the lads are breaking ice on the troughs"
-   },
-   {
-    "id": "1125-horses-1",
-    "u": "Marat 🐎",
-    "at": "2026-11-25T07:50",
-    "t": "Cold but clear here. My two wore their blankets all night, they look like old grandmothers 😂"
-   },
-   {
-    "id": "1125-horses-2",
-    "u": "Temir_Chongtor",
-    "at": "2026-11-25T07:55",
-    "t": "Blanket on a Chongtor is an insult. We have stone hooves and stone hearts"
-   },
-   {
-    "id": "1125-horses-3",
-    "u": "Aidana 🏇",
-    "at": "2026-11-25T08:09",
-    "t": "Akjele 7–7 Chatkal Highlands. Draw again, my cousin in Akjele is crying into his tea"
-   },
-   {
-    "id": "1125-horses-4",
-    "u": "Marat 🐎",
-    "at": "2026-11-25T08:12",
-    "t": "Moiynkum 6–5 Aksay Plateau, first win of the season? Good for them"
-   },
-   {
-    "id": "1125-horses-5",
-    "u": "Kerim_ulak",
-    "at": "2026-11-25T08:14",
-    "t": "Karakoyun v Naiman still not received on the sheet. Somebody at the Directorate is asleep"
-   },
-   {
-    "id": "1125-horses-6",
-    "u": "Gulsara_Akyel",
-    "at": "2026-11-25T08:20",
-    "t": "Colt is eating his hay well this morning. Good sign 🙏"
-   },
-   {
-    "id": "1125-horses-7",
-    "u": "Azim (vet)",
-    "at": "2026-11-25T08:24",
-    "t": "Good. Keep the hay dry and the water warm. Wet hay is what gives colic, not cold"
-   },
-   {
-    "id": "1125-horses-8",
-    "u": "Dilbar_TLS",
-    "at": "2026-11-25T08:30",
-    "t": "Morning! Fog at Talas airport, flights held until about 10:30. Check the board before you travel"
-   },
-   {
-    "id": "1125-horses-9",
-    "u": "Rysbek A.",
-    "at": "2026-11-25T08:33",
-    "t": "Fog in town too, you can't see the Chatkal ridge from the bazar. Drive slow"
-   },
-   {
-    "id": "1125-horses-10",
-    "u": "Askat_trainer",
-    "at": "2026-11-25T08:40",
-    "s": "chai"
-   },
-   {
-    "id": "1125-horses-11",
-    "u": "Aidana 🏇",
-    "at": "2026-11-25T12:15",
-    "t": "Lunch break from the faculty. Anatomy exam Friday, I am learning the horse leg bones by heart 🦴"
-   },
-   {
-    "id": "1125-horses-12",
-    "u": "Temir_Chongtor",
-    "at": "2026-11-25T12:18",
-    "t": "Leg bones are easy. Learn the teeth, the teeth tell the age and the vet cannot lie"
-   },
-   {
-    "id": "1125-horses-13",
-    "u": "Aidana 🏇",
-    "at": "2026-11-25T12:22",
-    "t": "Teeth are too boring. Shoulders are the nice part"
-   },
-   {
-    "id": "1125-horses-14",
-    "u": "Rysbek A.",
-    "at": "2026-11-25T12:40",
-    "t": "Hay in the valleys is 26 a bale now, Askat was right, Chu side is cheaper if you carry it yourself"
-   },
-   {
-    "id": "1125-horses-15",
-    "u": "Askat_trainer",
-    "at": "2026-11-25T12:44",
-    "t": "Only if you have a truck that doesn't die on the old road 😂"
-   },
-   {
-    "id": "1125-horses-16",
-    "u": "Marat 🐎",
-    "at": "2026-11-25T13:30",
-    "t": "Who is going to Besh-Tash on Saturday? Kerim said the old road if it stays dry"
-   },
-   {
-    "id": "1125-horses-17",
-    "u": "Kerim_ulak",
-    "at": "2026-11-25T13:34",
-    "t": "If it stays dry. Snow forecast on the Otmek side though"
-   },
-   {
-    "id": "1125-horses-18",
-    "u": "Gulsara_Akyel",
-    "at": "2026-11-25T13:36",
-    "t": "We are not going, two young horses is enough work for me. Take photos 📸"
-   },
-   {
-    "id": "1125-horses-19",
-    "u": "Azim (vet)",
-    "at": "2026-11-25T15:10",
-    "t": "Reminder: deworm before the frost, and check teeth of the young ones before winter. Vet clinic open till 18:00"
-   },
-   {
-    "id": "1125-horses-20",
-    "u": "Temir_Chongtor",
-    "at": "2026-11-25T15:14",
-    "t": "Teeth again! The doctor is obsessed 😄"
-   },
-   {
-    "id": "1125-horses-21",
-    "u": "Marat 🐎",
-    "at": "2026-11-25T15:20",
-    "s": "horse_love"
-   },
-   {
-    "id": "1125-horses-22",
-    "u": "Dilbar_TLS",
-    "at": "2026-11-25T16:45",
-    "t": "Tulparcoin 3.52 cents at noon, down a bit. Still not a horse price, thank God 😅"
-   },
-   {
-    "id": "1125-horses-23",
-    "u": "Askat_trainer",
-    "at": "2026-11-25T16:48",
-    "t": "Nobody in this room buys tulparcoin, Dilbar. Buy a horse 😂"
-   },
-   {
-    "id": "1125-horses-24",
-    "u": "Kerim_ulak",
-    "at": "2026-11-25T17:20",
-    "t": "Women's League last round: Attelkom 3–0 Neftchi, Universitet 3–2 Iyık Janyl, Tulpar 2–2 Akademiya. Tulpar still top on 23"
-   },
-   {
-    "id": "1125-horses-25",
-    "u": "Aidana 🏇",
-    "at": "2026-11-25T17:25",
-    "t": "Universitet 22, one point behind. Still in the fight!! 💪"
-   },
-   {
-    "id": "1125-horses-26",
-    "u": "Gulsara_Akyel",
-    "at": "2026-11-25T18:10",
-    "t": "Who is coming to the Irad Cup final on the 7th? Neftchi 2–0 Attelkom was the last one I saw, we are going to Nurzhan for it"
-   },
-   {
-    "id": "1125-horses-27",
-    "u": "Rysbek A.",
-    "at": "2026-11-25T18:14",
-    "t": "Nurzhan air is bad again, AQI 162 this morning. Kids should not play outside. Take a mask to the stadium"
-   },
-   {
-    "id": "1125-horses-28",
-    "u": "Azim (vet)",
-    "at": "2026-11-25T18:18",
-    "t": "Same for horses. Dust and smog in the stable hurts the lungs. Keep the barn ventilated, not drafty"
-   },
-   {
-    "id": "1125-horses-29",
-    "u": "Temir_Chongtor",
-    "at": "2026-11-25T18:22",
-    "s": "kosh"
-   },
-   {
-    "id": "1125-horses-30",
-    "u": "Aidana 🏇",
-    "at": "2026-11-25T19:05",
-    "t": "Kyz kuu demo for the 12th is on. Groom says he will hold the horse himself, I will show the grab 😂"
-   },
-   {
-    "id": "1125-horses-31",
-    "u": "Temir_Chongtor",
-    "at": "2026-11-25T19:08",
-    "t": "I still bring the camera. Who wants the fire-warm seats at gate 2?"
-   },
-   {
-    "id": "1125-horses-32",
-    "u": "Marat 🐎",
-    "at": "2026-11-25T19:12",
-    "t": "Gate 2, the old man with the grey beard. Tickets on the day. I still have the thermos ☕"
-   },
-   {
-    "id": "1125-horses-33",
-    "u": "Kerim_ulak",
-    "at": "2026-11-25T20:30",
-    "t": "Ulak Round 11 Sarybagysh 10 pts, Chubar 4–5 Sarybagysh. Good win for the Highland boys"
-   },
-   {
-    "id": "1125-horses-34",
-    "u": "Temir_Chongtor",
-    "at": "2026-11-25T20:34",
-    "t": "Sary-Bulak 3–0 Köhne Diz in ISEZ too. Sary-Bulak are waking up 😄"
-   },
-   {
-    "id": "1125-horses-35",
-    "u": "Aidana 🏇",
-    "at": "2026-11-25T20:36",
-    "t": "Talas 10–6 Kyzyl-Adyr Saturday. We are 2nd in the ISEZ on 25, Chu on 26. Let's go!"
-   },
-   {
-    "id": "1125-horses-36",
-    "u": "Marat 🐎",
-    "at": "2026-11-25T20:40",
-    "t": "[poll: Who takes ISEZ on the 12th-of-December semi, Chu or Highland place 2?]"
-   },
-   {
-    "id": "1125-horses-37",
-    "u": "Temir_Chongtor",
-    "at": "2026-11-25T20:42",
-    "t": "Chu. They have the big horses"
-   },
-   {
-    "id": "1125-horses-38",
-    "u": "Askat_trainer",
-    "at": "2026-11-25T20:45",
-    "t": "Highland place 2 is Tanıp or Karakoyun, they will be fresh and hungry 🐴"
-   },
-   {
-    "id": "1125-horses-39",
-    "u": "Rysbek A.",
-    "at": "2026-11-25T21:05",
-    "t": "Talas roads are a mess after the frost. Walnuts in Toktogul at 22 a kilo, my cousin says the bazar is full, cheap this year"
-   },
-   {
-    "id": "1125-horses-40",
-    "u": "Gulsara_Akyel",
-    "at": "2026-11-25T21:10",
-    "t": "Walnuts for the kids, not the horses 😄"
-   },
-   {
-    "id": "1125-horses-41",
-    "u": "Azim (vet)",
-    "at": "2026-11-25T21:14",
-    "t": "Quiet night ahead. Two horses with cough from the cold stable at the Research Center, blankets on at night, off in the day"
-   },
-   {
-    "id": "1125-horses-42",
-    "u": "Marat 🐎",
-    "at": "2026-11-25T21:20",
-    "t": "Thanks doctor. My two are fine, warm barn"
-   },
-   {
-    "id": "1125-horses-43",
-    "u": "Dilbar_TLS",
-    "at": "2026-11-25T22:30",
-    "t": "Night horse people 🌙"
-   },
-   {
-    "id": "1125-horses-44",
-    "u": "Gulsara_Akyel",
-    "at": "2026-11-25T22:35",
-    "s": "rahmat"
-   },
-   {
-    "id": "1125-horses-45",
-    "u": "Marat 🐎",
-    "at": "2026-11-25T23:04",
-    "t": "Night all. Stables are warm 🐎"
-   },
    {
     "id": "1126-horses-0",
     "u": "Marat 🐎",
@@ -5275,393 +4801,285 @@
     "u": "Marat 🐎",
     "at": "2026-11-27T22:40",
     "t": "Night all. Stables are warm 🐎"
+   },
+   {
+    "id": "1128-horses-0",
+    "u": "Marat 🐎",
+    "at": "2026-11-28T07:42",
+    "t": "Morning. Minus 9 at the stables gate. Blankets stay on till noon"
+   },
+   {
+    "id": "1128-horses-1",
+    "u": "Azim (vet)",
+    "at": "2026-11-28T07:50",
+    "t": "Check water troughs first thing. Ice in the buckets means the horses drink less, then colic"
+   },
+   {
+    "id": "1128-horses-2",
+    "u": "Rysbek A.",
+    "at": "2026-11-28T07:55",
+    "t": "Got the shoe back on Chongtor's horse, farrier at gate 2 was good. Rahmat Azim"
+   },
+   {
+    "id": "1128-horses-3",
+    "u": "Temir_Chongtor",
+    "at": "2026-11-28T07:58",
+    "t": "Told you, Chongtor hooves are stone 😂"
+   },
+   {
+    "id": "1128-horses-4",
+    "u": "Gulsara_Akyel",
+    "at": "2026-11-28T08:05",
+    "t": "Colt ate his whole morning hay. Spoiled but healthy 🐴"
+   },
+   {
+    "id": "1128-horses-5",
+    "u": "Aidana 🏇",
+    "at": "2026-11-28T08:20",
+    "s": "horse_love"
+   },
+   {
+    "id": "1128-horses-6",
+    "u": "Kerim_ulak",
+    "at": "2026-11-28T08:31",
+    "t": "Big day for Highland. Round 12 at 13:00 Aksay Plateau v Karatau, anyone going?"
+   },
+   {
+    "id": "1128-horses-7",
+    "u": "Askat_trainer",
+    "at": "2026-11-28T08:34",
+    "t": "Aksay pitch is frozen, the boys were out there yesterday. Shoes with studs or they fall"
+   },
+   {
+    "id": "1128-horses-8",
+    "u": "Kerim_ulak",
+    "at": "2026-11-28T08:40",
+    "t": "Boztorgoy v Moiynkum at 13:00 too. Easy win for Boztorgoy, Moiynkum are on 3 pts 😅"
+   },
+   {
+    "id": "1128-horses-9",
+    "u": "Temir_Chongtor",
+    "at": "2026-11-28T08:44",
+    "t": "Easy games never are. Moiynkum will fight"
+   },
+   {
+    "id": "1128-horses-10",
+    "u": "Dilbar_TLS",
+    "at": "2026-11-28T09:02",
+    "t": "Nurzhan smog again this morning. I am not sending the kids out until it lifts"
+   },
+   {
+    "id": "1128-horses-11",
+    "u": "Marat 🐎",
+    "at": "2026-11-28T09:05",
+    "t": "Air in Nurzhan is very bad. Horses in the city stables are coughing, keep them inside"
+   },
+   {
+    "id": "1128-horses-12",
+    "u": "Azim (vet)",
+    "at": "2026-11-28T09:10",
+    "t": "Yes, we see more cough cases from the Nurzhan side. Wet hay and smoke. Bring them to the centre if the cough stays"
+   },
+   {
+    "id": "1128-horses-13",
+    "u": "Askat_trainer",
+    "at": "2026-11-28T10:15",
+    "t": "Anyone have hay for sale? Need 20 bales for my two in Talas. Hay in the valleys is 26 a bale now"
+   },
+   {
+    "id": "1128-horses-14",
+    "u": "Marat 🐎",
+    "at": "2026-11-28T10:22",
+    "t": "Same price as last week. Got my 60 from the Chu side at 22 🙂"
+   },
+   {
+    "id": "1128-horses-15",
+    "u": "Askat_trainer",
+    "at": "2026-11-28T10:25",
+    "t": "Lucky 😂 Chu farmers don't answer my calls"
+   },
+   {
+    "id": "1128-horses-16",
+    "u": "Gulsara_Akyel",
+    "at": "2026-11-28T12:10",
+    "s": "jailoo"
+   },
+   {
+    "id": "1128-horses-17",
+    "u": "Aidana 🏇",
+    "at": "2026-11-28T12:14",
+    "t": "Lunch then back to the books. Exam on equine parasites on Monday, I am dead"
+   },
+   {
+    "id": "1128-horses-18",
+    "u": "Temir_Chongtor",
+    "at": "2026-11-28T12:16",
+    "t": "Deworm the books too 😂"
+   },
+   {
+    "id": "1128-horses-19",
+    "u": "Kerim_ulak",
+    "at": "2026-11-28T13:40",
+    "t": "Aksay Plateau v Karatau Select finished? Nothing yet. Will check later"
+   },
+   {
+    "id": "1128-horses-20",
+    "u": "Rysbek A.",
+    "at": "2026-11-28T14:05",
+    "t": "Snow started on the Talas road. Driving slow, Marshrutka Talas-Nurzhan is still running"
+   },
+   {
+    "id": "1128-horses-21",
+    "u": "Dilbar_TLS",
+    "at": "2026-11-28T14:10",
+    "t": "Wait, Kerim, Chatkal v Naiman at 14:00 is on now too, Upper Chatkal"
+   },
+   {
+    "id": "1128-horses-22",
+    "u": "Kerim_ulak",
+    "at": "2026-11-28T14:12",
+    "t": "Yes. Chatkal and Naiman, then Chubar v Kökjal at 15:00 in Arslanbob. Busy Saturday"
+   },
+   {
+    "id": "1128-horses-23",
+    "u": "Gulsara_Akyel",
+    "at": "2026-11-28T16:30",
+    "t": "Home from the stables. Colt asleep, blanket on. Good day"
+   },
+   {
+    "id": "1128-horses-24",
+    "u": "Marat 🐎",
+    "at": "2026-11-28T16:35",
+    "t": "Walnuts on the bazar are 22 a kilo, Gulsara. Kids will eat them all before the snow ends 😄"
+   },
+   {
+    "id": "1128-horses-25",
+    "u": "Gulsara_Akyel",
+    "at": "2026-11-28T16:40",
+    "t": "Already ate my share 😂"
+   },
+   {
+    "id": "1128-horses-26",
+    "u": "Azim (vet)",
+    "at": "2026-11-28T17:10",
+    "t": "Reminder: Veterinary Research Center open till 19:00 for cough and colic. Bring them in, don't wait"
+   },
+   {
+    "id": "1128-horses-27",
+    "u": "Temir_Chongtor",
+    "at": "2026-11-28T17:14",
+    "t": "Akyel boys don't cough, they just eat walnuts 😄"
+   },
+   {
+    "id": "1128-horses-28",
+    "u": "Kerim_ulak",
+    "at": "2026-11-28T18:30",
+    "t": "Highland round 12 is still running, Akjele v Karakoyun at Upper Besh-Tash at 14:00. Results coming"
+   },
+   {
+    "id": "1128-horses-29",
+    "u": "Aidana 🏇",
+    "at": "2026-11-28T18:45",
+    "t": "Kyz kuu demo on the 12th confirmed. Groom says snow or not, I ride"
+   },
+   {
+    "id": "1128-horses-30",
+    "u": "Temir_Chongtor",
+    "at": "2026-11-28T18:48",
+    "t": "Good, I will bring a hat and stay far from the whip"
+   },
+   {
+    "id": "1128-horses-31",
+    "u": "Askat_trainer",
+    "at": "2026-11-28T19:05",
+    "t": "Friday chat was about the Highland semi. Place 1 v Talas at 21:00 on the 12th. Sheet is clear now"
+   },
+   {
+    "id": "1128-horses-32",
+    "u": "Kerim_ulak",
+    "at": "2026-11-28T19:09",
+    "t": "Thanks Askat. Talas players are on a long bus, Iyık Janyl road is closed for them ✅"
+   },
+   {
+    "id": "1128-horses-33",
+    "u": "Rysbek A.",
+    "at": "2026-11-28T19:12",
+    "t": "Iyık Janyl road is closed? I thought only the passes are closed for winter"
+   },
+   {
+    "id": "1128-horses-34",
+    "u": "Kerim_ulak",
+    "at": "2026-11-28T19:14",
+    "t": "Not closed, just icy. Joke, sorry 😅"
+   },
+   {
+    "id": "1128-horses-35",
+    "u": "Marat 🐎",
+    "at": "2026-11-28T19:30",
+    "t": "Diesel at 6.10 in Talas now. Heating the stables costs more than my tyre shop makes 😩"
+   },
+   {
+    "id": "1128-horses-36",
+    "u": "Askat_trainer",
+    "at": "2026-11-28T19:33",
+    "t": "Coal is the real cost. Stables need it all night"
+   },
+   {
+    "id": "1128-horses-37",
+    "u": "Dilbar_TLS",
+    "at": "2026-11-28T19:40",
+    "t": "Nurzhan air still very bad. My son asked why the sky is grey at 19:00. Smog from the heating"
+   },
+   {
+    "id": "1128-horses-38",
+    "u": "Azim (vet)",
+    "at": "2026-11-28T19:44",
+    "t": "Keep the horses inside Nurzhan tonight. Clean water, dry hay, no long rides"
+   },
+   {
+    "id": "1128-horses-39",
+    "u": "Kerim_ulak",
+    "at": "2026-11-28T20:10",
+    "s": "kosh"
+   },
+   {
+    "id": "1128-horses-40",
+    "u": "Gulsara_Akyel",
+    "at": "2026-11-28T20:15",
+    "t": "Who saw the Highland round? Boztorgoy still at the top I think"
+   },
+   {
+    "id": "1128-horses-41",
+    "u": "Temir_Chongtor",
+    "at": "2026-11-28T20:20",
+    "t": "Karakoyun and Akjele still to play tomorrow. Not my team but I am watching"
+   },
+   {
+    "id": "1128-horses-42",
+    "u": "Aidana 🏇",
+    "at": "2026-11-28T20:55",
+    "t": "Night before the exam. Coffee and horse anatomy 🐴"
+   },
+   {
+    "id": "1128-horses-43",
+    "u": "Marat 🐎",
+    "at": "2026-11-28T21:10",
+    "t": "Night all. Stables warm, hay in, colt blanketed 🐎"
+   },
+   {
+    "id": "1128-horses-44",
+    "u": "Gulsara_Akyel",
+    "at": "2026-11-28T21:12",
+    "s": "rahmat"
+   },
+   {
+    "id": "1128-horses-45",
+    "u": "Rysbek A.",
+    "at": "2026-11-28T22:40",
+    "t": "Night. Check your hay bales before you sleep"
    }
   ],
   "football": [
-   {
-    "id": "1125-football-0",
-    "u": "Vika_Neftchi",
-    "at": "2026-11-25T00:40",
-    "t": "Кто не спит? Опять про дерби думаю 🖤🧡"
-   },
-   {
-    "id": "1125-football-1",
-    "u": "Bakyt_KB",
-    "at": "2026-11-25T06:50",
-    "t": "Morning. Fog on the Talas side again, can't see the potato field from the window 😴"
-   },
-   {
-    "id": "1125-football-2",
-    "u": "Timur_Talas",
-    "at": "2026-11-25T07:35",
-    "t": "Fog at Talas Airport, flights held until about 10:30. Check the board before you travel"
-   },
-   {
-    "id": "1125-football-3",
-    "u": "Nazgul T.",
-    "at": "2026-11-25T07:38",
-    "t": "Good, so the bus is safe at least 🙄"
-   },
-   {
-    "id": "1125-football-4",
-    "u": "nurzhan_neft",
-    "at": "2026-11-25T07:40",
-    "t": "Nurzhan is mainly clear, -4 at night. Cold but the sky is nice for once"
-   },
-   {
-    "id": "1125-football-5",
-    "u": "azat_student",
-    "at": "2026-11-25T07:44",
-    "t": "The air in Nurzhan says 162 today. Unhealthy. Wear a mask on the walk to uni pls"
-   },
-   {
-    "id": "1125-football-6",
-    "u": "Sasha_Lokomotiv",
-    "at": "2026-11-25T07:46",
-    "t": "[sticker: kalpak]"
-   },
-   {
-    "id": "1125-football-7",
-    "u": "Ermek_Jolbors",
-    "at": "2026-11-25T07:50",
-    "t": "Hay is 26 a bale in the valleys and the jailoo guys still counting. Winter will be long 🐴"
-   },
-   {
-    "id": "1125-football-8",
-    "u": "Pablo_Semiz",
-    "at": "2026-11-25T08:10",
-    "t": "Don't mention Ermek's horses before my coffee 😅"
-   },
-   {
-    "id": "1125-football-9",
-    "u": "Ermek_Jolbors",
-    "at": "2026-11-25T08:14",
-    "t": "Horses don't care about your coffee Pablo 🐎"
-   },
-   {
-    "id": "1125-football-10",
-    "u": "Timur_Talas",
-    "at": "2026-11-25T08:20",
-    "t": "Reminder: Chu v Highland place 2 on 12 Dec at the Hippodrome, 19:00. Tickets from the club desk"
-   },
-   {
-    "id": "1125-football-11",
-    "u": "Sasha_Lokomotiv",
-    "at": "2026-11-25T08:22",
-    "t": "Cup final is on 7 Nov and it's done. Neftchi 2-0 Attelkom. I still feel it"
-   },
-   {
-    "id": "1125-football-12",
-    "u": "Vika_Neftchi",
-    "at": "2026-11-25T08:25",
-    "t": "Нефтяник 2:0, говорила же 🖤🧡"
-   },
-   {
-    "id": "1125-football-13",
-    "u": "Nazgul T.",
-    "at": "2026-11-25T08:27",
-    "t": "Attelkom fans went quiet after the second goal, I felt for them honestly"
-   },
-   {
-    "id": "1125-football-14",
-    "u": "azat_student",
-    "at": "2026-11-25T08:30",
-    "t": "Kara-Buura 25 pts, 9th. Not a bad season for them after the Pass chaos 😂"
-   },
-   {
-    "id": "1125-football-15",
-    "u": "Bakyt_KB",
-    "at": "2026-11-25T08:33",
-    "t": "Kara-Buura lads, keep your heads up, and bring the bus fare 😄"
-   },
-   {
-    "id": "1125-football-16",
-    "u": "nurzhan_neft",
-    "at": "2026-11-25T12:10",
-    "t": "Lunch. Plov at the canteen is 28 a plate today, it was 25 last week, I'm not happy 🍛"
-   },
-   {
-    "id": "1125-football-17",
-    "u": "Timur_Talas",
-    "at": "2026-11-25T12:14",
-    "t": "Refinery canteen is always 28 now, Andrei. Bring your own nan"
-   },
-   {
-    "id": "1125-football-18",
-    "u": "nurzhan_neft",
-    "at": "2026-11-25T12:16",
-    "t": "Nan is 3.50 at the bazar, I'm not carrying a loaf to shift B 😂"
-   },
-   {
-    "id": "1125-football-19",
-    "u": "Nazgul T.",
-    "at": "2026-11-25T12:40",
-    "t": "Women's League ended 10 rounds: Tulpar 23, Universitet 22, Attelkom 16. Tulpar won the title, Nazgul is proud 🧣"
-   },
-   {
-    "id": "1125-football-20",
-    "u": "Timur_Talas",
-    "at": "2026-11-25T12:45",
-    "t": "Azamat kızdar 🤍❤️ Tell the girls well done"
-   },
-   {
-    "id": "1125-football-21",
-    "u": "Ermek_Jolbors",
-    "at": "2026-11-25T13:30",
-    "t": "Ulak in ISEZ: Chu leads on 26 points, Talas on 25, after 10 games. Round 11 is Saturday 21 Nov"
-   },
-   {
-    "id": "1125-football-22",
-    "u": "Bakyt_KB",
-    "at": "2026-11-25T13:32",
-    "t": "Kara-Bulak lost 5-2 to Dastgoh? No, 5-2 Dastgoh won in Kara-Bulak. Ugh 😤"
-   },
-   {
-    "id": "1125-football-23",
-    "u": "Ermek_Jolbors",
-    "at": "2026-11-25T13:34",
-    "t": "Yes Dastgoh 5-2 Kara-Bulak. Nothing for the Bulak lads this week 🐆"
-   },
-   {
-    "id": "1125-football-24",
-    "u": "Pablo_Semiz",
-    "at": "2026-11-25T14:05",
-    "t": "Semiz again, rain forecast and the pitch is a bog. I'll play ulak in the mud anyway 😂"
-   },
-   {
-    "id": "1125-football-25",
-    "u": "Sasha_Lokomotiv",
-    "at": "2026-11-25T14:08",
-    "t": "Semiz has the bravest ulak players in Irad, that's the rumour 🏇"
-   },
-   {
-    "id": "1125-football-26",
-    "u": "Pablo_Semiz",
-    "at": "2026-11-25T14:12",
-    "t": "Rumour noted 😎"
-   },
-   {
-    "id": "1125-football-27",
-    "u": "azat_student",
-    "at": "2026-11-25T16:20",
-    "t": "Donor cut the Talas hydrology grant 30% to 420,000 USD. Gauges stay but glacier work slows 😕"
-   },
-   {
-    "id": "1125-football-28",
-    "u": "Timur_Talas",
-    "at": "2026-11-25T16:24",
-    "t": "That's the glacier people's problem, not our problem. Nobody in Talas stops watching the weather though"
-   },
-   {
-    "id": "1125-football-29",
-    "u": "Nazgul T.",
-    "at": "2026-11-25T16:30",
-    "t": "Fog tomorrow again probably. I have bad sleep, I wake up at 5 with the air alarm on my phone 😩"
-   },
-   {
-    "id": "1125-football-30",
-    "u": "Vika_Neftchi",
-    "at": "2026-11-25T17:40",
-    "t": "Кто знает, когда откроют маршрутку Талас-Кызыл-Адыр? 30 сом, ещё не понятно"
-   },
-   {
-    "id": "1125-football-31",
-    "u": "Ermek_Jolbors",
-    "at": "2026-11-25T17:45",
-    "t": "It's 30 som, runs at 3 pm and 5 pm, but Vika check the 4 pm one is cancelled 🚌"
-   },
-   {
-    "id": "1125-football-32",
-    "u": "Vika_Neftchi",
-    "at": "2026-11-25T17:50",
-    "t": "Спасибо, Ermek 🙏"
-   },
-   {
-    "id": "1125-football-33",
-    "u": "nurzhan_neft",
-    "at": "2026-11-25T18:20",
-    "t": "Refinery pay day is still next week 😭 Hold the coffee 👀"
-   },
-   {
-    "id": "1125-football-34",
-    "u": "Timur_Talas",
-    "at": "2026-11-25T18:25",
-    "t": "Fuel tax up 9% in Jan-Oct, 468m som. Pump prices unchanged, so it's not the pumps that hurt 🤔"
-   },
-   {
-    "id": "1125-football-35",
-    "u": "Bakyt_KB",
-    "at": "2026-11-25T18:27",
-    "t": "The tax is on the tank, not on the pump, Timur. Same thing for me 😤"
-   },
-   {
-    "id": "1125-football-36",
-    "u": "azat_student",
-    "at": "2026-11-25T18:30",
-    "t": "Petrol 95 at 5.85 in Talas. Still cheaper than the Chatkal diesel at 8.55 🙃"
-   },
-   {
-    "id": "1125-football-37",
-    "u": "Sasha_Lokomotiv",
-    "at": "2026-11-25T18:33",
-    "t": "[sticker: chai]"
-   },
-   {
-    "id": "1125-football-38",
-    "u": "Timur_Talas",
-    "at": "2026-11-25T19:05",
-    "t": "Neftchi still 1 point clear and 0 rounds left. Season is done, we know. But Hippodrome 12 Dec is our derby now 🤍❤️"
-   },
-   {
-    "id": "1125-football-39",
-    "u": "nurzhan_neft",
-    "at": "2026-11-25T19:07",
-    "t": "Congrats to the champs 🖤🧡. Your 2-1 defeat at the Kara-Ak was loud 😂"
-   },
-   {
-    "id": "1125-football-40",
-    "u": "Timur_Talas",
-    "at": "2026-11-25T19:10",
-    "t": "Champs is a word for the table. Season ticket hurts more than the champs"
-   },
-   {
-    "id": "1125-football-41",
-    "u": "Pablo_Semiz",
-    "at": "2026-11-25T19:12",
-    "t": "[poll: Who wins the Hippodrome play-off final on 19 Dec?]"
-   },
-   {
-    "id": "1125-football-42",
-    "u": "azat_student",
-    "at": "2026-11-25T19:14",
-    "t": "Voted Talas. Tickets for the final would be cheap at 15 som taxi 😂"
-   },
-   {
-    "id": "1125-football-43",
-    "u": "Nazgul T.",
-    "at": "2026-11-25T19:20",
-    "t": "Taxi from the Hippodrome starts 15 som, Timur said. Split it again 🚕"
-   },
-   {
-    "id": "1125-football-44",
-    "u": "Bakyt_KB",
-    "at": "2026-11-25T19:25",
-    "t": "Honest question: should the club buy a striker or a new pitch drain? Mud is the real enemy 😅"
-   },
-   {
-    "id": "1125-football-45",
-    "u": "Ermek_Jolbors",
-    "at": "2026-11-25T19:28",
-    "t": "Drain first. Then striker. Then the Iradi horse on the badge 🐴"
-   },
-   {
-    "id": "1125-football-46",
-    "u": "Timur_Talas",
-    "at": "2026-11-25T19:30",
-    "t": "Leave the horse alone, Ermek, the lawyers are watching 😂"
-   },
-   {
-    "id": "1125-football-47",
-    "u": "Vika_Neftchi",
-    "at": "2026-11-25T19:33",
-    "t": "Андрей, ты на смене завтра? Мы в Нуржане будем пить чай 🍵"
-   },
-   {
-    "id": "1125-football-48",
-    "u": "nurzhan_neft",
-    "at": "2026-11-25T19:36",
-    "t": "Shift B tomorrow, Vika. Bring me a chai in a thermos, I'll be at the plant"
-   },
-   {
-    "id": "1125-football-49",
-    "u": "Pablo_Semiz",
-    "at": "2026-11-25T19:40",
-    "t": "Nobody mention the air in Nurzhan, 162 is enough 😷"
-   },
-   {
-    "id": "1125-football-50",
-    "u": "azat_student",
-    "at": "2026-11-25T19:42",
-    "t": "Iyık Janyl is 149, the sensitive ones are at home. Tea and walk less 🍵"
-   },
-   {
-    "id": "1125-football-51",
-    "u": "Nazgul T.",
-    "at": "2026-11-25T19:45",
-    "t": "Talas air 164, I'm not running today. Not after the derby either 😂"
-   },
-   {
-    "id": "1125-football-52",
-    "u": "Sasha_Lokomotiv",
-    "at": "2026-11-25T20:10",
-    "t": "Who's going to the Hippodrome on 12 Dec? Bus back at 22:00 so Nazgul will complain 😂"
-   },
-   {
-    "id": "1125-football-53",
-    "u": "Nazgul T.",
-    "at": "2026-11-25T20:12",
-    "t": "I'm complaining already. Cold, dark and a bus at 22:00 😤"
-   },
-   {
-    "id": "1125-football-54",
-    "u": "Timur_Talas",
-    "at": "2026-11-25T20:14",
-    "t": "Still going. Hippodrome, 19:00 Chu v Highland place 2, then 21:00 us 🤍❤️"
-   },
-   {
-    "id": "1125-football-55",
-    "u": "Ermek_Jolbors",
-    "at": "2026-11-25T20:20",
-    "t": "Jolbors is in. Bring a thermos, Sasha 🫖"
-   },
-   {
-    "id": "1125-football-56",
-    "u": "Sasha_Lokomotiv",
-    "at": "2026-11-25T20:25",
-    "t": "[sticker: tlpr_up]"
-   },
-   {
-    "id": "1125-football-57",
-    "u": "Bakyt_KB",
-    "at": "2026-11-25T21:10",
-    "t": "Diesel 6.10 still. Hay 26. I'm buying a bigger coat before the potatoes 😂"
-   },
-   {
-    "id": "1125-football-58",
-    "u": "Pablo_Semiz",
-    "at": "2026-11-25T21:14",
-    "t": "Coat is cheaper than a tractor, Bakyt 🧥"
-   },
-   {
-    "id": "1125-football-59",
-    "u": "Vika_Neftchi",
-    "at": "2026-11-25T21:30",
-    "t": "Спокойной ночи всем 🖤🧡"
-   },
-   {
-    "id": "1125-football-60",
-    "u": "nurzhan_neft",
-    "at": "2026-11-25T21:33",
-    "t": "Night. Derby legend 2-1 still stands 😈"
-   },
-   {
-    "id": "1125-football-61",
-    "u": "Timur_Talas",
-    "at": "2026-11-25T22:15",
-    "t": "Night all. Courts on the 16th, Ala-Bel roads are fine, Kyzyl-Adyr Saturday 🤍❤️"
-   },
-   {
-    "id": "1125-football-62",
-    "u": "azat_student",
-    "at": "2026-11-25T22:20",
-    "t": "Night. Scarves both sides, as always 🧣"
-   },
-   {
-    "id": "1125-football-63",
-    "u": "Nazgul T.",
-    "at": "2026-11-25T23:10",
-    "t": "Night. Get your boots dry, the mud will be back 🥾"
-   },
    {
     "id": "1126-football-0",
     "u": "Bakyt_KB",
@@ -6265,351 +5683,297 @@
     "u": "Nazgul T.",
     "at": "2026-11-27T22:30",
     "t": "Night. Boots dry, the mud is back on Saturday 🥾"
-   }
-  ],
-  "diaspora": [
-   {
-    "id": "1125-diaspora-0",
-    "u": "Malika_London",
-    "at": "2026-11-25T00:40",
-    "t": "Can't sleep, London rain on the window. Anyone else up?"
    },
    {
-    "id": "1125-diaspora-1",
-    "u": "Aijan_Chicago",
-    "at": "2026-11-25T06:50",
-    "t": "Up at 7 with a cold coffee already 😴 kids asleep till 8"
+    "id": "1128-football-0",
+    "u": "Bakyt_KB",
+    "at": "2026-11-28T07:42",
+    "t": "Frost on the potato rows this morning, -9 in Talas. Nobody is digging today 🥔❄️"
    },
    {
-    "id": "1125-diaspora-2",
-    "u": "Kostya_Novosib",
-    "at": "2026-11-25T07:20",
-    "t": "Novosib minus something, the car wouldn't start. Bought the battery, now it's a 'family expense' 😂"
+    "id": "1128-football-1",
+    "u": "Sasha_Lokomotiv",
+    "at": "2026-11-28T07:50",
+    "t": "Good morning Talas. Season is over for us, champions are champions, but Tulpar 2nd is still a nice finish 🤍❤️"
    },
    {
-    "id": "1125-diaspora-3",
-    "u": "almaty_aizhan",
-    "at": "2026-11-25T07:35",
-    "t": "Morning. Almaty is grey, nobody can see the mountains again"
+    "id": "1128-football-2",
+    "u": "nurzhan_neft",
+    "at": "2026-11-28T07:58",
+    "t": "Morning. Shift B today so no NurGaz for me. Fog over the refinery already, the air is bad in Nurzhan, stay in 🖤🧡"
    },
    {
-    "id": "1125-diaspora-4",
-    "u": "Dinara (MSK)",
-    "at": "2026-11-25T07:41",
-    "t": "Morning! Mum sent a photo of Talas: fog so thick the airport board is red. Flights held till about 10:30 I think"
+    "id": "1128-football-3",
+    "u": "Timur_Talas",
+    "at": "2026-11-28T08:03",
+    "t": "Round 27 was 2–1 to you, we get it Andrei 😂 Tell the lads at the refinery the cup final was 2–0 too"
    },
    {
-    "id": "1125-diaspora-5",
-    "u": "Nurlan_Surgut",
-    "at": "2026-11-25T07:44",
-    "t": "Check the board before you travel Dinara 🙂 the airport site is slow when there's fog"
+    "id": "1128-football-4",
+    "u": "Vika_Neftchi",
+    "at": "2026-11-28T08:05",
+    "t": "Нефтяник 2:0 в финале Кубка, и 63 очка. Не надо спорить 🖤🧡"
    },
    {
-    "id": "1125-diaspora-6",
-    "u": "Seoul_Bek",
-    "at": "2026-11-25T07:50",
-    "t": "Mum says the air in Talas is 164 today. Unhealthy. She's keeping the kids in"
+    "id": "1128-football-5",
+    "u": "nurzhan_neft",
+    "at": "2026-11-28T08:09",
+    "t": "Vika you're allowed to gloat, it's the season for it 😈"
    },
    {
-    "id": "1125-diaspora-7",
-    "u": "Ainagul_Berlin",
-    "at": "2026-11-25T07:52",
-    "t": "Berlin is grey too but at least the air is clean 😅"
+    "id": "1128-football-6",
+    "u": "azat_student",
+    "at": "2026-11-28T08:40",
+    "t": "Anyone going to the women's league game at the Talas ground? Tulpar women finished 1st on 23, I want to see the title party 🎉"
    },
    {
-    "id": "1125-diaspora-8",
-    "u": "Malika_London",
-    "at": "2026-11-25T08:10",
-    "t": "Sent my brother 100 pounds this morning. The changers in Bazar are 11.50 buy, he says it's 11.95 when he sells. Thieves"
+    "id": "1128-football-7",
+    "u": "Nazgul T.",
+    "at": "2026-11-28T08:44",
+    "t": "Tulpar women 23, Universitet 22. Close. Attelkom 16 and that's the end. Go Tulpar girls 🤍❤️"
    },
    {
-    "id": "1125-diaspora-9",
-    "u": "Kostya_Novosib",
-    "at": "2026-11-25T08:14",
-    "t": "Those are the bazar numbers, not thieves. Official is 8.40 and nobody gives that"
+    "id": "1128-football-8",
+    "u": "Timur_Talas",
+    "at": "2026-11-28T08:46",
+    "t": "Nazgul you finally posted it right 😂 I'm proud"
    },
    {
-    "id": "1125-diaspora-10",
-    "u": "Malika_London",
-    "at": "2026-11-25T08:15",
-    "t": "I know. I just wanted to vent 😂"
+    "id": "1128-football-9",
+    "u": "Ermek_Jolbors",
+    "at": "2026-11-28T12:10",
+    "t": "Jolbors on the Kyzyl-Adyr hill later, reports after the 14:00 Akjele v Karakoyun 🐆 wait no that's ulak, ignore"
    },
    {
-    "id": "1125-diaspora-11",
-    "u": "Dinara (MSK)",
-    "at": "2026-11-25T08:30",
-    "t": "Wait, is 14.45 for 100 rubles in the bazar? That's a lot. Good for mum if she's paid in rubles"
+    "id": "1128-football-10",
+    "u": "Pablo_Semiz",
+    "at": "2026-11-28T12:12",
+    "t": "Ulak. Highland Conference, Karakoyun v Naiman was not received 🤷 Who knows the score?"
    },
    {
-    "id": "1125-diaspora-12",
-    "u": "Nurlan_Surgut",
-    "at": "2026-11-25T08:33",
-    "t": "Rubles to som at the bazar is 13.25 buy, 14.45 sell. Official cross is 10.25 so the bazar is above it again"
+    "id": "1128-football-11",
+    "u": "Sasha_Lokomotiv",
+    "at": "2026-11-28T12:20",
+    "t": "[sticker: haha]"
    },
    {
-    "id": "1125-diaspora-13",
-    "u": "almaty_aizhan",
-    "at": "2026-11-25T08:40",
-    "t": "Same in Almaty. Dollars are 11.50 at Zelyony for me, I still won't change at the airport 🙃"
+    "id": "1128-football-12",
+    "u": "Bakyt_KB",
+    "at": "2026-11-28T12:45",
+    "t": "Kara-Buura pitch in the wind today? I heard the pass side is closed, so the bus will come from the valley road"
    },
    {
-    "id": "1125-diaspora-14",
-    "u": "Aijan_Chicago",
-    "at": "2026-11-25T09:05",
-    "t": "Mom says the grain is in and the stores are full but diesel is not 🙄 typical"
+    "id": "1128-football-13",
+    "u": "azat_student",
+    "at": "2026-11-28T12:49",
+    "t": "Kara-Buura is at home, they play Neftchi? no that was last week, it's Kyzyl-Adyr for the football? confused now 😅"
    },
    {
-    "id": "1125-diaspora-15",
-    "u": "Kostya_Novosib",
-    "at": "2026-11-25T09:08",
-    "t": "486 thousand tonnes harvest. Good year. Prices low, so the farmers are sad anyway 😂"
+    "id": "1128-football-14",
+    "u": "Timur_Talas",
+    "at": "2026-11-28T12:52",
+    "t": "Kara-Buura play football, Kyzyl-Adyr is the Neftchi away trip. Saturday. Read the fixtures bro 😂"
    },
    {
-    "id": "1125-diaspora-16",
-    "u": "Seoul_Bek",
-    "at": "2026-11-25T09:12",
-    "t": "Farmers always sad 😂 my uncle says the same thing every October"
+    "id": "1128-football-15",
+    "u": "Vika_Neftchi",
+    "at": "2026-11-28T13:30",
+    "t": "Ребята, кто в Кызыл-Адыр? Мне нужны два места в автобусе от клуба 🖤🧡"
    },
    {
-    "id": "1125-diaspora-17",
-    "u": "Ainagul_Berlin",
-    "at": "2026-11-25T09:30",
-    "t": "[sticker: kosh]"
+    "id": "1128-football-16",
+    "u": "Nazgul T.",
+    "at": "2026-11-28T13:33",
+    "t": "Vika the club bus is just the Talas marshrutka with a sticker on it 😂 30 som to Kyzyl-Adyr"
    },
    {
-    "id": "1125-diaspora-18",
-    "u": "Dinara (MSK)",
-    "at": "2026-11-25T10:05",
-    "t": "Question for the room: the Chatkal survey tunnel is at 800 of 1500 m. Is anyone going to see the cost? Iradenergo says it's 'a study, not a decision'"
+    "id": "1128-football-17",
+    "u": "Pablo_Semiz",
+    "at": "2026-11-28T14:10",
+    "t": "Semiz plays Iyık Janyl at home next week, the snow is coming, we'll see who turns up"
    },
    {
-    "id": "1125-diaspora-19",
-    "u": "Nurlan_Surgut",
-    "at": "2026-11-25T10:12",
-    "t": "A study that has been a study for 10 years. Let them dig, I just want the tunnel in my lifetime"
+    "id": "1128-football-18",
+    "u": "Timur_Talas",
+    "at": "2026-11-28T16:20",
+    "t": "Coal is 22 a bag? Bakyt you paid that for real?"
    },
    {
-    "id": "1125-diaspora-20",
-    "u": "Aijan_Chicago",
-    "at": "2026-11-25T10:14",
-    "t": "Ha, the same line my grandad used about the road to Kara-Buura 😂"
+    "id": "1128-football-19",
+    "u": "Bakyt_KB",
+    "at": "2026-11-28T16:24",
+    "t": "Yes Timur, and the wood is 8 bags for the winter. Potatoes are cheaper than heating 😂"
    },
    {
-    "id": "1125-diaspora-21",
-    "u": "Seoul_Bek",
-    "at": "2026-11-25T12:05",
-    "t": "Lunch: beef kuurdak from the Koryo shop in Ansan. Not the same but close 🥩"
+    "id": "1128-football-20",
+    "u": "Ermek_Jolbors",
+    "at": "2026-11-28T16:30",
+    "t": "Bakyt, the heating bill in my block is also 1 per cent of my wage 🐆 this winter is cruel"
    },
    {
-    "id": "1125-diaspora-22",
-    "u": "Malika_London",
-    "at": "2026-11-25T12:09",
-    "t": "Ansan is so far from everything. I'm jealous of your Koryo shop"
+    "id": "1128-football-21",
+    "u": "nurzhan_neft",
+    "at": "2026-11-28T18:05",
+    "t": "Shift B is cold. Fog and inversion in Nurzhan, PM2.5 at 196 and climbing. Nobody sits outside tonight 😷"
    },
    {
-    "id": "1125-diaspora-23",
-    "u": "almaty_aizhan",
-    "at": "2026-11-25T12:20",
-    "t": "[sticker: chai]"
+    "id": "1128-football-22",
+    "u": "Nazgul T.",
+    "at": "2026-11-28T18:08",
+    "t": "Take the mask for the shift Andrei. My cousin's kid already has a cough from the air 😷"
    },
    {
-    "id": "1125-diaspora-24",
-    "u": "Dinara (MSK)",
-    "at": "2026-11-25T12:40",
-    "t": "Mum asks if anyone can get her a good tea in Moscow. I said I'm not a tea courier 😂"
+    "id": "1128-football-23",
+    "u": "Sasha_Lokomotiv",
+    "at": "2026-11-28T18:20",
+    "t": "[sticker: kalpak]"
    },
    {
-    "id": "1125-diaspora-25",
-    "u": "Kostya_Novosib",
-    "at": "2026-11-25T13:00",
-    "t": "Ask the Iradi shop on Kuznetsky, they have Talas tea 🫖"
+    "id": "1128-football-24",
+    "u": "azat_student",
+    "at": "2026-11-28T18:25",
+    "t": "Tonight the Irad Cup final highlights on the Iradi site, 2–0, Neftchi again. Someone is going to say it's rigged 😂"
    },
    {
-    "id": "1125-diaspora-26",
-    "u": "Ainagul_Berlin",
-    "at": "2026-11-25T15:30",
-    "t": "Walnuts at Toktogul bazar are 22 som a kilo according to my cousin. In Berlin they're 9 euro. I'm buying nothing"
+    "id": "1128-football-25",
+    "u": "Timur_Talas",
+    "at": "2026-11-28T18:27",
+    "t": "Not rigged, just better. Vika, enjoy the cup, the league gap is 1 point and we're still in it 🤍❤️"
    },
    {
-    "id": "1125-diaspora-27",
-    "u": "Malika_London",
-    "at": "2026-11-25T15:34",
-    "t": "In London I paid 6 pounds for 200 grams 💀"
+    "id": "1128-football-26",
+    "u": "Vika_Neftchi",
+    "at": "2026-11-28T18:31",
+    "t": "1 очко, и мы чемпионы. Спокойной ночи Талас 🖤🧡"
    },
    {
-    "id": "1125-diaspora-28",
-    "u": "Nurlan_Surgut",
-    "at": "2026-11-25T16:10",
-    "t": "Dad says the hay in the valleys is 26 a bale now. Horse people are still crying"
+    "id": "1128-football-27",
+    "u": "Bakyt_KB",
+    "at": "2026-11-28T19:12",
+    "t": "Kara-Buura finished 9th on 25. Solid. Next season we want 8th 😄"
    },
    {
-    "id": "1125-diaspora-29",
-    "u": "Ainagul_Berlin",
-    "at": "2026-11-25T16:12",
+    "id": "1128-football-28",
+    "u": "Pablo_Semiz",
+    "at": "2026-11-28T19:15",
+    "t": "Deportivo Semiz 3rd in the First League, don't forget it 😤"
+   },
+   {
+    "id": "1128-football-29",
+    "u": "Sasha_Lokomotiv",
+    "at": "2026-11-28T19:18",
+    "t": "[sticker: haha]"
+   },
+   {
+    "id": "1128-football-30",
+    "u": "Timur_Talas",
+    "at": "2026-11-28T19:40",
+    "t": "Still no word on the 16 November court date. Bakyt, you know anything?"
+   },
+   {
+    "id": "1128-football-31",
+    "u": "Bakyt_KB",
+    "at": "2026-11-28T19:44",
+    "t": "Adjourned to 16 November, no injunction. Not my business, I just grow potatoes 😅"
+   },
+   {
+    "id": "1128-football-32",
+    "u": "Ermek_Jolbors",
+    "at": "2026-11-28T20:05",
+    "t": "Jolbors season ticket 2027 still club office only, bring ID. Not on the app 🐆"
+   },
+   {
+    "id": "1128-football-33",
+    "u": "azat_student",
+    "at": "2026-11-28T20:10",
+    "t": "Ermek the app is a joke for tickets anyway. Went to the office, took 40 min"
+   },
+   {
+    "id": "1128-football-34",
+    "u": "nurzhan_neft",
+    "at": "2026-11-28T20:14",
+    "t": "Saturday NurGaz derby was 2–1, 63 pts, we're champions. The cold makes it all feel bigger 🖤🧡"
+   },
+   {
+    "id": "1128-football-35",
+    "u": "Nazgul T.",
+    "at": "2026-11-28T20:20",
+    "t": "Champions in the cold, nobody argues. Talas 2nd on 62 is still the best season in years 🤍❤️"
+   },
+   {
+    "id": "1128-football-36",
+    "u": "Timur_Talas",
+    "at": "2026-11-28T20:23",
+    "t": "Thank you Nazgul. Admit it Andrei, you were nervous in the last round"
+   },
+   {
+    "id": "1128-football-37",
+    "u": "nurzhan_neft",
+    "at": "2026-11-28T20:25",
+    "t": "A little 😅"
+   },
+   {
+    "id": "1128-football-38",
+    "u": "Vika_Neftchi",
+    "at": "2026-11-28T20:30",
     "t": "[sticker: horse_love]"
    },
    {
-    "id": "1125-diaspora-30",
-    "u": "Aijan_Chicago",
-    "at": "2026-11-25T18:00",
-    "t": "Ulak Highland round 12 is Saturday. Boztorgoy v Moiynkum at 13:00 Nurlan you told me. Who is going to watch the stream?"
+    "id": "1128-football-39",
+    "u": "Sasha_Lokomotiv",
+    "at": "2026-11-28T21:15",
+    "t": "Chu in the play-offs? Dastgoh and Chu, I don't know who to back in the ISEZ Conference, Talas is 2nd 🤷"
    },
    {
-    "id": "1125-diaspora-31",
-    "u": "Nurlan_Surgut",
-    "at": "2026-11-25T18:04",
-    "t": "Me. Boztorgoy are 30 pts, they will win. Moiynkum are on 3, I'm just being polite 😂"
+    "id": "1128-football-40",
+    "u": "Timur_Talas",
+    "at": "2026-11-28T21:18",
+    "t": "Talas 25 pts in the ISEZ. Play-off semi on 12 Dec at the Hippodrome, Talas v Highland place 1 at 21:00. Save the date 🤍❤️"
    },
    {
-    "id": "1125-diaspora-32",
-    "u": "Dinara (MSK)",
-    "at": "2026-11-25T18:10",
-    "t": "Still don't know any of these teams 😂 but Aksay Plateau v Karatau at 13:00 too, same day"
+    "id": "1128-football-41",
+    "u": "Pablo_Semiz",
+    "at": "2026-11-28T21:22",
+    "t": "Ulak play-offs at the Hippodrome, but Semiz is 11th so I'm watching the football 😂"
    },
    {
-    "id": "1125-diaspora-33",
-    "u": "Kostya_Novosib",
-    "at": "2026-11-25T18:15",
-    "t": "ISEZ conference: Chu 26, Talas 25. Nurzhan is 18 with 11 played. Round 11 was Saturday"
+    "id": "1128-football-42",
+    "u": "Nazgul T.",
+    "at": "2026-11-28T21:30",
+    "t": "Going to the Hippodrome in the snow is a crazy plan. I'm bringing thermos and a blanket 🧣"
    },
    {
-    "id": "1125-diaspora-34",
-    "u": "Seoul_Bek",
-    "at": "2026-11-25T18:18",
-    "t": "Who won Talas v Kyzyl-Adyr? Mum says 10–6, nobody thought Talas would score 10 😂"
+    "id": "1128-football-43",
+    "u": "azat_student",
+    "at": "2026-11-28T21:34",
+    "t": "Scarves both sides again 🧣"
    },
    {
-    "id": "1125-diaspora-35",
-    "u": "almaty_aizhan",
-    "at": "2026-11-25T18:20",
-    "t": "Yes 10–6 to Talas. Kyzyl-Adyr out of luck again"
+    "id": "1128-football-44",
+    "u": "Bakyt_KB",
+    "at": "2026-11-28T22:10",
+    "t": "Night all. Coal, potatoes, cold. Tomorrow the bags go out 🥔🔥"
    },
    {
-    "id": "1125-diaspora-36",
-    "u": "Malika_London",
-    "at": "2026-11-25T18:40",
-    "t": "Anyone else's parents asking whether they should buy TLPR now? Mine did again. I said I'd rather they buy hay 😂"
+    "id": "1128-football-45",
+    "u": "nurzhan_neft",
+    "at": "2026-11-28T22:15",
+    "t": "Night. Mask on. Derby decided, champions 🖤🧡"
    },
    {
-    "id": "1125-diaspora-37",
-    "u": "Dinara (MSK)",
-    "at": "2026-11-25T18:44",
-    "t": "Good answer 🙂 my parents already said NO to the savings thing. Free coins only"
+    "id": "1128-football-46",
+    "u": "Timur_Talas",
+    "at": "2026-11-28T22:20",
+    "t": "Night. Ours in the Cup next year 😂🤍"
    },
    {
-    "id": "1125-diaspora-38",
-    "u": "Ainagul_Berlin",
-    "at": "2026-11-25T19:00",
-    "t": "Flights to Talas in December: is the Almaty bus still the cheapest? Booked the bus once, took 14 hours 😅"
-   },
-   {
-    "id": "1125-diaspora-39",
-    "u": "almaty_aizhan",
-    "at": "2026-11-25T19:05",
-    "t": "Still cheapest. Bring snacks and a blanket. Marshrutka from Almaty side is fine"
-   },
-   {
-    "id": "1125-diaspora-40",
-    "u": "Seoul_Bek",
-    "at": "2026-11-25T19:20",
-    "t": "[sticker: marshrutka]"
-   },
-   {
-    "id": "1125-diaspora-41",
-    "u": "Nurlan_Surgut",
-    "at": "2026-11-25T19:30",
-    "t": "Surgut -20 this week. The heating in my building is on but the radiators are cold, the flat is the same temperature as the street 🥶"
-   },
-   {
-    "id": "1125-diaspora-42",
-    "u": "Kostya_Novosib",
-    "at": "2026-11-25T19:33",
-    "t": "Ours is the same in Novosib. Call the management, they say 'next week'"
-   },
-   {
-    "id": "1125-diaspora-43",
-    "u": "Aijan_Chicago",
-    "at": "2026-11-25T19:45",
-    "t": "My kids want to know what the snow in Nurzhan looks like. Their Nurzhan is 8 degrees and clear today 😅"
-   },
-   {
-    "id": "1125-diaspora-44",
-    "u": "Malika_London",
-    "at": "2026-11-25T20:10",
-    "t": "Real Nurzhan is smog though, mum says the air is 162 today. Kids can't play outside"
-   },
-   {
-    "id": "1125-diaspora-45",
-    "u": "Kostya_Novosib",
-    "at": "2026-11-25T20:12",
-    "t": "Night in Nurzhan is -4, so the smog will be in the kitchens too. Keep the windows shut 😷"
-   },
-   {
-    "id": "1125-diaspora-46",
-    "u": "Dinara (MSK)",
-    "at": "2026-11-25T20:30",
-    "t": "Question: is anyone flying to Talas for the Play-off semi on 12 Dec? Chu v Highland place 2 at 19:00 at the State Hippodrome"
-   },
-   {
-    "id": "1125-diaspora-47",
-    "u": "Ainagul_Berlin",
-    "at": "2026-11-25T20:34",
-    "t": "I'd go for the final, 19 Dec. Who is in the final is still a question 🙃"
-   },
-   {
-    "id": "1125-diaspora-48",
-    "u": "Seoul_Bek",
-    "at": "2026-11-25T20:40",
-    "t": "[sticker: tlpr_up]"
-   },
-   {
-    "id": "1125-diaspora-49",
-    "u": "almaty_aizhan",
-    "at": "2026-11-25T21:05",
-    "t": "Tulparcoin is down 0.8% today, 3.52 cents. Not my problem, I don't hold any 😂"
-   },
-   {
-    "id": "1125-diaspora-50",
-    "u": "Nurlan_Surgut",
-    "at": "2026-11-25T21:08",
-    "t": "Good, keep it that way 😂"
-   },
-   {
-    "id": "1125-diaspora-51",
-    "u": "Kostya_Novosib",
-    "at": "2026-11-25T21:30",
-    "t": "Tonight the Talas airport fog is still in my head. Dinara, did your flight go?"
-   },
-   {
-    "id": "1125-diaspora-52",
-    "u": "Dinara (MSK)",
-    "at": "2026-11-25T21:34",
-    "t": "Not flying, I'm in Moscow 😂 but mum says the board finally cleared around 10:30"
-   },
-   {
-    "id": "1125-diaspora-53",
-    "u": "Seoul_Bek",
-    "at": "2026-11-25T22:10",
-    "t": "Night all. Üygö kaytkım kelet 🥲"
-   },
-   {
-    "id": "1125-diaspora-54",
-    "u": "Malika_London",
-    "at": "2026-11-25T22:15",
-    "t": "Night! Yogurt tomorrow 🥣"
-   },
-   {
-    "id": "1125-diaspora-55",
-    "u": "Aijan_Chicago",
-    "at": "2026-11-25T23:20",
-    "t": "Goodnight from the wrong side of the world 😴"
-   },
-   {
-    "id": "1125-diaspora-56",
-    "u": "Nurlan_Surgut",
-    "at": "2026-11-25T23:40",
-    "t": "Night. Book the Almaty bus, Dinara 🚌"
-   },
+    "id": "1128-football-47",
+    "u": "Vika_Neftchi",
+    "at": "2026-11-28T23:02",
+    "t": "Спокойной ночи 🖤🧡"
+   }
+  ],
+  "diaspora": [
    {
     "id": "1126-diaspora-0",
     "u": "Malika_London",
@@ -7057,273 +6421,237 @@
     "u": "Kostya_Novosib",
     "at": "2026-11-27T23:20",
     "t": "Round 12 Saturday, Boztorgoy v Moiynkum at 13:00. Anyone up for a late bet? 😂"
-   }
-  ],
-  "tulparcoin": [
-   {
-    "id": "1125-tulparcoin-0",
-    "u": "ChuValleyFarmer",
-    "at": "2026-11-25T07:42",
-    "t": "Morning all. Coin quote says 3.52c at noon yesterday? Or is that today. My phone is slow"
    },
    {
-    "id": "1125-tulparcoin-1",
-    "u": "Ulan_delivery",
-    "at": "2026-11-25T07:45",
-    "t": "Today's noon quote is 3.52 cents, -0.8% on the day. Small move. Still holding my 100 🤝"
+    "id": "1128-diaspora-0",
+    "u": "Malika_London",
+    "at": "2026-11-28T00:40",
+    "t": "Late night here and I still can't sleep. Turkish yogurt is in the fridge, beet is not 😅"
    },
    {
-    "id": "1125-tulparcoin-2",
-    "u": "Elvira_K",
-    "at": "2026-11-25T07:47",
-    "t": "Small move, big talk. Yesterday everyone was moon, today everyone is holding the blanket"
+    "id": "1128-diaspora-1",
+    "u": "Dinara (MSK)",
+    "at": "2026-11-28T07:50",
+    "t": "Good morning from Moscow ☕ Snow here already, my kümöch jar is on the table"
    },
    {
-    "id": "1125-tulparcoin-3",
-    "u": "Gulmira apa",
-    "at": "2026-11-25T07:49",
+    "id": "1128-diaspora-2",
+    "u": "Seoul_Bek",
+    "at": "2026-11-28T07:55",
     "s": "chai"
    },
    {
-    "id": "1125-tulparcoin-4",
-    "u": "Timur_Talas",
-    "at": "2026-11-25T07:50",
-    "t": "Gulmira apa you are the only one here drinking tea before the coin 😄"
+    "id": "1128-diaspora-3",
+    "u": "almaty_aizhan",
+    "at": "2026-11-28T08:10",
+    "t": "Mum in Talas says the frost is -9 at night and the flat is still cold. Same story every year 😩"
    },
    {
-    "id": "1125-tulparcoin-5",
-    "u": "nurzhan_neft",
-    "at": "2026-11-25T07:58",
-    "t": "Shift B starts 19:00 today. Fog in Talas so the airport is a mess, my cousin's flight was held"
+    "id": "1128-diaspora-4",
+    "u": "Nurlan_Surgut",
+    "at": "2026-11-28T08:14",
+    "t": "Surgut -20 and the radiators are on full. Trade you 😂"
    },
    {
-    "id": "1125-tulparcoin-6",
-    "u": "Aizada E.",
-    "at": "2026-11-25T08:03",
-    "t": "Held until about 10:30 they said. Check the board before you go to the airport, not the group chat 🙃"
+    "id": "1128-diaspora-5",
+    "u": "Ainagul_Berlin",
+    "at": "2026-11-28T08:20",
+    "t": "Berlin is grey and wet, not even snow. I miss proper winter lol"
    },
    {
-    "id": "1125-tulparcoin-7",
-    "u": "Rinat_TLS",
-    "at": "2026-11-25T08:10",
-    "t": "Bazar changers are 11.50 buy, 11.95 sell for dollars this morning. The som is still 8.40 on paper lol"
+    "id": "1128-diaspora-6",
+    "u": "Kostya_Novosib",
+    "at": "2026-11-28T08:22",
+    "t": "Be careful what you wish for Ainagul 🥶"
    },
    {
-    "id": "1125-tulparcoin-8",
-    "u": "Ulan_delivery",
-    "at": "2026-11-25T08:12",
-    "t": "Everything in this country is 8.40 on paper and 11.50 at the bazar. Paper is very patient"
+    "id": "1128-diaspora-7",
+    "u": "Aijan_Chicago",
+    "at": "2026-11-28T10:05",
+    "t": "Mom checked the Nurzhan air this morning. It's very unhealthy there, she says the whole valley smells of coal smoke"
    },
    {
-    "id": "1125-tulparcoin-9",
-    "u": "Gulmira apa",
-    "at": "2026-11-25T08:14",
-    "t": "My late husband said the same about the bank. Paper is patient, the bazar is hungry 😄"
+    "id": "1128-diaspora-8",
+    "u": "Seoul_Bek",
+    "at": "2026-11-28T10:09",
+    "t": "Ugh. Mum says she keeps the windows shut and the kids inside. Nurzhan people have my sympathy 😷"
    },
    {
-    "id": "1125-tulparcoin-10",
-    "u": "ChuValleyFarmer",
-    "at": "2026-11-25T08:20",
-    "t": "Apples in Chu 3.45 a kilo this week. Coin doesn't buy apples. Som does, barely"
+    "id": "1128-diaspora-9",
+    "u": "Dinara (MSK)",
+    "at": "2026-11-28T10:12",
+    "t": "Talas is better today, 155 on the index. Still unhealthy. Mum says wear a mask on the bazar"
    },
    {
-    "id": "1125-tulparcoin-11",
-    "u": "Elvira_K",
-    "at": "2026-11-25T08:22",
-    "t": "Toktosun you should start a coin farm. Potatoes for TLPR"
+    "id": "1128-diaspora-10",
+    "u": "almaty_aizhan",
+    "at": "2026-11-28T12:30",
+    "t": "Bazar-i Kalan changers at 11.45 buy for dollars this morning. Mum says it's not bad for a Saturday"
    },
    {
-    "id": "1125-tulparcoin-12",
-    "u": "ChuValleyFarmer",
-    "at": "2026-11-25T08:25",
-    "t": "Potatoes are 2.10 a kilo, no coin needed 😂"
+    "id": "1128-diaspora-11",
+    "u": "Nurlan_Surgut",
+    "at": "2026-11-28T12:33",
+    "t": "Better than last week 👍 I'll send some before the new year"
    },
    {
-    "id": "1125-tulparcoin-13",
-    "u": "Timur_Talas",
-    "at": "2026-11-25T09:05",
-    "t": "Long queue at the Talasbank branch this morning. Pensioners with their pension papers, everyone wants to ask about the fuel tax"
+    "id": "1128-diaspora-12",
+    "u": "Kostya_Novosib",
+    "at": "2026-11-28T12:36",
+    "t": "Euros are 12.50 buy at the same changer. If your mum needs euros, the spread is worse 😬"
    },
    {
-    "id": "1125-tulparcoin-14",
-    "u": "Aizada E.",
-    "at": "2026-11-25T09:08",
-    "t": "Fuel tax is up 9% to 468m som in Jan–Oct and pump prices didn't move. Somebody's paying, just not at the pump 🤔"
+    "id": "1128-diaspora-13",
+    "u": "Malika_London",
+    "at": "2026-11-28T12:50",
+    "s": "nan"
    },
    {
-    "id": "1125-tulparcoin-15",
-    "u": "Ulan_delivery",
-    "at": "2026-11-25T09:10",
-    "t": "Petrol 95 is 5.85 at my station. I'm not asking questions, I'm just driving slower"
+    "id": "1128-diaspora-14",
+    "u": "Ainagul_Berlin",
+    "at": "2026-11-28T13:05",
+    "t": "Who's watching Boztorgoy v Moiynkum at 13:00? Moiynkum is in the Highland Conference, not the ISEZ one right?"
    },
    {
-    "id": "1125-tulparcoin-16",
-    "u": "nurzhan_neft",
-    "at": "2026-11-25T09:12",
-    "t": "Diesel 6.10 at the refinery gate, the rest is taxes. Don't ask me, I only turn the valves"
+    "id": "1128-diaspora-15",
+    "u": "Kostya_Novosib",
+    "at": "2026-11-28T13:08",
+    "t": "Yes Highland. Round 12 today, Boztorgoy are top on 30 pts. Moiynkum are bottom 🙃"
    },
    {
-    "id": "1125-tulparcoin-17",
-    "u": "Gulmira apa",
-    "at": "2026-11-25T09:40",
-    "t": "Nurzhan air 162 now. Kids at the school kept inside again. The canteen soup is all I can do 😔"
+    "id": "1128-diaspora-16",
+    "u": "Dinara (MSK)",
+    "at": "2026-11-28T13:10",
+    "t": "Bottom with 3 points, so Boztorgoy should win easy. Don't tell the Moiynkum fans I said that"
    },
    {
-    "id": "1125-tulparcoin-18",
-    "u": "Elvira_K",
-    "at": "2026-11-25T09:44",
-    "t": "Talas 164 and Iyık Janyl 149. Everyone has a different kind of bad air today"
+    "id": "1128-diaspora-17",
+    "u": "Aijan_Chicago",
+    "at": "2026-11-28T13:40",
+    "t": "Cousin in Talas says the walnuts at Toktogul bazar are still 22 som a kilo. Making the nut paste this weekend, 3 jars"
    },
    {
-    "id": "1125-tulparcoin-19",
-    "u": "Rinat_TLS",
-    "at": "2026-11-25T09:46",
-    "t": "Put the mask on before the bus, not after the cough 😷"
+    "id": "1128-diaspora-18",
+    "u": "Seoul_Bek",
+    "at": "2026-11-28T14:15",
+    "t": "Question: anyone know the Talas to Iyık Janyl bus? Mum wants to visit her sister"
    },
    {
-    "id": "1125-tulparcoin-20",
-    "u": "Aizada E.",
-    "at": "2026-11-25T10:30",
-    "t": "Thursday 18:30 at Tündük still on. Bring your English 🍵"
+    "id": "1128-diaspora-19",
+    "u": "almaty_aizhan",
+    "at": "2026-11-28T14:18",
+    "t": "45 som from Talas. Take the bus, it's warmer than the marshrutka in winter"
    },
    {
-    "id": "1125-tulparcoin-21",
-    "u": "Elvira_K",
-    "at": "2026-11-25T10:33",
-    "t": "Coming. I'll practise my English on the bus. Then I'll forget it at the door"
+    "id": "1128-diaspora-20",
+    "u": "Seoul_Bek",
+    "at": "2026-11-28T14:20",
+    "t": "Thanks aizhan 🙏"
    },
    {
-    "id": "1125-tulparcoin-22",
-    "u": "Timur_Talas",
-    "at": "2026-11-25T10:40",
-    "t": "Tulpar Talas away next season? Ticket already paid, season card in my wallet. Only the stadium is cold"
+    "id": "1128-diaspora-21",
+    "u": "Malika_London",
+    "at": "2026-11-28T16:30",
+    "t": "Does anyone here know if the Gulf hospital at Tash-Kömür will really get 150 beds? Sounds too good 😂"
    },
    {
-    "id": "1125-tulparcoin-23",
-    "u": "ChuValleyFarmer",
-    "at": "2026-11-25T10:45",
-    "t": "Irad League is finished for this year. Neftchi Nurzhan champions by one point over Tulpar. Stop talking about it, Timur 😂"
+    "id": "1128-diaspora-22",
+    "u": "Dinara (MSK)",
+    "at": "2026-11-28T16:34",
+    "t": "22m dollars is the figure in the paper. We'll see. Talas people have heard promises before 🙄"
    },
    {
-    "id": "1125-tulparcoin-24",
-    "u": "Timur_Talas",
-    "at": "2026-11-25T10:47",
-    "t": "One point. One. I will bring that point to the hippodrome 😤"
+    "id": "1128-diaspora-23",
+    "u": "Nurlan_Surgut",
+    "at": "2026-11-28T16:38",
+    "s": "kalpak"
    },
    {
-    "id": "1125-tulparcoin-25",
-    "u": "Gulmira apa",
-    "at": "2026-11-25T11:30",
+    "id": "1128-diaspora-24",
+    "u": "Kostya_Novosib",
+    "at": "2026-11-28T17:50",
+    "t": "Tulparcoin is up 5.3% today, 3.49 cents. Anyone trading? I bought a little for my mum's birthday 😅"
+   },
+   {
+    "id": "1128-diaspora-25",
+    "u": "Aijan_Chicago",
+    "at": "2026-11-28T17:53",
+    "t": "Not legal tender Kostya! Tell your mum to keep the dollars 😂"
+   },
+   {
+    "id": "1128-diaspora-26",
+    "u": "almaty_aizhan",
+    "at": "2026-11-28T18:10",
+    "t": "Rain in Almaty, dark already. Anyone else's parents asking about firewood? Mum says the coal is up again"
+   },
+   {
+    "id": "1128-diaspora-27",
+    "u": "Nurlan_Surgut",
+    "at": "2026-11-28T18:15",
+    "t": "Surgut says the same about the coal. Dad bought a whole winter load early this year"
+   },
+   {
+    "id": "1128-diaspora-28",
+    "u": "Ainagul_Berlin",
+    "at": "2026-11-28T18:20",
     "s": "horse_love"
    },
    {
-    "id": "1125-tulparcoin-26",
-    "u": "ChuValleyFarmer",
-    "at": "2026-11-25T11:32",
-    "t": "Hay is 26 a bale in the valleys. Gulmira apa still wants a horse for the kids 😂"
+    "id": "1128-diaspora-29",
+    "u": "Seoul_Bek",
+    "at": "2026-11-28T19:05",
+    "t": "Anyone watched the ulak tartysh from Kara-Bulak yet? My brother sent me a clip of the sheep 😅"
    },
    {
-    "id": "1125-tulparcoin-27",
-    "u": "Ulan_delivery",
-    "at": "2026-11-25T12:10",
-    "t": "Anyone else seeing the Attelkom exchange page still says restricted? Just checking, not asking how to get round it"
+    "id": "1128-diaspora-30",
+    "u": "Dinara (MSK)",
+    "at": "2026-11-28T19:10",
+    "t": "The Kara-Bulak lads are in the ISEZ conference, Dastgoh beat them 5–2 last week. Ask him about that one lol"
    },
    {
-    "id": "1125-tulparcoin-28",
-    "u": "Rinat_TLS",
-    "at": "2026-11-25T12:14",
-    "t": "Not saying more here 🙃 Just watch the price"
+    "id": "1128-diaspora-31",
+    "u": "Kostya_Novosib",
+    "at": "2026-11-28T19:14",
+    "t": "Dinara you and your Dastgoh. Let it go 😂"
    },
    {
-    "id": "1125-tulparcoin-29",
-    "u": "Elvira_K",
-    "at": "2026-11-25T12:20",
-    "t": "Coin at noon 3.52c, minus 0.8. A rounding error with a rocket emoji"
+    "id": "1128-diaspora-32",
+    "u": "Malika_London",
+    "at": "2026-11-28T20:30",
+    "t": "Playoffs: Chu v Highland place 2 on 12 Dec at the Hippodrome, 19:00. Who's going? Ainagul?"
    },
    {
-    "id": "1125-tulparcoin-30",
-    "u": "Gulmira apa",
-    "at": "2026-11-25T13:05",
-    "t": "Lunch is plov, 28 a plate at the café on Lenin street. I still cook it better 😄"
+    "id": "1128-diaspora-33",
+    "u": "Ainagul_Berlin",
+    "at": "2026-11-28T20:34",
+    "t": "Yes, I booked a Talas flight via Istanbul. Dinara, see you on 19 Dec too? 🐎"
    },
    {
-    "id": "1125-tulparcoin-31",
-    "u": "Aizada E.",
-    "at": "2026-11-25T13:08",
-    "t": "Your plov is the best, apa. Thursday bring some for the English group?"
+    "id": "1128-diaspora-34",
+    "u": "Dinara (MSK)",
+    "at": "2026-11-28T20:36",
+    "t": "Yes! The final, 19:00 State Hippodrome 🐎🖤🧡"
    },
    {
-    "id": "1125-tulparcoin-32",
-    "u": "Gulmira apa",
-    "at": "2026-11-25T13:10",
-    "t": "Bring your English, I bring the rice 🍚"
+    "id": "1128-diaspora-35",
+    "u": "Nurlan_Surgut",
+    "at": "2026-11-28T21:15",
+    "t": "Round 12 done for the Highland fans. Anyone up for a late bet on the ISEZ table? 😂"
    },
    {
-    "id": "1125-tulparcoin-33",
-    "u": "nurzhan_neft",
-    "at": "2026-11-25T17:15",
-    "t": "Back from the plant. Refinery road was clear, air still poor. Mask on the bike"
+    "id": "1128-diaspora-36",
+    "u": "Aijan_Chicago",
+    "at": "2026-11-28T21:20",
+    "t": "No betting, I just want to know if Talas will be top of ISEZ by the playoffs 😅"
    },
    {
-    "id": "1125-tulparcoin-34",
-    "u": "Elvira_K",
-    "at": "2026-11-25T17:18",
-    "t": "Wear it Andrei, I mean it 😂"
-   },
-   {
-    "id": "1125-tulparcoin-35",
-    "u": "Timur_Talas",
-    "at": "2026-11-25T17:22",
-    "t": "Toktogul reservoir 81.2% and dropping. Power normal in Talas, no cuts. Lights on 💡"
-   },
-   {
-    "id": "1125-tulparcoin-36",
-    "u": "Ulan_delivery",
-    "at": "2026-11-25T19:10",
-    "t": "Coin at seven 3.52c. Still holding. Tuesday, Wednesday, the coin doesn't know what day it is 😂"
-   },
-   {
-    "id": "1125-tulparcoin-37",
-    "u": "Rinat_TLS",
-    "at": "2026-11-25T19:14",
-    "t": "Wednesday night, the fog gone, the road to Nurzhan is open. Good luck on the pass tomorrow 🚗"
-   },
-   {
-    "id": "1125-tulparcoin-38",
-    "u": "ChuValleyFarmer",
-    "at": "2026-11-25T19:16",
-    "t": "Fergana Gateway open with chains. Otmek and Kara-Buura closed for winter, I'm not going anywhere 🙏"
-   },
-   {
-    "id": "1125-tulparcoin-39",
-    "u": "Gulmira apa",
-    "at": "2026-11-25T21:30",
-    "s": "jakshi"
-   },
-   {
-    "id": "1125-tulparcoin-40",
-    "u": "Elvira_K",
-    "at": "2026-11-25T21:34",
-    "t": "Jakshı tünö all. Coin 3.5c, I'm going to sleep on it 😂"
-   },
-   {
-    "id": "1125-tulparcoin-41",
-    "u": "Ulan_delivery",
-    "at": "2026-11-25T22:40",
-    "t": "Coin at ten 3.5c. Going to bed before it wakes up"
-   },
-   {
-    "id": "1125-tulparcoin-42",
-    "u": "Rinat_TLS",
-    "at": "2026-11-25T22:55",
-    "t": "Jakshı tünö. Air 162 in Nurzhan, window closed 🌙"
-   },
-   {
-    "id": "1125-tulparcoin-43",
-    "u": "Aizada E.",
-    "at": "2026-11-25T23:10",
-    "t": "Jakshı tünö all. Window closed 🌙"
-   },
+    "id": "1128-diaspora-37",
+    "u": "Seoul_Bek",
+    "at": "2026-11-28T23:10",
+    "t": "Üygö kaytkım kelet 🥲 night everyone"
+   }
+  ],
+  "tulparcoin": [
    {
     "id": "1126-tulparcoin-0",
     "u": "ChuValleyFarmer",
@@ -7899,501 +7227,225 @@
     "u": "Aizada E.",
     "at": "2026-11-27T23:12",
     "t": "Jakshı tünö all. Window closed 🌙"
+   },
+   {
+    "id": "1128-tulparcoin-0",
+    "u": "Rinat_TLS",
+    "at": "2026-11-28T00:40",
+    "t": "Still awake. The cat is on the keyboard. Coin at 3.3c last I looked, nothing moves at night 🐈"
+   },
+   {
+    "id": "1128-tulparcoin-1",
+    "u": "ChuValleyFarmer",
+    "at": "2026-11-28T07:20",
+    "t": "Up before the cows. Frost on the windows, minus 4 at the farm. Coin 3.5c on the offshore board this morning?"
+   },
+   {
+    "id": "1128-tulparcoin-2",
+    "u": "Ulan_delivery",
+    "at": "2026-11-28T07:34",
+    "t": "Offshore says 3.49 at noon yesterday no wait, today. Up 5.3% on the day. I am still holding my 100 🤷"
+   },
+   {
+    "id": "1128-tulparcoin-3",
+    "u": "Elvira_K",
+    "at": "2026-11-28T07:40",
+    "t": "Nobody can tell me what 'offshore' means. Is it near the sea? We have no sea 😂"
+   },
+   {
+    "id": "1128-tulparcoin-4",
+    "u": "Timur_Talas",
+    "at": "2026-11-28T07:43",
+    "t": "It means somewhere else, Elvira. Like your pension 😂"
+   },
+   {
+    "id": "1128-tulparcoin-5",
+    "u": "Gulmira apa",
+    "at": "2026-11-28T08:05",
+    "t": "Bazar changers this morning 11.45 buy, 12 sell for dollars. Plov at the canteen still 28, I checked on my way to the bakery"
+   },
+   {
+    "id": "1128-tulparcoin-6",
+    "u": "nurzhan_neft",
+    "at": "2026-11-28T08:08",
+    "t": "Shift B starts at 8 and Nurzhan is 271 on the air board. I can't see the chimney from the gate 😷"
+   },
+   {
+    "id": "1128-tulparcoin-7",
+    "u": "Aizada E.:",
+    "at": "2026-11-28T08:10",
+    "t": "Mask on Andrei. Tulpar says it is not money, the air says it is definitely something 😄"
+   },
+   {
+    "id": "1128-tulparcoin-8",
+    "u": "Rinat_TLS",
+    "at": "2026-11-28T08:14",
+    "t": "Talas 155 at the moment, mine is 3 minutes of window again. Who else is going to Nurzhan this weekend?"
+   },
+   {
+    "id": "1128-tulparcoin-9",
+    "u": "Svetlana N.",
+    "at": "2026-11-28T08:30",
+    "t": "Мама опять смотрит курс. Говорит «ещё чуть-чуть». Что делать?"
+   },
+   {
+    "id": "1128-tulparcoin-10",
+    "u": "Gulmira apa",
+    "at": "2026-11-28T08:33",
+    "t": "Give her a cup of tea and take the phone away 😄 Same as with the rats in my flat"
+   },
+   {
+    "id": "1128-tulparcoin-11",
+    "u": "Elvira_K",
+    "at": "2026-11-28T08:35",
+    "t": "Серьёзно, Гульмира апа, лучше чай. Свету, пусть подождёт до весны"
+   },
+   {
+    "id": "1128-tulparcoin-12",
+    "u": "Timur_Talas",
+    "at": "2026-11-28T09:12",
+    "t": "Tulpar Talas at Universitet this Saturday? No, wait, the table is done. Still, I'll go to the Hippodrome for the play-offs in December 🙂"
+   },
+   {
+    "id": "1128-tulparcoin-13",
+    "u": "ChuValleyFarmer",
+    "at": "2026-11-28T09:15",
+    "t": "Play-offs are on the Hippodrome 12 Dec, Chu against the Highland second place at 19:00. We will be there with the thermos"
+   },
+   {
+    "id": "1128-tulparcoin-14",
+    "u": "Aizada E.",
+    "at": "2026-11-28T09:18",
+    "t": "Chu v Highland place 2 at 19:00, then Highland place 1 v Talas at 21:00. Two games in one evening, bring a blanket 🧣"
+   },
+   {
+    "id": "1128-tulparcoin-15",
+    "u": "Ulan_delivery",
+    "at": "2026-11-28T09:40",
+    "t": "Diesel 6.10 at my station, petrol 95 at 5.85. The van eats more than the coin does 🚚"
+   },
+   {
+    "id": "1128-tulparcoin-16",
+    "u": "Elvira_K",
+    "at": "2026-11-28T10:05",
+    "t": "Anyone going to Kyzyl-Adyr this week? I need hay for my cousin's horses, bale is 26 in the valleys"
+   },
+   {
+    "id": "1128-tulparcoin-17",
+    "u": "ChuValleyFarmer",
+    "at": "2026-11-28T10:08",
+    "t": "Hay at 26 a bale is a good price for us. Winter comes and nobody sells hay for love 😂"
+   },
+   {
+    "id": "1128-tulparcoin-18",
+    "u": "Rinat_TLS",
+    "at": "2026-11-28T10:30",
+    "t": "Lower Naryn registered 71 new firms in nine months, 31 in Bazar-Korgon. Someone there must be selling chairs 😄"
+   },
+   {
+    "id": "1128-tulparcoin-19",
+    "u": "Timur_Talas",
+    "at": "2026-11-28T10:34",
+    "t": "Ask the chairs what they think of Tulpar Pay, I bet they want TLPR too"
+   },
+   {
+    "id": "1128-tulparcoin-20",
+    "u": "Aizada E.",
+    "at": "2026-11-28T11:00",
+    "t": "Thursday English is on. Bring one word for 'frost' and one for 'queue' 🙏"
+   },
+   {
+    "id": "1128-tulparcoin-21",
+    "u": "Gulmira apa",
+    "at": "2026-11-28T11:10",
+    "t": "Queue is 'ocheret'. Frost is 'aiaz'. I learned them at the bazar, not in school 😄"
+   },
+   {
+    "id": "1128-tulparcoin-22",
+    "u": "Elvira_K",
+    "at": "2026-11-28T12:30",
+    "t": "Lunch time. Plov for two 28 each, I refuse to pay for a third 😤"
+   },
+   {
+    "id": "1128-tulparcoin-23",
+    "u": "nurzhan_neft",
+    "at": "2026-11-28T12:40",
+    "t": "Off shift in an hour. Coin 3.4c offshore at noon? Someone tell me it's over the bottom before I sleep"
+   },
+   {
+    "id": "1128-tulparcoin-24",
+    "u": "Ulan_delivery",
+    "at": "2026-11-28T13:05",
+    "t": "Noon board says 3.49c, +5.3%. I've been awake since 6 and I'm still holding 100 🤷"
+   },
+   {
+    "id": "1128-tulparcoin-25",
+    "u": "Aizada E.",
+    "at": "2026-11-28T13:10",
+    "t": "Holding is a feeling, not a plan. Also not financial advice, as always 😄"
+   },
+   {
+    "id": "1128-tulparcoin-26",
+    "u": "Gulmira apa",
+    "at": "2026-11-28T14:30",
+    "t": "Walnuts at Toktogul still 22. Ask me again next week, I am not a bazar report"
+   },
+   {
+    "id": "1128-tulparcoin-27",
+    "u": "Timur_Talas",
+    "at": "2026-11-28T16:00",
+    "t": "Teller shift done. Talasbank counter had a man ask whether TLPR can be deposited. Told him to ask the Bank of Irad, I only count real som 😂"
+   },
+   {
+    "id": "1128-tulparcoin-28",
+    "u": "ChuValleyFarmer",
+    "at": "2026-11-28T17:10",
+    "t": "Toktogul reservoir 80.3% full, drawing down. Water is going out to the power exports on schedule. The lake is quieter than this chat"
+   },
+   {
+    "id": "1128-tulparcoin-29",
+    "u": "Rinat_TLS",
+    "at": "2026-11-28T17:14",
+    "t": "Lower water, higher talk, Toktosun said that yesterday. Keep the quotes coming 😄"
+   },
+   {
+    "id": "1128-tulparcoin-30",
+    "u": "Elvira_K",
+    "at": "2026-11-28T18:30",
+    "t": "Tündük tonight or Thursday? I thought Thursday. Someone check the calendar pls"
+   },
+   {
+    "id": "1128-tulparcoin-31",
+    "u": "Aizada E.",
+    "at": "2026-11-28T18:33",
+    "t": "Thursday, Elvira. Tonight is just a Saturday with tea. Come if you want 🍵"
+   },
+   {
+    "id": "1128-tulparcoin-32",
+    "u": "nurzhan_neft",
+    "at": "2026-11-28T19:10",
+    "t": "Home. Nurzhan air 212 now, the flat has a clean corner by the stove. The cat says that's enough ❤️"
+   },
+   {
+    "id": "1128-tulparcoin-33",
+    "u": "Gulmira apa",
+    "at": "2026-11-28T20:05",
+    "t": "Samovar is on. Who is coming for the last cup? Biscuits are from the canteen, I took three"
+   },
+   {
+    "id": "1128-tulparcoin-34",
+    "u": "Timur_Talas",
+    "at": "2026-11-28T20:10",
+    "t": "Coming apa. Tulpar still second, one point off, and the biscuits are the only real currency tonight 😂"
+   },
+   {
+    "id": "1128-tulparcoin-35",
+    "u": "Elvira_K",
+    "at": "2026-11-28T22:20",
+    "t": "Coin at 3.5c at ten. Still holding my small share. Jakshı tünö all 🌙"
    }
   ],
   "chaikhana": [
-   {
-    "id": "1125-chaikhana-0",
-    "u": "Gulmira apa",
-    "at": "2026-11-25T07:10",
-    "t": "Kayırluu tañ! Oatmeal on the stove, come and get it before it sticks"
-   },
-   {
-    "id": "1125-chaikhana-1",
-    "u": "Begaiym R.",
-    "at": "2026-11-25T07:14",
-    "t": "Gulmira apa I'm already at the booth, the changers opened at 8 and I'm frozen 🥶"
-   },
-   {
-    "id": "1125-chaikhana-2",
-    "u": "Gulmira apa",
-    "at": "2026-11-25T07:16",
-    "t": "Then take the bread with you, the nan from the corner is still warm"
-   },
-   {
-    "id": "1125-chaikhana-3",
-    "u": "Svetlana N.",
-    "at": "2026-11-25T07:31",
-    "s": "chai"
-   },
-   {
-    "id": "1125-chaikhana-4",
-    "u": "Marat 🐎",
-    "at": "2026-11-25T07:34",
-    "t": "Fog at Talas airport again, my cousin's flight is held. Check the board before you go anywhere"
-   },
-   {
-    "id": "1125-chaikhana-5",
-    "u": "Rustam A.",
-    "at": "2026-11-25T07:36",
-    "t": "Fog in Talas and I'm walking to the counter in it. Good morning anyway ☕"
-   },
-   {
-    "id": "1125-chaikhana-6",
-    "u": "Gulzada_M",
-    "at": "2026-11-25T07:40",
-    "t": "Talas fog, high 5 today, low minus 5 last night. Kids in three layers, my youngest in a hat 😂"
-   },
-   {
-    "id": "1125-chaikhana-7",
-    "u": "Aidana 🏇",
-    "at": "2026-11-25T07:43",
-    "t": "Nurzhan is mainly clear and 8 degrees. Wrong city for a fog, Gulzada 😄"
-   },
-   {
-    "id": "1125-chaikhana-8",
-    "u": "Svetlana N.",
-    "at": "2026-11-25T07:45",
-    "t": "Ой, в Нуржане 161 по воздуху, дети в садик в масках. Не нравится мне это"
-   },
-   {
-    "id": "1125-chaikhana-9",
-    "u": "Aizada E.",
-    "at": "2026-11-25T07:47",
-    "t": "Air in Nurzhan 162 and Talas 164, both unhealthy. Masks on the walk, please. Aidana, is it true the Tündük café has purifiers?"
-   },
-   {
-    "id": "1125-chaikhana-10",
-    "u": "Aidana 🏇",
-    "at": "2026-11-25T07:52",
-    "t": "Only one, Aizada, and the horses don't get a mask 😂"
-   },
-   {
-    "id": "1125-chaikhana-11",
-    "u": "Marat 🐎",
-    "at": "2026-11-25T08:20",
-    "t": "Changers in Bazar-i Kalan this morning: dollar 11.50 buy, 11.95 sell. Begaiym, is that right?"
-   },
-   {
-    "id": "1125-chaikhana-12",
-    "u": "Begaiym R.",
-    "at": "2026-11-25T08:24",
-    "t": "Yes, and the euro 12.45 / 13.05. Nobody buys dollars before lunch, they just stand and look 😩"
-   },
-   {
-    "id": "1125-chaikhana-13",
-    "u": "Marat 🐎",
-    "at": "2026-11-25T08:26",
-    "t": "My cousin in Kazakhstan asked me for the rate. I said ask the booth, the booth is never wrong 😂"
-   },
-   {
-    "id": "1125-chaikhana-14",
-    "u": "Gulmira apa",
-    "at": "2026-11-25T08:31",
-    "t": "Sell the apples before the cold gets into the stores. Apples in Chu 3.45 a kilo at the bazar now, I bought ten"
-   },
-   {
-    "id": "1125-chaikhana-15",
-    "u": "Gulzada_M",
-    "at": "2026-11-25T08:35",
-    "t": "Gulmira apa, what are you going to do with ten kilos? Pies for the whole street?"
-   },
-   {
-    "id": "1125-chaikhana-16",
-    "u": "Gulmira apa",
-    "at": "2026-11-25T08:36",
-    "t": "Pies, compote, and the rest I give to Aidana's horses"
-   },
-   {
-    "id": "1125-chaikhana-17",
-    "u": "Aidana 🏇",
-    "at": "2026-11-25T08:38",
-    "t": "The horses say thank you 🏇🍎 Please don't give them the green ones"
-   },
-   {
-    "id": "1125-chaikhana-18",
-    "u": "Rustam A.",
-    "at": "2026-11-25T09:05",
-    "t": "Anyone else read the Talas Herald this morning? Grain harvest closed at 486,300 tonnes. So why is diesel still short?"
-   },
-   {
-    "id": "1125-chaikhana-19",
-    "u": "Svetlana N.",
-    "at": "2026-11-25T09:09",
-    "t": "Потому что склады полные, а солярки нет. Зерно есть, а машины стоят 🙄"
-   },
-   {
-    "id": "1125-chaikhana-20",
-    "u": "Marat 🐎",
-    "at": "2026-11-25T09:11",
-    "t": "Diesel in the Chatkal villages is 8.55 to 9.75 a litre, my customers are crying. Tyres don't cost less"
-   },
-   {
-    "id": "1125-chaikhana-21",
-    "u": "Begaiym R.",
-    "at": "2026-11-25T09:14",
-    "t": "Marat, stop selling me tyres, I walk to work 😂"
-   },
-   {
-    "id": "1125-chaikhana-22",
-    "u": "Gulzada_M",
-    "at": "2026-11-25T09:20",
-    "s": "kosh"
-   },
-   {
-    "id": "1125-chaikhana-23",
-    "u": "Gulmira apa",
-    "at": "2026-11-25T12:05",
-    "t": "Lunch is plov from the pot, Gulzada's recipe, I did it my way with short-grain rice. Come, it's still hot"
-   },
-   {
-    "id": "1125-chaikhana-24",
-    "u": "Rustam A.",
-    "at": "2026-11-25T12:08",
-    "t": "Gulmira apa, I'm in Talas with a broken Samsung on the counter 😭 Save me a plate"
-   },
-   {
-    "id": "1125-chaikhana-25",
-    "u": "Gulmira apa",
-    "at": "2026-11-25T12:10",
-    "t": "A plate is 28 som at the bazar, I will not sell you mine, come and eat"
-   },
-   {
-    "id": "1125-chaikhana-26",
-    "u": "Gulzada_M",
-    "at": "2026-11-25T12:14",
-    "t": "Did you toast the rice in the zirvak first, Gulmira apa? Or are you cheating again"
-   },
-   {
-    "id": "1125-chaikhana-27",
-    "u": "Gulmira apa",
-    "at": "2026-11-25T12:16",
-    "t": "Of course I toasted it. The old Chu way, don't teach me"
-   },
-   {
-    "id": "1125-chaikhana-28",
-    "u": "Aizada E.",
-    "at": "2026-11-25T12:40",
-    "t": "Thursday exchange at Tündük, 18:30. Bring one Iradi word and one English word, I'll bring the tea 🍵"
-   },
-   {
-    "id": "1125-chaikhana-29",
-    "u": "Rustam A.",
-    "at": "2026-11-25T12:44",
-    "t": "My word: tyiyn. Aizada, what is tyiyn in English? Don't say penny"
-   },
-   {
-    "id": "1125-chaikhana-30",
-    "u": "Aizada E.",
-    "at": "2026-11-25T12:46",
-    "t": "Ha, I was going to say penny. Let's say small change, it's close enough 😂"
-   },
-   {
-    "id": "1125-chaikhana-31",
-    "u": "Svetlana N.",
-    "at": "2026-11-25T13:30",
-    "t": "Сегодня в аптеке очередь за витаминами. Все кашляют, у меня в смене 40 человек за день"
-   },
-   {
-    "id": "1125-chaikhana-32",
-    "u": "Aidana 🏇",
-    "at": "2026-11-25T13:33",
-    "t": "Mom says the same, everyone in the Iradi family has a cough. Drink the honey tea, Svetlana"
-   },
-   {
-    "id": "1125-chaikhana-33",
-    "u": "Marat 🐎",
-    "at": "2026-11-25T14:20",
-    "t": "Petrol AI-92 is 5.40 and AI-95 is 5.85 at my station. Still no change at the pump, the tax news says 9% more"
-   },
-   {
-    "id": "1125-chaikhana-34",
-    "u": "Begaiym R.",
-    "at": "2026-11-25T14:24",
-    "t": "Marat, the tax is on the year, the pump is the pump. Don't start a fight in the chat"
-   },
-   {
-    "id": "1125-chaikhana-35",
-    "u": "Marat 🐎",
-    "at": "2026-11-25T14:27",
-    "t": "No fight. I'm happy the pump is the same. A man can be happy 🙂"
-   },
-   {
-    "id": "1125-chaikhana-36",
-    "u": "Gulzada_M",
-    "at": "2026-11-25T15:40",
-    "t": "Roads record 2022-26: 340 km paved, 38 snowploughs. Good, but my street still has the hole by the school"
-   },
-   {
-    "id": "1125-chaikhana-37",
-    "u": "Aidana 🏇",
-    "at": "2026-11-25T15:44",
-    "t": "The hole by the school has been there since I was in school 😂"
-   },
-   {
-    "id": "1125-chaikhana-38",
-    "u": "Gulmira apa",
-    "at": "2026-11-25T15:46",
-    "t": "It was there when I cooked at the school canteen, 1990. Nobody fixes the hole"
-   },
-   {
-    "id": "1125-chaikhana-39",
-    "u": "Begaiym R.",
-    "at": "2026-11-25T16:30",
-    "t": "Lucky I'm in the booth, it is -1 at the bus stop and the bus is late again 🥶"
-   },
-   {
-    "id": "1125-chaikhana-40",
-    "u": "Rustam A.",
-    "at": "2026-11-25T16:33",
-    "t": "Talas bus is 32 to Nurzhan, marshrutka 38. I take the marshrutka, it's warm and it does not wait"
-   },
-   {
-    "id": "1125-chaikhana-41",
-    "u": "Gulzada_M",
-    "at": "2026-11-25T16:35",
-    "t": "Marshrutka to Kyzyl-Adyr is 30 and the driver sings the whole way, it's better than the radio 😂"
-   },
-   {
-    "id": "1125-chaikhana-42",
-    "u": "Aidana 🏇",
-    "at": "2026-11-25T17:10",
-    "t": "Wedding on Sunday at Shamaldy-Say, the kyz kuu is mine again. Pray for my horse, the snow is heavy there"
-   },
-   {
-    "id": "1125-chaikhana-43",
-    "u": "Marat 🐎",
-    "at": "2026-11-25T17:12",
-    "t": "Your horse is not the problem. You are the problem 😄"
-   },
-   {
-    "id": "1125-chaikhana-44",
-    "u": "Aidana 🏇",
-    "at": "2026-11-25T17:14",
-    "t": "Rude, Marat. I'll send you the video of me winning 🏇"
-   },
-   {
-    "id": "1125-chaikhana-45",
-    "u": "Svetlana N.",
-    "at": "2026-11-25T17:40",
-    "t": "Ребята, а кто пойдёт на игру в субботу? Нуржан - Темиржолчу, нет, я путаю"
-   },
-   {
-    "id": "1125-chaikhana-46",
-    "u": "Marat 🐎",
-    "at": "2026-11-25T17:44",
-    "t": "Svetlana, the Irad League is over, Neftchi are champions. Next game is the Irad Cup final if you mean that, 7 Nov is done"
-   },
-   {
-    "id": "1125-chaikhana-47",
-    "u": "Svetlana N.",
-    "at": "2026-11-25T17:46",
-    "t": "Ой, да, я помню. Просто скучаю по футболу 😅"
-   },
-   {
-    "id": "1125-chaikhana-48",
-    "u": "Gulmira apa",
-    "at": "2026-11-25T18:30",
-    "t": "Kara-Buura has no football until next season. I still eat the pies I baked for the match, mine are sad now 😂"
-   },
-   {
-    "id": "1125-chaikhana-49",
-    "u": "Aizada E.",
-    "at": "2026-11-25T18:55",
-    "t": "Ulak in the Highland Conference: Boztorgoy play Moiynkum on Saturday 13:00 at the winter grounds. Who's going?"
-   },
-   {
-    "id": "1125-chaikhana-50",
-    "u": "Marat 🐎",
-    "at": "2026-11-25T18:58",
-    "t": "The Highland ulak is a beautiful thing when it's not raining. Boztorgoy 30 points, they will win"
-   },
-   {
-    "id": "1125-chaikhana-51",
-    "u": "Begaiym R.",
-    "at": "2026-11-25T19:02",
-    "t": "Boztorgoy are top, but Tanıp won 22 points and they are not going to sleep 😂"
-   },
-   {
-    "id": "1125-chaikhana-52",
-    "u": "Gulzada_M",
-    "at": "2026-11-25T19:10",
-    "t": "Kids asleep at 19:00 today, a miracle 🙏 Who's watching the Saturday series on IradOne?"
-   },
-   {
-    "id": "1125-chaikhana-53",
-    "u": "Svetlana N.",
-    "at": "2026-11-25T19:14",
-    "t": "Я смотрю! Но мне кажется, врачи опять говорят неправильно"
-   },
-   {
-    "id": "1125-chaikhana-54",
-    "u": "Aidana 🏇",
-    "at": "2026-11-25T19:16",
-    "t": "Mom says the same. Gulzada, the Nurzhan accent is still fake"
-   },
-   {
-    "id": "1125-chaikhana-55",
-    "u": "Gulzada_M",
-    "at": "2026-11-25T19:20",
-    "t": "Aidana, you are going to get me banned from my own sofa 😂"
-   },
-   {
-    "id": "1125-chaikhana-56",
-    "u": "Rustam A.",
-    "at": "2026-11-25T19:45",
-    "t": "Who wants a good Jasil recipe update? I found my mother's, she used tarragon and a little mint, like Svetlana said"
-   },
-   {
-    "id": "1125-chaikhana-57",
-    "u": "Svetlana N.",
-    "at": "2026-11-25T19:47",
-    "t": "Вот видишь, Рустам! Тархун и мята 🌿"
-   },
-   {
-    "id": "1125-chaikhana-58",
-    "u": "Begaiym R.",
-    "at": "2026-11-25T19:50",
-    "t": "Rustam, make the Jasil for the booth, I'll pay you in tyiyn 😂"
-   },
-   {
-    "id": "1125-chaikhana-59",
-    "u": "Marat 🐎",
-    "at": "2026-11-25T20:05",
-    "t": "Toktogul reservoir is 81% full and going down. Hydro is fine this winter, my father says the water is not a problem"
-   },
-   {
-    "id": "1125-chaikhana-60",
-    "u": "Aidana 🏇",
-    "at": "2026-11-25T20:07",
-    "t": "Your father again 😂"
-   },
-   {
-    "id": "1125-chaikhana-61",
-    "u": "Gulmira apa",
-    "at": "2026-11-25T20:10",
-    "t": "Tea at seven, ulak at nineteen, bed at eleven. Who is still up?"
-   },
-   {
-    "id": "1125-chaikhana-62",
-    "u": "Rustam A.",
-    "at": "2026-11-25T20:12",
-    "t": "Still in Talas, phone repair until 9 and then the bench"
-   },
-   {
-    "id": "1125-chaikhana-63",
-    "u": "Begaiym R.",
-    "at": "2026-11-25T20:14",
-    "t": "The heating in the booth is on, but the door is open all day, I'm freezing 😩"
-   },
-   {
-    "id": "1125-chaikhana-64",
-    "u": "Aizada E.",
-    "at": "2026-11-25T20:20",
-    "t": "Jakshı kech! Tomorrow's English lesson is about weddings, bring your best toi words"
-   },
-   {
-    "id": "1125-chaikhana-65",
-    "u": "Gulmira apa",
-    "at": "2026-11-25T20:25",
-    "t": "Toi words? I know a few, my husband was the best toastmaster in Chu 😂"
-   },
-   {
-    "id": "1125-chaikhana-66",
-    "u": "Aidana 🏇",
-    "at": "2026-11-25T20:28",
-    "t": "Gulmira apa, the toastmaster stories again 🙈"
-   },
-   {
-    "id": "1125-chaikhana-67",
-    "u": "Svetlana N.",
-    "at": "2026-11-25T20:40",
-    "s": "haha"
-   },
-   {
-    "id": "1125-chaikhana-68",
-    "u": "Marat 🐎",
-    "at": "2026-11-25T21:05",
-    "t": "Ask the Talas airport board, flights are back from 10:30 this morning. Nobody will tell you this at the counter 😂"
-   },
-   {
-    "id": "1125-chaikhana-69",
-    "u": "Rustam A.",
-    "at": "2026-11-25T21:08",
-    "t": "Ulak on Saturday, Akjele v Karakoyun at Upper Besh-Tash 14:00. I'll be on the bench with a flask"
-   },
-   {
-    "id": "1125-chaikhana-70",
-    "u": "Begaiym R.",
-    "at": "2026-11-25T21:10",
-    "t": "Rustam, bring the flask for me too 😂"
-   },
-   {
-    "id": "1125-chaikhana-71",
-    "u": "Gulzada_M",
-    "at": "2026-11-25T21:30",
-    "t": "Last one: the Talas Herald says Family-violence reports up 17% to 2,940 this year. Police say more people call now, that is a good thing. Be kind to your neighbours 💛"
-   },
-   {
-    "id": "1125-chaikhana-72",
-    "u": "Svetlana N.",
-    "at": "2026-11-25T21:34",
-    "t": "Правильно, если люди звонят, значит знают куда. Надо, чтобы все знали про этот телефон"
-   },
-   {
-    "id": "1125-chaikhana-73",
-    "u": "Aizada E.",
-    "at": "2026-11-25T21:36",
-    "t": "Agreed. Gulzada, thanks for sharing that. Good night, everyone 🌙"
-   },
-   {
-    "id": "1125-chaikhana-74",
-    "u": "Gulmira apa",
-    "at": "2026-11-25T22:10",
-    "t": "Bread with walnuts tomorrow. Walnuts at Toktogul bazar are 22 a kilo, Marat, don't forget the bag"
-   },
-   {
-    "id": "1125-chaikhana-75",
-    "u": "Marat 🐎",
-    "at": "2026-11-25T22:12",
-    "t": "Bag is in the car. Going to bed 🥜🌙"
-   },
-   {
-    "id": "1125-chaikhana-76",
-    "u": "Svetlana N.",
-    "at": "2026-11-25T22:30",
-    "t": "Спокойной ночи всем 🌙 Завтра аптека с утра"
-   },
-   {
-    "id": "1125-chaikhana-77",
-    "u": "Aizada E.",
-    "at": "2026-11-25T22:33",
-    "t": "Jakshı tünö ☕🌙"
-   },
-   {
-    "id": "1125-chaikhana-78",
-    "u": "Begaiym R.",
-    "at": "2026-11-25T22:50",
-    "t": "Jakshı tünö, booth at 9, the changers can wait 😴"
-   },
-   {
-    "id": "1125-chaikhana-79",
-    "u": "Gulmira apa",
-    "at": "2026-11-25T23:02",
-    "t": "Bed at eleven. Aidana, go to sleep 😂"
-   },
-   {
-    "id": "1125-chaikhana-80",
-    "u": "Aidana 🏇",
-    "at": "2026-11-25T23:04",
-    "t": "Going baike 🌙"
-   },
-   {
-    "id": "1125-chaikhana-81",
-    "u": "Rustam A.",
-    "at": "2026-11-25T23:30",
-    "t": "Night everyone. Tomorrow the phone shop opens at 8, I'll be the first to be sleepy 😴"
-   },
    {
     "id": "1126-chaikhana-0",
     "u": "Gulmira apa",
@@ -9334,6 +8386,468 @@
     "u": "Marat 🐎",
     "at": "2026-11-27T23:05",
     "t": "Jakshı tünö ☕🌙"
+   },
+   {
+    "id": "1128-chaikhana-0",
+    "u": "Begaiym R.",
+    "at": "2026-11-28T00:40",
+    "s": "bilbeim"
+   },
+   {
+    "id": "1128-chaikhana-1",
+    "u": "Gulmira apa",
+    "at": "2026-11-28T07:10",
+    "t": "Kayırlı tañ! Snow on the bazar roofs in Talas this morning. Nobody tell my knees"
+   },
+   {
+    "id": "1128-chaikhana-2",
+    "u": "Marat 🐎",
+    "at": "2026-11-28T07:14",
+    "t": "Kayırlı tañ. Tyre shop opens at 8, anyone needing winter tyres before the Ala-Bel chains rule, come today"
+   },
+   {
+    "id": "1128-chaikhana-3",
+    "u": "Svetlana N.",
+    "at": "2026-11-28T07:16",
+    "t": "Утро морозное, в Талас -9 обещают ночью. Варежки достала"
+   },
+   {
+    "id": "1128-chaikhana-4",
+    "u": "Gulzada_M",
+    "at": "2026-11-28T07:20",
+    "t": "Kids want snow angels before school. I want my bed back 😂"
+   },
+   {
+    "id": "1128-chaikhana-5",
+    "u": "Aidana 🏇",
+    "at": "2026-11-28T07:25",
+    "t": "Marat, the horses in winter coats, I saw them at the stables. Looking like bears baike 🐻"
+   },
+   {
+    "id": "1128-chaikhana-6",
+    "u": "Begaiym R.",
+    "at": "2026-11-28T07:31",
+    "t": "Bazar changers open already. Dollar 11.45 buy 12.00 sell, I'm not even awake and I'm doing sums 😩"
+   },
+   {
+    "id": "1128-chaikhana-7",
+    "u": "Rustam A.",
+    "at": "2026-11-28T07:33",
+    "t": "Anyone who knows the Talas phone counter at the bazar, is the 12:00 sell rate real or is it always rounded up"
+   },
+   {
+    "id": "1128-chaikhana-8",
+    "u": "Begaiym R.",
+    "at": "2026-11-28T07:35",
+    "t": "Rustam, we round in your favour, always. Like the nan at Iyık Janyl 😂"
+   },
+   {
+    "id": "1128-chaikhana-9",
+    "u": "Aizada E.",
+    "at": "2026-11-28T07:40",
+    "s": "chai"
+   },
+   {
+    "id": "1128-chaikhana-10",
+    "u": "Svetlana N.",
+    "at": "2026-11-28T07:42",
+    "t": "В Нуржане опять туман, смог такой что соседний дом не видно. Дети в садике в масках"
+   },
+   {
+    "id": "1128-chaikhana-11",
+    "u": "Gulzada_M",
+    "at": "2026-11-28T07:45",
+    "t": "Svetlana, our kids' school has air purifier sticks now. Nurzhan AQI 271 this morning, very unhealthy 😷"
+   },
+   {
+    "id": "1128-chaikhana-12",
+    "u": "Gulmira apa",
+    "at": "2026-11-28T07:47",
+    "t": "In my day we had only coal smoke and a cold window. Now they have numbers for everything"
+   },
+   {
+    "id": "1128-chaikhana-13",
+    "u": "Svetlana N.",
+    "at": "2026-11-28T07:50",
+    "t": "Гулмира апа, зато теперь знаем. Закрывайте форточки, пожалуйста"
+   },
+   {
+    "id": "1128-chaikhana-14",
+    "u": "Bakyt_KB",
+    "at": "2026-11-28T08:05",
+    "t": "Kara-Buura -4 again, bucket froze solid. Who is coming to the Sunday football? Kara-Buura plays the Irad League on Sunday, no not today"
+   },
+   {
+    "id": "1128-chaikhana-15",
+    "u": "Marat 🐎",
+    "at": "2026-11-28T08:08",
+    "t": "Bakyt, Kara-Buura lost 2-0 to Attelkom in round 27, you know that. League is done, nobody plays a round today"
+   },
+   {
+    "id": "1128-chaikhana-16",
+    "u": "Bakyt_KB",
+    "at": "2026-11-28T08:10",
+    "t": "Right, season finished. Still, the bucket is frozen 😂"
+   },
+   {
+    "id": "1128-chaikhana-17",
+    "u": "Aidana 🏇",
+    "at": "2026-11-28T08:30",
+    "t": "Toi tonight in Talas? No wait, Saturday toi, I have my kyz kuu practice at 11 at the stables"
+   },
+   {
+    "id": "1128-chaikhana-18",
+    "u": "Marat 🐎",
+    "at": "2026-11-28T08:33",
+    "t": "Be careful on the frozen ground, Aidana. Bring the good saddle"
+   },
+   {
+    "id": "1128-chaikhana-19",
+    "u": "Aidana 🏇",
+    "at": "2026-11-28T08:36",
+    "t": "Always 😄 My grandpa says the horse knows the bride before I do"
+   },
+   {
+    "id": "1128-chaikhana-20",
+    "u": "Gulmira apa",
+    "at": "2026-11-28T09:10",
+    "t": "Walnuts from Toktogul bazar at 22 som a kilo, Begaiym, you buy for the exchange staff? Cheaper than the Talas shop by far"
+   },
+   {
+    "id": "1128-chaikhana-21",
+    "u": "Begaiym R.",
+    "at": "2026-11-28T09:14",
+    "t": "Gulmira apa, 22 is a good price. Bring me two kilo, I'll pay you in dollars 😂 no, som"
+   },
+   {
+    "id": "1128-chaikhana-22",
+    "u": "Svetlana N.",
+    "at": "2026-11-28T09:18",
+    "t": "Ореховое масло с Токтогула хорошее, но в аптеке нас спрашивают про кашель всю зиму"
+   },
+   {
+    "id": "1128-chaikhana-23",
+    "u": "Rustam A.",
+    "at": "2026-11-28T09:25",
+    "t": "Anyone want a phone screen fixed before the cold kills the battery? Counter open till 3 today"
+   },
+   {
+    "id": "1128-chaikhana-24",
+    "u": "Gulzada_M",
+    "at": "2026-11-28T09:27",
+    "t": "Rustam, my kids dropped their tablet in the snow. It's dead. Miracle worker please 😭"
+   },
+   {
+    "id": "1128-chaikhana-25",
+    "u": "Rustam A.",
+    "at": "2026-11-28T09:30",
+    "t": "Bring it in, I'll look. Not promising anything 😅"
+   },
+   {
+    "id": "1128-chaikhana-26",
+    "u": "Begaiym R.",
+    "at": "2026-11-28T09:45",
+    "t": "Toktogul reservoir 80.3% full and still going down, -53 million m³ in a day. Water is leaving fast this winter"
+   },
+   {
+    "id": "1128-chaikhana-27",
+    "u": "Marat 🐎",
+    "at": "2026-11-28T09:48",
+    "t": "My father will ask about that tonight, Begaiym. He checks the water every morning like the news"
+   },
+   {
+    "id": "1128-chaikhana-28",
+    "u": "Aizada E.",
+    "at": "2026-11-28T10:05",
+    "t": "Thursday English at Tündük café is on, 18:30, bring a friend. Last week we did weather words. Today's word: inversion 😄"
+   },
+   {
+    "id": "1128-chaikhana-29",
+    "u": "Svetlana N.",
+    "at": "2026-11-28T10:08",
+    "t": "Инверсия — это когда дым не уходит вверх. Как у нас в Нуржане 😂"
+   },
+   {
+    "id": "1128-chaikhana-30",
+    "u": "Aizada E.",
+    "at": "2026-11-28T10:10",
+    "t": "Perfect, Svetlana, you just taught the class. Temperature inversion, nice and clear"
+   },
+   {
+    "id": "1128-chaikhana-31",
+    "u": "Rustam A.",
+    "at": "2026-11-28T10:40",
+    "t": "Who knows if the Iradiya E190 cover flights are on the winter timetable still? Saw the headline, not sure what it means for Talas"
+   },
+   {
+    "id": "1128-chaikhana-32",
+    "u": "Begaiym R.",
+    "at": "2026-11-28T10:45",
+    "t": "Winter timetable unchanged, the headline says. They added one E190 as cover for two rotations. Nothing for us in the cashier booth 😂"
+   },
+   {
+    "id": "1128-chaikhana-33",
+    "u": "Gulmira apa",
+    "at": "2026-11-28T10:50",
+    "t": "Plane in the winter, I'll stay on the train, thank you. The railway is on its winter timetable and it's warm"
+   },
+   {
+    "id": "1128-chaikhana-34",
+    "u": "Aidana 🏇",
+    "at": "2026-11-28T11:20",
+    "t": "Practice done. Horse slipped on the ice once, I'm fine, the grandmothers were watching 😅"
+   },
+   {
+    "id": "1128-chaikhana-35",
+    "u": "Gulzada_M",
+    "at": "2026-11-28T12:05",
+    "t": "Lunch: leftover plov from Thursday, I cannot wait. Gulmira apa, is it still good after two days?"
+   },
+   {
+    "id": "1128-chaikhana-36",
+    "u": "Gulmira apa",
+    "at": "2026-11-28T12:08",
+    "t": "Plov is better on the second day, like everything good. Cover it and keep it warm"
+   },
+   {
+    "id": "1128-chaikhana-37",
+    "u": "Svetlana N.",
+    "at": "2026-11-28T12:12",
+    "t": "Аптека сегодня работает до 16:00. Если кто-то кашляет, приходите, сделаем чай с малиной"
+   },
+   {
+    "id": "1128-chaikhana-38",
+    "u": "Rustam A.",
+    "at": "2026-11-28T13:02",
+    "t": "Anyone else worried about the Ala-Bel pass? Chains or winter tyres are required now, I'm not driving it without them"
+   },
+   {
+    "id": "1128-chaikhana-39",
+    "u": "Marat 🐎",
+    "at": "2026-11-28T13:05",
+    "t": "Rustam, the tyre shop has chains on the wall. Ask Marat, I'm the one on the Trans-Talas road 😄"
+   },
+   {
+    "id": "1128-chaikhana-40",
+    "u": "Rustam A.",
+    "at": "2026-11-28T13:08",
+    "t": "Ок, Marat, I'll come by Monday"
+   },
+   {
+    "id": "1128-chaikhana-41",
+    "u": "Gulzada_M",
+    "at": "2026-11-28T14:10",
+    "t": "Kids are napping, finally. Any quick winter soup ideas that the kids will eat? No beet please 😂"
+   },
+   {
+    "id": "1128-chaikhana-42",
+    "u": "Gulmira apa",
+    "at": "2026-11-28T14:14",
+    "t": "Shorpo with potatoes, 2.10 som a kilo, and a bit of carrot. Kids don't see the carrot 😂"
+   },
+   {
+    "id": "1128-chaikhana-43",
+    "u": "Aizada E.",
+    "at": "2026-11-28T14:16",
+    "t": "Gulmira apa, teach me the shorpo, I always burn it"
+   },
+   {
+    "id": "1128-chaikhana-44",
+    "u": "Begaiym R.",
+    "at": "2026-11-28T14:30",
+    "t": "Kids and soup, a battle every day. Ours hides the carrot in the bread bin 😂"
+   },
+   {
+    "id": "1128-chaikhana-45",
+    "u": "Svetlana N.",
+    "at": "2026-11-28T15:20",
+    "t": "Кто смотрит сериал на IradOne сегодня? Про врачей в Нуржане. Вчера была та же сцена в больнице, опять фальшивый акцент"
+   },
+   {
+    "id": "1128-chaikhana-46",
+    "u": "Aidana 🏇",
+    "at": "2026-11-28T15:24",
+    "t": "Still mom's favourite, baike. Shows the Nurzhan doctors in white coats and everyone shouting in the corridor 😂"
+   },
+   {
+    "id": "1128-chaikhana-47",
+    "u": "Gulmira apa",
+    "at": "2026-11-28T15:30",
+    "t": "Those doctors shout more than my old kitchen manager ever did 😂"
+   },
+   {
+    "id": "1128-chaikhana-48",
+    "u": "Marat 🐎",
+    "at": "2026-11-28T16:45",
+    "t": "Kara-Buura and Kara-Bulak both in the paper this week, but I say the horses win. Who's at the Hippodrome for the ulak on the 12th?"
+   },
+   {
+    "id": "1128-chaikhana-49",
+    "u": "Aidana 🏇",
+    "at": "2026-11-28T16:48",
+    "t": "Marat, you say the horses win every week. I'll be there. Kara-Bulak is not in the Hippodrome round, baike, ISEZ next Saturday"
+   },
+   {
+    "id": "1128-chaikhana-50",
+    "u": "Gulzada_M",
+    "at": "2026-11-28T17:10",
+    "t": "Kids are up, the snow is on the windows again 😍"
+   },
+   {
+    "id": "1128-chaikhana-51",
+    "u": "Bakyt_KB",
+    "at": "2026-11-28T17:12",
+    "t": "Kara-Buura pass closed for the winter, so I'm home. Just saying the news said it, no one asked"
+   },
+   {
+    "id": "1128-chaikhana-52",
+    "u": "Svetlana N.",
+    "at": "2026-11-28T17:15",
+    "t": "Бакыт, перевал Кара-Буура закрыт на зиму, это правда. Сидите дома"
+   },
+   {
+    "id": "1128-chaikhana-53",
+    "u": "Begaiym R.",
+    "at": "2026-11-28T18:00",
+    "s": "kosh"
+   },
+   {
+    "id": "1128-chaikhana-54",
+    "u": "Rustam A.",
+    "at": "2026-11-28T18:05",
+    "t": "Tonight there's a toi in Nurzhan, Russian pop until 2am then Karakush again? Who's going"
+   },
+   {
+    "id": "1128-chaikhana-55",
+    "u": "Aidana 🏇",
+    "at": "2026-11-28T18:08",
+    "t": "Rustam, you are asking the wrong girl. I'm in Talas, kyz kuu on Saturday at the big toi"
+   },
+   {
+    "id": "1128-chaikhana-56",
+    "u": "Gulzada_M",
+    "at": "2026-11-28T18:10",
+    "t": "Aidana, careful with the big horse. My nephew's story still scares me 😂"
+   },
+   {
+    "id": "1128-chaikhana-57",
+    "u": "Marat 🐎",
+    "at": "2026-11-28T18:20",
+    "t": "Poll for the evening: best winter soup? Gulmira apa is judging"
+   },
+   {
+    "id": "1128-chaikhana-58",
+    "u": "Gulmira apa",
+    "at": "2026-11-28T19:02",
+    "t": "Shorpo wins. Plov is for weddings and Sunday, not for a Saturday in winter 😂"
+   },
+   {
+    "id": "1128-chaikhana-59",
+    "u": "Aizada E.",
+    "at": "2026-11-28T19:04",
+    "t": "Shorpo, but Baike says sorpo is wrong and we argue till morning 😄"
+   },
+   {
+    "id": "1128-chaikhana-60",
+    "u": "Begaiym R.",
+    "at": "2026-11-28T19:30",
+    "t": "Tulparcoin up 5.3% on the day, 3.49 cents. Not legal tender, I know, I'm only mentioning it so Marat can't say he didn't hear 😂"
+   },
+   {
+    "id": "1128-chaikhana-61",
+    "u": "Marat 🐎",
+    "at": "2026-11-28T19:33",
+    "t": "Begaiym, potato farmer is still waiting. The joke ends at 90 tyiyn 😂"
+   },
+   {
+    "id": "1128-chaikhana-62",
+    "u": "Elnur.T",
+    "at": "2026-11-28T19:35",
+    "t": "sent the potato joke to my cousin, he asked if Tulparcoin is in the tyre shop too"
+   },
+   {
+    "id": "1128-chaikhana-63",
+    "u": "Marat 🐎",
+    "at": "2026-11-28T19:38",
+    "t": "Elnur, tell him the tyres are only for real money 😄"
+   },
+   {
+    "id": "1128-chaikhana-64",
+    "u": "Svetlana N.",
+    "at": "2026-11-28T19:50",
+    "t": "Кто завтра ещё в аптеке? Я работаю до 16:00. Потом Аптека Талас откроет после обеда, наверное"
+   },
+   {
+    "id": "1128-chaikhana-65",
+    "u": "Aidana 🏇",
+    "at": "2026-11-28T20:10",
+    "t": "Toi at 21:00 in Talas tomorrow, kyz kuu on the big horse at 19:00. Pray for me 🙏"
+   },
+   {
+    "id": "1128-chaikhana-66",
+    "u": "Gulzada_M",
+    "at": "2026-11-28T20:12",
+    "t": "Praying. Take the grey, he's calmer than you think 😂"
+   },
+   {
+    "id": "1128-chaikhana-67",
+    "u": "Rustam A.",
+    "at": "2026-11-28T20:15",
+    "t": "Flask on Saturday, I'm bringing tea, I mean it. Who else from the group is in Talas tomorrow"
+   },
+   {
+    "id": "1128-chaikhana-68",
+    "u": "Begaiym R.",
+    "at": "2026-11-28T20:18",
+    "t": "Me, I'm at the booth till 19:00 then I'm there 😂"
+   },
+   {
+    "id": "1128-chaikhana-69",
+    "u": "Gulmira apa",
+    "at": "2026-11-28T20:40",
+    "t": "Kids are asleep and my radiators are hot for once. Jakshı keche, everyone"
+   },
+   {
+    "id": "1128-chaikhana-70",
+    "u": "Aizada E.",
+    "at": "2026-11-28T21:05",
+    "s": "jailoo"
+   },
+   {
+    "id": "1128-chaikhana-71",
+    "u": "Svetlana N.",
+    "at": "2026-11-28T21:30",
+    "t": "Ну всё, сериал закончился, фальшивый акцент остался. Спокойной ночи 🌙"
+   },
+   {
+    "id": "1128-chaikhana-72",
+    "u": "Aidana 🏇",
+    "at": "2026-11-28T21:34",
+    "t": "Mom says the ending was bad. Night everyone, I'm eating a whole pancake first 😴"
+   },
+   {
+    "id": "1128-chaikhana-73",
+    "u": "Marat 🐎",
+    "at": "2026-11-28T22:05",
+    "t": "Toktogul water down again tonight, Begaiym. Dad says fine. Jakshı tünö ☕"
+   },
+   {
+    "id": "1128-chaikhana-74",
+    "u": "Begaiym R.",
+    "at": "2026-11-28T22:10",
+    "t": "Night everyone. Snow on the Talas roofs, careful on the stairs 🌙"
+   },
+   {
+    "id": "1128-chaikhana-75",
+    "u": "Gulzada_M",
+    "at": "2026-11-28T22:30",
+    "t": "Night 💛 Kids dreaming of snow angels"
+   },
+   {
+    "id": "1128-chaikhana-76",
+    "u": "Aizada E.",
+    "at": "2026-11-28T23:10",
+    "t": "Jakshı tünö everyone 🌙 Flask on Saturday, bring your own cup 😄"
    }
   ]
  }
